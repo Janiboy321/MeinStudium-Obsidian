@@ -128,3 +128,14 @@ Templates:
 	- "Als [Rolle] ist mein Ziel [Ziel] sodass [Nutzen]"
 - Kurz 
 	- Als [Rolle] ist mein Ziel [Ziel]
+
+Gute User Stories (INVEST):
+- Independent
+	- Eigenständig
+	- keine mitinbegriffenden Abängigkeiten zu einer anderen Story
+- Nagotiable
+	- User Story kann bis zu einem Sprint immer verändert und umgeschrieben werden
+- Valuable
+	- Muss dem Endnutzer einen gewissen Wert bringen
+- Estimable
+	- Es muss möglich sein die größe der S

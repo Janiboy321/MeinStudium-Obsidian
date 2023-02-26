@@ -95,3 +95,22 @@ Manifest für das agile Entwickeln von Software
 4. Auf Veränderungen reagieren indem man einen Plan verfolgt
 	- Möglichst kleine Iterationen
 	- Wichtiger auf Änderungen schnell zu reagieren als einem festen Zeitplan zu folgen
+	- Nur grobe Zeitpläne erstellen
+
+Welche Agile Prozesse gibt es:
+- Extreme Programming
+- SCRUM
+- Agile Unified Process
+- Crystal Feature Driven Development
+- Adaptive Software Development
+- ...
+
+## Extreme Programming
+Kunde:
+- Die Person (oder Gruppe) welche Features definiert und priorisiert
+- Ein Mitglied eines Teams und erreichbar für das Team
+
+User Story:
+- Anforderungen werden in Diskussion mit Kunden identifiziert
+- Kurzer Text mit einer Einschätzung der relativen Schwierigkeit
+- Beschreibung kurz hakl

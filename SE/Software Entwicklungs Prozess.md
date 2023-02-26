@@ -165,4 +165,9 @@ Planung I:
 Initiale Erforschung
 - Entwickler und Kunden identifizieren alle signifikanten User Stories (nicht alle Stories)
 - Entwickler schätzen die Stories relativ zueinander ein, indem sie ihnen Storypoints geben
-- 
+- Die tatsächliche größe der US wird durch die velocity bestimmt (Velocity = Storypoints der vorherigen Iteration)
+	- Initial wird die Velocity einfach durch Erfahrene eingeschätzt
+
+Release Planung
+- Entwickler und Kunden einigen sich auf ein Datum für das erste Release (2-4 Monate)
+- Kunden wählen eine Storie und eine grobe Reihenfolge 

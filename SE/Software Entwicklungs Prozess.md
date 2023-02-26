@@ -82,3 +82,10 @@ Agile Prozessanforderungen:
 - Arbeitsdesignprinzipien welche die Software flexible und wartbar halten
 
 Manifest für das agile Entwickeln von Software
+1. Individuen und  ihre Interaktionen untereinander stehen über dem Prozess und Werkzeugen
+	- Das beste Werkzeug hilft nichts, wenn das Team nicht zusammen arbeitet
+	- Wichtig:
+		- Team startet klein und wächst/schrumpft je nach anforderung durch das Projekt
+		- Regelmäßige refkletion - z.B. regelmäßige Meetings
+		- Nachhaltige Arbeit - Burn Outs durch übermäßige Arbeit vermeiden
+2. Systemstrukturen und Begründungen für das Design müssen 

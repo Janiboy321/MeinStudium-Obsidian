@@ -106,11 +106,11 @@ Welche Agile Prozesse gibt es:
 - ...
 
 ## Extreme Programming
-**Kunde**:
+##### Kunde:
 - Die Person (oder Gruppe) welche Features definiert und priorisiert
 - Ein Mitglied eines Teams und erreichbar für das Team
 
-**User Story**:
+##### User Story**:
 - Anforderungen werden in Diskussion mit Kunden identifiziert
 - Kurzer Text mit einer Einschätzung der relativen Schwierigkeit
 - Beschreibung kurz und präzise halten
@@ -162,12 +162,26 @@ Gute User Stories (INVEST):
 	- Entscheiden Zeiteinschätungen, technische Konsequenzen, Prozess, detaillierten Zeitplan innerhalb einer Iteration/ eines Releases
 
 Planung I:
-Initiale Erforschung
+_Initiale Erforschung_
 - Entwickler und Kunden identifizieren alle signifikanten User Stories (nicht alle Stories)
 - Entwickler schätzen die Stories relativ zueinander ein, indem sie ihnen Storypoints geben
 - Die tatsächliche größe der US wird durch die velocity bestimmt (Velocity = Storypoints der vorherigen Iteration)
 	- Initial wird die Velocity einfach durch Erfahrene eingeschätzt
 
-Release Planung
+_Release Planung_
 - Entwickler und Kunden einigen sich auf ein Datum für das erste Release (2-4 Monate)
 - Kunden wählen eine Storie und eine grobe Reihenfolge 
+- Solange die Velocity präziser wird, kann man den Releaseplan anpassen
+
+Planung II:
+_Iterationsplanung_
+- Kunde wählt Stories für die Iteration n (darf nicht die Velocity der Iteration n-1 überschreiten)
+- Innerhalb einer Iteration ist die Reihenfolge der Stories eine technische Entscheidung
+- Iteration endet an einem festgelegten Tag, auch wenn nicht alle User Stories fertig implementiert wurden
+- Velocity der beendeten Iteration wird berechnet (Summe aller Storypoints der Erfolgreich beendeten Stories)
+- Geplante Velocity für Iteration n + 1 = Gemessene Velocity der Iteration n
+
+_Task Planning:_
+- Stories werden in Aufgaben von 4 bis 16 Stunden Implementierungszeit aufgeteilt
+- Entwickler wählen die Aufgaben frei - auch wenn sie keine Experten sind
+

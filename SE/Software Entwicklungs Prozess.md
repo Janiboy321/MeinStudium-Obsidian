@@ -66,4 +66,19 @@ Kritik:
 Nur verwenden wenn:
 - Produktanforderungen stabil und gut verstanden
 - Kurze und kleine Projekte
-- 
+- Strenge Dokumentation wird benötigt
+
+## Agiles Entwickeln
+Ziel: Software schnell, überschattet von rapide ändernder Anforderungen entwickeln
+
+Schlüsselerkenntniss:
+- Ändernde Anforderungen während der Entwicklung sind Problematisch
+- Trozdem treten häufig Änderungen der Anforderungen auf
+$\Rightarrow$ Entwicklungsdurchläufe klein und schnell halten: "agil"
+
+Agile Prozessanforderungen:
+- Analysierende, Kunden, Entwickler, Tester, usw. arbeiten zusammen als ein Team (Bedeutet, dass alle Mitglieder immer erreichbar sein müssen)
+- Arbeitspraxen, welche eine erforderliche Disziplin und erforderliches Feedback liefern
+- Arbeitsdesignprinzipien welche die Software flexible und wartbar halten
+
+Manifest für das agile Entwickeln von Software

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f1bf76e79451d3",
+        "id": "9989aa91790d7ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac305c530c990ad",
+            "id": "7cee5fbe70cebf50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SE/Software Entwicklungs Prozess.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SE/Software Entwicklungs Prozess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SE/Software Entwicklungs Prozess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SE/Software Entwicklungs Prozess.md"
+              }
             }
           },
           {
@@ -148,6 +156,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33028ce27974d860",
-  "lastOpenFiles": []
+  "active": "7cee5fbe70cebf50",
+  "lastOpenFiles": [
+    "SE/Use Case.md"
+  ]
 }

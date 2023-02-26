@@ -200,5 +200,27 @@ _Task Planning:_
 	- Erschaffe Abstraktionen und nutze Muster um Code redundanz zu Eliminieren
 
 #### Testgetriebene entwicklung:
-- Die Implementierung startet damit, dass Tests geschrieben werden
+- Die Implementierung startet damit, dass Tests geschrieben werden, danach werden erst die eigentlichen Features implementiert
+- Jeder Code wird nur geschrieben um failende Tests zu reparieren
+- Features ohne automatisierte Tests existieren nicht
+- Tests werden geschrieben durch
+	- Entwickler (Unit Tests)
+	- Customer (Funktionale/Akzeptanztests)
+	geschrieben, um vertrauen in die funktionalität des Programmes zu erlangen
+- Tests erlauben einem Programm veränderungen zu aktzeptieren
+- Tests führen oftmals zu einem weniger gekoppelten Code
+
+#### Kontinuierliche Integrierug
+Entwickler commiten ihren Code und integrieren ihre Arbeit mehrmals am Tag
+	- Nach jedem Commit wird das System einmal gebuildet und jeder test wird einmal durchgelaufen
+Anforderungen:
+- Version Controllsystem wird benötigt
+- Automatisches build System
+- Automatische Tests
+
+#### Refactoring
+- Design verbessern ohne das vorhandene verhalten zu verändern
+- Regelmäßig refactorn um Code "verrotten" durch adden von features zu vermeiden
+Jedesmal bevor man ein neues Feature added überlege: Kann ich das existierende Programm verbessern, um das adden des neuen Features einfacher zu machen?
+Falls
 

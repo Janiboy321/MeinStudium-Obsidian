@@ -44,5 +44,26 @@
 Fakten:
 - Das Ergebniss jeder Phase ist eine Menge von erwiesenen Artefakten
 - Die Folgephase beginnt sobald die akutelle Phase vorbei ist (In der Praxis könnte es überlappungen geben)
-- Gibt es Fehler, müssen die vo
+- Gibt es Fehler, müssen die vorherigen Prozessschritte wiederholt werden
+- Reiht sich bei den traditionellen (physischen) Entwicklungsprozessen ein
 
+Kritik:
+- Es ist kein iterariver Prozess, heißt frühes Prototyping ist unmöglich
+- Veränderung von Anforderungen, Designt, etc. schwer
+- Das Testen startet erst in den späteren Phasen
+- Unterschiedliche Phasen werden durch unterschiedliche Teams durchgeführt
+
+#### V-Modell
+![[Bildschirm­foto 2023-02-26 um 15.33.33.png]]
+
+Unterschied zu Wasserfallmodell:
+- Direkt zu Beginn, also nach der Anforderungsanalyse werden Tests entwickelt
+
+Kritik:
+- Kein Iterativer Prozess
+- Veränderung der Anforderungen teuer
+
+Nur verwenden wenn:
+- Produktanforderungen stabil und gut verstanden
+- Kurze und kleine Projekte
+- 

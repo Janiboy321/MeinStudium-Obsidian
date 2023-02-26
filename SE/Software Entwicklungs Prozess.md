@@ -152,4 +152,17 @@ Gute User Stories (INVEST):
 **Kurze Entwicklungszyklen:**
 - Eine _Iteration_ (oder _Sprint_) ist ein fix definierter Zeitraum in welchem eine Menge von Softwarefeatures implementiert wird
 - Nach jeder Iteration muss ein Stück ausführbaren Software existieren, welches getestet werden kann (Dieses Stück muss nicht unbedingt im finalen Produkt eingesetzt werden)
-- Iterationen sind Zeitlich
+- Iterationen sind von begrenzter Zeit, wird ein geplantes Feature nicht fertig gestellt, so wird die Iteration nicht verlängert, sondern die Implementierung des Features in die nächste Iteration gelegt
+
+**"The Planning Game:"**
+- Die Verantwortungen werden zwischen business und entwicklung aufgeteilt
+- Businessmenschen entscheiden wie wichtig ein Feature ist
+	- Entscheiden Scope, Priorität, Release Zusammensetzungen, Release Datum
+- Entwickler entscheiden, wie viel es kosten wird, ein Feature zu implementieren
+	- Entscheiden Zeiteinschätungen, technische Konsequenzen, Prozess, detaillierten Zeitplan innerhalb einer Iteration/ eines Releases
+
+Planung I:
+Initiale Erforschung
+- Entwickler und Kunden identifizieren alle signifikanten User Stories (nicht alle Stories)
+- Entwickler schätzen die Stories relativ zueinander ein, indem sie ihnen Storypoints geben
+- 

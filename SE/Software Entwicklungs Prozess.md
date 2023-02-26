@@ -106,11 +106,11 @@ Welche Agile Prozesse gibt es:
 - ...
 
 ## Extreme Programming
-Kunde:
+**Kunde**:
 - Die Person (oder Gruppe) welche Features definiert und priorisiert
 - Ein Mitglied eines Teams und erreichbar für das Team
 
-User Story:
+**User Story**:
 - Anforderungen werden in Diskussion mit Kunden identifiziert
 - Kurzer Text mit einer Einschätzung der relativen Schwierigkeit
 - Beschreibung kurz und präzise halten
@@ -138,4 +138,18 @@ Gute User Stories (INVEST):
 - Valuable
 	- Muss dem Endnutzer einen gewissen Wert bringen
 - Estimable
-	- Es muss möglich sein die größe der S
+	- Es muss möglich sein die größe der Story zu Schätzen
+- Sized appropriately (Small)
+	- Nicht zu groß, sodass es unmöglich ist mit Gewissheit zu planen / priorisieren
+ - Testable
+	- Nötige Informationen, um das Entwickeln von Tests möglich zu machen, müssen geliefert werden
+
+**Acceptance Test:**
+- Details der User Story werden als eine Form von acceptance tests festgehalten
+- Acceptance Tests werden vor oder während der Implementation einer User Story geschrieben
+- Sobald ein acceptance test bestanden ist, wird er zu Menge der bestandenen acceptance tests hinzugefügt und darf nie wieder failen (Regression verhindern)
+
+**Kurze Entwicklungszyklen:**
+- Eine _Iteration_ (oder _Sprint_) ist ein fix definierter Zeitraum in welchem eine Menge von Softwarefeatures implementiert wird
+- Nach jeder Iteration muss ein Stück ausführbaren Software existieren, welches getestet werden kann (Dieses Stück muss nicht unbedingt im finalen Produkt eingesetzt werden)
+- Iterationen sind Zeitlich

@@ -113,4 +113,18 @@ Kunde:
 User Story:
 - Anforderungen werden in Diskussion mit Kunden identifiziert
 - Kurzer Text mit einer Einschätzung der relativen Schwierigkeit
-- Beschreibung kurz hakl
+- Beschreibung kurz und präzise halten
+- Technische Detaills können sich trozdem noch verändern
+
+Gute User Stories:
+- Die Story muss verständlich für den Kunden sein
+- Jede Story muss dem Kunden einen gewissen Wert bringen
+- Stories müssen so Aufgeteilt sein, dass man pro Iteration mehrere implementieren kann
+- Stories sollten unabhängig sein
+- Jede Story muss Testbar sein
+
+Templates:
+- Lang
+	- "Als [Rolle] ist mein Ziel [Ziel] sodass [Nutzen]"
+- Kurz 
+	- Als [Rolle] ist mein Ziel [Ziel]

@@ -222,5 +222,29 @@ Anforderungen:
 - Design verbessern ohne das vorhandene verhalten zu verändern
 - Regelmäßig refactorn um Code "verrotten" durch adden von features zu vermeiden
 Jedesmal bevor man ein neues Feature added überlege: Kann ich das existierende Programm verbessern, um das adden des neuen Features einfacher zu machen?
-Falls
+Falls ja:
+1. Verändere das Programm dementsprechend
+2. Führe alle Tests aus
+3. Füge das neue Feature hinzu
+
+#### Pair Programming
+Entwicklier gruppieren sich um Code zu Schreiben:
+- Einer Fokusiert sich auf den besten Weg eine Methode / ein Feature zu implementieren
+- Der andere guckt sich an, wie der Code geschrieben wird, aber von einem Strategischen POV
+- Gruppierungen wechseln häufiger um Wissen zu verteilen
+
+Anforderungen:
+- Entwickler müssen auf einem ähnlichen Level sein
+- Man muss den drang zum eigenen Code vermeiden:
+
+#### Kollektive Ownership
+Der Code gehört dem gesammten Team - Jedes Paar hat das recht alle anderen Module anzugucken
+> Jeder übernimmt die verantwortung für das gesammte System, keine einzelne Person wird für Probleme beschuldigt
+
+#### Coding Standards
+- Führe vernünftige Coding Standards ein:
+	- Fördere die kleinst mögliche Menge an Arbeit
+	- achte darauf, keinen Code zu duplizieren
+	- Hebe Kommunikation hervor
+	- Alle standarts werden vom Gesammten Team freiwillig adapted
 

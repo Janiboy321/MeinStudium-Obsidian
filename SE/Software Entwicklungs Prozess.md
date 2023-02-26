@@ -89,4 +89,9 @@ Manifest für das agile Entwickeln von Software
 		- Regelmäßige refkletion - z.B. regelmäßige Meetings
 		- Nachhaltige Arbeit - Burn Outs durch übermäßige Arbeit vermeiden
 2. Systemstrukturen und Begründungen für das Design müssen Dokumentiert werden
-3. Zusammenarbeit der Kunden
+3. Zusammenarbeit mit Auftraggebenden steht über der Vertragsverhandlung
+	- Der Vertrag sollte spezifizieren, wie die Zusammenarbeit zwischen dem Entwicklungsteam und dem Kunden aussehen soll
+	- Ein Vertrag welcher ein fixxes Gehalt zu einem fixxen Datum soezifiziert wird warscheinlich scheitern
+4. Auf Veränderungen reagieren indem man einen Plan verfolgt
+	- Möglichst kleine Iterationen
+	- Wichtiger auf Änderungen schnell zu reagieren als einem festen Zeitplan zu folgen

@@ -88,4 +88,5 @@ Manifest für das agile Entwickeln von Software
 		- Team startet klein und wächst/schrumpft je nach anforderung durch das Projekt
 		- Regelmäßige refkletion - z.B. regelmäßige Meetings
 		- Nachhaltige Arbeit - Burn Outs durch übermäßige Arbeit vermeiden
-2. Systemstrukturen und Begründungen für das Design müssen 
+2. Systemstrukturen und Begründungen für das Design müssen Dokumentiert werden
+3. Zusammenarbeit der Kunden

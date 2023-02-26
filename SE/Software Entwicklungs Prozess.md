@@ -110,7 +110,7 @@ Welche Agile Prozesse gibt es:
 - Die Person (oder Gruppe) welche Features definiert und priorisiert
 - Ein Mitglied eines Teams und erreichbar für das Team
 
-##### User Story**:
+##### User Story:
 - Anforderungen werden in Diskussion mit Kunden identifiziert
 - Kurzer Text mit einer Einschätzung der relativen Schwierigkeit
 - Beschreibung kurz und präzise halten
@@ -144,23 +144,24 @@ Gute User Stories (INVEST):
  - Testable
 	- Nötige Informationen, um das Entwickeln von Tests möglich zu machen, müssen geliefert werden
 
-**Acceptance Test:**
+#### Acceptance Test:
 - Details der User Story werden als eine Form von acceptance tests festgehalten
 - Acceptance Tests werden vor oder während der Implementation einer User Story geschrieben
 - Sobald ein acceptance test bestanden ist, wird er zu Menge der bestandenen acceptance tests hinzugefügt und darf nie wieder failen (Regression verhindern)
 
-**Kurze Entwicklungszyklen:**
+#### Kurze Entwicklungszyklen:
 - Eine _Iteration_ (oder _Sprint_) ist ein fix definierter Zeitraum in welchem eine Menge von Softwarefeatures implementiert wird
 - Nach jeder Iteration muss ein Stück ausführbaren Software existieren, welches getestet werden kann (Dieses Stück muss nicht unbedingt im finalen Produkt eingesetzt werden)
 - Iterationen sind von begrenzter Zeit, wird ein geplantes Feature nicht fertig gestellt, so wird die Iteration nicht verlängert, sondern die Implementierung des Features in die nächste Iteration gelegt
 
-**"The Planning Game:"**
+#### "The Planning Game:"
 - Die Verantwortungen werden zwischen business und entwicklung aufgeteilt
 - Businessmenschen entscheiden wie wichtig ein Feature ist
 	- Entscheiden Scope, Priorität, Release Zusammensetzungen, Release Datum
 - Entwickler entscheiden, wie viel es kosten wird, ein Feature zu implementieren
 	- Entscheiden Zeiteinschätungen, technische Konsequenzen, Prozess, detaillierten Zeitplan innerhalb einer Iteration/ eines Releases
 
+#### Planung:
 Planung I:
 _Initiale Erforschung_
 - Entwickler und Kunden identifizieren alle signifikanten User Stories (nicht alle Stories)
@@ -184,4 +185,20 @@ _Iterationsplanung_
 _Task Planning:_
 - Stories werden in Aufgaben von 4 bis 16 Stunden Implementierungszeit aufgeteilt
 - Entwickler wählen die Aufgaben frei - auch wenn sie keine Experten sind
+
+#### Simplicity
+- Einfaches Design
+	- Mach das Design so einfach und ausdrucksvoll wie möglich
+	- Fokusiere dich auf das aktuelle set der User Stories - kümmere dich nicht um die zukünftigen Stories
+	- Füge eine Infrastruktur zum Beispiel nur hinzu, wenn du sie auch wirklch benötigst
+- Stelle dir das einfachte vor, was funktionieren könnte
+	- Finde die einfachste Designlösung für das aktuelle Set der User Stories
+- "Du wirst es nicht brauchen"
+	- Füge Infrastruktur nur hinzu, wenn es Indizien dafür gibt, dass sie benötigt wird
+- Füge ein Design nur einmal ein
+	- Keine Code duplikationen
+	- Erschaffe Abstraktionen und nutze Muster um Code redundanz zu Eliminieren
+
+#### Testgetriebene entwicklung:
+- Die Implementierung startet damit, dass Tests geschrieben werden
 

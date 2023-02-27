@@ -31,15 +31,15 @@ Testfall 1
 
 Testfall 2
 5 - true
-10 - true
+8 - true
 5 - true
-10 - false
+8 - false
 -> return 0 (Zeile 13)
 
 Testfall 3
 5 - true
-10 - true
+8 - true
 5 - false 
 -> return -1 (Zeile 16)
 
-10 
+10 Wird 

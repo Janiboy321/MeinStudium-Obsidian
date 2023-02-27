@@ -57,7 +57,7 @@
 	1. Neue Zielmethode erstellen
 	2. Extrahierten Code ins Ziel kopieren
 	3. Die Menge der lokalen Variablen erkennen welche im extrahierten Code verwendet werden
-		1. Gehe sicher, dass Variablen, welche nur im extrahierten Kode benutzt werden auch als lokale Variablen deklariert sind
+		1. Gehe sicher, dass Variablen, welche nur im extrahierten Code benutzt werden auch als lokale Variablen deklariert sind
 		2. Wird nur eine einzige Variable modifiziert, sollte man abchecken, ob die Ziel Methode die query sein kann
 		3. Sind es mehr als eine ist die Technik Mothode Extrahieren niht anwendbar
 		4. Undeklarierte Methoden als Parameter übergeben

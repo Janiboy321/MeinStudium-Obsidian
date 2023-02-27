@@ -3,5 +3,6 @@
   "cssTheme": "Everforest",
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Consolas",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 17
 }

@@ -18,3 +18,21 @@
 ### Aufgabe 2
 1. Die Anforderung ist überprüfbar. Man kann sie eindeutig im Code lokalisieren 
 2. Die Anforderung ist nicht überprüfbar, da "wenig" Speicher nicht definiert ist. Wir können sie Überprüfbar machen, wenn wir "wenig" mit zum Beispiel 1GB definieren: "Die Anwendung darf nur 1GB des RAMs benötigen"
+
+### Aufgabe 3
+![[Bildschirm­foto 2023-02-27 um 20.37.05.png]]
+
+### Aufgabe 4
+| Use Case                                 | Beschreibung                          |
+| ---------------------------------------- | ------------------------------------- |
+| Name                                     | Erstelle Frage                        |
+| Kurzbeschreibung des Anwendungsfallziels | Fragesammlung um eine Frage erweitern |
+| Umfang                                   | The Quiz                              |
+| Zielart                                  | User Goal                             |
+| Interessengruppe und Interessen          | Spieledesignerin:                                      |
+| Minimale Garantien                       |                                       |
+| Erfolgsgarantien                         |                                       |
+| Hauptakteur                              |                                       |
+| Vorbedingung                             |                                       |
+| Haupterfolgsszenario                     |                                       |
+| Erweiterung                              |                                       |

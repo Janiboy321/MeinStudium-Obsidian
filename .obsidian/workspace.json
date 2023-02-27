@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -196,15 +197,16 @@
         "y": -155,
         "width": 960,
         "height": 1055,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "8015e5a2ad8eb02c",
   "lastOpenFiles": [
-    "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Use Case.md",
+    "SE/Abgaben/Aufgabensammlung 1.md",
+    "Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Anforderungsanalyse.md",
     "SE/Untitled.md",
     "SE/Abgaben",

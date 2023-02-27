@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9989aa91790d7ac3",
+        "id": "1c1a8446f7f26057",
         "type": "tabs",
         "children": [
-          {
-            "id": "7cee5fbe70cebf50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/Anforderungsanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "8015e5a2ad8eb02c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "503cc0a566cec774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE Prüfung 2020.md",
+                "file": "SE/Abgaben/Abgabe 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SE/Abgaben/Abgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SE/Abgaben/Abgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Anforderungsanalyse.md"
+                "file": "SE/Abgaben/Abgabe 2.md"
               }
             }
           },
@@ -181,13 +156,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "084a16bfa121eebf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a8f0e6034b1609f6",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb9ea4324d0fbd75",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7cee5fbe70cebf50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SE/Use Case.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e8e7589f9fb748f8",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1440,
+        "y": -155,
+        "width": 960,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "8015e5a2ad8eb02c",
   "lastOpenFiles": [
+    "SE/Use Case.md",
     "SE/Abgaben/Abgabe 2.md",
+    "SE/Anforderungsanalyse.md",
     "SE/Untitled.md",
     "SE/Abgaben",
-    "SE/Anforderungsanalyse.md",
-    "SE/Use Case.md",
     "SE Prüfung 2020.md",
     "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",

@@ -23,16 +23,17 @@
 ![[Bildschirm­foto 2023-02-27 um 20.37.05.png]]
 
 ### Aufgabe 4
-| Use Case                                 | Beschreibung                          |
-| ---------------------------------------- | ------------------------------------- |
-| Name                                     | Erstelle Frage                        |
-| Kurzbeschreibung des Anwendungsfallziels | Fragesammlung um eine Frage erweitern |
-| Umfang                                   | The Quiz                              |
-| Zielart                                  | User Goal                             |
-| Interessengruppe und Interessen          | Spieledesignerin:                                      |
-| Minimale Garantien                       |                                       |
-| Erfolgsgarantien                         |                                       |
-| Hauptakteur                              |                                       |
-| Vorbedingung                             |                                       |
-| Haupterfolgsszenario                     |                                       |
-| Erweiterung                              |                                       |
+| Use Case                                 | Beschreibung                                                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Name                                     | Erstelle Frage                                                                                         |
+| Kurzbeschreibung des Anwendungsfallziels | Fragesammlung um eine Frage erweitern                                                                  |
+| Umfang                                   | The Quiz                                                                                               |
+| Zielart                                  | User Goal                                                                                              |
+| Interessengruppe und Interessen          | Spieledesignerin: Will eine Frage erstellen                                                            |
+| Minimale Garantien                       | Frage wird nur hinzugefügt, wenn der Fragetyp ausgewählt wurde und die Werte der Frage festgelegt sind |
+| Erfolgsgarantien                         | Die Frage wird der Fragesammlung hinzugefügt                                                           |
+| Hauptakteur                              | Spieledesignerin                                                                                       |
+| Vorbedingung                             | Die Fragesammlung ist geöffnet                                                                         |
+| Haupterfolgsszenario                     | 1. Spieledesignerin wählt Fragetyp aus                                                                 |
+|                                          | 2.                                                                                                        |
+|                                          |                                                                                                        |

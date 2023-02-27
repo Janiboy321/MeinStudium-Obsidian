@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Design Techniken.md"
+                "file": "SE/Design Patterns.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
+    "SE/Design Techniken.md",
     "SE/Design Prinzipien.md",
     "SE/Verifikation.md",
     "SE/Software Architektur.md",

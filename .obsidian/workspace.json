@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Design Patterns.md",
+                "file": "SE/Software Architektur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Design Patterns.md",
+                "file": "SE/Software Architektur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Design Patterns.md",
+                "file": "SE/Software Architektur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Design Patterns.md"
+                "file": "SE/Software Architektur.md"
               }
             }
           },
@@ -156,13 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "7cee5fbe70cebf50",
   "lastOpenFiles": [
+    "SpP/MPI Testat.md",
+    "SpP/Message-passing mit MPI.md",
+    "SpP/Cuda Testat.md",
+    "SE/Software Entwicklungs Prozess.md",
+    "SE/Verifikation.md",
+    "SE/Design Patterns.md",
     "SE/Design Techniken.md",
     "SE/Design Prinzipien.md",
-    "SE/Verifikation.md",
     "SE/Software Architektur.md",
-    "SE/Software Entwicklungs Prozess.md",
     "SE/Wartung und Evolution.md",
     "Bildschirm­foto 2023-02-26 um 15.33.33.png",
     "SE/Use Case.md"

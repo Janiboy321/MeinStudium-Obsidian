@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Design Prinzipien.md",
+                "file": "SE Prüfung 2020.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Design Prinzipien.md",
+                "file": "SE Prüfung 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Design Prinzipien.md",
+                "file": "SE Prüfung 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Design Prinzipien.md"
+                "file": "SE Prüfung 2020.md"
               }
             }
           },
@@ -170,6 +171,7 @@
   },
   "active": "7cee5fbe70cebf50",
   "lastOpenFiles": [
+    "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",
     "SE/Software Entwicklungs Prozess.md",
     "SE/Software Maintenance & Evolution.md",
@@ -181,7 +183,6 @@
     "SpP/Cuda Testat.md",
     "SE/Verifikation.md",
     "SE/Design Techniken.md",
-    "SE/Design Prinzipien.md",
     "SE/Wartung und Evolution.md",
     "Bildschirm­foto 2023-02-26 um 15.33.33.png",
     "SE/Use Case.md"

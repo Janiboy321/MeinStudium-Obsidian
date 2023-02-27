@@ -18,3 +18,9 @@ RuntimeException
 String
 Long
 java.net.Inet6Address
+
+
+| Nr  | Beschreibung    | Wertebelegung | Erwartetes Ergebnis  |
+| --- | --------------- | ------------- | -------------------- |
+| 4   | Null test       | arr = null    | NullPointerException |
+| 5   | Ungültiger Wert | arr = {"1"}              |                      |

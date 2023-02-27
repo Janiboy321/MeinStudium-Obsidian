@@ -20,7 +20,7 @@ Long
 java.net.Inet6Address
 
 
-| Nr  | Beschreibung    | Wertebelegung | Erwartetes Ergebnis  |
-| --- | --------------- | ------------- | -------------------- |
-| 4   | Null test       | arr = null    | NullPointerException |
-| 5   | Ungültiger Wert | arr = {"1"}              |                      |
+| Nr  | Beschreibung | Wertebelegung       | Erwartetes Ergebnis  |
+| --- | ------------ | ------------------- | -------------------- |
+| 4   | Null test    | arr = null, key = 0 | NullPointerException |
+| 5   |              |                     |                      |

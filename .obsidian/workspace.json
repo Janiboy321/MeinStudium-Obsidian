@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1a8446f7f26057",
+        "id": "25ba3c1b5ecb6ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "8015e5a2ad8eb02c",
+            "id": "97be574f3169aeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -189,6 +188,18 @@
                 }
               },
               {
+                "id": "8015e5a2ad8eb02c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SE/Verifikation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "e8e7589f9fb748f8",
                 "type": "leaf",
                 "state": {
@@ -196,7 +207,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -204,15 +216,18 @@
         "y": -155,
         "width": 960,
         "height": 1055,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "340a84965ce8d39b",
+  "active": "97be574f3169aeef",
   "lastOpenFiles": [
-    "SE/Use Case.md",
+    "SE/Verifikation.md",
+    "SE/Wartung und Evolution.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
+    "SE/Use Case.md",
+    "Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Anforderungsanalyse.md",
     "SE/Untitled.md",
@@ -227,9 +242,7 @@
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
-    "SE/Verifikation.md",
     "SE/Design Techniken.md",
-    "SE/Wartung und Evolution.md",
     "Bildschirm­foto 2023-02-26 um 15.33.33.png"
   ]
 }

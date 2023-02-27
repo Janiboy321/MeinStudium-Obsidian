@@ -45,5 +45,10 @@
 |                                          | 3b1 Das System emöglicht diese nach dem Use Case "Ertstelle Kategorie" hinzuzufügen                    |
 
 ### Aufgabe 5
+![[Bildschirm­foto 2023-02-27 um 21.30.21.png]]
 
-	
+### Aufgabe 6
+- Software inspektionen
+	- Die Software wird von einem Team begutachtet
+	- Dabei wird das Team in verschiedene Rollen aufgeteilt (Authot, Leser, Schreiber, Vorsitzender)
+	- 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8015e5a2ad8eb02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE/Abgaben/Abgabe 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "503cc0a566cec774",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SE/Abgaben/Abgabe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SE/Abgaben/Abgabe 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Anforderungsanalyse.md"
+                "file": "SE/Abgaben/Abgabe 2.md"
               }
             }
           },
@@ -168,10 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cee5fbe70cebf50",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
-    "SE/Use Case.md",
+    "SE/Untitled.md",
+    "SE/Abgaben/Abgabe 2.md",
+    "SE/Abgaben",
     "SE/Anforderungsanalyse.md",
+    "SE/Use Case.md",
     "SE Prüfung 2020.md",
     "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",

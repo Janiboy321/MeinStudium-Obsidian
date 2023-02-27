@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SE/Software Entwicklungs Prozess.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unified",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SE/Software Entwicklungs Prozess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SE/Software Entwicklungs Prozess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Architektur.md"
+                "file": "SE/Software Entwicklungs Prozess.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "7cee5fbe70cebf50",
   "lastOpenFiles": [
+    "SE/Software Architektur.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
@@ -166,7 +168,6 @@
     "SE/Design Patterns.md",
     "SE/Design Techniken.md",
     "SE/Design Prinzipien.md",
-    "SE/Software Architektur.md",
     "SE/Wartung und Evolution.md",
     "Bildschirm­foto 2023-02-26 um 15.33.33.png",
     "SE/Use Case.md"

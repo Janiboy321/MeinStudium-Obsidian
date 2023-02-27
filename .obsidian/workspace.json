@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Use Case.md",
+                "file": "SE/Anforderungsanalyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Use Case.md",
+                "file": "SE/Anforderungsanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Use Case.md",
+                "file": "SE/Anforderungsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Use Case.md"
+                "file": "SE/Anforderungsanalyse.md"
               }
             }
           },
@@ -171,6 +170,7 @@
   },
   "active": "7cee5fbe70cebf50",
   "lastOpenFiles": [
+    "SE/Use Case.md",
     "SE/Anforderungsanalyse.md",
     "SE Prüfung 2020.md",
     "SE/Design Prinzipien.md",
@@ -185,7 +185,6 @@
     "SE/Verifikation.md",
     "SE/Design Techniken.md",
     "SE/Wartung und Evolution.md",
-    "Bildschirm­foto 2023-02-26 um 15.33.33.png",
-    "SE/Use Case.md"
+    "Bildschirm­foto 2023-02-26 um 15.33.33.png"
   ]
 }

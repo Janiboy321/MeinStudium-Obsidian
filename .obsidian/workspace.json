@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Software Architektur.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Software Architektur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Software Architektur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md"
+                "file": "SE/Software Architektur.md"
               }
             }
           },
@@ -159,13 +158,13 @@
   },
   "active": "7cee5fbe70cebf50",
   "lastOpenFiles": [
+    "SE/Design Patterns.md",
+    "SE/Software Entwicklungs Prozess.md",
     "SE/Software Architektur.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
-    "SE/Software Entwicklungs Prozess.md",
     "SE/Verifikation.md",
-    "SE/Design Patterns.md",
     "SE/Design Techniken.md",
     "SE/Design Prinzipien.md",
     "SE/Wartung und Evolution.md",

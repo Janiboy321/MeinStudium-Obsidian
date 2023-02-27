@@ -137,24 +137,31 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "340a84965ce8d39b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "floating": {
@@ -202,7 +209,7 @@
       }
     ]
   },
-  "active": "8015e5a2ad8eb02c",
+  "active": "340a84965ce8d39b",
   "lastOpenFiles": [
     "SE/Use Case.md",
     "SE/Abgaben/Aufgabensammlung 1.md",

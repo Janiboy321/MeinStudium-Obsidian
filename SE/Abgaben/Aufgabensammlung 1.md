@@ -35,5 +35,13 @@
 | Hauptakteur                              | Spieledesignerin                                                                                       |
 | Vorbedingung                             | Die Fragesammlung ist geöffnet                                                                         |
 | Haupterfolgsszenario                     | 1. Spieledesignerin wählt Fragetyp aus                                                                 |
-|                                          | 2.                                                                                                        |
+|                                          | 2. Das System erstellt eine neue Frage und zeigt diese zum bearbeiten an                               |
+|                                          | 3. Spieledesignerin legt die Werte der Frage fest                                                      |
+|                                          | 4. Jetzt kann die Frage in Einzel- bzw. Mehrbenutzerspielen verwendet werden                           |
+| Erweiterung                              | 1a 3a Spieledesignerin bricht das Erstellen der Frage ab                                               |
+|                                          | 1a1 Die Fragesammlung bleibt unverändert und das System zeigt die geöffnete Fragesammlung an           |
+|                                          | 3a1 Die Fragesammlung und die Kategorien bleiben unverändert                                                                                                       |
+|                                          | 3b Kategorie fehlt                                                                                     |
+|                                          | 3b1 Das System emöglicht diese nach dem Use Case "Ertstelle Kategorie" hinzuzufügen                    |
 |                                          |                                                                                                        |
+	

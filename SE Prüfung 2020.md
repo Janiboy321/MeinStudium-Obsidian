@@ -24,3 +24,5 @@ java.net.Inet6Address
 | --- | ------------ | ------------------- | -------------------- |
 | 4   | Null test    | arr = null, key = 0 | NullPointerException |
 | 5   |              |                     |                      |
+
+Testfall 1

@@ -49,6 +49,6 @@
 
 ### Aufgabe 6
 - Software inspektionen
-	- Die Software wird von einem Team begutachtet
-	- Dabei wird das Team in verschiedene Rollen aufgeteilt (Authot, Leser, Schreiber, Vorsitzender)
+	- Sobald ein Code abschnitt fertig ist, wird er in einem Team gereviewt
+	- Das Team ist dabei in klare Aufgabenbereiche aufgeteilt
 	- 

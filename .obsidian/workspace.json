@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 1.md",
+                "file": "SE/Design Prinzipien.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 1.md",
+                "file": "SE/Design Prinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 1.md",
+                "file": "SE/Design Prinzipien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 1.md"
+                "file": "SE/Design Prinzipien.md"
               }
             }
           },
@@ -236,10 +235,12 @@
   },
   "active": "97be574f3169aeef",
   "lastOpenFiles": [
-    "SE/Software Architektur.md",
-    "SE/Abgaben/Aufgabensammlung 1.md",
-    "SE/Wartung und Evolution.md",
+    "SE/Design Techniken.md",
+    "SE/Software Qualität.md",
     "SE/Verifikation.md",
+    "SE/Abgaben/Aufgabensammlung 1.md",
+    "SE/Software Architektur.md",
+    "SE/Wartung und Evolution.md",
     "SE/Use Case.md",
     "Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "Bildschirm­foto 2023-02-27 um 20.37.05.png",
@@ -250,12 +251,10 @@
     "SE/Design Prinzipien.md",
     "SE/Software Entwicklungs Prozess.md",
     "SE/Software Maintenance & Evolution.md",
-    "SE/Software Qualität.md",
     "SE/Design Patterns.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
-    "SE/Design Techniken.md",
     "Bildschirm­foto 2023-02-26 um 15.33.33.png"
   ]
 }

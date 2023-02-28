@@ -95,4 +95,5 @@
 	- MVC: Mittel: Views, Controller und Model können einzelnen Prozessen leicht zugeordnet werden, jedoch wird die Parallelisierung von der architektur nicht von haus aus unterstützt
 	- Service Based: Die Architektur ist von haus aus dazu ausgelegt, verschiedene Servises parallel anzubieten, denn die Dienste können als eigene Prozesse Parallel auf dem gleichen oder unterschiedlichen Rechnern laufen
 
-### Aufgabe 8
+### Aufgabe 9
+-

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Verifikation.md",
+                "file": "SE/Abgaben/Aufgabensammlung 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Verifikation.md",
+                "file": "SE/Abgaben/Aufgabensammlung 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Verifikation.md",
+                "file": "SE/Abgaben/Aufgabensammlung 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Verifikation.md"
+                "file": "SE/Abgaben/Aufgabensammlung 1.md"
               }
             }
           },
@@ -235,11 +235,11 @@
   },
   "active": "97be574f3169aeef",
   "lastOpenFiles": [
+    "SE/Verifikation.md",
     "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",
     "SE/Design Techniken.md",
     "SE/Software Qualität.md",
-    "SE/Verifikation.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Wartung und Evolution.md",
     "SE/Use Case.md",

@@ -31,14 +31,19 @@
 | Zielart                                  | User Goal                                                                                              |
 | Interessengruppe und Interessen          | Spieledesignerin: Will eine Frage erstellen                                                            |
 | Minimale Garantien                       | Frage wird nur hinzugefügt, wenn der Fragetyp ausgewählt wurde und die Werte der Frage festgelegt sind |
-|                                          |                                                                                                        |
+|                                          | Lösung: Die Fragen bleiben unverändert und die Kategorien bleiben erhalten                             |
 | Erfolgsgarantien                         | Die Frage wird der Fragesammlung hinzugefügt                                                           |
+|                                          | Lösung: Die Frage wird dem Fragenkatalog hinzugefügt, existierende Kategorien bleiben erhalten         |
 | Hauptakteur                              | Spieledesignerin                                                                                       |
 | Vorbedingung                             | Die Fragesammlung ist geöffnet                                                                         |
 | Haupterfolgsszenario                     | 1. Spieledesignerin wählt Fragetyp aus                                                                 |
+|                                          | Lösung: System zeigt verfügbare Fragetypen an                                                          |
 |                                          | 2. Das System erstellt eine neue Frage und zeigt diese zum bearbeiten an                               |
+|                                          | Lösung: Spieldesignerin wählt einen Fragetyp aus                                                       |
 |                                          | 3. Spieledesignerin legt die Werte der Frage fest                                                      |
+|                                          | Lösung: System zeigt erstellte Frage zum Bearbeiten an                                                 |
 |                                          | 4. Jetzt kann die Frage in Einzel- bzw. Mehrbenutzerspielen verwendet werden                           |
+|                                          | Lösung: Spieldesigner legt die Wertde der Frage fest und und bestätigt diese                           |
 | Erweiterung                              | 1a 3a Spieledesignerin bricht das Erstellen der Frage ab                                               |
 |                                          | 1a1 Die Fragesammlung bleibt unverändert und das System zeigt die geöffnete Fragesammlung an           |
 |                                          | 3a1 Die Fragesammlung bleibt unverändert und erstelle Kategorien werden erhalten                       |
@@ -49,19 +54,9 @@
 ![[Bildschirm­foto 2023-02-27 um 21.30.21.png]]
 
 ### Aufgabe 6
-- Software inspektionen
-	- Sobald ein Code abschnitt fertig ist, wird er in einem Team gereviewt
-	- Das Team ist dabei in klare Aufgabenbereiche aufgeteilt
-- Automated static analyses
-	- Das macht die IDE bzw. der Compiler automatisch
-	- Dabei prüft er statische Eigenschaften
-	- Diese werden jederzeit im Entwicklungsprozess und nach ferttigstellung eines Code abschnitts durchgeführt
-	- Am besten noch vor der peer review
-- Formal verfication
-	- Man versucht nach formalen, mathematisch fundierten Techniken die funktionalität zu sicher
-	- Das verwendet man bei sicherheitskritischen Systemen bzw. Software
-- Testing
-
-### Aufgabe 7
-**Layered:**
-	1. 
+- Software Inspektion
+	- Ziel: Komplexe Sachverhalte bewerten und Semantische Fehler finden
+	- Funktionsweise: 
+		- Menschliche Prüfung von Dokumenten
+		- Sie kann auf alle Arten von Dokumenten angwendert werden und findet eher Fehlerzustände als Wirkungen
+		- Wora

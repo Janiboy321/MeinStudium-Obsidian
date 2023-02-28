@@ -96,4 +96,18 @@
 	- Service Based: Die Architektur ist von haus aus dazu ausgelegt, verschiedene Servises parallel anzubieten, denn die Dienste können als eigene Prozesse Parallel auf dem gleichen oder unterschiedlichen Rechnern laufen
 
 ### Aufgabe 9
--
+**a)**
+	java.lang.object
+	java.io.File;
+	java.io.FileInputStream
+	java.io.ObjectInputStream
+	java.math.BigDecimal
+	java.util.Date
+	model.Receipt
+	Exception
+	java.io.PrintStream
+	Stringbuilder
+	model.ReceiptPosition
+	BigDecimal
+**b)**
+	Dia Klasse hat eine hohe kopplung. Sie verwendet viele verschiedene Packages und Klassen, welche allesammt mit übernommen werden müssen, sollte man planen, die Klasse wiederzuverwenden. Deshalb schätze ich die Wiederverwendbarkeit schlecht

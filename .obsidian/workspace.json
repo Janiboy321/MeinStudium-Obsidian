@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "25ba3c1b5ecb6ed6",
+        "id": "9c26d321b9f2f853",
         "type": "tabs",
         "children": [
           {
-            "id": "97be574f3169aeef",
+            "id": "8e0f4d3256ac41e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SE/Abgaben/Aufgabensammlung 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f71e6da8a5e966c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE/Design Techniken.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,6 +213,18 @@
                 }
               },
               {
+                "id": "97be574f3169aeef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SE/Design Prinzipien.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "8015e5a2ad8eb02c",
                 "type": "leaf",
                 "state": {
@@ -220,7 +244,8 @@
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -233,17 +258,17 @@
       }
     ]
   },
-  "active": "97be574f3169aeef",
+  "active": "8e0f4d3256ac41e8",
   "lastOpenFiles": [
-    "IMG_A2C4CDAF3895-1.jpeg",
-    "SE/Verifikation.md",
-    "SE/Design Prinzipien.md",
-    "SE/Software Architektur.md",
     "SE/Design Techniken.md",
-    "SE/Software Qualität.md",
+    "SE/Design Prinzipien.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
-    "SE/Wartung und Evolution.md",
+    "SE/Verifikation.md",
+    "SE/Software Architektur.md",
     "SE/Use Case.md",
+    "SE/Wartung und Evolution.md",
+    "IMG_A2C4CDAF3895-1.jpeg",
+    "SE/Software Qualität.md",
     "Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Anforderungsanalyse.md",

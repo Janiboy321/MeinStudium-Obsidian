@@ -65,7 +65,7 @@
 
 #### Refactoring Technik: Move Methode (Verbessern der Cohesion)
 - Anwendbarkeitscheck:
-	- Nutzt die Quellmethode features von der Quellmethode?
+	- Nutzt die Quellmethode features von der Quellklasse?
 	- Überschreibt die Quellklasse die Methode oder wird die Methode in Subklassen überschrieben
 	- Nein? Move Methode ist anwendbar
 - Vorgehensweise:

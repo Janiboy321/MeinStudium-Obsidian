@@ -97,21 +97,26 @@
 
 ### Aufgabe 9
 **a)**
-	java.lang.object
-	java.io.File;
-	java.io.FileInputStream
-	java.io.ObjectInputStream
-	java.math.BigDecimal
-	java.util.Date
-	model.Receipt
-	Exception
-	java.io.PrintStream
-	Stringbuilder
-	model.ReceiptPosition
-	BigDecimal
-	override
+	- java.lang.object
+	- java.io.File;
+	- java.io.FileInputStream
+	- java.io.ObjectInputStream
+	- java.math.BigDecimal
+	- java.util.Date
+	- model.Receipt
+	- java.lang.Exception
+	- java.io.PrintStream
+	- java.lang.Stringbuilder
+	- model.ReceiptPosition
+	- java.lang.BigDecimal
+	- java.lanoverride
+	java.lang.String
 **b)**
 	Dia Klasse hat eine hohe kopplung. Sie verwendet viele verschiedene Packages und Klassen, welche allesammt mit übernommen werden müssen, sollte man planen, die Klasse wiederzuverwenden. Deshalb schätze ich die Wiederverwendbarkeit schlecht
 **c)** ![[IMG_A2C4CDAF3895-1.jpeg]]LCOM = 3 (von 5)
 
-Laut dem LCOM Wert, müßte die K
+**d)**
+Laut dem LCOM Wert, ist die Kohäsion relativ niedrig. Das würde für eine gute wiederverwendbarkeit und eine gute verstehbarkeit des Codes bedeuten. Allerdings ist der einzige Grund für die hohe Kohäsion die Methode toString(). Diese Methode bringt aber keine wirkliche Verbindung der Attribute mit, weshalb der LCOM Wert nicht entsprechend ist.
+
+**e)**
+Nein, würde man eine extra Klasse erstellen, würde das die komplexität des Programmes unnötig erhöhen.

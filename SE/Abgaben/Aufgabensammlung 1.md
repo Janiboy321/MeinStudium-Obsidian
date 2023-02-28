@@ -51,4 +51,16 @@
 - Software inspektionen
 	- Sobald ein Code abschnitt fertig ist, wird er in einem Team gereviewt
 	- Das Team ist dabei in klare Aufgabenbereiche aufgeteilt
-	- 
+- Automated static analyses
+	- Das macht die IDE bzw. der Compiler automatisch
+	- Dabei prüft er statische Eigenschaften
+	- Diese werden jederzeit im Entwicklungsprozess und nach ferttigstellung eines Code abschnitts durchgeführt
+	- Am besten noch vor der peer review
+- Formal verfication
+	- Man versucht nach formalen, mathematisch fundierten Techniken die funktionalität zu sicher
+	- Das verwendet man bei sicherheitskritischen Systemen bzw. Software
+- Testing
+
+### Aufgabe 7
+**Layered:**
+	1. Der Architekturstil ist zuverlässig und sor 

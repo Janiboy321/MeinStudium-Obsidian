@@ -109,5 +109,9 @@
 	Stringbuilder
 	model.ReceiptPosition
 	BigDecimal
+	override
 **b)**
 	Dia Klasse hat eine hohe kopplung. Sie verwendet viele verschiedene Packages und Klassen, welche allesammt mit übernommen werden müssen, sollte man planen, die Klasse wiederzuverwenden. Deshalb schätze ich die Wiederverwendbarkeit schlecht
+**c)** ![[IMG_A2C4CDAF3895-1.jpeg]]LCOM = 3 (von 5)
+
+Laut dem LCOM Wert, müßte die K

@@ -109,14 +109,13 @@
 	- java.lang.Stringbuilder
 	- model.ReceiptPosition
 	- java.lang.BigDecimal
-	- java.lanoverride
-	java.lang.String
+	- java.lang.Override
+	- **java.lang.String**
 **b)**
-	Dia Klasse hat eine hohe kopplung. Sie verwendet viele verschiedene Packages und Klassen, welche allesammt mit übernommen werden müssen, sollte man planen, die Klasse wiederzuverwenden. Deshalb schätze ich die Wiederverwendbarkeit schlecht
+	Dia Klasse hat eine hohe kopplung zu den Klasse Receipt und ReceiptPosition, weshalb die wiederverwendung ohne die Klassen kein Sinn macht. Da die Klassen aber nur Funktione der Java Standart API nutzen, kann man diese leicht mitübertragen
 **c)** ![[IMG_A2C4CDAF3895-1.jpeg]]LCOM = 3 (von 5)
 
 **d)**
-Laut dem LCOM Wert, ist die Kohäsion relativ niedrig. Das würde für eine gute wiederverwendbarkeit und eine gute verstehbarkeit des Codes bedeuten. Allerdings ist der einzige Grund für die hohe Kohäsion die Methode toString(). Diese Methode bringt aber keine wirkliche Verbindung der Attribute mit, weshalb der LCOM Wert nicht entsprechend ist.
-
+Der LCOM Wert spricht für eine geringe Kohäsion. Das ist zutreffend, da die Funktionalität zum laden eines Kassenbelegs in der Methode read(File) abgelöst von der eigentlichen Aufgabde der Klasse ist
 **e)**
-Nein, würde man eine extra Klasse erstellen, würde das die komplexität des Programmes unnötig erhöhen.
+Nein, beide Methoden sind für die Erfüllung der Aufgabe der Klasse von nöten

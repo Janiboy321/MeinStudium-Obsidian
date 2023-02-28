@@ -79,4 +79,19 @@
 		- Vom Testorakel vorgegebene Sollwerte werden mit den aktuellen Werten verglichen
 	- Einsatz: So früh wie möglich und kontinuierlich. Möglichst automatisierte Tests, zum Beispiel täglich, oder nach jeder veränderung am Code
 - Runtime assertion checking
-	- Ziel: Einhalten von Rahmenbedinu
+	- Ziel: Einhalten von Rahmenbedinungen während der Laufzeit sicherstellen
+	- Funktionsweise:
+		- Assertions sind spezielle Anwendungen, welche sicherstellen, dass ein Code so funktioniert wie er soll
+		- Bei falschauswertung einer Assertion wird beispielsweise eine Exception geworfen
+	- Einsatz: Hilfreich während der Entwicklung und unterstützend beim Debugging
+
+### Aufgabe 6
+- Fehlertoleranz
+	- Layered: Schlecht: Bei ausfall einer Schicht sind mindestens auch die oberen Schichten davon betroffen
+	- MVC: Mittel: Fällt eine View aus, sind die anderen Views davon nicht betroffen, fällt hingegen das Model aus, fällt das gesammte System aus
+	- Service Based: Gut: Der ausfall eines Diebstes beschränkt zwar die Funktionalität ein wenig, jedoch beeinflusst der ausfall eines Services nicht die funktionalität der anderen Services
+- Parallelisierbarkeit
+	- Layered: Schlecht: Parallelisierbarkeit wird von der Architektur nicht unterstützt, da die Schichten strickt sequentiell durchlaufen werden
+	- MVC: Mittel: Views, Controller und Model können einzelnen Prozessen leicht zugeordnet werden, jedoch wird die Parallelisierung von der architektur nicht von haus aus unterstützt
+	- Service Based: Die Architektur ist von haus aus dazu ausgelegt, verschiedene Servises parallel anzubieten, denn die Dienste können als eigene Prozesse Parallel auf dem gleichen oder unterschiedlichen Rechnern laufen
+

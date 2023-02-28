@@ -1,4 +1,4 @@
-### Woraus besteht die Software Architektur?
+‘### Woraus besteht die Software Architektur?
 - Festlegen von bestimmten Qualitätsmerkmalen, welche wichtig für das System sind
 	- Ergibt sich aus den Ergebnissen der Anforderungsanalyse, inbesondere der nicht-funktionale Anfoderungen
 - Architekturstile festlegen

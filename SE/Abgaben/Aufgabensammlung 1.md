@@ -59,4 +59,24 @@
 	- Funktionsweise: 
 		- Menschliche Prüfung von Dokumenten
 		- Sie kann auf alle Arten von Dokumenten angwendert werden und findet eher Fehlerzustände als Wirkungen
-		- Wora
+		- Worauf in einem Review geachtet werden muss und welche Rollen dafür nötig sind, wird vorher festgelegt
+		- Die Inspektion ist eine spezielle Review mit der Aufgabe Fehler zu finden
+		- Dabei wird das Dokument meistens anhand einer Checkliste bewertet
+	- Einsatz: Im gesammten Entwicklungsprozess auf möglichst alle Dokumente
+- Automated Static analysew
+	- Ziel: Automatisches aufdecken von fehlern
+	- Funktionsweise:
+		- Ein Werkzeug (z.B. eine IDE) überprüft formale Dokumente auf die Verletzung definierter Eigenschaften
+	- Einsatz: Im Vorfeld zu Reviews, da sie automatisch Ausführbar sind. 
+- Formal Verification
+	- Ziel: Abwesenheit von Fehlern beweisen
+	- Funktionsweise: Mithilfe mathematischer Beweise werden die formal Spezifiziereten eigenschaften des Codes getestet
+	- Einsatz: Ergänzend zum Testen von Sicherheitskritischen Anwendungen
+- Testing
+	- Ziel: Anwesenheit von Fehlern aufzeigen
+	- Funktionsweise:
+		- Software wird dynamisch ausgeführt und die Eingabe gemäß eines Testskripts vorgenommen
+		- Vom Testorakel vorgegebene Sollwerte werden mit den aktuellen Werten verglichen
+	- Einsatz: So früh wie möglich und kontinuierlich. Möglichst automatisierte Tests, zum Beispiel täglich, oder nach jeder veränderung am Code
+- Runtime assertion checking
+	- Ziel: Einhalten von Rahmenbedinu

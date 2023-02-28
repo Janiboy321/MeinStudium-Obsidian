@@ -85,7 +85,7 @@
 		- Bei falschauswertung einer Assertion wird beispielsweise eine Exception geworfen
 	- Einsatz: Hilfreich während der Entwicklung und unterstützend beim Debugging
 
-### Aufgabe 6
+### Aufgabe 7
 - Fehlertoleranz
 	- Layered: Schlecht: Bei ausfall einer Schicht sind mindestens auch die oberen Schichten davon betroffen
 	- MVC: Mittel: Fällt eine View aus, sind die anderen Views davon nicht betroffen, fällt hingegen das Model aus, fällt das gesammte System aus
@@ -95,3 +95,4 @@
 	- MVC: Mittel: Views, Controller und Model können einzelnen Prozessen leicht zugeordnet werden, jedoch wird die Parallelisierung von der architektur nicht von haus aus unterstützt
 	- Service Based: Die Architektur ist von haus aus dazu ausgelegt, verschiedene Servises parallel anzubieten, denn die Dienste können als eigene Prozesse Parallel auf dem gleichen oder unterschiedlichen Rechnern laufen
 
+### Aufgabe 8

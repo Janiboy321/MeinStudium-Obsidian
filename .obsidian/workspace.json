@@ -266,20 +266,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 720,
-        "y": 25,
-        "width": 720,
-        "height": 875,
-        "maximize": true,
+        "x": 1440,
+        "y": -155,
+        "width": 960,
+        "height": 1055,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "cb85b822b2209df6",
   "lastOpenFiles": [
-    "SE/Abgaben/Aufgabensammlung 1.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
     "Remarks.md",
+    "SE/Abgaben/Aufgabensammlung 2.md",
+    "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Design Prinzipien.md",
     "SE/Design Techniken.md",
     "SE/Verifikation.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Prinzipien.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conzision",
+                "query": "LCOM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Prinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Prinzipien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md"
+                "file": "SE/Design Prinzipien.md"
               }
             }
           },
@@ -337,20 +337,20 @@
       }
     ]
   },
-  "active": "176bc88e664177c2",
+  "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "SE/Abgaben/Aufgabensammlung 1.md",
+    "SE/Abgaben/Aufgabensammlung 2.md",
+    "SE/Software Entwicklungs Prozess.md",
     "SE/Design Techniken.md",
     "SE/Verifikation.md",
     "SE/Anforderungsanalyse.md",
-    "SE/Software Entwicklungs Prozess.md",
     "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",
     "Remarks.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Wartung und Evolution.md",
     "SE/Software Maintenance & Evolution.md",
     "SE/Software Qualität.md",
-    "SE/Abgaben/Aufgabensammlung 1.md",
     "IMG_8211DC708935-1.jpeg",
     "IMG_5B575484F5F6-1.jpeg",
     "IMG_B5E8435C23D6-1.jpeg",

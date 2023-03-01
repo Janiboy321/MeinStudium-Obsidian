@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb85b822b2209df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f71e6da8a5e966c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -289,33 +277,64 @@
         "height": 1055,
         "maximize": false,
         "zoom": -0.5
+      },
+      {
+        "id": "a6e8631c9eeb7ba1",
+        "type": "window",
+        "children": [
+          {
+            "id": "bf36b15633bbf76f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb85b822b2209df6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SE/Design Prinzipien.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1440,
+        "y": -155,
+        "width": 960,
+        "height": 1055,
+        "maximize": false,
+        "zoom": -0.5
       }
     ]
   },
-  "active": "cb85b822b2209df6",
+  "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
-    "SE/Abgaben/Aufgabensammlung 1.md",
+    "SE/Design Techniken.md",
+    "SE/Design Prinzipien.md",
+    "SE/Software Maintenance & Evolution.md",
+    "SE/Software Entwicklungs Prozess.md",
+    "SE/Software Qualität.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
+    "SE/Abgaben/Aufgabensammlung 1.md",
     "IMG_8211DC708935-1.jpeg",
     "SE/Wartung und Evolution.md",
     "SE/Verifikation.md",
     "SE/Software Architektur.md",
-    "SE/Design Techniken.md",
     "IMG_5B575484F5F6-1.jpeg",
     "IMG_B5E8435C23D6-1.jpeg",
     "Remarks.md",
-    "SE/Design Prinzipien.md",
     "SE/Use Case.md",
     "IMG_A2C4CDAF3895-1.jpeg",
-    "SE/Software Qualität.md",
     "Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Anforderungsanalyse.md",
     "SE/Untitled.md",
     "SE/Abgaben",
     "SE Prüfung 2020.md",
-    "SE/Software Entwicklungs Prozess.md",
-    "SE/Software Maintenance & Evolution.md",
     "SE/Design Patterns.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",

@@ -72,4 +72,15 @@ Branch Coverage:
 | false, false, ""         | -1                  | E4, E5     | 
 
 **c)**
+Path Coverage
+| Test Case magic(a, b, c) | Erwartetes Ergebnis | Kanten |
+| ------------------------ | ------------------- | ------ |
+| true, false, "blub"      |                     |        |
+
+**d)**
 Condition Coverage
+| Test Case magic(a, b, c) | Erwartetes Ergebnis | Zeile der Condition                     |
+| ------------------------ | ------------------- | --------------------------------------- |
+| false, false, "blubb"    | -1                  | 4-5 = false, 8-9 = false, 10-11 = false |
+| true, true, ""           | 2                   | 4-5 = true, 8-9 = true, 10-11 = true    |
+

@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Wartung und Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Wartung und Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md"
+                "file": "SE/Wartung und Evolution.md"
               }
             }
           },
@@ -283,20 +283,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 2400,
+        "x": 2550,
         "y": -155,
-        "width": 960,
+        "width": 810,
         "height": 1055,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "cb85b822b2209df6",
+  "active": "8e0f4d3256ac41e8",
   "lastOpenFiles": [
+    "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Verifikation.md",
     "SE/Wartung und Evolution.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Software Architektur.md",
     "SE/Design Techniken.md",
     "IMG_5B575484F5F6-1.jpeg",

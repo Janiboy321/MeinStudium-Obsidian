@@ -102,3 +102,13 @@ Modified Condition Decision Coverage (Lösung genau angucken)
 | false, false, ""         |                     |
 
 **g)**
+| Test Case magic(a, b, c) | Erwartetes Ergebnis |
+| ------------------------ | ------------------- |
+| false, false, "full"     |                     |
+| false, false, ""         |                     |
+| false, true, "full"      |                     |
+| false, true, ""          |                     |
+| true, false, "full"      |                     |
+| true, false, ""          |                     |
+| true, true, "full"       |                     |
+| true, true, ""           |                     |

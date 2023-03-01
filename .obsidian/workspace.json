@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Design Techniken.md"
+                "file": "SE/Abgaben/Aufgabensammlung 2.md"
               }
             }
           },
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,8 +274,9 @@
       }
     ]
   },
-  "active": "f71e6da8a5e966c6",
+  "active": "8e0f4d3256ac41e8",
   "lastOpenFiles": [
+    "SE/Design Techniken.md",
     "SE/Verifikation.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
     "IMG_5B575484F5F6-1.jpeg",
@@ -285,7 +284,6 @@
     "IMG_B5E8435C23D6-1.jpeg",
     "Remarks.md",
     "SE/Design Prinzipien.md",
-    "SE/Design Techniken.md",
     "SE/Software Architektur.md",
     "SE/Use Case.md",
     "SE/Wartung und Evolution.md",

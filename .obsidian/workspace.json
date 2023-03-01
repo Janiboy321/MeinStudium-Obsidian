@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e0f4d3256ac41e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb85b822b2209df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Verifikation.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -271,12 +258,44 @@
         "height": 1055,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "8d8b676225763a04",
+        "type": "window",
+        "children": [
+          {
+            "id": "3ab76666af86909b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e0f4d3256ac41e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SE/Wartung und Evolution.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2400,
+        "y": -155,
+        "width": 960,
+        "height": 1055,
+        "maximize": false,
+        "zoom": -0.5
       }
     ]
   },
-  "active": "8e0f4d3256ac41e8",
+  "active": "cb85b822b2209df6",
   "lastOpenFiles": [
     "SE/Verifikation.md",
+    "SE/Wartung und Evolution.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Software Architektur.md",
     "SE/Design Techniken.md",
@@ -286,7 +305,6 @@
     "Remarks.md",
     "SE/Design Prinzipien.md",
     "SE/Use Case.md",
-    "SE/Wartung und Evolution.md",
     "IMG_A2C4CDAF3895-1.jpeg",
     "SE/Software Qualität.md",
     "Bildschirm­foto 2023-02-27 um 21.30.21.png",

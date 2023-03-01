@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Techniken.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Techniken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md",
+                "file": "SE/Design Techniken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Entwicklungs Prozess.md"
+                "file": "SE/Design Techniken.md"
               }
             }
           },
@@ -339,6 +339,8 @@
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
     "SE/Verifikation.md",
+    "SE/Anforderungsanalyse.md",
+    "SE/Software Entwicklungs Prozess.md",
     "SE/Design Prinzipien.md",
     "SE/Software Architektur.md",
     "Remarks.md",
@@ -346,7 +348,6 @@
     "SE/Wartung und Evolution.md",
     "SE/Design Techniken.md",
     "SE/Software Maintenance & Evolution.md",
-    "SE/Software Entwicklungs Prozess.md",
     "SE/Software Qualität.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
     "IMG_8211DC708935-1.jpeg",
@@ -356,7 +357,6 @@
     "IMG_A2C4CDAF3895-1.jpeg",
     "Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "Bildschirm­foto 2023-02-27 um 20.37.05.png",
-    "SE/Anforderungsanalyse.md",
     "SE/Untitled.md",
     "SE/Abgaben",
     "SE Prüfung 2020.md",

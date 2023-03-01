@@ -154,6 +154,8 @@ b: Funktioniert nicht, weil entweder E oder D
 	- Die Möglichkeit, das System nicht als ganzes, sondern als Blöcke verstehen zu können
 	- Die Möglichkeit, ein System zu verändern, indem nur ein Kleiner Teil verändert wird
 - Modularität heißt schwache Kopplung aber hohe Kohäsion
+##### Verständlichkeit
+- Je größer der Code und das Team wird, desto komplexer wird der Code und komplexibilität hindert Entwickler daran den Code zu verstehen und effektiv zu verändern
 - 
 
 
@@ -163,7 +165,12 @@ b: Funktioniert nicht, weil entweder E oder D
 	- --> Erweiterbarkeit
 		- Dadurch, dass zwischen den eben beschriebenen Blöcken keine bzw nur leichte Abhängigkeiten bestehen, kann man das System sehr gut mit neuen Funktionen erweitern.
 - Verständlichkeit
-	- --> 
+	- --> Erweiterbarkeit
+		- Ist der Code sehr komplex und schwer zu verstehen, hindert es Entwickler daran, den Code effektiv zu verändern
+	- --> Portabilität
+		- Ist der Code schwer zu verstehen, könnte es für Entwickler schwer sein, die Software so anzupassen, dass sie auf einem anderen System läuft
+	- --> Robustheit
+		- Ist der Code schwer zu verstehen, hindert das einen daran, fehler zu finden, was den Code instabil und somit unrobust macht
 - Kohäsion
 	- --> 
 - Conzision

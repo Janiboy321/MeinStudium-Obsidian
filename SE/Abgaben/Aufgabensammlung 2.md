@@ -144,3 +144,7 @@ a: Funktioniert nicht, weil es B D benötigt aber mit E D ausgeschlossen wird
 b: Funktioniert nicht, weil entweder E oder D 
 
 ### Aufgabe 6
+![[IMG_8211DC708935-1.jpeg]]
+
+### Aufgabe 7
+- Modular --> 

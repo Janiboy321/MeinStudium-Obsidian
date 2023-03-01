@@ -207,4 +207,6 @@ b: Funktioniert nicht, weil entweder E oder D
 | ---------------------------- | -------- | ----------------------------------- |
 | [1, 2, 3], 3, true           | 6        | 4 = true, 5 = false, 8 = true/false |
 | [1, 2, 3, 4, 5], 5, true     | 15       | 4 = true, 5 = true, 8 = true/false  |
-| [1], 1, true                 | 0        |                                     |
+| [1], 1, true                 | 0        | 4 = false, false                    |
+
+**d)**

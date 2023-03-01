@@ -147,9 +147,21 @@ b: Funktioniert nicht, weil entweder E oder D
 ![[IMG_8211DC708935-1.jpeg]]
 
 ### Aufgabe 7
-- Modular
-	- 
-	- --> 
+##### Modularität
+- Modularität führt zu vier wichtigen Vorteilen:
+	- Die Möglichkeit, das System in einfacherere Teile zu zerlegen
+	- Die Möglichkeit, das System aus einfacheren Teilen zusammenzubauen
+	- Die Möglichkeit, das System nicht als ganzes, sondern als Blöcke verstehen zu können
+	- Die Möglichkeit, ein System zu verändern, indem nur ein Kleiner Teil verändert wird
+- Modularität heißt schwache Kopplung aber hohe Kohäsion
+- 
+
+
+- Modularität
+	- --> Portabilität
+		- Durch die Modularität kann man das System als einzelne Blöcke betrachten, die unabhängig voneinander Funktionieren, was es super einfach macht, einzelne Funktionien in andere Systeme einzubauen
+	- --> Erweiterbarkeit
+		- Dadurch, dass zwischen den eben beschriebenen Blöcken keine bzw nur leichte Abhängigkeiten bestehen, kann man das System sehr gut mit neuen Funktionen erweitern.
 - Verständlichkeit
 	- --> 
 - Kohäsion

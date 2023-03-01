@@ -117,10 +117,20 @@ Modified Condition Decision Coverage (Lösung genau angucken)
 Nein, neben den Coverages kann es auch noch andere Fehler geben, wie zum Beispiel mit der Speichernutzung
 
 ### Aufgabe 3
-| Nr. | Beschreibung | Wertebelegung von a | Erwartetes Ergebnis / Exception |
-| --- | ------------ | ------------------- | ------------------------------- |
-| 1   | Array = null | null                | IllegalArgumentsException       |
-| 2   | Array leer   |                     |Illegal                               |
-| 3   | Array leer   | [1, 2, 3, 4, 5]     |                                 |
-| 4   |              |                     |                                 |
-| 5   |              |                     |                                 |
+| Nr. | Beschreibung                              | Wertebelegung von a  | Erwartetes Ergebnis / Exception |
+| --- | ----------------------------------------- | -------------------- | ------------------------------- |
+| 1   | Array = null                              | null                 | IllegalArgumentsException       |
+| 2   | Array leer                                | []                   | IllegalArgumentsException       |
+| 3   | Array normal                              | [1, 2, 3, 4, 5]      | 5                               |
+| 4   | Array besteht aus nur einem Element       | [1]                  | 1                               |
+| 5   | Array besteht nur aus negativen Elementen | [-1, -2, -3, -4, -5] | -5                                |
+
+### Aufgabe 4
+**a)**
+$5 + 2 + 3 + 2 + 8 = 20$
+
+**b)**
+Prio: 
+US: 17, 20, 4, 6
+SP: 5, 8, 3, 3 = 19
+3 

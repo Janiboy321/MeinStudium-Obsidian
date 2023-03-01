@@ -158,14 +158,18 @@ b: Funktioniert nicht, weil entweder E oder D
 - Je größer der Code und das Team wird, desto komplexer wird der Code und komplexibilität hindert Entwickler daran den Code zu verstehen und effektiv zu verändern
 ##### Kohäsion
 - Kohäsion ist ein Maß dafür, wie stark die einzelnen Elemente innerhalb einer Klasse, bzw eines bestimmten Softwareteils, miteinander verbunden sind
-- Eine hohe kohäsion bedeutet, dass die Elemente u
-
+- Eine hohe kohäsion bedeutet, dass die Elemente untereinander Stark verbunden sind, heißt die Arbeiten zusammen um eine einzelne Funktionalität zu erfüllen. Eine niedrige Funktionalität hingegen weißt auf eine sehr schwache Verbindung der Elemente hin, was im extremfall bedeutet, dass die einzelnen Elemente nichts miteinander zu tun haben
+- Eine niedrige kohäsion sorgt beispielsweise für eine höhere komplexität des Systems und somit zu einer schlechteren verständlichkeit was wiederum zu einer schlechten wiederverwendbarkeit, erweiterbarkeit, usw. führt.
+##### Conzision
+- Klarer Code und wenig Dopplungen
 
 - Modularität
 	- --> Portabilität
-		- Durch die Modularität kann man das System als einzelne Blöcke betrachten, die unabhängig voneinander Funktionieren, was es super einfach macht, einzelne Funktionien in andere Systeme einzubauen
+		- Durch die Modularität kann man das System als einzelne Blöcke betrachten, die unabhängig voneinander Funktionieren, was es super einfach macht, Plattformabhängige Funktionen durch andere Blöcke auszutauschen
 	- --> Erweiterbarkeit
 		- Dadurch, dass zwischen den eben beschriebenen Blöcken keine bzw nur leichte Abhängigkeiten bestehen, kann man das System sehr gut mit neuen Funktionen erweitern.
+	- --> Wiederverwendbarkeit
+		- 
 - Verständlichkeit
 	- --> Erweiterbarkeit
 		- Ist der Code sehr komplex und schwer zu verstehen, hindert es Entwickler daran, den Code effektiv zu verändern
@@ -177,6 +181,8 @@ b: Funktioniert nicht, weil entweder E oder D
 	- --> Effizienz
 		- Klassen mit zu schwacher Kohäsion neigen dazu, Verantwortlichkeiten zu übernehmen, welche sie eigentlich deligieren sollten was die Klasse weniger effizient macht
 	- --> Wiederverwendbarkeit:
-		- Klassen mit niedriger Kohäsion 
+		- Eine niedrige Kohäsion steigert die komlpexität der Klasse, was sie somit schwer verstehbar macht, was die wiederverwendbarkeit beeinträchtigt
 - Conzision
-	- -->
+	- --> Effizienz 
+		- Ist der Code sehr unkonzise, verbaucht man beispielsweise unnötig Speicherplatz oder Systemressourcen 
+	- 

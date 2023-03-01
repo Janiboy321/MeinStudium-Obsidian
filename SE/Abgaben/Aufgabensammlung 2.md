@@ -63,3 +63,8 @@ protected void addSectionToDocument(Document document, String title){
 | true, true, ""           | 2                    | 3, 6, 12     |
 | false, false, ""         | -1                   | 15           |
 
+**b)** ![[IMG_5B575484F5F6-1.jpeg]]
+**c)**
+| Test Case magic(a, b, c) | Erwartetes Ergebnis |     |
+| ------------------------ | ------------------- | --- |
+|                          |                     |     |

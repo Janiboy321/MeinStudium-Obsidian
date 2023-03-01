@@ -90,4 +90,11 @@ Condition Coverage
 | Test Case magic(a, b, c) | Erwartetes Eregbnis | Zeile                     |
 | ------------------------ | ------------------- | ------------------------- |
 | false, false, "blub"     | -1                  | 4-5 = false, 8-11 = false |
-| true, true, ""           | 23                  |                          |
+| true, true, ""           | 2                   | 4-5 = true, 8-11 = true   |
+
+**f)**
+Modified Condition Decision Coverage
+| Test Case magic(a, b, c) | Erwartetes Ergebnis |
+| ------------------------ | ------------------- |
+| false, false, "full"     | -1                  |
+|                          |                     |

@@ -147,4 +147,12 @@ b: Funktioniert nicht, weil entweder E oder D
 ![[IMG_8211DC708935-1.jpeg]]
 
 ### Aufgabe 7
-- Modular --> 
+- Modular
+	- 
+	- --> 
+- Verständlichkeit
+	- --> 
+- Kohäsion
+	- --> 
+- Conzision
+	- -->

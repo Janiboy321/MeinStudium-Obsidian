@@ -58,13 +58,18 @@ protected void addSectionToDocument(Document document, String title){
 
 ### Aufgabe 2
 **a)**
+Statement Coverage:
 | Test Case magic(a, b, c) | Erwartetes Ergebniss | Zeilennummer |
 | ------------------------ | -------------------- | ------------ |
 | true, true, ""           | 2                    | 3, 6, 12     |
 | false, false, ""         | -1                   | 15           |
 
 **b)** ![[IMG_5B575484F5F6-1.jpeg]]
+Branch Coverage:
+| Test Case magic(a, b, c) | Erwartetes Ergebnis | Kanten     |
+| ------------------------ | ------------------- | ---------- |
+| true, true, ""           | 2                   | E1, E2, E3 |
+| false, false, ""         | -1                  | E4, E5     | 
+
 **c)**
-| Test Case magic(a, b, c) | Erwartetes Ergebnis |     |
-| ------------------------ | ------------------- | --- |
-|                          |                     |     |
+Condition Coverage

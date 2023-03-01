@@ -8,4 +8,47 @@ Beispiel:
 Beispiel: 
 	Wir haben mit HealPack und AmmoPack zwei Implementierung des Interfaces Product. Client ist in unserem Beispiel der Spieler. Jenachdem welche Klasse man spielt, also entweder Healer oder Weaponer, produziert man HealPacks oder eben AmmoPacks. Dies geschieht eben mit den Implementierungen HealPackFactory oder AmmoPackFactory für das interface Factory. 
 
-### Aufgabe 1 ![[IMG_B5E8435C23D6-1.jpeg]]
+### Aufgabe 1 
+**a)**![[IMG_B5E8435C23D6-1.jpeg]]
+**b)**
+```java
+public Section createSection(){
+	return new HTMLSection();
+}
+```
+**c)**
+```java
+public documentEditor(String docType){
+	if(docType == "html"){
+		factory = new HTMLFactory;
+	}
+	else if(docType == "latex"){
+		factory = new LATEXFactory;
+	}
+	else{
+		throw new RuntimeException("Dateiformat unbekannt");
+	}
+}
+```
+**d)**
+```java
+protected void addSectionToDocument(Document document, String title){
+	Section section = factory.createSection();
+	section.setTitle(title);
+	document.assSection(section);
+}
+```
+**e)**
+- Abstrakte Produkte
+	- Document
+	- Section
+- Konkrete Implementierungen der abstrakten Produkte
+	- HTMLDocument
+	- HTMLSection
+	- LATEXDocument
+	- LATEXSection
+- Abstrakte Fabrik
+	- DocFactory
+- Konkrete Implementierungen der abstrakten Fabrik
+	- HTMLFactory
+	- LATEXFactory

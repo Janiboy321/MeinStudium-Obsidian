@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Design Techniken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Design Techniken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md"
+                "file": "SE/Design Techniken.md"
               }
             }
           },
@@ -275,7 +276,7 @@
       }
     ]
   },
-  "active": "8e0f4d3256ac41e8",
+  "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
     "SE/Verifikation.md",
     "SE/Abgaben/Aufgabensammlung 2.md",

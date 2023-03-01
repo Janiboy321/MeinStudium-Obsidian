@@ -93,8 +93,12 @@ Condition Coverage
 | true, true, ""           | 2                   | 4-5 = true, 8-11 = true   |
 
 **f)**
-Modified Condition Decision Coverage
+Modified Condition Decision Coverage (Lösung genau angucken)
 | Test Case magic(a, b, c) | Erwartetes Ergebnis |
 | ------------------------ | ------------------- |
 | false, false, "full"     | -1                  |
+| true, false, "full"      | -2                  |
 |                          |                     |
+| false, false, ""         |                     |
+
+**g)**

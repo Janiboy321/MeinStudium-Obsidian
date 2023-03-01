@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Architektur.md"
+                "file": "SE/Abgaben/Aufgabensammlung 2.md"
               }
             }
           },
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,8 +274,9 @@
       }
     ]
   },
-  "active": "144382786e645d71",
+  "active": "8e0f4d3256ac41e8",
   "lastOpenFiles": [
+    "SE/Software Architektur.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Design Techniken.md",
     "SE/Verifikation.md",
@@ -283,7 +285,6 @@
     "IMG_B5E8435C23D6-1.jpeg",
     "Remarks.md",
     "SE/Design Prinzipien.md",
-    "SE/Software Architektur.md",
     "SE/Use Case.md",
     "SE/Wartung und Evolution.md",
     "IMG_A2C4CDAF3895-1.jpeg",

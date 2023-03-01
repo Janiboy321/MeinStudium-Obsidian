@@ -115,3 +115,12 @@ Modified Condition Decision Coverage (Lösung genau angucken)
 
 **h)**
 Nein, neben den Coverages kann es auch noch andere Fehler geben, wie zum Beispiel mit der Speichernutzung
+
+### Aufgabe 3
+| Nr. | Beschreibung | Wertebelegung von a | Erwartetes Ergebnis / Exception |
+| --- | ------------ | ------------------- | ------------------------------- |
+| 1   | Array = null | null                | IllegalArgumentsException       |
+| 2   | Array leer   |                     |Illegal                               |
+| 3   | Array leer   | [1, 2, 3, 4, 5]     |                                 |
+| 4   |              |                     |                                 |
+| 5   |              |                     |                                 |

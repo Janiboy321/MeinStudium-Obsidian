@@ -8,4 +8,4 @@ Beispiel:
 Beispiel: 
 	Wir haben mit HealPack und AmmoPack zwei Implementierung des Interfaces Product. Client ist in unserem Beispiel der Spieler. Jenachdem welche Klasse man spielt, also entweder Healer oder Weaponer, produziert man HealPacks oder eben AmmoPacks. Dies geschieht eben mit den Implementierungen HealPackFactory oder AmmoPackFactory für das interface Factory. 
 
-### Aufgabe 1
+### Aufgabe 1 ![[IMG_B5E8435C23D6-1.jpeg]]

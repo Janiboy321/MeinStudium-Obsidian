@@ -52,3 +52,14 @@ protected void addSectionToDocument(Document document, String title){
 - Konkrete Implementierungen der abstrakten Fabrik
 	- HTMLFactory
 	- LATEXFactory
+- Methoden zum erstellen von Produkten:
+	- createDocument();
+	- createSection();
+
+### Aufgabe 2
+**a)**
+| Test Case magic(a, b, c) | Erwartetes Ergebniss | Zeilennummer |
+| ------------------------ | -------------------- | ------------ |
+| true, true, ""           | 2                    | 3, 6, 12     |
+| false, false, ""         | -1                   | 15           |
+

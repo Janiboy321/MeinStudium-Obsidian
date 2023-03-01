@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 1.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Verifikation.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,15 +274,15 @@
       }
     ]
   },
-  "active": "cb85b822b2209df6",
+  "active": "8e0f4d3256ac41e8",
   "lastOpenFiles": [
+    "SE/Abgaben/Aufgabensammlung 1.md",
+    "SE/Verifikation.md",
+    "SE/Abgaben/Aufgabensammlung 2.md",
     "IMG_B5E8435C23D6-1.jpeg",
     "Remarks.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
-    "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Design Prinzipien.md",
     "SE/Design Techniken.md",
-    "SE/Verifikation.md",
     "SE/Software Architektur.md",
     "SE/Use Case.md",
     "SE/Wartung und Evolution.md",

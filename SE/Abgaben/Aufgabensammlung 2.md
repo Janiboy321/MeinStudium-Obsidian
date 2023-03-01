@@ -142,3 +142,5 @@ $A \land B \land C \land D \land \lnot C$
 b)
 a: Funktioniert nicht, weil es B D benötigt aber mit E D ausgeschlossen wird
 b: Funktioniert nicht, weil entweder E oder D 
+
+### Aufgabe 6

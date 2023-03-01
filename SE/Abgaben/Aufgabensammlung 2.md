@@ -156,7 +156,9 @@ b: Funktioniert nicht, weil entweder E oder D
 - Modularität heißt schwache Kopplung aber hohe Kohäsion
 ##### Verständlichkeit
 - Je größer der Code und das Team wird, desto komplexer wird der Code und komplexibilität hindert Entwickler daran den Code zu verstehen und effektiv zu verändern
-- 
+##### Kohäsion
+- Kohäsion ist ein Maß dafür, wie stark die einzelnen Elemente innerhalb einer Klasse, bzw eines bestimmten Softwareteils, miteinander verbunden sind
+- Eine hohe kohäsion bedeutet, dass die Elemente u
 
 
 - Modularität
@@ -172,6 +174,9 @@ b: Funktioniert nicht, weil entweder E oder D
 	- --> Robustheit
 		- Ist der Code schwer zu verstehen, hindert das einen daran, fehler zu finden, was den Code instabil und somit unrobust macht
 - Kohäsion
-	- --> 
+	- --> Effizienz
+		- Klassen mit zu schwacher Kohäsion neigen dazu, Verantwortlichkeiten zu übernehmen, welche sie eigentlich deligieren sollten was die Klasse weniger effizient macht
+	- --> Wiederverwendbarkeit:
+		- Klassen mit niedriger Kohäsion 
 - Conzision
 	- -->

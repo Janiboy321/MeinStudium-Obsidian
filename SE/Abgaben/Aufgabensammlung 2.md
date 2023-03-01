@@ -203,6 +203,8 @@ b: Funktioniert nicht, weil entweder E oder D
 | [null, null, null], 3, true  | NullPointer...   | E1, E4, E5, E7, E9           |
 
 **c)**
-| Test Case Magic(array, i, b) | erwartet |     |
-| ---------------------------- | -------- | --- |
-|                              |          |     |
+| Test Case Magic(array, i, b) | erwartet | Zeile                               |
+| ---------------------------- | -------- | ----------------------------------- |
+| [1, 2, 3], 3, true           | 6        | 4 = true, 5 = false, 8 = true/false |
+| [1, 2, 3, 4, 5], 5, true     | 15       | 4 = true, 5 = true, 8 = true/false  |
+| [1], 1, true                 | 0        |                                     |

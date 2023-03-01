@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stake",
+                "query": "conzision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -336,7 +337,7 @@
       }
     ]
   },
-  "active": "f71e6da8a5e966c6",
+  "active": "176bc88e664177c2",
   "lastOpenFiles": [
     "SE/Design Techniken.md",
     "SE/Verifikation.md",

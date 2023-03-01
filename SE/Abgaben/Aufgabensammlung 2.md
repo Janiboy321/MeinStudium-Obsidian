@@ -185,4 +185,15 @@ b: Funktioniert nicht, weil entweder E oder D
 - Conzision
 	- --> Effizienz 
 		- Ist der Code sehr unkonzise, verbaucht man beispielsweise unnötig Speicherplatz oder Systemressourcen 
-	- 
+
+### Aufgabe 8
+**a)**
+| Test Case magic(array, i, b) | Erwartetets Ergebnis/Exception | Zeile          |
+| ---------------------------- | ------------------------------ | -------------- |
+| [1, 2, 3], 5, true           | 6                              | 3, 7, 9-10, 13 | 
+
+**b)**
+| Test Case magic(array, i, b) | erwartet       | Edge   |
+| ---------------------------- | -------------- | ------ |
+| null, 1, true                | nullPointer... | E1, E2 |
+| [1], 1, false                |                |        |

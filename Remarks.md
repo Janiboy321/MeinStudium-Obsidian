@@ -1,2 +1,3 @@
 - Beim Analysieren der Klasse immer die Verantwortlichkeit der Klasse im blick behalten
 - Auf Detaills achten
+- Beim Zeichnen von Kontrollflussdiagrammen auf Fehlermeldungen achten

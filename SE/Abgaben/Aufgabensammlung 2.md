@@ -130,7 +130,9 @@ Nein, neben den Coverages kann es auch noch andere Fehler geben, wie zum Beispie
 $5 + 2 + 3 + 2 + 8 = 20$
 
 **b)**
-Prio: 
-US: 17, 20, 4, 6
+Prio: 1, 2, 4, 6
+US: 17, 20, 13, 21
 SP: 5, 8, 3, 3 = 19
-3 
+Die User Stories sind so eingeteilt, dass sie in der Gewünschten Reihenfolge der Kunden implementiert werden, aber auch so, dass wir die Velocity der letzten Iteration nicht übersteigen. Deshalb werden die Prioritäten 3 und 5 auf eine Zukünftige Iteration verschoben, idealerweise so schnell wie möglich
+
+### Aufgabe 5

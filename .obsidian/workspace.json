@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remarks.md",
+                "file": "SE/Software Architektur.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remarks.md",
+                "file": "SE/Software Architektur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remarks.md",
+                "file": "SE/Software Architektur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remarks.md"
+                "file": "SE/Software Architektur.md"
               }
             }
           },
@@ -338,10 +338,10 @@
   },
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "Remarks.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Wartung und Evolution.md",
     "SE/Software Architektur.md",
-    "Remarks.md",
     "SE/Verifikation.md",
     "SE/Design Prinzipien.md",
     "SE/Design Techniken.md",

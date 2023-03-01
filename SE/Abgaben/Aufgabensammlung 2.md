@@ -104,11 +104,14 @@ Modified Condition Decision Coverage (Lösung genau angucken)
 **g)**
 | Test Case magic(a, b, c) | Erwartetes Ergebnis |
 | ------------------------ | ------------------- |
-| false, false, "full"     |                     |
-| false, false, ""         |                     |
-| false, true, "full"      |                     |
-| false, true, ""          |                     |
-| true, false, "full"      |                     |
-| true, false, ""          |                     |
-| true, true, "full"       |                     |
-| true, true, ""           |                     |
+| false, false, "full"     | -1                  |
+| false, false, ""         | -1                  |
+| false, true, "full"      | -2                  |
+| false, true, ""          | -2                  |
+| true, false, "full"      | -2                  |
+| true, false, ""          | 2                   |
+| true, true, "full"       | 2                   |
+| true, true, ""           | 2                   | 
+
+**h)**
+Nein, neben den Coverages kann es auch noch andere Fehler geben, wie zum Beispiel mit der Speichernutzung

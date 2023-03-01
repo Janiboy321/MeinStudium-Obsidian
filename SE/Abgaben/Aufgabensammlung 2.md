@@ -136,3 +136,9 @@ SP: 5, 8, 3, 3 = 19
 Die User Stories sind so eingeteilt, dass sie in der Gewünschten Reihenfolge der Kunden implementiert werden, aber auch so, dass wir die Velocity der letzten Iteration nicht übersteigen. Deshalb werden die Prioritäten 3 und 5 auf eine Zukünftige Iteration verschoben, idealerweise so schnell wie möglich
 
 ### Aufgabe 5
+**a)**
+$A \land B \land C \land D \land \lnot C$
+
+b)
+a: Funktioniert nicht, weil es B D benötigt aber mit E D ausgeschlossen wird
+b: Funktioniert nicht, weil entweder E oder D 

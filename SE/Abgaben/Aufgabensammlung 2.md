@@ -193,7 +193,16 @@ b: Funktioniert nicht, weil entweder E oder D
 | [1, 2, 3], 5, true           | 6                              | 3, 7, 9-10, 13 | 
 
 **b)**
-| Test Case magic(array, i, b) | erwartet       | Edge   |
-| ---------------------------- | -------------- | ------ |
-| null, 1, true                | nullPointer... | E1, E2 |
-| [1], 1, false                |                |        |
+| Test Case magic(array, i, b) | erwartet         | Edge                         |
+| ---------------------------- | ---------------- | ---------------------------- |
+| null, 1, true                | nullPointer...   | E1, E2                       |
+| [1], 1, false                | 0                | E1, E3                       |
+| [1, 2, 3], 0, true           | 0                | E1, E4, E5, E6               |
+| [1, 2, 3], 3, true           | 6                | E1, E4, E5, E7, E10, E11, E6 |
+| [1, 2, 3], 5, true           | ArrayIndexOut... | E1, E4, E5, E7, E10, E11, E8 |
+| [null, null, null], 3, true  | NullPointer...   | E1, E4, E5, E7, E9           |
+
+**c)**
+| Test Case Magic(array, i, b) | erwartet |     |
+| ---------------------------- | -------- | --- |
+|                              |          |     |

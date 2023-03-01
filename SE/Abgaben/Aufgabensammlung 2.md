@@ -169,14 +169,14 @@ b: Funktioniert nicht, weil entweder E oder D
 	- --> Erweiterbarkeit
 		- Dadurch, dass zwischen den eben beschriebenen Blöcken keine bzw nur leichte Abhängigkeiten bestehen, kann man das System sehr gut mit neuen Funktionen erweitern.
 	- --> Wiederverwendbarkeit
-		- 
+		- Module können in anderen Systemen wiederverwendet werden
 - Verständlichkeit
 	- --> Erweiterbarkeit
 		- Ist der Code sehr komplex und schwer zu verstehen, hindert es Entwickler daran, den Code effektiv zu verändern
 	- --> Portabilität
 		- Ist der Code schwer zu verstehen, könnte es für Entwickler schwer sein, die Software so anzupassen, dass sie auf einem anderen System läuft
-	- --> Robustheit
-		- Ist der Code schwer zu verstehen, hindert das einen daran, fehler zu finden, was den Code instabil und somit unrobust macht
+	- --> Effizienz
+		- Nur wer den Code versteht, kann ihn Optimieren
 - Kohäsion
 	- --> Effizienz
 		- Klassen mit zu schwacher Kohäsion neigen dazu, Verantwortlichkeiten zu übernehmen, welche sie eigentlich deligieren sollten was die Klasse weniger effizient macht

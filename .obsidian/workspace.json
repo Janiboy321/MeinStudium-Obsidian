@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -163,79 +164,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
-  },
-  "floating": {
-    "id": "084a16bfa121eebf",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a8f0e6034b1609f6",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb9ea4324d0fbd75",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "144382786e645d71",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Software Architektur.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7cee5fbe70cebf50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Use Case.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "97be574f3169aeef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Design Prinzipien.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8015e5a2ad8eb02c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Wartung und Evolution.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 416,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [

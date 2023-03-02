@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpP/Cuda Testat.md",
+                "file": "SE/Software Architektur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpP/Cuda Testat.md",
+                "file": "SE/Software Architektur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpP/Cuda Testat.md"
+                "file": "SE/Software Architektur.md"
               }
             }
           },
@@ -237,8 +237,9 @@
       }
     ]
   },
-  "active": "f71e6da8a5e966c6",
+  "active": "144382786e645d71",
   "lastOpenFiles": [
+    "SpP/Cuda Testat.md",
     "Remarks.md",
     "SE/Anforderungsanalyse.md",
     "SE/Design Prinzipien.md",
@@ -265,7 +266,6 @@
     "SE/Design Patterns.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
-    "SpP/Cuda Testat.md",
     "SE/Screenshots/Bildschirm­foto 2023-02-26 um 15.33.33.png"
   ]
 }

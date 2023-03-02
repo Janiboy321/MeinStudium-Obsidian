@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "cddd27689ea9009f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "7d7e4b27bea83263",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,7 +272,7 @@
       }
     ]
   },
-  "active": "f71e6da8a5e966c6",
+  "active": "cddd27689ea9009f",
   "lastOpenFiles": [
     "SE/Design Prinzipien.md",
     "SE/Software Qualität.md",

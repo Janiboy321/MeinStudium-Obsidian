@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddd27689ea9009f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "7d7e4b27bea83263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SE/Verifikation.md",
+                "file": "SpP/Cuda Testat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SpP/Cuda Testat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Anforderungsanalyse.md",
+                "file": "SpP/Cuda Testat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Anforderungsanalyse.md"
+                "file": "SpP/Cuda Testat.md"
               }
             }
           },
@@ -246,18 +223,6 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "e8e7589f9fb748f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Remarks.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ]
           }
@@ -272,8 +237,10 @@
       }
     ]
   },
-  "active": "cddd27689ea9009f",
+  "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "Remarks.md",
+    "SE/Anforderungsanalyse.md",
     "SE/Design Prinzipien.md",
     "SE/Software Qualität.md",
     "SE/Software Maintenance & Evolution.md",
@@ -284,16 +251,14 @@
     "SE/Wartung und Evolution.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Verifikation.md",
-    "SE/Anforderungsanalyse.md",
     "SE/Software Architektur.md",
-    "Remarks.md",
-    "IMG_8211DC708935-1.jpeg",
-    "IMG_5B575484F5F6-1.jpeg",
-    "IMG_B5E8435C23D6-1.jpeg",
+    "SE/Screenshots/IMG_8211DC708935-1.jpeg",
+    "SE/Screenshots/IMG_5B575484F5F6-1.jpeg",
+    "SE/Screenshots/IMG_B5E8435C23D6-1.jpeg",
     "SE/Use Case.md",
-    "IMG_A2C4CDAF3895-1.jpeg",
-    "Bildschirm­foto 2023-02-27 um 21.30.21.png",
-    "Bildschirm­foto 2023-02-27 um 20.37.05.png",
+    "SE/Screenshots/IMG_A2C4CDAF3895-1.jpeg",
+    "SE/Screenshots/Bildschirm­foto 2023-02-27 um 21.30.21.png",
+    "SE/Screenshots/Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Untitled.md",
     "SE/Abgaben",
     "SE Prüfung 2020.md",
@@ -301,6 +266,6 @@
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
-    "Bildschirm­foto 2023-02-26 um 15.33.33.png"
+    "SE/Screenshots/Bildschirm­foto 2023-02-26 um 15.33.33.png"
   ]
 }

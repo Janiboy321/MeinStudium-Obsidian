@@ -89,3 +89,6 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 - Es kann inaktive Threads geben, wenn ich einen branch hatte, wie mache ihc dann einen Branch?
     - Erst if dann Else
 
+#### Warp Scheduling
+- Normalerweise gibt es mehr warps in einem Multiprocessor, als wirklich gleichzeitig ausgeführt werden können
+- 

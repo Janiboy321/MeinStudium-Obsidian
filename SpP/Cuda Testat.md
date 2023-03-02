@@ -6,11 +6,13 @@
 
 #### Was ist der Unterschied zwischen CPU und GPU?
 - CPU
+	- Wenig große Cores die viel können
 	- Kleinere Anzahl an Prozessoren (~100)
 	- Komplexe Kerne mit Control logic um instruction-level Parallelilismus zu maximieren
 	- Relativ große Menge an Mainmemory pro Kern
 	- Effiziente Betreibung der Caches
 - GPU
+	- Ganz viele kleine Cores die wenig können
 	- Größere Anzahl an Prozessoren (~1000)
 	- Wenig Kontrolllogik
 	- Massive Anzahl an Threads

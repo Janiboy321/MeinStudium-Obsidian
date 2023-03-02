@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SpP/Cuda Testat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Architektur.md",
+                "file": "SpP/Cuda Testat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Architektur.md"
+                "file": "SpP/Cuda Testat.md"
               }
             }
           },
@@ -237,8 +237,9 @@
       }
     ]
   },
-  "active": "144382786e645d71",
+  "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "SE/Software Architektur.md",
     "SpP/Cuda Testat.md",
     "Remarks.md",
     "SE/Anforderungsanalyse.md",
@@ -252,7 +253,6 @@
     "SE/Wartung und Evolution.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Verifikation.md",
-    "SE/Software Architektur.md",
     "SE/Screenshots/IMG_8211DC708935-1.jpeg",
     "SE/Screenshots/IMG_5B575484F5F6-1.jpeg",
     "SE/Screenshots/IMG_B5E8435C23D6-1.jpeg",

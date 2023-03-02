@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Software Qualität.md",
+                "file": "SE/Design Prinzipien.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Software Qualität.md",
+                "file": "SE/Design Prinzipien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Software Qualität.md",
+                "file": "SE/Design Prinzipien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Software Qualität.md"
+                "file": "SE/Design Prinzipien.md"
               }
             }
           },
@@ -263,6 +263,7 @@
   },
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "SE/Software Qualität.md",
     "SE/Design Prinzipien.md",
     "SE/Software Maintenance & Evolution.md",
     "SE/Software Entwicklungs Prozess.md",
@@ -275,7 +276,6 @@
     "SE/Anforderungsanalyse.md",
     "SE/Software Architektur.md",
     "Remarks.md",
-    "SE/Software Qualität.md",
     "IMG_8211DC708935-1.jpeg",
     "IMG_5B575484F5F6-1.jpeg",
     "IMG_B5E8435C23D6-1.jpeg",

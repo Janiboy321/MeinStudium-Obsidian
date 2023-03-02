@@ -193,7 +193,7 @@ Aber: Testen ist heutzutage einer der wichtigsten, wenn nicht sogar die wichtigs
 	- Die Domäne ist eine Sammlung an Werten von welchen input bzw statevariables ausgehen können
 - Bestimmung von Testpoints
 	- Es gibt bestimmte heuristiken
-		- Equivalente Klassen (nur ein Punkt für erwartete equivalente Ergebnise)
+		- Äquivalente Klassen (nur ein Punkt für erwartete equivalente Ergebnise)
 		- Boundary values (min/max von Domäne, pivot von Vergleichen)
 		- Spezielle Werte (z.B. Zeichen mit speziellen Semantiken)
 

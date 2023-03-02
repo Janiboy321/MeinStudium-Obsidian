@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Software Qualität.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Software Qualität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md",
+                "file": "SE/Software Qualität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Abgaben/Aufgabensammlung 2.md"
+                "file": "SE/Software Qualität.md"
               }
             }
           },
@@ -264,17 +263,18 @@
   },
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
-    "SE/Design Techniken.md",
-    "SE/Wartung und Evolution.md",
     "SE/Design Prinzipien.md",
-    "SE/Abgaben/Aufgabensammlung 1.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
+    "SE/Software Maintenance & Evolution.md",
     "SE/Software Entwicklungs Prozess.md",
+    "SE/Domain Modelling.md",
+    "SE/Design Techniken.md",
+    "SE/Abgaben/Aufgabensammlung 2.md",
+    "SE/Wartung und Evolution.md",
+    "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Verifikation.md",
     "SE/Anforderungsanalyse.md",
     "SE/Software Architektur.md",
     "Remarks.md",
-    "SE/Software Maintenance & Evolution.md",
     "SE/Software Qualität.md",
     "IMG_8211DC708935-1.jpeg",
     "IMG_5B575484F5F6-1.jpeg",

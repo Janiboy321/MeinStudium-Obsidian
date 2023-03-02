@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LCOM",
+                "query": "conzi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/Design Techniken.md",
+                "file": "SE/Abgaben/Aufgabensammlung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/Design Techniken.md"
+                "file": "SE/Abgaben/Aufgabensammlung 2.md"
               }
             }
           },
@@ -258,96 +259,21 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "8d8b676225763a04",
-        "type": "window",
-        "children": [
-          {
-            "id": "3ab76666af86909b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8e0f4d3256ac41e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Wartung und Evolution.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 416,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -0.5
-      },
-      {
-        "id": "a6e8631c9eeb7ba1",
-        "type": "window",
-        "children": [
-          {
-            "id": "bf36b15633bbf76f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cb85b822b2209df6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SE/Design Prinzipien.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d828abac01842422",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Remarks.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 416,
-        "y": 25,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": -0.5
       }
     ]
   },
   "active": "f71e6da8a5e966c6",
   "lastOpenFiles": [
+    "SE/Design Techniken.md",
+    "SE/Wartung und Evolution.md",
     "SE/Design Prinzipien.md",
     "SE/Abgaben/Aufgabensammlung 1.md",
     "SE/Abgaben/Aufgabensammlung 2.md",
     "SE/Software Entwicklungs Prozess.md",
-    "SE/Design Techniken.md",
     "SE/Verifikation.md",
     "SE/Anforderungsanalyse.md",
     "SE/Software Architektur.md",
     "Remarks.md",
-    "SE/Wartung und Evolution.md",
     "SE/Software Maintenance & Evolution.md",
     "SE/Software Qualität.md",
     "IMG_8211DC708935-1.jpeg",

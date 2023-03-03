@@ -110,4 +110,11 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 
 #### Compilation Work-Flow
 ![[Bildschirm­foto 2023-03-03 um 11.37.50.png]]
-1. Der C-Code mit CUDA Extension wird 
+1. Der C-Code mit CUDA Extension wird vom NVCC Compiler Kompiliert
+2. Dabei wird der C-Teil (Host Code) vom CUDA-Teil (Device Code) getrennt und auf der jeweiligen Hardware ausgeführt
+- Offline
+	- Compiler seperiert host und device Code
+	- Kompiliert device Code in Assembly
+	- Modifiziert den Host Code indem <<<>>> Syntax duch runtime function calls ersetzte werden
+- Just in time
+	- PTX code welcher von einer Anwendung zur Laufzeit geladen wird, wird vom Device Driver in  

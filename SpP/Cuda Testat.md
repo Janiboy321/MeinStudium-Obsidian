@@ -91,4 +91,20 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 
 #### Warp Scheduling
 - Normalerweise gibt es mehr warps in einem Multiprocessor, als wirklich gleichzeitig ausgeführt werden können
-- 
+
+#### Zero Overhead thread Scheduling
+- Scheduling eines warps ist im wesentlichen instantan weil es in der Hardwar epassiert
+- Die Daten die ich brauche um einen Thread wieder zum leben zu bringen sind in den Registern
+
+#### SIMT performance
+- Ein Warp kann löcher haben
+	- Heißt es gibt inaktive Threads, die eigentlich aktiv sein könnten (Sagt aber nichts über die korrektheit des Programmes aus)
+	- Lösung: Alle Threads die in einem Warp sind, sollten den gleichen ausführungspfad nehmen
+
+#### SIMD vs. SIMT
+- SIMD
+	- Eine Instruktion auf mehrere Datalanes
+	- Benötigt Software die Data Parallelität durch Vektorinstuctionen ausdrückt
+- SIMT
+	- Eine Instruktion parallel auf verschiedenen, unabhängigen Threads
+	- 

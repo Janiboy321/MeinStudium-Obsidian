@@ -107,4 +107,7 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 	- Benötigt Software die Data Parallelität durch Vektorinstuctionen ausdrückt
 - SIMT
 	- Eine Instruktion parallel auf verschiedenen, unabhängigen Threads
-	- 
+
+#### Compilation Work-Flow
+![[Bildschirm­foto 2023-03-03 um 11.37.50.png]]
+1. Der C-Code mit CUDA Extension wird 

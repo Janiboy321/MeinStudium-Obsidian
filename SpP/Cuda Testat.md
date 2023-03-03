@@ -117,4 +117,10 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 	- Kompiliert device Code in Assembly
 	- Modifiziert den Host Code indem <<<>>> Syntax duch runtime function calls ersetzte werden
 - Just in time
-	- PTX code welcher von einer Anwendung zur Laufzeit geladen wird, wird vom Device Driver in  
+	- PTX code welcher von einer Anwendung zur Laufzeit geladen wird, wird vom Device Driver in binary code übersetzt
+
+#### Wie wir ein Kernel ausgeführt?
+1. Speicher auf Device allokieren
+2. Daten werden vom Host zum Device kopiert
+3. CPU sagt GPU was sie ausrechnen soll, indem sie ihr den Code für den Kernel gibt
+4. 

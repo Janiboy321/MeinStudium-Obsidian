@@ -123,4 +123,4 @@ Ein Grid besteht aus mehreren Blöcken, ein Block besteht aus mehreren Elementen
 1. Speicher auf Device allokieren
 2. Daten werden vom Host zum Device kopiert
 3. CPU sagt GPU was sie ausrechnen soll, indem sie ihr den Code für den Kernel gibt
-4. 
+

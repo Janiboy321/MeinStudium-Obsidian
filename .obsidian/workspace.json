@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9c26d321b9f2f853",
+        "id": "ecbe5611efdc7124",
         "type": "tabs",
         "children": [
           {
-            "id": "f71e6da8a5e966c6",
+            "id": "05774f0c9eeafdf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpP/Cuda Testat.md",
+                "file": "Mathe I/Checkliste für die Prüfung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7a40ec0d8052a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe I/Notizen für die Prüfung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpP/Cuda Testat.md",
+                "file": "Mathe I/Notizen für die Prüfung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpP/Cuda Testat.md",
+                "file": "Mathe I/Notizen für die Prüfung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpP/Cuda Testat.md"
+                "file": "Mathe I/Notizen für die Prüfung.md"
               }
             }
           },
@@ -145,14 +157,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "74b42a5680af66ad",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f71e6da8a5e966c6",
+  "active": "5d7a40ec0d8052a0",
   "lastOpenFiles": [
+    "Mathe I/Checkliste für die Prüfung.md",
+    "Mathe I/Notizen für die Prüfung.md",
+    "Untitled.md",
+    "Mathe I",
+    "SpP/Cuda Testat.md",
     "Bildschirm­foto 2023-03-03 um 11.37.50.png",
     "SE/Software Architektur.md",
-    "SpP/Cuda Testat.md",
     "Remarks.md",
     "SE/Anforderungsanalyse.md",
     "SE/Design Prinzipien.md",

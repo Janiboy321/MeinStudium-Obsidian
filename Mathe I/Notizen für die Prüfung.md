@@ -7,6 +7,9 @@ Für eine Gruppe muss folgendes gelten:
 3. Inverses Element
 	Es gibt zu jedem $a \in G$ ein $a' \in G$, sodass gilt: $a \cdot a' = n$ und $a' \cdot a = n$  
 Gilt zusätzlich folgendes, so ist die Gruppe abelsch
-1. Kommutativität (Das macht eine abelsche Gruppe aus)
+4. Kommutativität (Das macht eine abelsche Gruppe aus)
 	Für alle $a, b \in G$ gilt: $a \cdot b = b \cdot a$
-	
+
+##### Was ist ein Ring?
+Ein Ring 
+##### Was ist ein Körper

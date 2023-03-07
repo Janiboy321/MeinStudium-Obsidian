@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7a40ec0d8052a0",
+  "active": "b3f10091f34a7474",
   "lastOpenFiles": [
     "Mathe I/Checkliste für die Prüfung.md",
     "Mathe I/Notizen für die Prüfung.md",

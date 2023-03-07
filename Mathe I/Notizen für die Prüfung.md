@@ -1,5 +1,5 @@
 ##### Was sind Abelsche Gruppen?
-(# abelscheGruppe)
+
 Für eine Gruppe muss folgendes gelten:
 1. Assoziativität
 	Für alle $a, b, c \in G$ gilt: $a \cdot (b \cdot c) = (a \cdot b) \cdot c$
@@ -14,4 +14,5 @@ Gilt zusätzlich folgendes, so ist die Gruppe abelsch
 ##### Was ist ein Ring?
 Ein Ring ist eine _Menge R_ mit zwei Verknüpfungen $+: R \times R \rightarrow R$ und $\cdot : R \times R \rightarrow R$ für die fogendes gilt:
 	1. $(R, +)$ ist eine abelsche Gruppe
+	2. $\forall \space a, b, c \in R$ : $a \cdot (b \cdot c) = $       
 ##### Was ist ein Körper

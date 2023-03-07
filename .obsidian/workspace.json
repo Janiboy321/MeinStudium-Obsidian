@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe I/Checkliste für die Prüfung.md",
+                "file": "Mathe I/Notizen für die Prüfung.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3f10091f34a7474",
+  "active": "05774f0c9eeafdf0",
   "lastOpenFiles": [
     "Mathe I/Checkliste für die Prüfung.md",
     "Mathe I/Notizen für die Prüfung.md",

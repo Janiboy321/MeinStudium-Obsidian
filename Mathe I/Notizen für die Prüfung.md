@@ -1,7 +1,20 @@
 ##### Was ist eine Äquivalenzrelation?
 Eine _Relation R_ ist eine Äquivalenzrelation, wenn folgendes gilt:
 1. Reflexivität
-	1. 
+	Für jedes $x \in X$ gilt: $xRx$
+2. Symmetrie
+	Für alle $x, y \in X$ gilt: $xRy$ und $yRx$
+3. Transitivität
+	Für alle $x, y,z \in X$ gilt: $xRy \land yRz \Rightarrow xRz$ 
+
+##### Was ist eine Ordnungsrelation?
+Eine _Relation R_ ist eine Ordnungsrelation, wenn folgendes gilt:
+1. Reflexivität
+	Für jedes $x \in X$ gilt: $xRx$
+2. Antisymmetrie
+	Für alle $x, y \in X$ für die gilt $xRy$ und $yRx$ folgt, dass $x = y$
+3. Transitivität
+	Für alle $x, y,z \in X$ gilt: $xRy \land yRz \Rightarrow xRz$ 
 
 ##### Was sind Abelsche Gruppen?
 Für eine Gruppe muss folgendes gelten:

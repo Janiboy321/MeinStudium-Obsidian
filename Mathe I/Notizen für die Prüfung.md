@@ -35,4 +35,5 @@ Ein Ring ist eine _Menge R_ mit zwei Verknüpfungen $+: R \times R \rightarrow R
 	3. $\forall \space a, b, c \in R: a \cdot (b + c) = a \cdot b + a \cdot c \text{ und } (a + b) \cdot c = a \cdot c + b \cdot c$ 
 
 ##### Was ist ein Körper
+Ein Körper ist ein Kommutativer Ring mit 
 

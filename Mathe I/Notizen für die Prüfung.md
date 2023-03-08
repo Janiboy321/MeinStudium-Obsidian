@@ -51,5 +51,10 @@ Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Ve
 ##### Was sind komplexe Zahlen?
 
 ##### Was ist eine singuläre Matrix?
+Eine Matrix welche nicht invertierbar ist, also eine Matrix wessen Determinante = 0 ist.
 
+##### Was ist die Euklidische Norm?
+ $||x||_2: \space (1, 2, 3)^T = \sqrt{(1)^2 + (2)^2 + (3)^2}$  
 
+##### Was ist die 1-Norm
+$||x||_1: \space (1, 2, 3)^T = |1|+|2|+|3| = 6_$

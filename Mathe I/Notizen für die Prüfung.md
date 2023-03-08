@@ -57,4 +57,6 @@ Eine Matrix welche nicht invertierbar ist, also eine Matrix wessen Determinante 
  $||x||_2: \space (1, 2, 3)^T = \sqrt{(1)^2 + (2)^2 + (3)^2}$  
 
 ##### Was ist die 1-Norm
-$||x||_1: \space (1, 2, 3)^T = |1|+|2|+|3| = 6_$
+$||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
+
+##### Wie bestimmt man Eigenwerte?

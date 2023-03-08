@@ -48,3 +48,8 @@ Sei $V$ eine Menge und $K$ ein Körper. Weiter seien zwei Verknüpfungen $+:V \t
 ##### Was ist ein Untervektorraum?
 Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Vektorraum ist.
 
+##### Was sind komplexe Zahlen?
+
+##### Was ist eine singuläre Matrix?
+
+

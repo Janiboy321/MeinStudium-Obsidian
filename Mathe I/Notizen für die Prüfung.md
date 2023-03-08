@@ -37,5 +37,13 @@ Ein Ring ist eine _Menge R_ mit zwei Verknüpfungen $+: R \times R \rightarrow R
 ##### Was ist ein Körper
 Ein Körper ist ein Kommutativer Ring mit Einselement, für welchen gilt, dass für jedes $a \in K:a \neq 0$ ein Inverses Element existiert.
 
+##### Was ist ein Vektorraum?
+Sei $V$ eine Menge und $K$ ein Körper. Weiter seien zwei Verknüpfungen $+:V \times V \rightarrow V$ und $\cdot : K \times V \rightarrow V$ gegeben. Die Menge $V$ mit diesen beiden Verknüpfungen heißt dann K-Vektorraum, wenn folgendes erfüllt wird:
+1. $(V, +)$ ist eine abelsche Gruppe
+2. $\forall v \in V : 1 \cdot v = v$
+3. 
+
+
 ##### Was ist ein Untervektorraum?
-Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Vektorraum ist
+Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Vektorraum ist.
+

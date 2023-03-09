@@ -64,7 +64,11 @@ $||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
 2. Davon berechnen wir die Determinante (Diagonalen addieren und Substrahieren, siehe Lösung von Klausur 21/22 Aufgabe 3 a))
 3. Von diesem Ergebnis berechnen wir dann die Nullstellen
 
-##### Wann ist 
+##### Wann ist $A$ diagonalisierbar?
+
+##### Was hat es mit der Form $A = S \cdot D \cdot S^-1$ auf sich?
+
 
 ##### Ist es möglich eine Darstellung für die Matrix  $A$ in der Form $A = S \cdot D \cdot S^-1$ zu finden?
-Wenn $A$ diagonalisierbar ist, ist sie diagonalisierbar ist
+Wenn $A$ diagonalisierbar ist, ist es möglich $A$ so anzugeben.
+

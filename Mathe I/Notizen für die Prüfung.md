@@ -63,3 +63,8 @@ $||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
 1. Man Bildet $A - \lambda \cdot I$ (Also In die Diagonale $-\lambda$ hinzufügen)
 2. Davon berechnen wir die Determinante (Diagonalen addieren und Substrahieren, siehe Lösung von Klausur 21/22 Aufgabe 3 a))
 3. Von diesem Ergebnis berechnen wir dann die Nullstellen
+
+##### Wann ist 
+
+##### Ist es möglich eine Darstellung für die Matrix  $A$ in der Form $A = S \cdot D \cdot S^-1$ zu finden?
+Wenn $A$ diagonalisierbar ist, ist sie diagonalisierbar ist

@@ -59,4 +59,7 @@ Eine Matrix welche nicht invertierbar ist, also eine Matrix wessen Determinante 
 ##### Was ist die 1-Norm
 $||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
 
-##### Wie bestimmt man Eigenwerte?
+##### Wie bestimmt man Eigenwerte von Matrizen?
+1. Man Bildet $A - \lambda \cdot I$ (Also In die Diagonale $-\lambda$ hinzufügen)
+2. Davon berechnen wir die Determinante (Diagonalen addieren und Substrahieren, siehe Lösung von Klausur 21/22 Aufgabe 3 a))
+3. Von diesem Ergebnis berechnen wir dann die Nullstellen

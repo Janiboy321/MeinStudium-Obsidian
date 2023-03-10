@@ -117,12 +117,12 @@ $\text{Zeigen sie, dass } 5^{34} + 3^{15} \text{ durch 13 teilbar ist}$
 $$
 \begin{flalign}
 &5^{34} + 3^{15} \mod 13= 0&  \\
-= \text{ } &(5^2)^{2} +(3^3)^{5} \mod 13 = 0\\
-= \text{ } &(25 \mod 13)^{17} + (27 \mod 13)^{5} \mod 13=0 \\
-= \text{ } &(-1)^{17} + (1)^5 \mod 13 = 0 \\
-= \text{ } &(-1) + (1) \mod 13 = 0 \\
-= \text{ } &0 \mod 13 = 0 \\
-\Rightarrow &\text{Wird durch 13 geteilt}
+&= \text{ } (5^2)^{2} +(3^3)^{5} \mod 13 = 0\\
+&= \text{ } (25 \mod 13)^{17} + (27 \mod 13)^{5} \mod 13=0 \\
+&= \text{ } (-1)^{17} + (1)^5 \mod 13 = 0 \\
+&= \text{ } (-1) + (1) \mod 13 = 0 \\
+&= \text{ } 0 \mod 13 = 0 \\
+&\Rightarrow \text{Wird durch 13 geteilt}
 \end{flalign}
 $$
 Hinweis: Versuche die Exponenten Schrittweise so zu erhöhen, dass innerhalb der Klammer eine 1 oder eine -1 steht.

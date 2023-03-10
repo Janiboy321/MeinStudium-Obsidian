@@ -49,6 +49,7 @@ Sei $V$ eine Menge und $K$ ein Körper. Weiter seien zwei Verknüpfungen $+:V \t
 Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Vektorraum ist.
 
 ##### Was sind komplexe Zahlen?
+# Auszufüllen
 
 ##### Was ist eine singuläre Matrix?
 Eine Matrix welche nicht invertierbar ist, also eine Matrix wessen Determinante = 0 ist.
@@ -65,6 +66,10 @@ $||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
 3. Von diesem Ergebnis berechnen wir dann die Nullstellen
 
 ##### Wann ist $A$ diagonalisierbar?
+Vorgehen:
+1. Charakteristisches Polynom bestimmen: Verfällt es nicht vollständig in Linearfaktoren, ist die Matrix nicht Diagonalisierbar
+2. Eigenwerte (Nullstellen berechnen): Wenn $n \times n-$Matrix weniger als $n$ Nullstellen hat, ist die Matrix nicht diagonalisierbar
+3. 
 
 ##### Was hat es mit der Form $A = S \cdot D \cdot S^-1$ auf sich?
 

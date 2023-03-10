@@ -16,7 +16,8 @@ Eine _Relation R_ ist eine Ordnungsrelation, wenn folgendes gilt:
 3. Transitivität
 	Für alle $x, y,z \in X$ gilt: $xRy \land yRz \Rightarrow xRz$ 
 
-##### Was ist ein Homomorphismus?
+##### Was ist ein Gruppenhomomorphismus?
+Wir haben zwei Gruppen $(G, \circ)$ und $(H, *)$ und die Abbildund $\Gamma$      
 
 
 ##### Was sind Abelsche Gruppen?

@@ -95,11 +95,19 @@ Wenn $A$ diagonalisierbar ist, ist es möglich $A$ so anzugeben.
 
 ##### Wie funktioniert der Euklidische Algorythmus?
 $$
+\begin{gather} 
+\text\\
 \begin{array} {rr} 
 a & b & a|b \\
-2307 & 1099 & 2 \\
-1099 &  &  \\ 
-&  &  \\
+1242 & 384 & 3 \\
+384 & 90 & 3 \\ 
+90 & 24 & 3 \\
+24 & 18 & 1 \\
+18 & 6 & 3 \\
+6 & 0
 \end{array}
+\end{gather}
+
 $$
+
 

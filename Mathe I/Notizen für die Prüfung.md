@@ -96,7 +96,8 @@ Wenn $A$ diagonalisierbar ist, ist es möglich $A$ so anzugeben.
 ##### Wie funktioniert der Euklidische Algorythmus?
 $$
 \begin{gather} 
-\text\\
+\text{Beispiel aus Matheprüfung W21/22} \\ 
+
 \begin{array} {rr} 
 a & b & a|b \\
 1242 & 384 & 3 \\
@@ -107,7 +108,12 @@ a & b & a|b \\
 6 & 0
 \end{array}
 \end{gather}
+$$
+1. Fülle die Werte in die erste Zeile, wobei $a$ und $b$ die Werte sind und $a|b$ wie oft $b$ in $a$ passt
+2. Ab jetzt ist $a = vorherigeZeile(b)$ und $b = a - (b \cdot a|b)$ der vorherigen Zeile
+3. Sobald $b = 0$, hat man den ggT von $a$ und $b$
 
+##### Wie kann man beweisen, ob eine Zahl durch eine andere Teilbar ist?
 $$
 
-
+$$

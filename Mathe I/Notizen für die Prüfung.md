@@ -17,8 +17,11 @@ Eine _Relation R_ ist eine Ordnungsrelation, wenn folgendes gilt:
 	Für alle $x, y,z \in X$ gilt: $xRy \land yRz \Rightarrow xRz$ 
 
 ##### Was ist ein Gruppenhomomorphismus?
-Wir haben zwei Gruppen $(G, \circ)$ und $(H, *)$ und die Abbildund $\Gamma$      
+Wir haben zwei Gruppen $(G, \circ)$ und $(H, *)$. Eine Abildung $f: G \rightarrow H$ heißt dann Gruppenhomomorphismus, wenn gilt:
+	$f(g_1 * g_2) = f(g_1) \circ f(g_2) \text{ für alle } g1, g2 \in G$
 
+##### Was ist ein Gruppenisomorphismus?
+Ein bijektiver Gruppenhomomorphismus
 
 ##### Was sind Abelsche Gruppen?
 Für eine Gruppe muss folgendes gelten:

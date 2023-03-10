@@ -93,3 +93,9 @@ Vorgehen:
 ##### Ist es möglich eine Darstellung für die Matrix  $A$ in der Form $A = S \cdot D \cdot S^-1$ zu finden?
 Wenn $A$ diagonalisierbar ist, ist es möglich $A$ so anzugeben.
 
+##### Wie funktioniert der Euklidische Algorythmus?
+$$
+\begin{array} {rr} a & b & a|b \\  &  &  \\   &  &  \\ \hline  &  &  \\
+\end{array}
+$$
+

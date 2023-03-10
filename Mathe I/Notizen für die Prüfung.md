@@ -65,6 +65,17 @@ $||x||_1 : \space (1, 2, 3)^T = |1|+|2|+|3| = 6$
 2. Davon berechnen wir die Determinante (Diagonalen addieren und Substrahieren, siehe Lösung von Klausur 21/22 Aufgabe 3 a))
 3. Von diesem Ergebnis berechnen wir dann die Nullstellen
 
+##### Was ist die algebraische Vielfachheit einer Matrix?
+$$
+\begin{pmatrix}
+4 & 2 & 2 \\
+-1 & 1 & -1 \\
+3 & 3 & 5
+\end{pmatrix}
+\Rightarrow \lambda
+$$
+
+
 ##### Wann ist $A$ diagonalisierbar?
 Vorgehen:
 1. Charakteristisches Polynom bestimmen: Verfällt es nicht vollständig in Linearfaktoren, ist die Matrix nicht Diagonalisierbar

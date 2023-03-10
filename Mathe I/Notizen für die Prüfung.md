@@ -72,15 +72,20 @@ $$
 -1 & 1 & -1 \\
 3 & 3 & 5
 \end{pmatrix}
-\Rightarrow \lambda
-$$
+\begin{matrix}
+\lambda_1 = 2 \\
+\lambda_2 = 2 \\
+\lambda_3 =6
+\end{matrix}
 
+$$
+Diese Matrix hat die Eiegnwerte 2, 2 und 6. Da der Eigenwert 2 zweimal vorhanden ist, hat die Matrix eine maximale Vielfachheit von 2, und eine minimale Vielfachheit von 1, da es den anderen Eigenwert nur einmal gibt. Eine $3 \times 3$-Matrix, welche drei verschiedene eigenwerte hat, hat also eine Vielfachheit von 3.
 
 ##### Wann ist $A$ diagonalisierbar?
 Vorgehen:
 1. Charakteristisches Polynom bestimmen: Verfällt es nicht vollständig in Linearfaktoren, ist die Matrix nicht Diagonalisierbar
 2. Eigenwerte (Nullstellen berechnen): Wenn $n \times n-$Matrix weniger als $n$ Nullstellen hat, ist die Matrix nicht diagonalisierbar
-3. 
+3. Die algebraische Vielfachheit der Matrix muss der vielfachheit der Nullstellen entsprechen
 
 ##### Was hat es mit der Form $A = S \cdot D \cdot S^-1$ auf sich?
 

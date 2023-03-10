@@ -16,6 +16,9 @@ Eine _Relation R_ ist eine Ordnungsrelation, wenn folgendes gilt:
 3. Transitivität
 	Für alle $x, y,z \in X$ gilt: $xRy \land yRz \Rightarrow xRz$ 
 
+##### Was ist ein Homomorphismus?
+
+
 ##### Was sind Abelsche Gruppen?
 Für eine Gruppe muss folgendes gelten:
 1. Assoziativität
@@ -48,8 +51,8 @@ Sei $V$ eine Menge und $K$ ein Körper. Weiter seien zwei Verknüpfungen $+:V \t
 ##### Was ist ein Untervektorraum?
 Der Untervektorraum ist eine Teilmenge des Vektorraums, die selbst wieder ein Vektorraum ist.
 
-##### Was sind komplexe Zahlen?
-# Auszufüllen
+##### Was ist der Körper der komplexen Zahlen?
+$(\mathbb{R}^2, \bigoplus, \bigodot)$
 
 ##### Was ist eine singuläre Matrix?
 Eine Matrix welche nicht invertierbar ist, also eine Matrix wessen Determinante = 0 ist.

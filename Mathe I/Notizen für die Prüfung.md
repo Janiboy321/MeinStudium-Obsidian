@@ -94,10 +94,9 @@ Vorgehen:
 Wenn $A$ diagonalisierbar ist, ist es möglich $A$ so anzugeben.
 
 ##### Wie funktioniert der Euklidische Algorythmus?
+Beispiel aus Matheprüfung W21/22
+$\text{Was ist der ggT von 1242 und 384?}$
 $$
-\begin{gather} 
-\text{Beispiel aus Matheprüfung W21/22} \\ 
-
 \begin{array} {rr} 
 a & b & a|b \\
 1242 & 384 & 3 \\
@@ -107,13 +106,17 @@ a & b & a|b \\
 18 & 6 & 3 \\
 6 & 0
 \end{array}
-\end{gather}
 $$
 1. Fülle die Werte in die erste Zeile, wobei $a$ und $b$ die Werte sind und $a|b$ wie oft $b$ in $a$ passt
 2. Ab jetzt ist $a = vorherigeZeile(b)$ und $b = a - (b \cdot a|b)$ der vorherigen Zeile
 3. Sobald $b = 0$, hat man den ggT von $a$ und $b$
 
 ##### Wie kann man beweisen, ob eine Zahl durch eine andere Teilbar ist?
+Beispiel aus Matheprüfung W21/22:
+$\text{Zeigen sie, dass } 5^{34} + 3^{15} \text{ durch 13 teilbar ist}$
 $$
-
+\begin{flalign}
+& &5^{34} + 3^{15} \mod 13 = 0  \\
+& = ()
+\end{flalign}
 $$

@@ -132,4 +132,8 @@ $$
 &\Rightarrow \text{Wird durch 13 geteilt}
 \end{flalign}
 $$
-Hinweis: Versuche die Exponenten Schrittweise so zu erhöhen, dass innerhalb der Klammer eine 1 oder eine -1 steht.
+Hinweis: Versuche die Exponenten Schrittweise so zu erhöhen, dass innerhalb der Klammer eine 1 oder eine -1 steht
+
+##### Was ist ein Erzeugendensystem?
+
+##### Was bedeutet ein Isomorphismus?

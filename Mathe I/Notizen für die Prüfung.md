@@ -188,4 +188,7 @@ $$
 ##### Wie bestimmt man den Kern einer Linearen Abbildung?
 Abbildung $\overset{!}{=}$ 0
 
+##### Was ist ein Untervektorraum?
+$\text{(K-)Vektorraum }(V, +, \cdot) \space \space \space \space \space u \subset V$ 
+$u \text{ist Untervektorraum,falls}$
 ##### Was bedeutet lineare Abhängigkeit?

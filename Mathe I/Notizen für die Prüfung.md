@@ -200,3 +200,9 @@ $$
 $$
 
 ##### Was bedeutet lineare Abhängigkeit?
+
+##### Wie kann ich in der Prüfung Beweisen, dass ein Vektrorrazm ein Untervektorraum ist?
+1. Zuerst wollen wir die Vektorräume in ein Vektor mal Matrixprodukt umschreiben:
+$$
+u=\{x \in \mathbb{R}^2: X_\}
+$$

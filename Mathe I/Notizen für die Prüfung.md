@@ -137,3 +137,9 @@ Hinweis: Versuche die Exponenten Schrittweise so zu erhöhen, dass innerhalb der
 ##### Was ist ein Erzeugendensystem?
 
 ##### Was bedeutet ein Isomorphismus?
+
+##### Wie funktioniert ein Unterbestimmtes Gleichungssystem?
+Beispiel:
+$$
+\begin{}
+$$

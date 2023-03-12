@@ -199,7 +199,8 @@ $$
 \end{align}
 $$
 
-##### Was bedeutet lineare Abhängigkeit?
+##### Wann ist ein Vektor linear unabhängig?
+Wenn man den 0-Vektor nur auf eine einzige Art erzeugen kann, nämlich indem man sie mit 0 multipliziert.
 
 ##### Wie kann ich in der Prüfung Beweisen, dass ein Vektrorrazm ein Untervektorraum ist?
 1. Zuerst wollen wir die Vektorräume in ein 

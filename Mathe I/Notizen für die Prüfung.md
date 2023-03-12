@@ -204,5 +204,10 @@ $$
 ##### Wie kann ich in der Prüfung Beweisen, dass ein Vektrorrazm ein Untervektorraum ist?
 1. Zuerst wollen wir die Vektorräume in ein Vektor mal Matrixprodukt umschreiben:
 $$
-u=\{x \in \mathbb{R}^2: X_\}
+u=\{x \in \mathbb{R}^2: X_1-X_2-X_3\} \Rightarrow 
+\begin{pmatrix} 1 \\ -1 \\ -1 \end{pmatrix}
+$$$$u=\{(u_1, u_2, u_3)^T \in \mathbb{R}^3: \begin{pmatrix} 2u_1+3u_2-u_3 \\ u_1 - 4u_2+3u_3 \end{pmatrix}\} = \begin{pmatrix} 0 \\ 0 \end{pmatrix}\} \Rightarrow \begin{pmatrix} 2 & 3 & -1  \\ 1 & -4 & 3 \end{pmatrix} \cdot \begin{pmatrix} u_1 \\ u_2 \\ u_3 \end{pmatrix} = \begin{pmatrix} 0 \\0 \end{pmatrix}$$
+$$
+u=\{x, y, c \in \mathbb{C}:x = 2y =3z\} \Rightarrow 
+\begin{matrix}x=2y \\ x=3z \end{matrix} \Rightarrow \begin{matrix} \end{matrix}
 $$

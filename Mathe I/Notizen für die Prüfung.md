@@ -184,3 +184,8 @@ $$
 \end{pmatrix}
 , t \in \mathbb{R}
 $$
+
+##### Wie bestimmt man den Kern einer Linearen Abbildung?
+Abbildung $\overset{!}{=}$ 0
+
+##### 

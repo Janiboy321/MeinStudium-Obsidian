@@ -199,10 +199,12 @@ $$
 \end{align}
 $$
 
-##### Wann ist ein Vektor linear unabhängig?
-Wenn man den 0-Vektor nur auf eine einzige Art erzeugen kann, nämlich indem man sie mit 0 multipliziert.
+##### Wann sin Vektoren $(\vec{V_1},..., \vec{V_n})$ linear unabhängig?
+Wenn man den Nullvektor mit den Vektoren nur erzeugen kann, indem man sie mit 0 multipliziert
 
-##### Wie könnte man herausfinden, ob ein Vektor und welcher linear Unabhängig ist?![[IMG_A5564A7C745D-1 1.jpeg]]
+##### Wie könnte man herausfinden, ob ein Vektor und welcher linear Unabhängig ist?
+
+
 
 ##### Wie kann ich in der Prüfung Beweisen, dass ein Vektrorrazm ein Untervektorraum ist?
 1. Zuerst wollen wir die Vektorräume in ein 

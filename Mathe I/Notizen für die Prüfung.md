@@ -188,4 +188,4 @@ $$
 ##### Wie bestimmt man den Kern einer Linearen Abbildung?
 Abbildung $\overset{!}{=}$ 0
 
-##### 
+##### Was bedeutet lineare Abhängigkeit?

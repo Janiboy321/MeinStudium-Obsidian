@@ -188,7 +188,15 @@ $$
 ##### Wie bestimmt man den Kern einer Linearen Abbildung?
 Abbildung $\overset{!}{=}$ 0
 
-##### Was ist ein Untervektorraum?
-$\text{(K-)Vektorraum }(V, +, \cdot) \space \space \space \space \space u \subset V$ 
-$u \text{ist Untervektorraum,falls}$
+##### Was ist ein Untervektorraum? 
+$$
+\begin{align}
+&\text{(K-)Vektorraum }(V, +, \cdot) \space \space \space \space \space u \subset V \\\\
+&u \text{ ist Untervektorraum, falls:} \\
+&(1) \space 0 \in u \\
+&(2) \space x, y \in u \Rightarrow x + y \in u \\
+&(3) \space x \in u, \lambda \in K \Rightarrow \lambda \cdot x \in U
+\end{align}
+$$
+
 ##### Was bedeutet lineare Abhängigkeit?

@@ -140,6 +140,25 @@ Hinweis: Versuche die Exponenten Schrittweise so zu erhöhen, dass innerhalb der
 
 ##### Wie funktioniert ein Unterbestimmtes Gleichungssystem?
 Beispiel:
-$$
-\begin{}
-$$
+| x   | y   | z   | b   |
+| --- | --- | --- | --- |
+| 2   | -6  | 5   | 7   |
+| -3  | 9   | -1  | 9   |
+$\rightarrow$ Da wir eine Variable mehr haben, als wir Zeilen haben, fügen wir eine Nullzeile hinzu (Wenn man schon eine Nullzeile hat, hat man auch ein unterbestimmtes Gleichungssystem)
+| a   | b   | c   | b   |
+| --- | --- | --- | --- |
+| 2   | -6  | 5   | 7   |
+| -3  | 9   | -1  | 9   |
+| 0   | 0   | 0   | 0   | 
+$\rightarrow$ Jetzt wollen wir das Typische 0er Treppchen erreichen
+| a   | b   | c   | b   |                 |
+| --- | --- | --- | --- | --------------- |
+| 2   | -6  | 5   | 7   |                 |
+| -3  | 9   | -1  | 9   | $3 I \cdot 2II$ |     |
+| 0   | 0   | 0   | 0   |                 |
+| a   | b   | c   | b   |                 |
+| --- | --- | --- | --- |             |
+| 2   | -6  | 5   | 7   |                 |
+| 0   | 0   | 13  | 39  |                 |
+| 0   | 0   | 0   | 0   |§§                 |
+$\rightarrow$

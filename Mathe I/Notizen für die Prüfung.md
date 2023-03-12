@@ -151,14 +151,36 @@ $\rightarrow$ Da wir eine Variable mehr haben, als wir Zeilen haben, fügen wir 
 | -3  | 9   | -1  | 9   |
 | 0   | 0   | 0   | 0   | 
 $\rightarrow$ Jetzt wollen wir das Typische 0er Treppchen erreichen
-| a   | b   | c   | b   |                 |
-| --- | --- | --- | --- | --------------- |
-| 2   | -6  | 5   | 7   |                 |
-| -3  | 9   | -1  | 9   | $3 I \cdot 2II$ |     |
-| 0   | 0   | 0   | 0   |                 |
-| a   | b   | c   | b   |                 |
-| --- | --- | --- | --- |             |
-| 2   | -6  | 5   | 7   |                 |
-| 0   | 0   | 13  | 39  |                 |
-| 0   | 0   | 0   | 0   |§§                 |
-$\rightarrow$
+| a   | b   | c   | b   |                                         |
+| --- | --- | --- | --- | --------------------------------------- |
+| 2   | -6  | 5   | 7   |                                         |
+| -3  | 9   | -1  | 9   | $3 I \cdot 2II$                         |          
+| 0   | 0   | 0   | 0   |                                         |
+| a   | b   | c   | b   |                                         |
+| --- | --- | --- | --- |                                         |
+| 2   | -6  | 5   | 7   | $2x-6t+5z=7 ⇒ 2x=-8+6t / :2 ⇒ x=-4+3t$ |
+| 0   | 0   | 13  | 39  | $13z = 39 :13 ⇒ z=3$                       |
+| 0   | 0   | 0   | 0   | $\Rightarrow y=t$                       |     
+$\rightarrow$ Jetzt können wir unsere Matrix
+$$
+\vec{b}=
+\begin{pmatrix}
+x \\ y \\ z
+\end{pmatrix}
+=
+\begin{pmatrix}
+-4+3t \\ t \\ 3
+\end{pmatrix}
+$$
+so umformen, dass wir alles was mit t zu tun hat, in eine weitere Matrix packen
+$$
+\Rightarrow \vec{b} =
+\begin{pmatrix}
+-4 \\ 0 \\ 3
+\end{pmatrix}
++t
+\begin{pmatrix}
+3 \\ 1 \\ 0
+\end{pmatrix}
+, t \in \mathbb{R}
+$$

@@ -212,3 +212,5 @@ Wenn man den Nullvektor mit den Vektoren nur erzeugen kann, indem man sie mit 0 
 2. Möglicherweise haben wir etwas, was mit 0 gleichgesetzt ist oder etwas, was garnicht gleichgesetzt ist, also entweder den Kern eines Vektorraumes oder ein Bild
 3. Das der Kern, bzw das Bild ein Untervektrorraum ist, haben wir in der Vorlesung bewiesen
 
+##### Was gilt für Basen?
+- Vektoren von Basen sind immer linear unabhängig

@@ -206,7 +206,7 @@ Wenn man den Nullvektor mit den Vektoren nur erzeugen kann, indem man sie mit 0 
 
 
 
-##### Wie kann ich. möglicherweise in der Prüfung Beweisen, dass ein Vektrorraum ein Untervektorraum ist?
+##### Wie kann ich. möglicherweise in der Prüfung Beweisen, dass ein Vektrorrau<m ein Untervektorraum ist?
 1. Zuerst wollen wir die Vektorräume in ein 
    Vektor$\cdot$Matrixprodukt umschreiben:![[IMG_258A7E538FC5-1.jpeg]]
 2. Möglicherweise haben wir etwas, was mit 0 gleichgesetzt ist oder etwas, was garnicht gleichgesetzt ist, also entweder den Kern eines Vektorraumes oder ein Bild

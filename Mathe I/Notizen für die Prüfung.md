@@ -214,3 +214,4 @@ Wenn man den Nullvektor mit den Vektoren nur erzeugen kann, indem man sie mit 0 
 
 ##### Was gilt für Basen?
 - Vektoren von Basen sind immer linear unabhängig
+- 

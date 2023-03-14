@@ -214,4 +214,7 @@ Wenn man den Nullvektor mit den Vektoren nur erzeugen kann, indem man sie mit 0 
 
 ##### Was gilt für Basen?
 - Vektoren von Basen sind immer linear unabhängig
-- 
+
+##### Was muss für eine Orthogonalbasis gelten?
+- Länge der Vektoren = 1 ($d = \sqrt{x^2+y^2+z^2} = 1$)
+- Skalarprodukt aller Vektoren miteinander = 0 ($a | b = x_a \cdot x_b + y_a \cdot y_b + z_a \cdot z_b = 0$)

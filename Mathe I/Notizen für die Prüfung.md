@@ -1,4 +1,4 @@
- ##### Was ist eine Äquivalenzrelation?
+‘ ##### Was ist eine Äquivalenzrelation?
 Eine _Relation R_ ist eine Äquivalenzrelation, wenn folgendes gilt:
 1. Reflexivität
 	Für jedes $x \in X$ gilt: $xRx$

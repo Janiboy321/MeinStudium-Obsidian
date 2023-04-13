@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "683f5d3c46a8867b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe II/Konvergenz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Einführung.md",
+                "file": "Mathe II/Konvergenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Einführung.md",
+                "file": "Mathe II/Konvergenz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Einführung.md"
+                "file": "Mathe II/Konvergenz.md"
               }
             }
           },
@@ -172,17 +185,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5da63d1cd82a99b",
+  "active": "683f5d3c46a8867b",
   "lastOpenFiles": [
-    "SE/Anforderungsanalyse.md",
+    "Untitled.md",
+    "Mathe II/Konvergenz.md",
+    "Mathe II",
     "AUD/Einführung.md",
+    "SE/Anforderungsanalyse.md",
     "AUD",
     "Mathe I/Notizen für die Prüfung.md",
     "IMG_A5564A7C745D-1 1.jpeg",
     "IMG_A5564A7C745D-1.jpeg",
     "IMG_258A7E538FC5-1.jpeg",
     "Mathe I/Checkliste für die Prüfung.md",
-    "Untitled.md",
     "Mathe I",
     "SpP/Cuda Testat.md",
     "Bildschirm­foto 2023-03-03 um 11.37.50.png",

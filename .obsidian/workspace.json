@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Konvergenz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d89f13353c995f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InfMan/Organisation.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Konvergenz.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Konvergenz.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Konvergenz.md"
+                "file": "AUD/Hausübungen/1. Hausübung.md"
               }
             }
           },
@@ -185,24 +172,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "683f5d3c46a8867b",
   "lastOpenFiles": [
-    "Untitled",
-    "Mathe II/Konvergenz.md",
+    "AUD/Untitled.md",
+    "AUD/Hausübungen/1. Hausübung.md",
+    "AUD/Hausübungen",
+    "AUD/Einführung.md",
+    "SpP/MPI Testat.md",
+    "SpP/Message-passing mit MPI.md",
+    "SpP/Cuda Testat.md",
+    "SpP/Bildschirm­foto 2023-03-03 um 11.37.50.png",
+    "Mathe I/IMG_A5564A7C745D-1 1.jpeg",
+    "Mathe I/IMG_258A7E538FC5-1.jpeg",
+    "Mathe I/IMG_A5564A7C745D-1.jpeg",
     "InfMan/Organisation.md",
+    "Mathe II/Konvergenz.md",
+    "Untitled",
     "InfMan",
     "Mathe II",
-    "AUD/Einführung.md",
     "SE/Anforderungsanalyse.md",
     "AUD",
     "Mathe I/Notizen für die Prüfung.md",
-    "IMG_A5564A7C745D-1 1.jpeg",
-    "IMG_A5564A7C745D-1.jpeg",
-    "IMG_258A7E538FC5-1.jpeg",
     "Mathe I/Checkliste für die Prüfung.md",
     "Mathe I",
-    "SpP/Cuda Testat.md",
-    "Bildschirm­foto 2023-03-03 um 11.37.50.png",
     "SE/Software Architektur.md",
     "Remarks.md",
     "SE/Design Prinzipien.md",
@@ -224,9 +216,6 @@
     "SE/Screenshots/Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Untitled.md",
     "SE/Abgaben",
-    "SE Prüfung 2020.md",
-    "SE/Design Patterns.md",
-    "SpP/MPI Testat.md",
-    "SpP/Message-passing mit MPI.md"
+    "SE Prüfung 2020.md"
   ]
 }

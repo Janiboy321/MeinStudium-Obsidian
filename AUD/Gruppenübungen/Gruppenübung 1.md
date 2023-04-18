@@ -14,4 +14,7 @@ Wir sagen, dass ein Algorithmus _terminiert_, wenn er für jede _Eingabe_ nur _e
 2) Laufzeit, Ressourcennutzung, korrektheit, Parallelisierung, wiederverwendbarkeit, modularität, usw.
 
 #### G3
-**Algorithmus 1:** Der erste Algorithmus checkt zuerst, ob die gegebene Array aufsteigend Sortiert ist. Ist der das nicht, werden alle Nachbarn miteinander vertauscht
+**Algorithmus 1:** Der erste Algorithmus checkt zuerst, ob die gegebene Array aufsteigend Sortiert ist. Ist der das nicht, werden alle Nachbarn miteinander vertauscht. 
+Der Algorithmus ist Determinierend und ein Determinismus. Er Terminiert. Er ist Korrekt, aber nicht Effizient, da alle Elemente gedreht werden und nicht nur die, die auch falsch sortiert sind
+
+**Algorithmus 2:** Der zweite Algorithus

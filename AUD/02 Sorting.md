@@ -11,4 +11,11 @@ Eine totale Ordnung ist eine Relation für die gilt:
 4. Total $\forall x, y \in M: x \leq y \lor y \leq x$
 
 #### Insertion Sort
+Beim Insertion Sort nimmt man ein Element aus einer Reihe und fügt es an die Richtige stelle ein. (Beispiel mit Karten nach Helligkeit Sortieren)
 
+###### Korrektheit
+_Beispiel aus Vorlesung:_
+Schleifeninvariante:
+	Bei jedem Eintritt für Zählerwert **i** (und nach letzter Ausführung) entsprechen die aktuellen Einträge in **A[0], ..., A[i-1]** den sortierten ursprünglichen Eingabewerten a[0], ..., a[i-1]. Ferner gilt **A[i] = a[i], ..., A[n-1] = a[n-1]**
+
+In der Vorlesung wurde ein Algorithmus (passend zur Schleifeninvariante) vorgestellt und mithilfe der Induktion wurde dessen Korrektheit bewiesen:

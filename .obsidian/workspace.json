@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a434b0a46e942c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUD/Gruppenübungen/Gruppenübung 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "AUD/Gruppenübungen/Gruppenübung 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "AUD/Gruppenübungen/Gruppenübung 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md"
+                "file": "AUD/Gruppenübungen/Gruppenübung 1.md"
               }
             }
           },
@@ -172,10 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "683f5d3c46a8867b",
+  "active": "7a434b0a46e942c1",
   "lastOpenFiles": [
-    "AUD/Untitled.md",
     "AUD/Hausübungen/1. Hausübung.md",
+    "AUD/Gruppenübungen/Gruppenübung 1.md",
+    "AUD/Gruppenübungen",
+    "AUD/Untitled.md",
     "AUD/Hausübungen",
     "AUD/Einführung.md",
     "SpP/MPI Testat.md",
@@ -215,7 +230,6 @@
     "SE/Screenshots/Bildschirm­foto 2023-02-27 um 21.30.21.png",
     "SE/Screenshots/Bildschirm­foto 2023-02-27 um 20.37.05.png",
     "SE/Untitled.md",
-    "SE/Abgaben",
-    "SE Prüfung 2020.md"
+    "SE/Abgaben"
   ]
 }

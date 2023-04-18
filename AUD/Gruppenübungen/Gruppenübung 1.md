@@ -16,7 +16,8 @@ _, __ und __ ist. Ein Algorithmus  erfüllt das Kriterium der _determiniertheit_
 Lösung: Varianz der Laufzeit, größe des Algorithmus, parallelisierbarkeit, anzahl Quelltext
 
 #### G3
-**Algorithmus 1:** Der erste Algorithmus checkt zuerst, ob die gegebene Array aufsteigend Sortiert ist. Ist der das nicht, werden alle Nachbarn miteinander vertauscht. 
-Der Algorithmus ist Determinierend und ein Determinismus. Er Terminiert. Er ist Korrekt, aber nicht Effizient, da alle Elemente gedreht werden und nicht nur die, die auch falsch sortiert sind
+**Algorithmus 1:** Der erste Algorithmus checkt zuerst, ob die gegebene Array aufsteigend Sortiert ist. Ist der das nicht, werden zufällig zwei Elemente vertauscht. 
+Der Algorithmus ist nicht Determinierend und kein Determinisumus. Er Terminiert nicht aber ist Korrekt, und nicht Effizient, da alle Elemente zufällig miteinander vertauscht werden
 
-**Algorithmus 2:** Der zweite Algorithus
+**Algorithmus 2:** Der Algorithmus überprüft ob die eingabe eine Primzahl ist. Determiniert, Determinismus, korrektheit ist nicht gegeben, da Zwei eine Primzahl ist, der Algorithmus aber false zurück geben würde. Der Algorithmus terminiert aber ist nicht effizient, da man beim Checken für Primzahlen nur bis zur Wurzel der Zahl checken muss
+

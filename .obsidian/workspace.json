@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/Notizen/Rekursion.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Notizen/Rekursion.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Notizen/Rekursion.md",
+                "file": "AUD/Hausübungen/1. Hausübung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Notizen/Rekursion.md"
+                "file": "AUD/Hausübungen/1. Hausübung.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "a9cbd807b3781ccc",
   "lastOpenFiles": [
-    "AUD/Untitled.canvas",
     "AUD/Notizen/Rekursion.md",
+    "AUD/Untitled.canvas",
     "AUD/Notizen",
     "AUD/02 Sorting.md",
     "Untitled",

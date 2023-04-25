@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40b0e3ded01f8934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUD/Gruppenübungen/Gruppenübung 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "AUD/Gruppenübungen/Gruppenübung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "AUD/Gruppenübungen/Gruppenübung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md"
+                "file": "AUD/Gruppenübungen/Gruppenübung 2.md"
               }
             }
           },
@@ -197,14 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9cbd807b3781ccc",
+  "active": "40b0e3ded01f8934",
   "lastOpenFiles": [
+    "AUD/Hausübungen/1. Hausübung.md",
+    "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Notizen/Rekursion.md",
     "AUD/Untitled.canvas",
     "AUD/Notizen",
     "AUD/02 Sorting.md",
     "Untitled",
-    "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Gruppenübungen/Gruppenübung 1.md",
     "APL/1. Hausübung.md",
     "APL",

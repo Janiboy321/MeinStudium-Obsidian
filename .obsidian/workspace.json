@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b52fa611655a021",
+        "id": "90144d2057d2137b",
         "type": "tabs",
         "children": [
           {
-            "id": "683f5d3c46a8867b",
+            "id": "f8118b25f4a3197a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a434b0a46e942c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUD/Gruppenübungen/Gruppenübung 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9cbd807b3781ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40b0e3ded01f8934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "InfMan/Zusammenfassungen/28.04.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "InfMan/Zusammenfassungen/28.04.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md",
+                "file": "InfMan/Zusammenfassungen/28.04.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/1. Hausübung.md"
+                "file": "InfMan/Zusammenfassungen/28.04.2023.md"
               }
             }
           },
@@ -210,26 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b0e3ded01f8934",
+  "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
-    "Hausuebung_1.pdf.sb-66d93f26-mq00rg",
+    "AUD/Hausübungen/1. Hausübung.md",
+    "AUD/Gruppenübungen/Gruppenübung 1.md",
+    "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.42.08.png",
+    "InfMan/Untitled.md",
+    "InfMan/Screenshots",
+    "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.40.24.png",
+    "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.41.03.png",
+    "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.41.39.png",
     "Hausuebung_1.pdf",
+    "1. Hausübung.pdf",
+    "InfMan/Zusammenfassungen/28.04.2023.md",
+    "InfMan/Zusammenfassungen",
+    "1. Hausübung.pdf.sb-66d93f26-i33JU0",
+    "Hausuebung_1.pdf.sb-66d93f26-mq00rg",
     "AUD/Notizen/Rekursion.md",
     "Mathe II/Konvergenz.md",
     "Mathe I/Notizen für die Prüfung.md",
     "Mathe I/IMG_258A7E538FC5-1.jpeg",
     "Mathe I/Checkliste für die Prüfung.md",
-    "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas",
     "AUD/Notizen",
     "AUD/02 Sorting.md",
     "Untitled",
-    "AUD/Gruppenübungen/Gruppenübung 1.md",
     "APL/1. Hausübung.md",
     "APL",
     "AUD/Gruppenübungen",
-    "AUD/Hausübungen",
     "AUD/Einführung.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
@@ -238,11 +209,7 @@
     "Mathe I/IMG_A5564A7C745D-1 1.jpeg",
     "Mathe I/IMG_A5564A7C745D-1.jpeg",
     "InfMan/Organisation.md",
-    "InfMan",
-    "Mathe II",
     "SE/Anforderungsanalyse.md",
-    "AUD",
-    "Mathe I",
     "SE/Software Architektur.md",
     "Remarks.md",
     "SE/Design Prinzipien.md",
@@ -251,13 +218,7 @@
     "SE/Software Entwicklungs Prozess.md",
     "SE/Domain Modelling.md",
     "SE/Design Techniken.md",
-    "SE/Abgaben/Aufgabensammlung 2.md",
-    "SE/Wartung und Evolution.md",
     "SE/Screenshots/IMG_8211DC708935-1.jpeg",
-    "SE/Screenshots/IMG_5B575484F5F6-1.jpeg",
-    "SE/Screenshots/IMG_B5E8435C23D6-1.jpeg",
-    "SE/Screenshots/IMG_A2C4CDAF3895-1.jpeg",
-    "SE/Screenshots/Bildschirm­foto 2023-02-27 um 21.30.21.png",
-    "SE/Screenshots/Bildschirm­foto 2023-02-27 um 20.37.05.png"
+    "SE/Screenshots/IMG_5B575484F5F6-1.jpeg"
   ]
 }

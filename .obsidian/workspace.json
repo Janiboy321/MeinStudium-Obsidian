@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2ce04c53de8c100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fachschaft/Emails.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe I/Notizen für die Prüfung.md",
+                "file": "Fachschaft/Emails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe I/Notizen für die Prüfung.md",
+                "file": "Fachschaft/Emails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe I/Notizen für die Prüfung.md"
+                "file": "Fachschaft/Emails.md"
               }
             }
           },
@@ -172,8 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
+    "Mathe I/Notizen für die Prüfung.md",
+    "Fachschaft/Emails.md",
+    "Fachschaft",
     "Mathe I/Checkliste für die Prüfung.md",
     "InfMan/Zusammenfassungen/28.04.2023.md",
     "AUD/Hausübungen/1. Hausübung.md",
@@ -191,13 +208,11 @@
     "Hausuebung_1.pdf.sb-66d93f26-mq00rg",
     "AUD/Notizen/Rekursion.md",
     "Mathe II/Konvergenz.md",
-    "Mathe I/Notizen für die Prüfung.md",
     "Mathe I/IMG_258A7E538FC5-1.jpeg",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas",
     "AUD/Notizen",
     "AUD/02 Sorting.md",
-    "Untitled",
     "APL/1. Hausübung.md",
     "APL",
     "AUD/Gruppenübungen",

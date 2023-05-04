@@ -1,8 +1,0 @@
-- Am 27.04 war MensaTalk (StudierendenWerk)
-- Anfrage zum Werbung machen für "Coffee und Cake" am 06.05 (Studienbüro)
-- Anfrage zum Werbung machen für den Digital Impact Hub 2023 (Capgemini)
-- Anfrage zum Werbung machen für die erste Runde des UNITE! Seed Funds am 15.05
-- Anfrage zum Werbung machen für ein Job-Webinar von Jobvector
-- Anfrage zum Werbung machen für den Deutschen Multimedia Preis mb21 (Medien Kultur Zentrum)
-- Anfrage zum Werbung machen für ref2go´s Lehramtstudierenden Stipendium
-- Anfrage Weiterleiten von Umfrage (Jakob Borsich)

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe I/Notizen für die Prüfung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2ce04c53de8c100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fachschaft/Emails.md",
+                "file": "InfMan/Übungen/Übung 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,13 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "bee1a8da0f12fa1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -99,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachschaft/Emails.md",
+                "file": "InfMan/Übungen/Übung 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachschaft/Emails.md",
+                "file": "InfMan/Übungen/Übung 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachschaft/Emails.md"
+                "file": "InfMan/Übungen/Übung 2.md"
               }
             }
           },
@@ -186,17 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
     "Mathe I/Notizen für die Prüfung.md",
+    "InfMan/Übungen/Übung 2.md",
+    "InfMan/Übungen",
     "Fachschaft/Emails.md",
+    "InfMan/Untitled.md",
     "Fachschaft",
     "Mathe I/Checkliste für die Prüfung.md",
     "InfMan/Zusammenfassungen/28.04.2023.md",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Gruppenübungen/Gruppenübung 1.md",
     "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.42.08.png",
-    "InfMan/Untitled.md",
     "InfMan/Screenshots",
     "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.40.24.png",
     "InfMan/Screenshots/Bildschirm­foto 2023-04-28 um 08.41.03.png",
@@ -215,7 +211,6 @@
     "AUD/02 Sorting.md",
     "APL/1. Hausübung.md",
     "APL",
-    "AUD/Gruppenübungen",
     "AUD/Einführung.md",
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
@@ -232,7 +227,6 @@
     "SE/Software Maintenance & Evolution.md",
     "SE/Software Entwicklungs Prozess.md",
     "SE/Domain Modelling.md",
-    "SE/Design Techniken.md",
     "SE/Screenshots/IMG_8211DC708935-1.jpeg",
     "SE/Screenshots/IMG_5B575484F5F6-1.jpeg"
   ]

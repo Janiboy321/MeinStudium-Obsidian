@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -180,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
     "Mathe I/Notizen für die Prüfung.md",
     "InfMan/Übungen/Übung 2.md",

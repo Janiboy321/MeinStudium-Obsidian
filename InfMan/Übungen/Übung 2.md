@@ -1,3 +1,18 @@
+#### Aufgabe 2.1
+a) A(*K*, L), B(*M*, N, *K*)
+b) A(*K*, L), B(*M*, N), C(*O*, P), R(Q, K, *M*, *O*)
+
+#### Aufgabe 2.2
+a) 
+**Superschlüssel**: {T, S}, {T, P}
+**Schlüsselkandidat**: {T, S}, {T, P}
+b)
+**Superschlüssel**:
+{Pers.Nr, Name, Rang, Raum}, {Pers.Nr}
+{Pers.Nr,...}
+
+2. 3
+
 #### Aufgabe 2.4
 - Autor_in(**NR**, Vorname, Nachname)
 - Buch(**ISBN**, Jahr, Titel, Seiten,Verlag_Name)

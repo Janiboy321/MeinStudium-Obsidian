@@ -20,11 +20,12 @@ Schritte:
 1. Abbildung der Entitätstypen auf Relationen
 2. Abbildung der Beziehungtypen auf Entitäten
 3. Zusammenfassen der Relationen
+4. Behandlung von schwachen Entitätstypen
 
 Siehe Musterlösung!
 
 #### Aufgabe 2.5 Realationale Algebra
 
-a) $S = \pi_{\text{ISBN}} (\sigma_{\text{Autor = "Alfons Kemper"}}(\text{Buch} \bowtie \text{AutorIN}))$
-b) $S = \pi_{\text{Unterkategorie}}(\sigma_{\text{Überkategorie = "Informatik"}}(beinhaltet))$
-c)
+a)$S = \pi_{\text{ISBN}} (\sigma_{\text{Nachname = 'Kemper'} \land \text{Nachname = 'Alfons'}}(\text{AutorIn} \bowtie _{Nr = AutorNr} \text{Verfasst}))$b)
+$S = \pi_{\text{Name}}(\sigma_{\text{Überkategorie = "Informatik"}}(Kategorie))$
+c)$S = \pi _\text{Vorname, Nachname} (Benutzer) \cap \pi _\text{Vorname, Nachname}((AutorIn \bowtie _\text{Nr = AutorInNr} Verfasst)$d)

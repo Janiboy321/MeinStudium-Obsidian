@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92f81bb9fc63542a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dilara bestellung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Übungen/Übung 2.md",
+                "file": "Dilara bestellung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Übungen/Übung 2.md",
+                "file": "Dilara bestellung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Übungen/Übung 2.md"
+                "file": "Dilara bestellung.md"
               }
             }
           },
@@ -180,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "92f81bb9fc63542a",
   "lastOpenFiles": [
-    "Mathe I/Notizen für die Prüfung.md",
     "InfMan/Übungen/Übung 2.md",
+    "Dilara bestellung.md",
+    "Mathe I/Notizen für die Prüfung.md",
     "InfMan/Übungen",
     "Fachschaft/Emails.md",
     "InfMan/Untitled.md",
@@ -226,7 +240,6 @@
     "SE/Software Qualität.md",
     "SE/Software Maintenance & Evolution.md",
     "SE/Software Entwicklungs Prozess.md",
-    "SE/Domain Modelling.md",
     "SE/Screenshots/IMG_8211DC708935-1.jpeg",
     "SE/Screenshots/IMG_5B575484F5F6-1.jpeg"
   ]

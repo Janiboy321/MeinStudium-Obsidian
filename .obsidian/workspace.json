@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5f33607e1ea6fb8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92f81bb9fc63542a",
+  "active": "b5f33607e1ea6fb8",
   "lastOpenFiles": [
     "InfMan/Übungen/Übung 2.md",
     "Dilara bestellung.md",

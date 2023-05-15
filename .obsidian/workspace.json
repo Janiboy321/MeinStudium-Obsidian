@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InfMan/Übungen/Übung 2.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "92f81bb9fc63542a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dilara bestellung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5f33607e1ea6fb8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -116,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dilara bestellung.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dilara bestellung.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dilara bestellung.md"
+                "file": "InfMan/Übungen/Übung 3.md"
               }
             }
           },
@@ -203,9 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5f33607e1ea6fb8",
+  "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
     "InfMan/Übungen/Übung 2.md",
+    "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",
     "Mathe I/Notizen für die Prüfung.md",
     "InfMan/Übungen",
@@ -249,7 +228,6 @@
     "SE/Design Prinzipien.md",
     "SE/Software Qualität.md",
     "SE/Software Maintenance & Evolution.md",
-    "SE/Software Entwicklungs Prozess.md",
     "SE/Screenshots/IMG_8211DC708935-1.jpeg",
     "SE/Screenshots/IMG_5B575484F5F6-1.jpeg"
   ]

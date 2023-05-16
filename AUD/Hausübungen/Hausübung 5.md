@@ -1,0 +1,12 @@
+### H1 a)
+![[Hausuebung 5.svg]]
+![[Hausuebung 5(1).svg]]
+![[Hausuebung 5(2).svg]]
+![[Hausuebung 5(3).svg]]
+![[Hausuebung 5(4).svg]]
+![[Hausuebung 5(5).svg]]
+![[Hausuebung 5(6) 1.svg]]
+![[Hausuebung 5(7).svg]]
+![[Hausuebung 5(8).svg]]
+![[Hausuebung 5(9).svg]]
+![[Hausuebung 5(10).svg]]

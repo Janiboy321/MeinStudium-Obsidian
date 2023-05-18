@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Mathe II/Reihen.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Mathe II/Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Mathe II/Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md"
+                "file": "Mathe II/Reihen.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
+    "AUD/Hausübungen/Hausübung 5.md",
+    "Mathe II/Reihen.md",
     "Hausuebung 5(6) 1.svg",
     "Hausuebung 5(10).svg",
     "Hausuebung 5(9).svg",
@@ -192,9 +194,7 @@
     "Hausuebung 5(4).svg",
     "Hausuebung 5(3).svg",
     "Hausuebung 5(2).svg",
-    "Hausuebung 5(1).svg",
     "InfMan/Übungen/Übung 2.md",
-    "AUD/Hausübungen/Hausübung 5.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",
     "Mathe I/Notizen für die Prüfung.md",

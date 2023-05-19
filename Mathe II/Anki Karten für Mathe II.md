@@ -14,7 +14,19 @@ $\text{Wenn sie nach unten bzw. oben beschränkt ist}$
 $\text{Die Funktion } | \cdot |: \mathbb{R} \rightarrow \mathbb{R} \text{ mit }$
 $$|x| := \left\{
 \begin{array}{ll}
-x &  \text{falls }x \geq 0 \\
--x & \, \textrm{falls}  \\
+x &  \text{ falls }x \geq 0 \\
+-x & \, \textrm{falls } x < 0 \\
 \end{array}
 \right.$$
+$\text{heißt Betragsfunktion und } |x| \text{ heißt Betrag von } x$
+
+#### Welche Rechenregeln gelten für Betragsfunktionen? #card 
+$$
+\begin{align}
+& (a) &&|x| \geq 0 \\
+& (b) &&|x| = |-x| \\
+& (c) &&\pm x \leq |x| \\
+& (d) && |xy| = |x| \cdot |y| \\
+& (e) && |x| = 0 \Leftrightarrow x= 0
+\end{align}
+$$

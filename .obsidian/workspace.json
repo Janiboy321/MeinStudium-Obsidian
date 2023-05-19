@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Reihen.md",
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Reihen.md",
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Reihen.md",
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Reihen.md"
+                "file": "Mathe II/Anki Karten für Mathe II.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,13 +178,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "74b42a5680af66ad",
   "lastOpenFiles": [
-    "AUD/Hausübungen/Hausübung 5.md",
     "Mathe II/Reihen.md",
+    "Mathe II/Anki Karten für Mathe II.md",
+    "AUD/Hausübungen/Hausübung 5.md",
     "Hausuebung 5(6) 1.svg",
     "Hausuebung 5(10).svg",
     "Hausuebung 5(9).svg",
@@ -227,7 +232,6 @@
     "InfMan/Organisation.md",
     "SE/Anforderungsanalyse.md",
     "SE/Software Architektur.md",
-    "Remarks.md",
-    "SE/Design Prinzipien.md"
+    "Remarks.md"
   ]
 }

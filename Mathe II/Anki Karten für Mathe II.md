@@ -66,10 +66,14 @@ $$
 
 #### Welche Rechnregeln gelten beim Binominialkoeffizienten?
 $$
-\begin{flalign}
-& (a) &\left( \begin{matrix} n \\ 0 \end{matrix} \right) = 
+\begin{align}
+& (a) &&\left( \begin{matrix} n \\ 0 \end{matrix} \right) = 
 \left( \begin{matrix} n \\ n \end{matrix} \right) = 1
 \text{ und } \left( \begin{matrix} n \\ k \end{matrix} \right) + \left( \begin{matrix} n \\ k-1 \end{matrix} \right) = \left( \begin{matrix} n+1 \\ k \end{matrix} \right) \\
-&(b)  a^{n+1}- b^k
-\end{flalign}
+&(b)  &&a^{n+1}- b^{n+1}= (a-b) \sum_{k=0}^{n}a^{n-k}b^{k} \\
+&(c) && (a+b)^{n}= \sum_{k=0}^{n} \left( \begin{matrix} n \\ k \end{matrix} \right) a^{n-k}b^{k}
+\end{align}
 $$
+
+#### Wann ist eine Folge konvergent? #card 
+Die Folge $a(n)$ 

@@ -130,8 +130,14 @@ $$$$
 #### Was tun bei einer Differenz von Wurzeln? #card 
 Das 3. Binom arbeiten lassen:
 $$
-\begin{flalign}
-0 \leq \sqrt{n+1} + \sqrt{n} = \frac{(\sqrt{n+1}-\sqrt{n})(\sqrt{n+1}+\sqrt{n})}{\sqrt{n+1} +\sqrt{n}} = \frac{(n+1)-n}{\sqrt{n+1} +\sqrt{n}} \\
-
-\end{flalign}
+\begin{align}
+&0 \leq \sqrt{n+1} + \sqrt{n} = \frac{(\sqrt{n+1}-\sqrt{n})(\sqrt{n+1}+\sqrt{n})}{\sqrt{n+1} +\sqrt{n}} = \frac{(n+1)-n}{\sqrt{n+1} +\sqrt{n}} \\
+& \frac{1}{\sqrt{n+1}+\sqrt{n}} \leq \frac{1}{2\sqrt{n}}=\frac{1}{2}\sqrt{\frac{1}{n}}
+\end{align}
 $$
+
+#### Wie lautet die geometrische Summenformel? #card 
+Für $q ≠ 1$ gilt:
+$$\sum_{k=1}^{n} q^{k} = \frac{1-q^{n+1}}{1-q}$$
+
+#### Wann ist eine reele Folge

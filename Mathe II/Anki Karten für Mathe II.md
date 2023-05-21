@@ -157,6 +157,7 @@ Eine Folge $(a_{n})$ für welche gilt:
 #### Welche Konvergenzkriterien gibt es? #card 
 - Monotonie-Kriterium
 - Cauchy-Kriterium
+- Majoranten/Minorantenkriterium
 
 #### Wie funktioniert das Monotonie-Kriterium? #card 
 - Für Folgen:
@@ -205,5 +206,14 @@ Sei $(a_{n})$ eine monoton fallende Folge in $\mathbb{R}$ mit $\lim_{n\to\infty}
 #### Wann ist eine Reihe absolut konvergent? #card 
 Eine Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$ in $\mathbb{K}$ heißt absolut konvergent, wenn die Reihe $\sum\limits_{n = 0}^{\infty} |a_{n}|$ in $\mathbb{K}$ konvergiert
 
-#### Wie lautet die verallgemeinerte Dreiecksungleichung?
-$$\Biggl|\sum\limits_{n = 0}^{\infty} |a_{n|}\Biggr| = \sum\limits_{n = l + 1}^{\infty}$$
+#### Wie lautet die verallgemeinerte Dreiecksungleichung? #card 
+$$\Biggl|\sum\limits_{n = 0}^{\infty} |a_{n}|\Biggr| \leq \sum\limits_{n =0}^{\infty} |a_{n}|$$
+
+#### Wann sollte man daran denken, die Dreiecksungleichung anzuwenden? #card 
+Wenn man etwas über den Betrag der Summer herausfinden will und was über $\sum\limits a_{n}$ 
+
+#### Wie funktioniert das Majoranten und das Minoranten Kriterium?
+Hat man eine Reihe, von welchen wir wissen, dass sie divergieren, bzw. konvergieren, können wir andere Reihen mit ihnen vergleichen und somit auf die divergenz bzw. konvergent der Reihe schließen:
+- Majorantenkriterium: Ist $|a_{n}| \leq b_{n}$ für alle $n \geq n_{0}$ und konvergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so ist $\sum\limits_{n = 0}^{\infty} a_{n}$ absolut konvergent
+- Minorantenkriterium: Ist $a_{n} \geq b_{n} \geq 0$ für alle $n \geq n_{0}$ und divergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so divergiert auch die Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$
+- 

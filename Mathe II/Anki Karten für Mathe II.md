@@ -93,7 +93,7 @@ $$
 \begin{align}
 &(a) && \lim_{x\to\infty} a_{n}= a, \text{so gilt } \lim_{x\to\infty} |a_{n|}= |a| \\
 &(b) && \text{Gilt } \lim_{x\to\infty} a_{n} = a und \lim_{x\to\infty} b_{n}= b, \text{so folgt:} \\
-&&&(1) \lim_{x\to\infty} (a_{n} + b_{n}) = a+b n\\
+&&&(1) \lim_{x\to\infty} (a_{n} \pm b_{n}) = a \pm n\\
 &&&(2) \lim_{x\to\infty} (\alpha a_{n}) = \alpha a \text{ für alle } \alpha \in \mathbb{K} \\
 &&&(3) \lim_{x\to\infty} (a_{n} \cdot b_{b}) = a \cdot b \\
 &&&(4) \text{ Ist zusätzlich } b_{n} ≠ 0 \text{ für alle } n  \in \mathbb{N} \text{ und } b ≠ 0, \text{ so ist } \lim_{x\to\infty} a_{n} / b_{n} = a / b \\
@@ -116,3 +116,5 @@ $$
 \end{align}
 $$
 
+#### Wichtige Beispiele für Konvergente Folgen
+1) Ist $(a_{n})$ eine konvergente Folge in $\mathbb{R}$ mit Grenzwert $a$ und gilt $a_{n} \geq 0$ für alle $n \in \mathbb{N}$, so ist auch für jedes $p \in \mathbb{N}^*$ auch $\lim_{x\to\infty} \sqr$ 

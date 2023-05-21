@@ -170,6 +170,8 @@ Hinweis: Ein Grenzwert einer konvergenten Folge ist ein *Häufungspunkt* derselb
 Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Ist $\{n_{1}, n_{2}, n_{3}, \dotsc\} \subseteq \mathbb{N}$ eine unendliche Menge von Indizes mit $n_{1} < n_{2} < n_{3} < \dotsc$, so heißt die Folge $(a_{n_{k}}) _{k \in \mathbb{N}}$ eine *Teilfolge von $(a_{n})$* 
 Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge von Folgegliedern mit geradem Index.
 
-#### Welche Regeln gibt es für Teilfolgen und Häufungswerte?
-1. $\text{Ein} \alpha \in \mathbb{K} \text{ ist genau dann ein Häufungswert von }(a_{n}), \text{ wenn eine Teilfolge }(a_{n_{k}}) von (a)$
+#### Welche Regeln gibt es für Teilfolgen und Häufungswerte? #card 
+1. Ein $\alpha \in \mathbb{K}$ ist genau dann ein Häufungswert von $(a_{n})$, wenn eine Teilfolge $(a_{n_{k}})$ von $(a_{n})$ existiert, die gegen $\alpha$ konvergiert
+2. Ist $(a_{n})$ konvergent mit Grenzwert a, so konvergiert auch jede Teilfolge von $(a_{n})$ gegen $a$ 
+3. Ist $(a_{n})$ konvergent, so hat $(a_{n})$ genau einen Häufungswert, nämlich den Grenzwert $\lim_{n \to \infty} a_{n}$   
 

@@ -63,3 +63,13 @@ n\\
 k   
 \end{array}\right) = \frac{n!}{k!(n-k)!}
 $$
+
+#### Welche Rechnregeln gelten beim Binominialkoeffizienten?
+$$
+\begin{flalign}
+& (a) &\left( \begin{matrix} n \\ 0 \end{matrix} \right) = 
+\left( \begin{matrix} n \\ n \end{matrix} \right) = 1
+\text{ und } \left( \begin{matrix} n \\ k \end{matrix} \right) + \left( \begin{matrix} n \\ k-1 \end{matrix} \right) = \left( \begin{matrix} n+1 \\ k \end{matrix} \right) \\
+&(b)  a^{n+1}- b^k
+\end{flalign}
+$$

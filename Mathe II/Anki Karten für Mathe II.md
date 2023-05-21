@@ -149,10 +149,17 @@ Wenn $a_{n+1} \leq a_n$ für alle $n \in \mathbb{N}$ gilt
 #### Wann ist eine reele Folge *monoton*? #card 
 Wenn sie *monoton fallend* oder *monoton wachsend* ist
 
-#### Was ist eine *Cauchy-Folge*?
+#### Was ist eine *Cauchy-Folge*? #card 
 Eine Folge $(a_{n})$ für welche gilt:
 	Für jedes $\varepsilon > 0$ existiert ein Index $n_{0} \in \mathbb{N}$, so dass $$|a_{n} - a_{m} < \varepsilon| \ \ \ \text{ für alle }n, m \geq n_{0}$$
 	Hinweis: Jede konvergente Folge ist eine Cauchy-Folge
 
-#### Welche 
-	
+#### Welche Konvergenzkriterien gibt es? #card 
+- Monotonie-Kriterium
+- 
+
+#### Wie funktioniert das Monotonie-Kriterium? #card 
+Ist die reele Folge $(a_{n})$ nach oben (bzw. unten) beschränkt, und monoton wachsend (bzw. fallend, so ist $(a_{n})$ konvergent und es gilt: $$\lim_{n\to\infty} a_{n} = \sup_{n \in \mathbb{M}}a_{n} \ \ \ \ \ (\text{bzw.} \ \ \lim_{n \to \infty}a_{n}= \inf_{n \in \mathbb{N}}a_n)$$
+
+#### Was ist ein *Häufungswert*?
+Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Ein $a \in \mathbb{K}$

@@ -107,7 +107,7 @@ $$
 Ist $a_{n} \leq c_{n} \leq b_{n}$ für alle $n \in \mathbb{N}$ und sind $(a_n)$ und $(b_{n})$ konvergent mit $\lim_{x\to\infty} a_{n} = \lim_{x\to\infty} b_{n} = a$, so ist auch die Folge $(c_{n})$ konvergent und es gilt $\lim_{x\to\infty} c_{n}= a$ 
 ![[Pasted image 20230521133256.png]]
 
-#### Was kann man machen, um von Brüchen den Grenzwert herauszufinden?
+#### Was kann man machen, um von Brüchen den Grenzwert herauszufinden? #card 
 Die größte Potenz ziehen:
 $$
 \begin{align}
@@ -116,7 +116,7 @@ $$
 \end{align}
 $$
 
-#### Wichtige Beispiele für Konvergente Folgen
+#### Wichtige Beispiele für Konvergente Folgen #card 
 1)  Ist $(a_{n})$ eine konvergente Folge in $\mathbb{R}$ mit Grenzwert $a$, und gilt $a_{n} \geq 0$ für alle $n \in \mathbb{N}$, so ist auch für jedes $p \in \mathbb{N}^*$ auch $\lim_{x\to\infty} \sqrt[p]{a_{n}} = \sqrt[p]{a}$
 2) Die Folge $(q^{n})_{n \in \mathbb{N}}$ mit $q \in \mathbb{R}$ konvergiert genau dann, wenn $q \in (-1, 1]$ ist und es gilt:
    $$\lim_{x\to\infty} q^{n} = \left\{\begin{array}{ll}1 &  \text{falls }q = 1 \\0 & \, \textrm{falls } -1 < q <1 \\\end{array}\right.$$
@@ -127,3 +127,11 @@ Ist $q \in \mathbb{C}$ mit $|q| < 1$, soi gilt ebenfalls $\lim_{n\to\infty} q^{n
    Ist konvergent. Ihr Grenzwert $$\text{e} := \lim_{n \to \infty} \left( 1 + \frac{1}{n}\right)^{n}$$
    heißt *Eulersche Zahl* 
 $$$$
+#### Was tun bei einer Differenz von Wurzeln? #card 
+Das 3. Binom arbeiten lassen:
+$$
+\begin{flalign}
+0 \leq \sqrt{n+1} + \sqrt{n} = \frac{(\sqrt{n+1}-\sqrt{n})(\sqrt{n+1}+\sqrt{n})}{\sqrt{n+1} +\sqrt{n}} = \frac{(n+1)-n}{\sqrt{n+1} +\sqrt{n}} \\
+
+\end{flalign}
+$$

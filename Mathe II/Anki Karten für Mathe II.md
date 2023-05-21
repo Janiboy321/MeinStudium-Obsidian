@@ -122,4 +122,8 @@ $$
    $$\lim_{x\to\infty} q^{n} = \left\{\begin{array}{ll}1 &  \text{falls }q = 1 \\0 & \, \textrm{falls } -1 < q <1 \\\end{array}\right.$$
 Ist $q \in \mathbb{C}$ mit $|q| < 1$, soi gilt ebenfalls $\lim_{n\to\infty} q^{n} = 0$
 3) $\lim_{n\to\infty} \sqrt[n]{c} = 1$ für jedes $c \in \mathbb{R}_{+}$ 
-4) $\lim_{n\to\infty} \sqrt[]{}$ 
+4) $\lim_{n\to\infty} \sqrt[n]{n}$ = 1
+5) Die Folge (des Exponentillen Wachstums) $$a_{n} := \left(1+\frac{1}{n}\right)^{n}, \ \ \ \ \ \ \ \ n \geq 1, $$
+   Ist konvergent. Ihr Grenzwert $$\text{e} := \lim_{n \to \infty} \left( 1 + \frac{1}{n}\right)^{n}$$
+   heißt *Eulersche Zahl* 
+$$$$

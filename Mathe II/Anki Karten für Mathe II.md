@@ -27,6 +27,12 @@ $$
 & (b) &&|x| = |-x| \\
 & (c) &&\pm x \leq |x| \\
 & (d) && |xy| = |x| \cdot |y| \\
-& (e) && |x| = 0 \Leftrightarrow x= 0
+& (e) && |x| = 0 \Leftrightarrow x= 0 \\
+& (f) && |x+y| \leq |x|+|y|
 \end{align}
 $$
+
+#### Wie lauten die Intervallkonvertionen?
+- $(a, b) := \{x \in \mathbb{R} : a < x < b \} \Rightarrow$ Offenes Intervall
+- $[a, b] := \{x \in \mathbb{R} : a \leq x \leq b \} \Rightarrow$ Geschlossenes Intervall
+

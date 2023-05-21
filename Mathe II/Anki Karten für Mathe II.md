@@ -237,4 +237,8 @@ Das Quotientenkriterium
 Beispiel: ![[Screenshot 2023-05-21 at 17.29.54.png]] 
 
 #### Wie lautet die Cauchy-Produktformel? #card 
-Seien $\sum\limits_{n = 0}^{\infty} a_{n}$ und $\sum\limits_{n = 0}^{\infty} b_{n}$ zwei absolut konvergente Reihen in $\mathbb{K}$
+Seien $\sum\limits_{n = 0}^{\infty} a_{n}$ und $\sum\limits_{n = 0}^{\infty} b_{n}$ zwei absolut konvergente Reihen in $\mathbb{K}$, dann ist auch die Reihe $\sum\limits_{n = 0}^{\infty} a_{n} \cdot \sum\limits_{n = 0}^{\infty} b_{n}$ absolut konvergent und es gilt für die Reihenwerte: $$\sum\limits_{n=0}^{\infty} \sum\limits_{k=0}^{n} a_{k}b_{n-k} = \left( \sum\limits_{n = 0}^{\infty} a_{n} \right) \cdot \left( \sum\limits_{n = 0}^{\infty} b_{n} \right)$$
+
+#### Wie lautet die Funktionalgleichung der Exponentialfunktion? #card 
+$E(z+w) = E(z)E(w)$ aka. $E^{z+w} = E^{z} \cdot E^{w}$ 
+

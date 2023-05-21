@@ -32,7 +32,12 @@ $$
 \end{align}
 $$
 
-#### Wie lauten die Intervallkonvertionen?
+#### Wie lauten die Intervallkonvertionen? #card 
 - $(a, b) := \{x \in \mathbb{R} : a < x < b \} \Rightarrow$ Offenes Intervall
 - $[a, b] := \{x \in \mathbb{R} : a \leq x \leq b \} \Rightarrow$ Geschlossenes Intervall
+
+#### Wie vereinfacht man $x^n$, $x^{-n}$ sowie $x^0$? #card 
+- $x^{n}:= x \cdot x \cdot \dotsc \cdot x$
+- $x^{-n} := \frac{1}{x^{n}} \text{, falls }x ≠ 0$
+- $x^{0}=1$
 

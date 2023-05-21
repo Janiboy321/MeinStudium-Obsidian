@@ -53,5 +53,13 @@ $$
 \end{flalign}
 $$
 
-#### Was berechnet die Fakultät $n!$
-$$n! = 1 \cdot 2 \cdot \fdot \cdot$$
+#### Was berechnet die Fakultät $n!$ #card 
+$$n! = 1 \cdot 2 \cdot \dotsc \cdot n$$
+
+#### Wie berechnet man den Binominalkoeffizient "n über k"? #card 
+$$
+\left( \begin{array}{rrr} 
+n\\  
+k   
+\end{array}\right) = \frac{n!}{k!(n-k)!}
+$$

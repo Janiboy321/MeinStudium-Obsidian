@@ -196,7 +196,14 @@ Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge
 4. Es gibt eine Reihe, welche wichtig ist, aber nicht wichtig genug um einen Namen zu bekommen. Sie lautet wie folgt $$\sum\limits_{n=1}^{\infty} \frac{1}{n(n+1)} = \frac{1}{2} + \frac{1}{6} + \frac{1}{12} + \frac{1}{20} + \frac{1}{30} + \dotsc$$
    *Mit einer kompliziert aussehenden Umrechnung (Siehe Skript 5.5.2 b), findet man heraus, dass $\lim_{k\to\infty} *\sum\limits_{n=1}^{\infty} \frac{1}{n(n+1)} = 1$* 
 
-#### Wann ist eine Reihe eine *Nullfolge*?
+#### Wann ist eine Reihe eine *Nullfolge*? #card 
 Ist $\sum\limits_{n=0}^{\infty} a_{n}$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_{n})$ eine Nullfolge in $\mathbb{K}$
 
-#### Wie funktioniert das Leibnitz-Kriterium?
+#### Wie funktioniert das Leibnitz-Kriterium? #card 
+Sei $(a_{n})$ eine monoton fallende Folge in $\mathbb{R}$ mit $\lim_{n\to\infty} a_{n} = 0$. Dann ist die Reihe $\sum\limits_{n=0}^{\infty}(-1)^{n}a_{n}$ konvergent.
+
+#### Wann ist eine Reihe absolut konvergent? #card 
+Eine Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$ in $\mathbb{K}$ heißt absolut konvergent, wenn die Reihe $\sum\limits_{n = 0}^{\infty} |a_{n}|$ in $\mathbb{K}$ konvergiert
+
+#### Wie lautet die verallgemeinerte Dreiecksungleichung?
+$$\Biggl|\sum\limits_{n = 0}^{\infty} |a_{n|}\Biggr| = \sum\limits_{n = l + 1}^{\infty}$$

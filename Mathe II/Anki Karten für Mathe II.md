@@ -156,11 +156,14 @@ Eine Folge $(a_{n})$ für welche gilt:
 
 #### Welche Konvergenzkriterien gibt es? #card 
 - Monotonie-Kriterium
-- 
+- Cauchy-Kriterium
 
 #### Wie funktioniert das Monotonie-Kriterium? #card 
-Ist die reele Folge $(a_{n})$ nach oben (bzw. unten) beschränkt, und monoton wachsend (bzw. fallend, so ist $(a_{n})$ konvergent und es gilt: $$\lim_{n\to\infty} a_{n} = \sup_{n \in \mathbb{M}}a_{n} \ \ \ \ \ (\text{bzw.} \ \ \lim_{n \to \infty}a_{n}= \inf_{n \in \mathbb{N}}a_n)$$
-
+- Für Folgen:
+	- Ist die reele Folge $(a_{n})$ nach oben (bzw. unten) beschränkt, und monoton wachsend (bzw. fallend, so ist $(a_{n})$ konvergent und es gilt: $$\lim_{n\to\infty} a_{n} = \sup_{n \in \mathbb{M}}a_{n} \ \ \ \ \ (\text{bzw.} \ \ \lim_{n \to \infty}a_{n}= \inf_{n \in \mathbb{N}}a_n)$$
+- Für Reihen:
+	- Ist $a_{n} \geq 0$ für alle $n \in \mathbb{N}$ und $(s_{k})_{k \in \mathbb{N}}$ nach oben beschränkt, so ist $\sum\limits_{n = 0}^{\infty} a_{n}$ konvergent.
+ 
 #### Was ist ein *Häufungswert*? #card 
 Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Ein $a \in \mathbb{K}$ heißt *Häufungswert der Folge*, falls für jedes $\varepsilon > 0$ die Menge $\{ n \in \mathbb{N}: |a_{n} - a| < \varepsilon \}$ unendlich viele Elemente hat.
 ![[Screenshot 2023-05-21 at 15.23.53.png]]
@@ -180,7 +183,7 @@ Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge
 - Für jedes $k \in \mathbb{N}$ heißt dann $s_{k} := \sum_{n=0}^{\infty} a_{n}$ die *$k$-te Teilsumme* bzw. *Partialsumme der Reihe*  
 - Ist die Folge $(s_{k})_{k\in\mathbb{N}}$ konvergent, so nennen wir die Reihe konvergent mit dem Reihenwert $\sum\limits_{n=0}^{\infty}a_{n}= \lim_{k\to\infty} s_{k} = \lim_{k\to\infty} \sum\limits_{n=0}^{k}a_{n}$. Ist $(s_{k})$ divergent, so nennen wir auch die Reihe divergent
 
-#### Welche vier wichtigen Reihen gibt es?
+#### Welche vier wichtigen Reihen gibt es? #card
 1. Geometrische Reihe
 	$\displaystyle\sum_{n=0}^{\infty} q^n = \frac{1}{1-q}$
 
@@ -191,4 +194,9 @@ Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge
 	$\displaystyle\sum_{n=0}^{\infty} \frac{z^n}{n!}$
 
 4. Es gibt eine Reihe, welche wichtig ist, aber nicht wichtig genug um einen Namen zu bekommen. Sie lautet wie folgt $$\sum\limits_{n=1}^{\infty} \frac{1}{n(n+1)} = \frac{1}{2} + \frac{1}{6} + \frac{1}{12} + \frac{1}{20} + \frac{1}{30} + \dotsc$$
-   Mit einer kompliziert aussehenden Umrechnung (Siehe Skript)
+   *Mit einer kompliziert aussehenden Umrechnung (Siehe Skript 5.5.2 b), findet man heraus, dass $\lim_{k\to\infty} *\sum\limits_{n=1}^{\infty} \frac{1}{n(n+1)} = 1$* 
+
+#### Wann ist eine Reihe eine *Nullfolge*?
+Ist $\sum\limits_{n=0}^{\infty} a_{n}$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_{n})$ eine Nullfolge in $\mathbb{K}$
+
+#### Wie funktioniert das Leibnitz-Kriterium?

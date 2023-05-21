@@ -105,4 +105,14 @@ $$
 
 #### Was ist das Sandwich-Theorem? #card 
 Ist $a_{n} \leq c_{n} \leq b_{n}$ für alle $n \in \mathbb{N}$ und sind $(a_n)$ und $(b_{n})$ konvergent mit $\lim_{x\to\infty} a_{n} = \lim_{x\to\infty} b_{n} = a$, so ist auch die Folge $(c_{n})$ konvergent und es gilt $\lim_{x\to\infty} c_{n}= a$ 
-a
+![[Pasted image 20230521133256.png]]
+
+#### Was kann man machen, um von Brüchen den Grenzwert herauszufinden?
+Die größte Potenz ziehen:
+$$
+\begin{align}
+&\text{Im folgendem Kürzen wir um } n^{2}\\ 
+&a_{n} = \frac{n^{2}+ 2n + 3}{n^{2} + 3} = \frac{1 + \frac{2}{n} + \frac{3}{n^{2}}}{1+ \frac{3}{n^{2}}} \to \frac{1+0+0}{1+0} = 1 (n\to\infty)
+\end{align}
+$$
+

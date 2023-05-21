@@ -41,3 +41,6 @@ $$
 - $x^{-n} := \frac{1}{x^{n}} \text{, falls }x ≠ 0$
 - $x^{0}=1$
 
+#### Seien $q \in \mathbb{Q}$ und $m, p \in \mathbb{Z}$ sowie $n, r \in \mathbb{N}^*$, so dass $q = m / n = p / r$. Dann gilt für jedes $x \in \mathbb{R}_+$: #card 
+$$(\sqrt[n]{x})^{m}= (\sqrt[r]{x})^p$$
+#### Wie lauten die Potenzrechenrege

@@ -43,4 +43,10 @@ $$
 
 #### Seien $q \in \mathbb{Q}$ und $m, p \in \mathbb{Z}$ sowie $n, r \in \mathbb{N}^*$, so dass $q = m / n = p / r$. Dann gilt für jedes $x \in \mathbb{R}_+$: #card 
 $$(\sqrt[n]{x})^{m}= (\sqrt[r]{x})^p$$
-#### Wie lauten die Potenzrechenrege
+#### Wie lauten die Potenzrechenregeln? #card 
+$$
+\begin{align}
+ &\bullet x^{p}x^{q} = x^{p+q} &&&\bullet \frac{x^{p}}{x^{q}} = x^{p-q} \\
+ &\bullet x^{p}y^{p} =   
+\end{align}
+$$

@@ -175,5 +175,20 @@ Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge
 2. Ist $(a_{n})$ konvergent mit Grenzwert a, so konvergiert auch jede Teilfolge von $(a_{n})$ gegen $a$ 
 3. Ist $(a_{n})$ konvergent, so hat $(a_{n})$ genau einen Häufungswert, nämlich den Grenzwert $\lim_{n \to \infty} a_{n}$   
 
-#### Was ist eine Reihe?
-Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Dann heißt $\sum_{n=0}^{\infty}an = a_{0}+a_{1}+a_{2}+a_{3}+ \dotsc$ *die Reihe über* $(a_{n})$. Für jedes $k \in \mathbb{N}$ heißt dann $s_{k} := \sum\limi$
+#### Was ist eine Reihe? #card 
+- Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Dann heißt $\sum_{n=0}^{\infty}an = a_{0}+a_{1}+a_{2}+a_{3}+ \dotsc$ *die Reihe über* $(a_{n})$. 
+- Für jedes $k \in \mathbb{N}$ heißt dann $s_{k} := \sum_{n=0}^{\infty} a_{n}$ die *$k$-te Teilsumme* bzw. *Partialsumme der Reihe*  
+- Ist die Folge $(s_{k})_{k\in\mathbb{N}}$ konvergent, so nennen wir die Reihe konvergent mit dem Reihenwert $\sum\limits_{n=0}^{\infty}a_{n}= \lim_{k\to\infty} s_{k} = \lim_{k\to\infty} \sum\limits_{n=0}^{k}a_{n}$. Ist $(s_{k})$ divergent, so nennen wir auch die Reihe divergent
+
+#### Welche vier wichtigen Reihen gibt es?
+1. Geometrische Reihe
+	$\displaystyle\sum_{n=0}^{\infty} q^n = \frac{1}{1-q}$
+
+2. Harmonische Reihe
+	$\displaystyle\sum_{n=0}^{\infty} \frac{1}{n}$ 
+
+3. Exponential Reihe
+	$\displaystyle\sum_{n=0}^{\infty} \frac{z^n}{n!}$
+
+4. Es gibt eine Reihe, welche wichtig ist, aber nicht wichtig genug um einen Namen zu bekommen. Sie lautet wie folgt $$\sum\limits_{n=1}^{\infty} \frac{1}{n(n+1)} = \frac{1}{2} + \frac{1}{6} + \frac{1}{12} + \frac{1}{20} + \frac{1}{30} + \dotsc$$
+   Mit einer kompliziert aussehenden Umrechnung (Siehe Skript)

@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -186,12 +185,12 @@
   },
   "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
-    "Screenshot 2023-05-21 at 15.23.53.png",
+    "Mathe II/Reihen.md",
     "Mathe II/Anki Karten für Mathe II.md",
+    "Screenshot 2023-05-21 at 15.23.53.png",
     "Pasted image 20230521133256.png",
     "Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "Excalidraw",
-    "Mathe II/Reihen.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "Hausuebung 5(6) 1.svg",
     "Hausuebung 5(10).svg",
@@ -201,7 +200,6 @@
     "Hausuebung 5(6).svg",
     "Hausuebung 5(5).svg",
     "Hausuebung 5(4).svg",
-    "Hausuebung 5(3).svg",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",

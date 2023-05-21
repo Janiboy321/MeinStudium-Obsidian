@@ -96,6 +96,8 @@ $$
 &&&(1) \lim_{x\to\infty} (a_{n} + b_{n}) = a+b n\\
 &&&(2) \lim_{x\to\infty} (\alpha a_{n}) = \alpha a \text{ für alle } \alpha \in \mathbb{K} \\
 &&&(3) \lim_{x\to\infty} (a_{n} \cdot b_{b}) = a \cdot b \\
-&&&(4) \text{ Ist zusätzlich } b_{n} ≠ 0 \text{ für alle } n  \in \mathbb{N} \text{ und } b ≠ 0, \text{}
+&&&(4) \text{ Ist zusätzlich } b_{n} ≠ 0 \text{ für alle } n  \in \mathbb{N} \text{ und } b ≠ 0, \text{ so ist } \lim_{x\to\infty} a_{n} / b_{n} = a / b \\
+&&&\text{Ist } \mathbb{K} = \mathbb{R} \text{ so gilt außerdem:} \\
+&(c) && \text{Ist } a_{n}\leq b_{n} \text{ für alle } n \in \mathbb{N} \text{ und} \lim_{x\to\infty} a_{n} = a \text{sowie, } \lim_{x\to\infty} b_{n} = b, \text{so folgt } a\leq b
 \end{align}
 $$

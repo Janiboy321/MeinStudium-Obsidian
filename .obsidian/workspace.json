@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conzi",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,8 @@
   },
   "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
+    "Screenshot 2023-05-21 at 17.29.54.png",
+    "Screenshot 2023-05-21 at 17.29.18.png",
     "Mathe II/Reihen.md",
     "Mathe II/Anki Karten für Mathe II.md",
     "Screenshot 2023-05-21 at 15.23.53.png",
@@ -200,7 +203,6 @@
     "Hausuebung 5(7).svg",
     "Hausuebung 5(6).svg",
     "Hausuebung 5(5).svg",
-    "Hausuebung 5(4).svg",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",

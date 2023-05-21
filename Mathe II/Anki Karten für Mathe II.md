@@ -228,6 +228,13 @@ Existiert der Grenzwert $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ so ist die Reihe
 - divergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|} > 1$
 
 #### Wie funktioniert das Quotientenkriterium? #card 
-Ist $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$ und existiert der Grenzwert $\lim$ 
-- absolut konvergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}< 1$ 
-- divergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|} > 1$
+Ist $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$ und existiert der Grenzwert $\lim_{n \to \infty} |a_{n+1} / a_{n}|$, so ist die Reihe:    
+- absolut konvergent, wenn $\lim_{n \to \infty} \frac{|a_{n+1}|}{a_{n}} < 1$
+- divergent, wenn $\lim_{n \to \infty} \frac{|a_{n+1}|}{a_{n}} > 1$
+
+#### Welches kriterium sollte man verwenden, wenn wir Fakultäten in einer Reihe haben? #card 
+Das Quotientenkriterium
+Beispiel: ![[Screenshot 2023-05-21 at 17.29.54.png]] 
+
+#### Wie lautet die Cauchy-Produktformel? #card 
+Seien $\sum\limits_{n = 0}^{\infty} a_{n}$ und $\sum\limits_{n = 0}^{\infty} b_{n}$ zwei absolut konvergente Reihen in $\mathbb{K}$

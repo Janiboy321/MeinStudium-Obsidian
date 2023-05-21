@@ -157,12 +157,13 @@ Eine Folge $(a_{n})$ für welche gilt:
 #### Welche Konvergenzkriterien gibt es? #card 
 - Monotonie-Kriterium
 - Cauchy-Kriterium
-- Majoranten/Minorantenkriterium
+- Majoranten-/Minorantenkriterium
+- Wurzel-/Quotiontenkriterium
 
 #### Wie funktioniert das Monotonie-Kriterium? #card 
 - Für Folgen:
 	- Ist die reele Folge $(a_{n})$ nach oben (bzw. unten) beschränkt, und monoton wachsend (bzw. fallend, so ist $(a_{n})$ konvergent und es gilt: $$\lim_{n\to\infty} a_{n} = \sup_{n \in \mathbb{M}}a_{n} \ \ \ \ \ (\text{bzw.} \ \ \lim_{n \to \infty}a_{n}= \inf_{n \in \mathbb{N}}a_n)$$
-- Für Reihen:
+	- Für Reihen:
 	- Ist $a_{n} \geq 0$ für alle $n \in \mathbb{N}$ und $(s_{k})_{k \in \mathbb{N}}$ nach oben beschränkt, so ist $\sum\limits_{n = 0}^{\infty} a_{n}$ konvergent.
  
 #### Was ist ein *Häufungswert*? #card 
@@ -212,8 +213,21 @@ $$\Biggl|\sum\limits_{n = 0}^{\infty} |a_{n}|\Biggr| \leq \sum\limits_{n =0}^{\i
 #### Wann sollte man daran denken, die Dreiecksungleichung anzuwenden? #card 
 Wenn man etwas über den Betrag der Summer herausfinden will und was über $\sum\limits a_{n}$ 
 
-#### Wie funktioniert das Majoranten und das Minoranten Kriterium?
+#### Wie funktioniert das Majoranten und das Minoranten Kriterium? #card 
 Hat man eine Reihe, von welchen wir wissen, dass sie divergieren, bzw. konvergieren, können wir andere Reihen mit ihnen vergleichen und somit auf die divergenz bzw. konvergent der Reihe schließen:
 - Majorantenkriterium: Ist $|a_{n}| \leq b_{n}$ für alle $n \geq n_{0}$ und konvergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so ist $\sum\limits_{n = 0}^{\infty} a_{n}$ absolut konvergent
 - Minorantenkriterium: Ist $a_{n} \geq b_{n} \geq 0$ für alle $n \geq n_{0}$ und divergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so divergiert auch die Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$
-- 
+Hinweis: Die Vergleichsfolge $(b_{n})$ heißt dann a) konvergente Majorante oder b) divergente Minorante
+
+#### Wann ist die Reihe $\sum_{n=1}^{\infty} \frac{1}{n^{\alpha}}$ konvergent? #card 
+Wenn $\alpha > 1$
+
+#### Wie funktioniert das Wurzelkriterium? #card 
+Existiert der Grenzwert $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ so ist die Reihe:
+- absolut konvergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}< 1$ 
+- divergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|} > 1$
+
+#### Wie funktioniert das Quotientenkriterium? #card 
+Ist $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$ und existiert der Grenzwert $\lim$ 
+- absolut konvergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}< 1$ 
+- divergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|} > 1$

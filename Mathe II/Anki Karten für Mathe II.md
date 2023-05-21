@@ -43,10 +43,15 @@ $$
 
 #### Seien $q \in \mathbb{Q}$ und $m, p \in \mathbb{Z}$ sowie $n, r \in \mathbb{N}^*$, so dass $q = m / n = p / r$. Dann gilt für jedes $x \in \mathbb{R}_+$: #card 
 $$(\sqrt[n]{x})^{m}= (\sqrt[r]{x})^p$$
+
 #### Wie lauten die Potenzrechenregeln? #card 
 $$
-\begin{align}
- &\bullet x^{p}x^{q} = x^{p+q} &&&\bullet \frac{x^{p}}{x^{q}} = x^{p-q} \\
- &\bullet x^{p}y^{p} =   
-\end{align}
+\begin{flalign}{}
+ &\bullet x^{p}x^{q} = x^{p+q} &\bullet \frac{x^{p}}{x^{q}} = x^{p-q} \\ \\
+ &\bullet x^{p}y^{p} = (xy)^{p} &\bullet \frac{x^{p}}{y^{p}} = (\frac{x}{y})^{p} \\ \\
+ &\bullet(x^{p})^{q} = x^{pq}
+\end{flalign}
 $$
+
+#### Was berechnet die Fakultät $n!$
+$$n! = 1 \cdot 2 \cdot \fdot \cdot$$

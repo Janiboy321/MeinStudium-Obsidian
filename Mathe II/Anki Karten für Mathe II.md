@@ -64,7 +64,7 @@ k
 \end{array}\right) = \frac{n!}{k!(n-k)!}
 $$
 
-#### Welche Rechnregeln gelten beim Binominialkoeffizienten?
+#### Welche Rechnregeln gelten beim Binominialkoeffizienten? #card
 $$
 \begin{align}
 & (a) &&\left( \begin{matrix} n \\ 0 \end{matrix} \right) = 
@@ -82,5 +82,15 @@ $$
 #### Wann ist eine Folge Divergent? #card 
 Die Folge $(a_n)$ ist divergent, wenn sie nicht konvergent ist, also keinen Grenzwert hat
 
-#### Wann ist eine Folge beschränkt?
+#### Wann ist eine Folge beschränkt? #card 
+- Nach oben beschränkt, wenn sie eine obere Schranke besitzt
+- Nach unten beschränkt, wenn sie eine untere Schranke besitzt
+- Beschränkt, wenn sie sowohl eine obere als auch eine untere Schranke 
 
+#### Wie lauten die Grenzwertsätze? #card 
+$\text{Es seien } (a_{n}), (b_{n})\text{ und } (c_{n}) \text{ Folgen in } \mathbb{K}, \text{ dann gilt:}$
+$$
+\begin{align}
+&(a) && \lim_{x\to\infty} f(x)
+\end{align}
+$$

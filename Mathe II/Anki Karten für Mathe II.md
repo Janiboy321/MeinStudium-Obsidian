@@ -140,4 +140,19 @@ $$
 Für $q ≠ 1$ gilt:
 $$\sum_{k=1}^{n} q^{k} = \frac{1-q^{n+1}}{1-q}$$
 
-#### Wann ist eine reele Folge
+#### Wann ist eine reele Folge $(a_{n})$ *monoton wachsend*? #card 
+Wenn $a_{n+1} \geq a_n$ für alle $n \in \mathbb{N}$ gilt
+
+#### Wann ist eine reele Folge $(a_{n})$ *monoton fallend*? #card
+Wenn $a_{n+1} \leq a_n$ für alle $n \in \mathbb{N}$ gilt
+
+#### Wann ist eine reele Folge *monoton*? #card 
+Wenn sie *monoton fallend* oder *monoton wachsend* ist
+
+#### Was ist eine *Cauchy-Folge*?
+Eine Folge $(a_{n})$ für welche gilt:
+	Für jedes $\varepsilon > 0$ existiert ein Index $n_{0} \in \mathbb{N}$, so dass $$|a_{n} - a_{m} < \varepsilon| \ \ \ \text{ für alle }n, m \geq n_{0}$$
+	Hinweis: Jede konvergente Folge ist eine Cauchy-Folge
+
+#### Welche 
+	

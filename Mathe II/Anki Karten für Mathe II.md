@@ -76,4 +76,11 @@ $$
 $$
 
 #### Wann ist eine Folge konvergent? #card 
-Die Folge $a(n)$ 
+- Die Folge $(a_n)$ ist konvergent gegen $a$, falls für jedes $\varepsilon > 0$ ein $n_{0} \in \mathbb{N}$ existiert mit $|a_{n}- a| < \varepsilon \text{für alle n }\geq n_0$, also in anderen Worten, falls $(a_n)$ einen Grenzwert hat
+- Wenn eine Folge konvergent ist, kann sie nur **einen** Grenzwert haben
+
+#### Wann ist eine Folge Divergent? #card 
+Die Folge $(a_n)$ ist divergent, wenn sie nicht konvergent ist, also keinen Grenzwert hat
+
+#### Wann ist eine Folge beschränkt?
+

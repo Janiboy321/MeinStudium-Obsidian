@@ -1,14 +1,21 @@
+---
+cards-deck: Mathe II
+---
+
 
 #### Was ist ein angeordneter Körper? #card
 $\text{Ein Körper K mit einer Totalorndung } \leq \text{, für die gilt:}$
 - $\forall a,b,c \in K: a \leq b \Rightarrow a+b \leq b+c$ und
 - $\forall a,b,c \in K: (a \leq b \text{ und } 0 \leq c) \Rightarrow ac \leq bc$
+^1684683802439
 
 #### Wann ist eine Teilmenge $M \subseteq \mathbb{R}$ nach oben (unten) beschränkt? #card 
 $\text{Wenn sie eine obere (untere) Schranke besitzt}$
+^1684683802441
 
 #### Wann ist eine Teilmenge $M \subseteq \mathbb{R}$ beschränkt? #card 
 $\text{Wenn sie nach unten bzw. oben beschränkt ist}$
+^1684683802442
 
 #### Was ist die Betragsfunktion? #card
 $\text{Die Funktion } | \cdot |: \mathbb{R} \rightarrow \mathbb{R} \text{ mit }$
@@ -19,6 +26,7 @@ x &  \text{ falls }x \geq 0 \\
 \end{array}
 \right.$$
 $\text{heißt Betragsfunktion und } |x| \text{ heißt Betrag von } x$
+^1684683802443
 
 #### Welche Rechenregeln gelten für Betragsfunktionen? #card 
 $$
@@ -31,18 +39,23 @@ $$
 & (f) && |x+y| \leq |x|+|y|
 \end{align}
 $$
+^1684683802444
 
 #### Wie lauten die Intervallkonvertionen? #card 
 - $(a, b) := \{x \in \mathbb{R} : a < x < b \} \Rightarrow$ Offenes Intervall
 - $[a, b] := \{x \in \mathbb{R} : a \leq x \leq b \} \Rightarrow$ Geschlossenes Intervall
+^1684683802445
 
-#### Wie vereinfacht man $x^n$, $x^{-n}$ sowie $x^0$? #card 
+#### Wie vereinfacht man $x^n$, $x^{-n}$ sowie $x^0$? #card
+^1684683802446 
 - $x^{n}:= x \cdot x \cdot \dotsc \cdot x$
 - $x^{-n} := \frac{1}{x^{n}} \text{, falls }x ≠ 0$
 - $x^{0}=1$
+^1684683802447
 
 #### Seien $q \in \mathbb{Q}$ und $m, p \in \mathbb{Z}$ sowie $n, r \in \mathbb{N}^*$, so dass $q = m / n = p / r$. Dann gilt für jedes $x \in \mathbb{R}_+$: #card 
 $$(\sqrt[n]{x})^{m}= (\sqrt[r]{x})^p$$
+^1684683802448
 
 #### Wie lauten die Potenzrechenregeln? #card 
 $$
@@ -52,9 +65,11 @@ $$
  &\bullet(x^{p})^{q} = x^{pq}
 \end{flalign}
 $$
+^1684683802449
 
 #### Was berechnet die Fakultät $n!$ #card 
 $$n! = 1 \cdot 2 \cdot \dotsc \cdot n$$
+^1684683802450
 
 #### Wie berechnet man den Binominalkoeffizient "n über k"? #card 
 $$
@@ -63,6 +78,7 @@ n\\
 k   
 \end{array}\right) = \frac{n!}{k!(n-k)!}
 $$
+^1684683802451
 
 #### Welche Rechnregeln gelten beim Binominialkoeffizienten? #card
 $$
@@ -74,18 +90,22 @@ $$
 &(c) && (a+b)^{n}= \sum_{k=0}^{n} \left( \begin{matrix} n \\ k \end{matrix} \right) a^{n-k}b^{k}
 \end{align}
 $$
+^1684683802452
 
 #### Wann ist eine Folge konvergent? #card 
 - Die Folge $(a_n)$ ist konvergent gegen $a$, falls für jedes $\varepsilon > 0$ ein $n_{0} \in \mathbb{N}$ existiert mit $|a_{n}- a| < \varepsilon \text{für alle n }\geq n_0$, also in anderen Worten, falls $(a_n)$ einen Grenzwert hat
 - Wenn eine Folge konvergent ist, kann sie nur **einen** Grenzwert haben
+^1684683802453
 
 #### Wann ist eine Folge Divergent? #card 
 Die Folge $(a_n)$ ist divergent, wenn sie nicht konvergent ist, also keinen Grenzwert hat
+^1684683802454
 
 #### Wann ist eine Folge beschränkt? #card 
 - Nach oben beschränkt, wenn sie eine obere Schranke besitzt
 - Nach unten beschränkt, wenn sie eine untere Schranke besitzt
 - Beschränkt, wenn sie sowohl eine obere als auch eine untere Schranke 
+^1684683802455
 
 #### Wie lauten die Grenzwertsätze? #card 
 $\text{Es seien } (a_{n}), (b_{n})\text{ und } (c_{n}) \text{ Folgen in } \mathbb{K}, \text{ dann gilt:}$
@@ -102,10 +122,12 @@ $$
 &(d) &&\text{Siehe Sandwich-Theorem}
 \end{align}
 $$
+^1684683802456
 
 #### Was ist das Sandwich-Theorem? #card 
 Ist $a_{n} \leq c_{n} \leq b_{n}$ für alle $n \in \mathbb{N}$ und sind $(a_n)$ und $(b_{n})$ konvergent mit $\lim_{x\to\infty} a_{n} = \lim_{x\to\infty} b_{n} = a$, so ist auch die Folge $(c_{n})$ konvergent und es gilt $\lim_{x\to\infty} c_{n}= a$ 
 ![[Pasted image 20230521133256.png]]
+^1684683802457
 
 #### Was kann man machen, um von Brüchen den Grenzwert herauszufinden? #card 
 Die größte Potenz ziehen:
@@ -115,6 +137,7 @@ $$
 &a_{n} = \frac{n^{2}+ 2n + 3}{n^{2} + 3} = \frac{1 + \frac{2}{n} + \frac{3}{n^{2}}}{1+ \frac{3}{n^{2}}} \to \frac{1+0+0}{1+0} = 1 (n\to\infty)
 \end{align}
 $$
+^1684683802458
 
 #### Wichtige Beispiele für Konvergente Folgen #card 
 1)  Ist $(a_{n})$ eine konvergente Folge in $\mathbb{R}$ mit Grenzwert $a$, und gilt $a_{n} \geq 0$ für alle $n \in \mathbb{N}$, so ist auch für jedes $p \in \mathbb{N}^*$ auch $\lim_{x\to\infty} \sqrt[p]{a_{n}} = \sqrt[p]{a}$
@@ -135,30 +158,37 @@ $$
 & \frac{1}{\sqrt{n+1}+\sqrt{n}} \leq \frac{1}{2\sqrt{n}}=\frac{1}{2}\sqrt{\frac{1}{n}}
 \end{align}
 $$
+^1684683802459
 
 #### Wie lautet die geometrische Summenformel? #card 
 Für $q ≠ 1$ gilt:
 $$\sum_{k=1}^{n} q^{k} = \frac{1-q^{n+1}}{1-q}$$
+^1684683802460
 
 #### Wann ist eine reele Folge $(a_{n})$ *monoton wachsend*? #card 
 Wenn $a_{n+1} \geq a_n$ für alle $n \in \mathbb{N}$ gilt
+^1684683802461
 
 #### Wann ist eine reele Folge $(a_{n})$ *monoton fallend*? #card
 Wenn $a_{n+1} \leq a_n$ für alle $n \in \mathbb{N}$ gilt
+^1684683802462
 
 #### Wann ist eine reele Folge *monoton*? #card 
 Wenn sie *monoton fallend* oder *monoton wachsend* ist
+^1684683802463
 
 #### Was ist eine *Cauchy-Folge*? #card 
 Eine Folge $(a_{n})$ für welche gilt:
 	Für jedes $\varepsilon > 0$ existiert ein Index $n_{0} \in \mathbb{N}$, so dass $$|a_{n} - a_{m} < \varepsilon| \ \ \ \text{ für alle }n, m \geq n_{0}$$
 	Hinweis: Jede konvergente Folge ist eine Cauchy-Folge
+^1684683802464
 
 #### Welche Konvergenzkriterien gibt es? #card 
 - Monotonie-Kriterium
 - Cauchy-Kriterium
 - Majoranten-/Minorantenkriterium
 - Wurzel-/Quotiontenkriterium
+^1684683802465
 
 #### Wie funktioniert das Monotonie-Kriterium? #card 
 - Für Folgen:
@@ -170,24 +200,29 @@ Eine Folge $(a_{n})$ für welche gilt:
 Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Ein $a \in \mathbb{K}$ heißt *Häufungswert der Folge*, falls für jedes $\varepsilon > 0$ die Menge $\{ n \in \mathbb{N}: |a_{n} - a| < \varepsilon \}$ unendlich viele Elemente hat.
 ![[Screenshot 2023-05-21 at 15.23.53.png]]
 Hinweis: Ein Grenzwert einer konvergenten Folge ist ein *Häufungspunkt* derselben.
+^1684683802466
 
 #### Was ist eine *Teilfolge*? #card 
 Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Ist $\{n_{1}, n_{2}, n_{3}, \dotsc\} \subseteq \mathbb{N}$ eine unendliche Menge von Indizes mit $n_{1} < n_{2} < n_{3} < \dotsc$, so heißt die Folge $(a_{n_{k}}) _{k \in \mathbb{N}}$ eine *Teilfolge von $(a_{n})$* 
 Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge von Folgegliedern mit geradem Index.
+^1684683802467
 
 #### Welche Regeln gibt es für Teilfolgen und Häufungswerte? #card 
 1. Ein $\alpha \in \mathbb{K}$ ist genau dann ein Häufungswert von $(a_{n})$, wenn eine Teilfolge $(a_{n_{k}})$ von $(a_{n})$ existiert, die gegen $\alpha$ konvergiert
 2. Ist $(a_{n})$ konvergent mit Grenzwert a, so konvergiert auch jede Teilfolge von $(a_{n})$ gegen $a$ 
 3. Ist $(a_{n})$ konvergent, so hat $(a_{n})$ genau einen Häufungswert, nämlich den Grenzwert $\lim_{n \to \infty} a_{n}$   
+^1684683802468
 
 #### Was ist eine Reihe? #card 
 - Sei $(a_{n})$ eine Folge in $\mathbb{K}$. Dann heißt $\sum_{n=0}^{\infty}an = a_{0}+a_{1}+a_{2}+a_{3}+ \dotsc$ *die Reihe über* $(a_{n})$. 
 - Für jedes $k \in \mathbb{N}$ heißt dann $s_{k} := \sum_{n=0}^{\infty} a_{n}$ die *$k$-te Teilsumme* bzw. *Partialsumme der Reihe*  
 - Ist die Folge $(s_{k})_{k\in\mathbb{N}}$ konvergent, so nennen wir die Reihe konvergent mit dem Reihenwert $\sum\limits_{n=0}^{\infty}a_{n}= \lim_{k\to\infty} s_{k} = \lim_{k\to\infty} \sum\limits_{n=0}^{k}a_{n}$. Ist $(s_{k})$ divergent, so nennen wir auch die Reihe divergent
+^1684683802469
 
 #### Welche vier wichtigen Reihen gibt es? #card
 1. Geometrische Reihe
 	$\displaystyle\sum_{n=0}^{\infty} q^n = \frac{1}{1-q}$
+^1684683802470
 
 2. Harmonische Reihe
 	$\displaystyle\sum_{n=0}^{\infty} \frac{1}{n}$ 
@@ -200,45 +235,57 @@ Hinweis: Beispielsweise ist $(a_{0}, a_{2}, a_{4}, a_{6}, \dotsc)$ die Teilfolge
 
 #### Wann ist eine Reihe eine *Nullfolge*? #card 
 Ist $\sum\limits_{n=0}^{\infty} a_{n}$ eine konvergente Reihe in $\mathbb{K}$, so ist $(a_{n})$ eine Nullfolge in $\mathbb{K}$
+^1684683802471
 
 #### Wie funktioniert das Leibnitz-Kriterium? #card 
 Sei $(a_{n})$ eine monoton fallende Folge in $\mathbb{R}$ mit $\lim_{n\to\infty} a_{n} = 0$. Dann ist die Reihe $\sum\limits_{n=0}^{\infty}(-1)^{n}a_{n}$ konvergent.
+^1684683802472
 
 #### Wann ist eine Reihe absolut konvergent? #card 
 Eine Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$ in $\mathbb{K}$ heißt absolut konvergent, wenn die Reihe $\sum\limits_{n = 0}^{\infty} |a_{n}|$ in $\mathbb{K}$ konvergiert
+^1684683802473
 
 #### Wie lautet die verallgemeinerte Dreiecksungleichung? #card 
 $$\Biggl|\sum\limits_{n = 0}^{\infty} |a_{n}|\Biggr| \leq \sum\limits_{n =0}^{\infty} |a_{n}|$$
+^1684683802474
 
 #### Wann sollte man daran denken, die Dreiecksungleichung anzuwenden? #card 
 Wenn man etwas über den Betrag der Summer herausfinden will und was über $\sum\limits a_{n}$ 
+^1684683802475
 
 #### Wie funktioniert das Majoranten und das Minoranten Kriterium? #card 
 Hat man eine Reihe, von welchen wir wissen, dass sie divergieren, bzw. konvergieren, können wir andere Reihen mit ihnen vergleichen und somit auf die divergenz bzw. konvergent der Reihe schließen:
 - Majorantenkriterium: Ist $|a_{n}| \leq b_{n}$ für alle $n \geq n_{0}$ und konvergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so ist $\sum\limits_{n = 0}^{\infty} a_{n}$ absolut konvergent
 - Minorantenkriterium: Ist $a_{n} \geq b_{n} \geq 0$ für alle $n \geq n_{0}$ und divergiert die Reihe $\sum\limits_{n = 0}^{\infty} b_{n}$, so divergiert auch die Reihe $\sum\limits_{n = 0}^{\infty} a_{n}$
 Hinweis: Die Vergleichsfolge $(b_{n})$ heißt dann a) konvergente Majorante oder b) divergente Minorante
+^1684683802476
 
 #### Wann ist die Reihe $\sum_{n=1}^{\infty} \frac{1}{n^{\alpha}}$ konvergent? #card 
 Wenn $\alpha > 1$
+^1684683802477
 
 #### Wie funktioniert das Wurzelkriterium? #card 
 Existiert der Grenzwert $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ so ist die Reihe:
 - absolut konvergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|}< 1$ 
 - divergent, wenn $\lim_{n \to \infty} \sqrt[n]{|a_{n}|} > 1$
+^1684683802478
 
 #### Wie funktioniert das Quotientenkriterium? #card 
 Ist $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$ und existiert der Grenzwert $\lim_{n \to \infty} |a_{n+1} / a_{n}|$, so ist die Reihe:    
 - absolut konvergent, wenn $\lim_{n \to \infty} \frac{|a_{n+1}|}{a_{n}} < 1$
 - divergent, wenn $\lim_{n \to \infty} \frac{|a_{n+1}|}{a_{n}} > 1$
+^1684683802479
 
 #### Welches kriterium sollte man verwenden, wenn wir Fakultäten in einer Reihe haben? #card 
 Das Quotientenkriterium
 Beispiel: ![[Screenshot 2023-05-21 at 17.29.54.png]] 
+^1684683802480
 
 #### Wie lautet die Cauchy-Produktformel? #card 
 Seien $\sum\limits_{n = 0}^{\infty} a_{n}$ und $\sum\limits_{n = 0}^{\infty} b_{n}$ zwei absolut konvergente Reihen in $\mathbb{K}$, dann ist auch die Reihe $\sum\limits_{n = 0}^{\infty} a_{n} \cdot \sum\limits_{n = 0}^{\infty} b_{n}$ absolut konvergent und es gilt für die Reihenwerte: $$\sum\limits_{n=0}^{\infty} \sum\limits_{k=0}^{n} a_{k}b_{n-k} = \left( \sum\limits_{n = 0}^{\infty} a_{n} \right) \cdot \left( \sum\limits_{n = 0}^{\infty} b_{n} \right)$$
+^1684683802481
 
 #### Wie lautet die Funktionalgleichung der Exponentialfunktion? #card 
 $E(z+w) = E(z)E(w)$ aka. $E^{z+w} = E^{z} \cdot E^{w}$ 
+^1684683802482
 

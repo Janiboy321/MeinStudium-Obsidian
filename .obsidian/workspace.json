@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Notizen/Binary search tree.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a11744cd65b93753",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
+                "file": "AUD/Notizen/Binary search tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
+                "file": "AUD/Notizen/Binary search tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md"
+                "file": "AUD/Notizen/Binary search tree.md"
               }
             }
           },
@@ -175,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +182,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a11744cd65b93753",
+  "active": "f8118b25f4a3197a",
   "lastOpenFiles": [
     "Mathe II/Anki Karten für Mathe II.md",
+    "AUD/Notizen/Binary search tree.md",
     "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "Screenshot 2023-05-21 at 17.29.54.png",
     "Screenshot 2023-05-21 at 17.29.18.png",
@@ -243,7 +230,6 @@
     "SpP/MPI Testat.md",
     "SpP/Message-passing mit MPI.md",
     "SpP/Cuda Testat.md",
-    "InfMan/Organisation.md",
-    "SE/Anforderungsanalyse.md"
+    "InfMan/Organisation.md"
   ]
 }

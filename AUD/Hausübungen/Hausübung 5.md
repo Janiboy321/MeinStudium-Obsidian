@@ -11,4 +11,6 @@
 ![[Pasted image 20230523104907.png]]
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
-Es ist keine Färbung 
+Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum, sodass die Schwarzhöhe für alle Pfade gleichhoch ist.
+
+##### b)

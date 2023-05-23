@@ -11,3 +11,4 @@
 ![[Pasted image 20230523104907.png]]
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
+Es ist keine Färbung 

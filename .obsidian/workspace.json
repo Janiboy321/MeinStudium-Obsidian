@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/Notizen/Binary search tree.md",
+                "file": "AUD/Notizen/Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f46a5c949dfedec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Notizen/Binary search tree.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Notizen/Binary search tree.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Notizen/Binary search tree.md"
+                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md"
               }
             }
           },
@@ -182,10 +193,14 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "3f46a5c949dfedec",
   "lastOpenFiles": [
+    "AUD/Notizen/Trees.md",
+    "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
+    "AUD/Untitled.md",
+    "AUD/Drwawings",
+    "AUD/02 Sorting.md",
     "Mathe II/Anki Karten für Mathe II.md",
-    "AUD/Notizen/Binary search tree.md",
     "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "Screenshot 2023-05-21 at 17.29.54.png",
     "Screenshot 2023-05-21 at 17.29.18.png",
@@ -223,13 +238,9 @@
     "Mathe II/Konvergenz.md",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas",
-    "AUD/Notizen",
-    "AUD/02 Sorting.md",
     "APL/1. Hausübung.md",
     "AUD/Einführung.md",
     "SpP/MPI Testat.md",
-    "SpP/Message-passing mit MPI.md",
-    "SpP/Cuda Testat.md",
-    "InfMan/Organisation.md"
+    "SpP/Message-passing mit MPI.md"
   ]
 }

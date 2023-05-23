@@ -15,7 +15,3 @@ Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum, sodass die Schw
 
 ##### b)
 ![[Pasted image 20230523115336.png]]
-![[Pasted image 20230523115513.png]]
-![[Pasted image 20230523121227.png]]
-![[Pasted image 20230523121717.png]]
-![[Pasted image 20230523122015.png]]

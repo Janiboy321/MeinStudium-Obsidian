@@ -11,9 +11,9 @@
             "id": "732e00001276e0aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png"
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png"
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           },
@@ -228,12 +228,12 @@
       }
     ]
   },
-  "active": "28bdd7763c406a0e",
+  "active": "732e00001276e0aa",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "AUD/Hausübungen/Hausübung 5.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "Pasted image 20230523222118.png",
     "Pasted image 20230523122015.png",
     "Pasted image 20230523121717.png",

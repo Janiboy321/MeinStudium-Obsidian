@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a11744cd65b93753",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md"
               }
             }
           },
@@ -185,12 +196,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f8118b25f4a3197a",
+  "active": "a11744cd65b93753",
   "lastOpenFiles": [
+    "Mathe II/Anki Karten für Mathe II.md",
+    "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "Screenshot 2023-05-21 at 17.29.54.png",
     "Screenshot 2023-05-21 at 17.29.18.png",
     "Mathe II/Reihen.md",
-    "Mathe II/Anki Karten für Mathe II.md",
     "Screenshot 2023-05-21 at 15.23.53.png",
     "Pasted image 20230521133256.png",
     "Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
@@ -202,7 +214,6 @@
     "Hausuebung 5(8).svg",
     "Hausuebung 5(7).svg",
     "Hausuebung 5(6).svg",
-    "Hausuebung 5(5).svg",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",

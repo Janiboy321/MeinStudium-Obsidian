@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
               }
             }
           },
@@ -220,20 +220,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 1484,
-        "y": -131,
-        "width": 1876,
-        "height": 1015,
+        "x": 720,
+        "y": 25,
+        "width": 720,
+        "height": 875,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "732e00001276e0aa",
+  "active": "64a55101d0762216",
   "lastOpenFiles": [
-    "AUD/Hausübungen/Hausübung 5.md",
-    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
+    "Pasted image 20230523222118.png",
     "Pasted image 20230523122015.png",
     "Pasted image 20230523121717.png",
     "Pasted image 20230523121227.png",
@@ -243,7 +244,6 @@
     "Pasted image 20230523114251.png",
     "Pasted image 20230523105003.png",
     "Pasted image 20230523104930.png",
-    "Pasted image 20230523104907.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
@@ -276,7 +276,6 @@
     "Mathe II/Konvergenz.md",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas",
-    "APL/1. Hausübung.md",
-    "AUD/Einführung.md"
+    "APL/1. Hausübung.md"
   ]
 }

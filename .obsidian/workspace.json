@@ -11,9 +11,9 @@
             "id": "732e00001276e0aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png"
               }
             }
           },
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png"
               }
             }
           },
@@ -220,18 +219,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 720,
-        "y": 25,
-        "width": 720,
-        "height": 875,
+        "x": 1440,
+        "y": -155,
+        "width": 960,
+        "height": 1055,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "64a55101d0762216",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "Pasted image 20230523222118.png",
@@ -243,7 +243,6 @@
     "Pasted image 20230523115336.png",
     "Pasted image 20230523114251.png",
     "Pasted image 20230523105003.png",
-    "Pasted image 20230523104930.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",

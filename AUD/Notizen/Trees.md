@@ -10,3 +10,10 @@
 2. The root and leaves (NIL) are black
 3. If a node is red, then its children are black
 4. All Paths from a node to its NIL descendants contain the same number of black nodes (From one node to a NIL node)
+
+**Extra Notes:**
+- The shortest path contains only black nodes
+- The longest path alternates between red and black
+- Insert and remove require rotation
+- Search, Insert and Remove have a time complexity of $O(\log n)$
+

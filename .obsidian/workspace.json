@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -228,21 +230,22 @@
       }
     ]
   },
-  "active": "732e00001276e0aa",
+  "active": "01cecdb63f6f6e87",
   "lastOpenFiles": [
-    "AUD/Hausübungen/Hausübung 5.md",
-    "Pasted image 20230523225653.png",
+    "Pasted image 20230523230747.png",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
+    "Pasted image 20230523230608.png",
+    "Pasted image 20230523230512.png",
+    "Pasted image 20230523230311.png",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "Pasted image 20230523225653.png",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "Pasted image 20230523222118.png",
     "Pasted image 20230523122015.png",
     "Pasted image 20230523121717.png",
     "Pasted image 20230523121227.png",
     "Pasted image 20230523115513.png",
-    "Pasted image 20230523115420.png",
-    "Pasted image 20230523115336.png",
-    "Pasted image 20230523114251.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",

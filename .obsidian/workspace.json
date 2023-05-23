@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "64a55101d0762216",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "01cecdb63f6f6e87",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
               }
             }
           },
@@ -193,10 +204,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "732e00001276e0aa",
+  "active": "64a55101d0762216",
   "lastOpenFiles": [
-    "AUD/Hausübungen/Hausübung 5.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
     "Pasted image 20230523122015.png",
     "Pasted image 20230523121717.png",
     "Pasted image 20230523121227.png",

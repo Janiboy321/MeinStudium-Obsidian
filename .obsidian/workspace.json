@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8118b25f4a3197a",
+            "id": "3f46a5c949dfedec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f46a5c949dfedec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
+                "file": "AUD/Notizen/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
+                "file": "AUD/Notizen/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md"
+                "file": "AUD/Notizen/Trees.md"
               }
             }
           },
@@ -195,18 +184,20 @@
   },
   "active": "3f46a5c949dfedec",
   "lastOpenFiles": [
-    "AUD/Notizen/Trees.md",
     "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
+    "AUD/Notizen/Trees.md",
+    "AUD/Notizen/Rekursion.md",
+    "AUD/02 Sorting.md",
+    "Pasted image 20230521133256.png",
     "AUD/Untitled.md",
     "AUD/Drwawings",
-    "AUD/02 Sorting.md",
     "Mathe II/Anki Karten für Mathe II.md",
-    "Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "Screenshot 2023-05-21 at 17.29.54.png",
     "Screenshot 2023-05-21 at 17.29.18.png",
     "Mathe II/Reihen.md",
     "Screenshot 2023-05-21 at 15.23.53.png",
-    "Pasted image 20230521133256.png",
     "Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "Excalidraw",
     "AUD/Hausübungen/Hausübung 5.md",
@@ -215,7 +206,6 @@
     "Hausuebung 5(9).svg",
     "Hausuebung 5(8).svg",
     "Hausuebung 5(7).svg",
-    "Hausuebung 5(6).svg",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",
@@ -234,13 +224,11 @@
     "InfMan/Zusammenfassungen",
     "1. Hausübung.pdf.sb-66d93f26-i33JU0",
     "Hausuebung_1.pdf.sb-66d93f26-mq00rg",
-    "AUD/Notizen/Rekursion.md",
     "Mathe II/Konvergenz.md",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas",
     "APL/1. Hausübung.md",
     "AUD/Einführung.md",
-    "SpP/MPI Testat.md",
-    "SpP/Message-passing mit MPI.md"
+    "SpP/MPI Testat.md"
   ]
 }

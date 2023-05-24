@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -240,11 +241,11 @@
       }
     ]
   },
-  "active": "340a84965ce8d39b",
+  "active": "732e00001276e0aa",
   "lastOpenFiles": [
+    "Mathe II/Anki Karten für Mathe II.md",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
-    "Mathe II/Anki Karten für Mathe II.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "Pasted image 20230523231752.png",

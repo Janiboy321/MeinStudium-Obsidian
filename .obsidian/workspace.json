@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -229,11 +230,11 @@
       }
     ]
   },
-  "active": "732e00001276e0aa",
+  "active": "01cecdb63f6f6e87",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "Pasted image 20230523231752.png",
-    "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "Pasted image 20230523231453.png",
     "Pasted image 20230523231300.png",
     "Pasted image 20230523231136.png",

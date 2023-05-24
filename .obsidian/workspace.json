@@ -11,9 +11,11 @@
             "id": "732e00001276e0aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,6 +28,16 @@
                 "file": "AUD/Hausübungen/Hausübung 5.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "834dc59470a15cec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
               }
             }
           }
@@ -88,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -232,8 +243,10 @@
   },
   "active": "01cecdb63f6f6e87",
   "lastOpenFiles": [
+    "Mathe II/Anki Karten für Mathe II.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "AUD/Hausübungen/Hausübung 5.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Pasted image 20230523231752.png",
     "Pasted image 20230523231453.png",
     "Pasted image 20230523231300.png",
@@ -243,7 +256,6 @@
     "Pasted image 20230523230608.png",
     "Pasted image 20230523230512.png",
     "Pasted image 20230523230311.png",
-    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Pasted image 20230523225653.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
@@ -253,7 +265,6 @@
     "AUD/02 Sorting.md",
     "AUD/Untitled.md",
     "AUD/Drwawings",
-    "Mathe II/Anki Karten für Mathe II.md",
     "Mathe II/Reihen.md",
     "Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "Excalidraw",

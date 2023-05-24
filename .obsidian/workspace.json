@@ -37,11 +37,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md"
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           },
@@ -241,12 +241,12 @@
       }
     ]
   },
-  "active": "732e00001276e0aa",
+  "active": "834dc59470a15cec",
   "lastOpenFiles": [
-    "Mathe II/Anki Karten für Mathe II.md",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
-    "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
     "AUD/Hausübungen/Hausübung 5.md",
+    "Mathe II/Anki Karten für Mathe II.md",
+    "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "Pasted image 20230523231752.png",
     "Pasted image 20230523231453.png",

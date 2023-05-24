@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md"
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           },
@@ -221,20 +220,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 1440,
-        "y": -155,
-        "width": 960,
-        "height": 1055,
-        "maximize": true,
+        "x": 720,
+        "y": 25,
+        "width": 720,
+        "height": 875,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "01cecdb63f6f6e87",
+  "active": "732e00001276e0aa",
   "lastOpenFiles": [
+    "AUD/Hausübungen/Hausübung 5.md",
     "Pasted image 20230523231752.png",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
-    "AUD/Hausübungen/Hausübung 5.md",
     "Pasted image 20230523231453.png",
     "Pasted image 20230523231300.png",
     "Pasted image 20230523231136.png",
@@ -245,7 +244,6 @@
     "Pasted image 20230523230311.png",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Pasted image 20230523225653.png",
-    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",

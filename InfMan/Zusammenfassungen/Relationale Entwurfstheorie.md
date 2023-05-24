@@ -8,5 +8,5 @@
 		- Zum Beispiel kann so in einer Datenbank mit einer Tabelle Bestellungen kein Lieferant eingefügt werden, ohne dass der Lieferant schonmal etwas geliefert hat
 	- Lösch-Anomalie
 		- Wenn wir Daten löschen kann es bei schlechter Datenbank-Qualität passieren, dass man Daten löscht, welche man eigentlich garnicht löschen wollte
-		- Löcht man beispielsweise alle lieferungen eines Lieferanten, so löscht man den Lieferanten gleich mit, falls er nur in der Tabelle bestellungen existiert
+		- Löcht man beispielsweise alle lieferungen eines Lieferanten, so löscht man den Lieferanten gleich mit, falls er nur in der Tabelle bestellungen existier
 

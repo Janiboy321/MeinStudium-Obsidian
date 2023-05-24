@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md"
+                "file": "Mathe II/Anki Karten für Mathe II.md"
               }
             }
           },
@@ -241,12 +240,12 @@
       }
     ]
   },
-  "active": "01cecdb63f6f6e87",
+  "active": "340a84965ce8d39b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
-    "AUD/Hausübungen/Hausübung 5.md",
     "Mathe II/Anki Karten für Mathe II.md",
+    "AUD/Hausübungen/Hausübung 5.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "Pasted image 20230523231752.png",
     "Pasted image 20230523231453.png",

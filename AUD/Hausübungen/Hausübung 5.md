@@ -12,7 +12,7 @@
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
 Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
-1. Der Knoten links von der Wurzel ist ein Halbblatt, muss deshalb schwarz gefärbt werden, deshalb muss der Knoten rechts von dewr Wurzel rot gefärbt werden, da sonst die 4.Regel (Schwarzhöhe) verletzt wäre. Daraus folgt also, dass es keinen Pfad geben darf, bei welchem die Schwarzhöhe $!= 2$
+1. Der Knoten links von der Wurzel ist ein Halbblatt, muss deshalb schwarz gefärbt werden, was die Schwarzhöhe auf mindestens 2 schiebt. Da die "7" auch Schwarz sein muss (Weil Halbblatt), müsste also auf dem Pfad von der "5" bis zur "6" mindestens 3 Rote 
 2. 
 
 ##### b)

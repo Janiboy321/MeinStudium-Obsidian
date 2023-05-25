@@ -25,3 +25,15 @@ Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum, sodass die Schw
 ![[Pasted image 20230523231300.png]]
 ![[Pasted image 20230523231453.png]]
 ![[Pasted image 20230523231752.png]]
+
+#### H2
+##### a)
+Zu zeigen:
+	Ein Baum mit $n$ Knoten hat genau $n-1$ Kanten
+
+I.A.:
+	$n = 1 \rightarrow 1 - 1 = 0$
+	Diese Aussage stimmt, da ein Baum mit nur einem Knoten keine Kante zur Verbindung mit einem anderen Knoten benötigt
+
+I.S.:
+	

@@ -11,7 +11,9 @@
 ![[Pasted image 20230523104907.png]]
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
-Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum, sodass die Schwarzhöhe für alle Pfade gleichhoch ist.
+Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
+1. Der Knoten links von der Wurzel ist ein Halbblatt, muss deshalb schwarz gefärbt werden, deshalb muss der Knoten rechts von dewr Wurzel rot gefärbt werden, da sonst die 4.Regel (Schwarzhöhe) verletzt wäre. Daraus folgt also, dass es keinen Pfad geben darf, bei welchem die Schwarzhöhe $!= 2$
+2. 
 
 ##### b)
 ![[Pasted image 20230523115336.png]]
@@ -36,4 +38,13 @@ I.A.:
 	Diese Aussage stimmt, da ein Baum mit nur einem Knoten keine Kante zur Verbindung mit einem anderen Knoten benötigt
 
 I.S.:
+	$n = n + 1$
+
+I.V.:
+	Ein Baum mit $n$ Knoten hat genau $n - 1$ Kanten
+
+I.B.: 
+	Ein Baum mit $n+1$ Knoten hat genau $n$ Knoten
+	Fügt man einem Baum mit $n$ Knoten einen Knoten hinzu, fügt man per Definition auch immer eine Kante hinzu. Nach *I.V* besitzt der Baum schon n-1 Kanten. Nach Hinzufügen eines Knotens hat man also eine Kante mehr: $n - 1 + 1 = n$
+	Darauf folgt, dass die zu beweisende AUssage wahr ist.
 	

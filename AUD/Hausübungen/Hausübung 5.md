@@ -12,8 +12,7 @@
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
 Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
-1. Der Knoten links von der Wurzel ist ein Halbblatt, muss deshalb schwarz gefärbt werden, was die Schwarzhöhe auf mindestens 2 schiebt. Da die "7" auch Schwarz sein muss (Weil Halbblatt), müsste also auf dem Pfad von der "5" bis zur "6" mindestens 3 Rote 
-2. 
+1. Der Knoten links von der Wurzel ist ein Halbblatt, muss deshalb schwarz gefärbt werden, was die Schwarzhöhe auf mindestens 2 schiebt. Da die "7" auch Schwarz sein muss (Weil Halbblatt), müsste also auf dem Pfad von der "5" bis zur "6" mindestens 3 Rote Knoten sein, was nicht möglich, ist, da sonst die Nicht-Rot-Rot-Regel verletzt wäre.
 
 ##### b)
 ![[Pasted image 20230523115336.png]]
@@ -47,4 +46,6 @@ I.B.:
 	Ein Baum mit $n+1$ Knoten hat genau $n$ Knoten
 	Fügt man einem Baum mit $n$ Knoten einen Knoten hinzu, fügt man per Definition auch immer eine Kante hinzu. Nach *I.V* besitzt der Baum schon n-1 Kanten. Nach Hinzufügen eines Knotens hat man also eine Kante mehr: $n - 1 + 1 = n$
 	Darauf folgt, dass die zu beweisende AUssage wahr ist.
-	
+
+##### b)
+Die Zeitkomplexität wäre in beiden Fällen $O(n)$, da wir bei beiden  

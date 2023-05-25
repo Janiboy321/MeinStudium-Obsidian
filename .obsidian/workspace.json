@@ -35,16 +35,13 @@
             "id": "834dc59470a15cec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -208,48 +205,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "floating": {
-    "id": "1e38f93db0ca2dbf",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96711104c7e85b49",
-        "type": "window",
-        "children": [
-          {
-            "id": "80bcf11e37fa6882",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "64a55101d0762216",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2400,
-        "y": 100,
-        "width": 720,
-        "height": 875,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "64a55101d0762216",
+  "active": "732e00001276e0aa",
   "lastOpenFiles": [
-    "Mathe II/Anki Karten für Mathe II.md",
-    "AUD/Hausübungen/Hausübung 5.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
+    "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "Mathe II/Anki Karten für Mathe II.md",
     "Pasted image 20230523231752.png",
     "Pasted image 20230523231453.png",
     "Pasted image 20230523231300.png",

@@ -12,7 +12,7 @@
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
 Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
-	Da die "2" ein halbblatt ist, muss sie schwarz gefärbt sein. Die "1" m
+	Da die "2" ein halbblatt ist, muss sie schwarz gefärbt sein. Die "1" muss dementsprechend rot gefärbt werden, damit die Schwarhöhe ab "2" auf beiden seiten gleich ist. Jetzt wissen wir, da die Wurzel immer schwarz sein muss dass die Wurzel eine Schwarzöhe von 2 besitzt. Gehen wir jetzt den rechten Teilbaum (ab "5") durch, 
 
 ##### b)
 ![[Pasted image 20230523115336.png]]

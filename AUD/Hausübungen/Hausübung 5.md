@@ -66,6 +66,5 @@ I.B.:
 	Darauf folgt, dass die zu beweisende AUssage wahr ist.
 
 ##### b)
-**Worstcase:** Alle n Zahlen die wir einfügen sind aufsteigens bzw. absteigend Sortiert, sodass wir einen BST mit der Höhe $n$ bekommen. Das Einfügen hat im Worstcase also die Laufzeit $O(n \cdot n) = O(n^2)$. Führen wir dann noch die Inorder TZravsierung 
-**Bestcase:** Alle n Zahlen die wir einfügen sind so Sortiert, dass der BST perfekt ausbalanciert ist. Damit erhalten wir dann einen BST mit der Höhe $\log n$ und das Einfügen eine Laufzeit von $O(n \cdot \log n)$ 
-****
+**Worstcase:** Alle n Zahlen die wir einfügen sind aufsteigens bzw. absteigend Sortiert, sodass wir einen BST mit der Höhe $n$ bekommen. Das Einfügen hat im Worstcase also die Laufzeit $O(n \cdot n) = O(n^2)$. Führen wir dann noch die Inorder Travsierung (welche immer eine Laufzeit von $O(n)$ hat), erhalten wir eine finale Laufzeit von $O(n^{2}+n) \approx O(n^2)$ 
+**Bestcase:** Alle n Zahlen die wir einfügen sind so Sortiert, dass der BST perfekt ausbalanciert ist. Damit erhalten wir dann einen BST mit der Höhe $\log n$ und das Einfügen eine Laufzeit von $O(n \cdot \log n)$. Führen wir dann noch die Inorder Travsierung (welche immer eine Laufzeit von $O(n)$ hat), erhalten wir eine finale Laufzeit von $O((n \cdot \log n) + n) \approx O(n \cdot \log n)$ 

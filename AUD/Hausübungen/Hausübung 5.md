@@ -12,7 +12,8 @@
 ![[Pasted image 20230523104930.png]]
 ![[Pasted image 20230523105003.png]]
 Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
-	Da die "2" ein halbblatt ist, muss sie schwarz gefärbt sein. Die "1" muss dementsprechend rot gefärbt werden, damit die Schwarhöhe ab "2" auf beiden seiten gleich ist. Jetzt wissen wir, da die Wurzel immer schwarz sein muss dass die Wurzel eine Schwarzöhe von 2 besitzt. Gehen wir jetzt den rechten Teilbaum (ab "5") durch, 
+	Da die "2" ein halbblatt ist, muss sie schwarz gefärbt sein. Die "1" muss dementsprechend rot gefärbt werden, damit die Schwarhöhe ab "2" auf beiden seiten gleich ist. Jetzt wissen wir, da die Wurzel immer schwarz sein muss dass die Wurzel eine Schwarzöhe von 2 besitzt. Gehen wir jetzt den rechten Teilbaum (ab "5") durch, fällt relativ schnell auf, dass der Baum eine Schwarzhöhe $> 2$ haben muss:
+	Färben wir "5" Schwarz, muss jeder einzelne Knoten darunter rot sein, was aber nicht funktioniert, da sonst die nicht-rot-rot Regel verletzt wäre. Also färben wir "5" rot und müssen dann "4" und "10" schwarz färben. Um die Schwarzhöhe aufrecht zu erhalten, müssen wir jetzt alle Knoten unterhalb "10" rot färben, was wieder zur verletzung der nicht-rot-rot Regel führen würde, somit ist es unmöglich für diesen Baum eine korrekte Schwarz-Rot-Färbung zu finden.
 
 ##### b)
 ![[Pasted image 20230523115336.png]]

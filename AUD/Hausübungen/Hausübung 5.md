@@ -28,6 +28,16 @@ Es existiert keine mögliche Schwarz-Rot-Färbung für den Baum:
 ![[Pasted image 20230523231453.png]]
 ![[Pasted image 20230523231752.png]]
 
+##### c)
+**Preorder:**
+	a) *3, 2, 1, 5, 4, 10, 8, 7, 6, 9, 11*
+	b) *5, 3, 2, 1, 4, 10, 7, 6, 8, 9, 11*
+**Inorder:**
+	a) *1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11*
+	b) *1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11*
+**Postorder:**
+	a) *1, 2, 4, 6, 7, 9, 8, 11, 10, 5, 3*
+
 #### H2
 ##### a)
 Zu zeigen:

@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -207,10 +206,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "834dc59470a15cec",
+  "active": "732e00001276e0aa",
   "lastOpenFiles": [
-    "AUD/Hausübungen/Hausübung 5.md",
     "Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
     "Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Mathe II/Anki Karten für Mathe II.md",

@@ -313,4 +313,8 @@ Eine Menge $M \subseteq V$ heißt offen, falls es für jeden Punkt $x_{0}\in M$ 
 *In anderen Worten: Eine Kugel ist offen, wenn es für jeden Punkt innerhalb der Kugel einen Radius $r > 0$ gibt, sodass die daraus resultierende Kugel innerhalb der Menge $M$ liegt* 
 
 #### #### Wann heißt eine Menge in einem endlich-dimensionalen Raum **abgeschlossen**? #card 
-Eine Menge $M \subseteq V$ heißt offen, wenn die Menge $M^{c}= V \textbackslash M$   
+Eine Menge $M \subseteq V$ heißt offen, wenn die Menge $M^{c}= V \ \textbackslash \ M$ offen ist
+*In anderen Worten: Die Menge $M \in V$ ist abgeschlossen, wenn ihr Komplement offen ist*
+
+#### Wann ist ein Punkt $x_{0} \in M$ ein innerer Punkt von $M$? #card 
+Es sei $M \subseteq V$. Ein Punkt $x_{0} \in M$ heißt innerer Punkt von $M$, falls es ein $r > 0$ gibt, so dass $B_{r}(x_{0}) \subseteq M$ ist. Man nennt $$M° := \{ x \in M: x \text{ innerer Punkt von } M\}$$das **Innere von $M$**

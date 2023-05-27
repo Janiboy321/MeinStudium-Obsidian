@@ -299,6 +299,17 @@ Falls es ein $C \geq 0$ gibt, so dass $||x||_{V} \leq C$ für alle $x \in M$ gil
 Es sei $(a_{n})_{n \in \mathbb{N}} = (\left(a_{n,1} a_{n, 2}, \dotsc, a_{n, d} \right) ^{T})_{n \in \mathbb{N}}$ eine Folge in $\mathbb{R}^d$. Dann ist $(a_{n})$  in $\mathbb{R}^{d}$ genau dann konvergent, wenn für jedes $j \in \{1, 2, \dotsc, d\}$ die Koordinatenfolge $(a_{n,j})_{n \in \mathbb{N}}$ in $\mathbb{R}$ konvergent. In diesem Fall ist 
 $$
 \lim_{n \to \infty} 
-\begin{pmatrix} a_{n, 1} \\ a_{n, 2} \\  
+\begin{pmatrix} a_{n, 1} \\ a_{n, 2} \\ \vdots \\ a_{n, d} 
+\end{pmatrix} =
+\begin{pmatrix} \lim_{n \to \infty} a_{n, 1} \\ \lim_{n \to \infty} a_{n, 2} \\ \vdots \\ \lim_{n \to \infty} a_{n, d} 
 \end{pmatrix}
-$$    
+$$
+
+#### Inwiefern unterscheidet sich in einem endlich-dimensionalem Raum die Konvergenz einer Folge unter Verwendung verschiedener Normen? #card 
+Garnich, egal welche Norm man verwendet, man bekommt immer das gleiche Resultat
+
+#### Wann ist eine Menge in einem endlich-dimensionalen Raum offen? #card 
+Eine Menge $M \subseteq V$ heißt offen, falls es für jeden Punkt $x_{0}\in M$ einen Radius $r > 0$ gibt, so dass $B_{r}(x_{0}) \subseteq M$ gilt.
+**In anderen Worten: Eine Kugel ist offen, wenn es für jeden Punkt innerhalb der Kugel einen Radius $r > 0$ gibt, sodass die daraus resultierende Kugel innerhalb der Menge $M$ liegt** 
+hei
+#### #### Wann ist eine Menge in einem endlich-dimensionalen Raum abgeschlosse

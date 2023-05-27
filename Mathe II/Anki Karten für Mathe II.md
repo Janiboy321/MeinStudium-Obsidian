@@ -295,4 +295,10 @@ Meistens die gleichen, wie für die normale Konvergenz, nur dass die Betragsstri
 #### Wann ist eine Menge $M \subseteq V$ beschränkt? #card 
 Falls es ein $C \geq 0$ gibt, so dass $||x||_{V} \leq C$ für alle $x \in M$ gilt
 
-#
+#### Wann ist ein Vektor konvergent und welchen Grenzwert hat er dann?
+Es sei $(a_{n})_{n \in \mathbb{N}} = (\left(a_{n,1} a_{n, 2}, \dotsc, a_{n, d} \right) ^{T})_{n \in \mathbb{N}}$ eine Folge in $\mathbb{R}^d$. Dann ist $(a_{n})$  in $\mathbb{R}^{d}$ genau dann konvergent, wenn für jedes $j \in \{1, 2, \dotsc, d\}$ die Koordinatenfolge $(a_{n,j})_{n \in \mathbb{N}}$ in $\mathbb{R}$ konvergent. In diesem Fall ist 
+$$
+\lim_{n \to \infty} 
+\begin{pmatrix} a_{n, 1} \\ a_{n, 2} \\  
+\end{pmatrix}
+$$    

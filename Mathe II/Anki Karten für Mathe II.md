@@ -341,5 +341,10 @@ Wenn jede Cauchy-Folge in $V$ konvergiert
 #### #### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ Hilbertraum? #card 
 Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
 
+#### Welche Rechenregeln gelten in Banachräumen? #card 
+1. $(a_{n}) \text{ konvergent } \Leftrightarrow (a_{n}) \text{ Cauchy-Folge}$
+2. $\text{Jede absolut konvergente Reihe konvergiert}$
+3. $\text{Majorantenkriterium, Wurelkriterium und Qutotientenkriterium}$
 
-
+#### Sei $(V, ||\cdot||_V)$ ein Banachraum, $M \subseteq V$ abgeschlossen und $f: M \rightarrow M$ eine Funktion. Weiter existiert ein $q \in (0,1)$ so dass $$||f(x) - f(y)||_{V} \leq ||x-y||_{V} \ \ \ \ \text{ für alle x, y} \in$$$$
+ 

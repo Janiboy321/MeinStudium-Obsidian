@@ -308,8 +308,9 @@ $$
 #### Inwiefern unterscheidet sich in einem endlich-dimensionalem Raum die Konvergenz einer Folge unter Verwendung verschiedener Normen? #card 
 Garnich, egal welche Norm man verwendet, man bekommt immer das gleiche Resultat
 
-#### Wann ist eine Menge in einem endlich-dimensionalen Raum offen? #card 
+#### Wann ist eine Menge in einem endlich-dimensionalen Raum **offen**? #card 
 Eine Menge $M \subseteq V$ heißt offen, falls es für jeden Punkt $x_{0}\in M$ einen Radius $r > 0$ gibt, so dass $B_{r}(x_{0}) \subseteq M$ gilt.
-**In anderen Worten: Eine Kugel ist offen, wenn es für jeden Punkt innerhalb der Kugel einen Radius $r > 0$ gibt, sodass die daraus resultierende Kugel innerhalb der Menge $M$ liegt** 
-hei
-#### #### Wann ist eine Menge in einem endlich-dimensionalen Raum abgeschlosse
+*In anderen Worten: Eine Kugel ist offen, wenn es für jeden Punkt innerhalb der Kugel einen Radius $r > 0$ gibt, sodass die daraus resultierende Kugel innerhalb der Menge $M$ liegt* 
+
+#### #### Wann heißt eine Menge in einem endlich-dimensionalen Raum **abgeschlossen**? #card 
+Eine Menge $M \subseteq V$ heißt offen, wenn die Menge $M^{c}= V \textbackslash M$   

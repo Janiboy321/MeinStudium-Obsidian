@@ -291,7 +291,7 @@ $E(z+w) = E(z)E(w)$ aka. $E^{z+w} = E^{z} \cdot E^{w}$
 
 #### Welche Regeln gelten für die Konvergenz im normierten Raum? #card 
 Meistens die gleichen, wie für die normale Konvergenz, nur dass die Betragsstriche durch Normen ausgetauscht werden.
-Also: Cauchy-Folge, Konvergenz / Divergenz, Beschränktheit,
+Also: Cauchy-Folge, Konvergenz / Divergenz, Häufungswert und Teilmenge
 
 #### Wann ist eine Menge $M \subseteq V$ beschränkt? #card 
 Falls es ein $C \geq 0$ gibt, so dass $||x||_{V} \leq C$ für alle $x \in M$ gilt
@@ -328,5 +328,6 @@ Wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element a
 #### Wann ist eine Teilmenge $M \subseteq V$, mit $V$ endlich-dimensionaler, normierter $\mathbb{R}-$Vektorraum, kompakt? #card
 Wenn die Menge $M$ abgeschlossen und beschränkt ist
 
-
+#### Sei $(V, || \cdot ||_{V})$ ein endlich-dimensionaler, normierter Raum und $M \subseteq V$. Wann besitzt jede Folge in M eine konvergente Teilfolge? mit Grenzwert in M?
+Wenn 
 

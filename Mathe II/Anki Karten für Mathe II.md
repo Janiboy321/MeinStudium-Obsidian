@@ -289,3 +289,6 @@ Seien $\sum\limits_{n = 0}^{\infty} a_{n}$ und $\sum\limits_{n = 0}^{\infty} b_{
 $E(z+w) = E(z)E(w)$ aka. $E^{z+w} = E^{z} \cdot E^{w}$ 
 ^1684683802482
 
+#### Wann ist eine Folge in einem normiertem Raum konvergent? #card 
+Eine Folge $(a_{n})_{n \in \mathbb{N}}$ heißt konvergent gegen ein  $a \in V$ $\varepsilon > 0$ ein $n_{0}\in \mathbb{N}$ 
+

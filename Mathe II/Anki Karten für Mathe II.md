@@ -328,6 +328,18 @@ Wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element a
 #### Wann ist eine Teilmenge $M \subseteq V$, mit $V$ endlich-dimensionaler, normierter $\mathbb{R}-$Vektorraum, kompakt? #card
 Wenn die Menge $M$ abgeschlossen und beschränkt ist
 
-#### Sei $(V, || \cdot ||_{V})$ ein endlich-dimensionaler, normierter Raum und $M \subseteq V$. Wann besitzt jede Folge in M eine konvergente Teilfolge? mit Grenzwert in M?
-Wenn 
+#### Sei $(V, || \cdot ||_{V})$ ein endlich-dimensionaler, normierter Raum und $M \subseteq V$. Wann besitzt jede Folge in M eine konvergente Teilfolge, mit Grenzwert in M? #card 
+Wenn M kompakt ist
+
+#### Wann besitzt jede beschränkte Folge in $V$ mindestens einen Häufungswert? #card
+Wenn $(V, ||\cdot||_{V})$ ein endlich-dimensionler normierter Raum ist.
+*In anderen Worten: In einer beschränkten Teilmenge des $\mathbb{R}^d$ ist nicht genug Platz, als dass man mit einer Folge so wild herumspringen kann, dass sie sich nirgends häuft. Anders gesagt: Wenn man unendlich viele Punkte in einer beschränkten Menge unterbringen will, so müssen die irgendwo klumpen*
+
+#### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ vollständig bzw. Banachraum? #card 
+Wenn jede Cauchy-Folge in $V$ konvergiert
+
+#### #### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ Hilbertraum? #card 
+Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
+
+
 

@@ -292,9 +292,11 @@ $E(z+w) = E(z)E(w)$ aka. $E^{z+w} = E^{z} \cdot E^{w}$
 #### Welche Regeln gelten für die Konvergenz im normierten Raum? #card 
 Meistens die gleichen, wie für die normale Konvergenz, nur dass die Betragsstriche durch Normen ausgetauscht werden.
 Also: Cauchy-Folge, Konvergenz / Divergenz, Häufungswert und Teilmenge
+^1685188652789
 
 #### Wann ist eine Menge $M \subseteq V$ beschränkt? #card 
 Falls es ein $C \geq 0$ gibt, so dass $||x||_{V} \leq C$ für alle $x \in M$ gilt
+^1685188652798
 
 #### Wann ist ein Vektor konvergent und welchen Grenzwert hat er dann?
 Es sei $(a_{n})_{n \in \mathbb{N}} = (\left(a_{n,1} a_{n, 2}, \dotsc, a_{n, d} \right) ^{T})_{n \in \mathbb{N}}$ eine Folge in $\mathbb{R}^d$. Dann ist $(a_{n})$  in $\mathbb{R}^{d}$ genau dann konvergent, wenn für jedes $j \in \{1, 2, \dotsc, d\}$ die Koordinatenfolge $(a_{n,j})_{n \in \mathbb{N}}$ in $\mathbb{R}$ konvergent. In diesem Fall ist 
@@ -308,43 +310,59 @@ $$
 
 #### Inwiefern unterscheidet sich in einem endlich-dimensionalem Raum die Konvergenz einer Folge unter Verwendung verschiedener Normen? #card 
 Garnich, egal welche Norm man verwendet, man bekommt immer das gleiche Resultat
+^1685188652802
 
 #### Wann ist eine Menge in einem endlich-dimensionalen Raum **offen**? #card 
 Eine Menge $M \subseteq V$ heißt offen, falls es für jeden Punkt $x_{0}\in M$ einen Radius $r > 0$ gibt, so dass $B_{r}(x_{0}) \subseteq M$ gilt.
 *In anderen Worten: Eine Kugel ist offen, wenn es für jeden Punkt innerhalb der Kugel einen Radius $r > 0$ gibt, sodass die daraus resultierende Kugel innerhalb der Menge $M$ liegt* 
 *Oder: Eine Menge ist offen, wenn alle ihre Punkte innere Punkte sind*
 **Hinweis: $\text{Menge ist offen } \nLeftrightarrow \text{ Menge ist abgeschlossen}$** 
+^1685188652805
 
 #### #### Wann heißt eine Menge in einem endlich-dimensionalen Raum **abgeschlossen**? #card 
 Eine Menge $M \subseteq V$ heißt offen, wenn die Menge $M^{c}= V \ \textbackslash \ M$ offen ist
 *In anderen Worten: Die Menge $M \in V$ ist abgeschlossen, wenn ihr Komplement offen ist*
+^1685188652809
 
-#### Wann ist ein Punkt $x_{0} \in M$ ein innerer Punkt von $M$? #card 
+#### Wann ist ein Punkt $x_{0} \in M$ ein innerer Punkt von $M$? #card
+^1685188652815 
 Es sei $M \subseteq V$. Ein Punkt $x_{0} \in M$ heißt innerer Punkt von $M$, falls es ein $r > 0$ gibt, so dass $B_{r}(x_{0}) \subseteq M$ ist. Man nennt $$M° := \{ x \in M: x \text{ innerer Punkt von } M\}$$das **Innere von $M$**
+^1685188652818
 
 #### Wann ist eine Teilmenge $M$ von $V$ abgeschlossen? #card
 Wenn für jede Folge in $M$, die in $V$ konvergiert, der Grenzwert ein Element aus M ist
+^1685188652821
 
 #### Wann ist eine Teilmenge $M \subseteq V$, mit $V$ endlich-dimensionaler, normierter $\mathbb{R}-$Vektorraum, kompakt? #card
 Wenn die Menge $M$ abgeschlossen und beschränkt ist
+^1685188652824
 
 #### Sei $(V, || \cdot ||_{V})$ ein endlich-dimensionaler, normierter Raum und $M \subseteq V$. Wann besitzt jede Folge in M eine konvergente Teilfolge, mit Grenzwert in M? #card 
 Wenn M kompakt ist
+^1685188652828
 
 #### Wann besitzt jede beschränkte Folge in $V$ mindestens einen Häufungswert? #card
 Wenn $(V, ||\cdot||_{V})$ ein endlich-dimensionler normierter Raum ist.
 *In anderen Worten: In einer beschränkten Teilmenge des $\mathbb{R}^d$ ist nicht genug Platz, als dass man mit einer Folge so wild herumspringen kann, dass sie sich nirgends häuft. Anders gesagt: Wenn man unendlich viele Punkte in einer beschränkten Menge unterbringen will, so müssen die irgendwo klumpen*
+^1685188652831
 
 #### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ vollständig bzw. Banachraum? #card 
 Wenn jede Cauchy-Folge in $V$ konvergiert
+^1685188652834
 
-#### #### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ Hilbertraum? #card 
+#### #### Wann heißt ein normierter $\mathbb{R}-$Vektorraum $(V, ||\cdot||_{V})$ Hilbertraum? #card
+^1685188652836 
 Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
+^1685188652840
 
 #### Welche Rechenregeln gelten in Banachräumen? #card 
 1. $(a_{n}) \text{ konvergent } \Leftrightarrow (a_{n}) \text{ Cauchy-Folge}$
 2. $\text{Jede absolut konvergente Reihe konvergiert}$
 3. $\text{Majorantenkriterium, Wurelkriterium und Qutotientenkriterium}$
+^1685188652844
 
-#### Sei $(V, ||\cdot||_V)$ ein Banachraum, $M \subseteq V$ abgeschlossen und $f: M \rightarrow M$ eine Funktion. Weiter existiert ein $q \in (0,1)$ so dass $$||f(x) - f(y)||_{V} \leq ||x-y||_{V} \ \ \ \ \text{ für alle x, y} \in$$$$
- 
+#### Sei $(V, ||\cdot||_V)$ ein Banachraum, $M \subseteq V$ abgeschlossen und $f: M \rightarrow M$ eine Funktion. Weiter existiert ein $q \in (0,1)$ so dass $$||f(x) - f(y)||_{V} \leq ||x-y||_{V} \ \ \ \ \text{ für alle x, y} \in M$$gilt. Welche Aussagen gelten jetzt?
+1. Es gibt genau ein $v \in M$ mit $f(v) = v$, f hat also genau einen Fixpunkt in M
+2. ![[Pasted image 20230527135720.png]]
+
+

@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,10 +179,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a1e1786402f72c18",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
-    "Pasted image 20230527135720.png",
     "Mathe II/Anki Karten für Mathe II.md",
+    "Excalidraw/Drawing 2023-05-30 11.09.49.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20230527135720.png",
     "_Misc/Pictures",
     "_Misc",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
@@ -202,7 +200,6 @@
     "_Misc/Pictures/Pasted image 20230523231453.png",
     "_Misc/Pictures/Pasted image 20230523231300.png",
     "_Misc/Pictures/Pasted image 20230523231136.png",
-    "_Misc/Pictures/Pasted image 20230523230951.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
@@ -228,7 +225,6 @@
     "InfMan/Screenshots",
     "Hausuebung_1.pdf",
     "1. Hausübung.pdf",
-    "InfMan/Zusammenfassungen",
     "Mathe II/Konvergenz.md",
     "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas"

@@ -9,23 +9,24 @@
 | **Software AG** | Kappies und VR Brillen | | Birgit.Polenz@softwareag.com | (x) VR Brillen fehlen noch|
 | **Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF)** | Flyer und Aufkleber | | fiff@fiff.de | X |
 | **Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit** | Flyer von ihrer List, Edle Stifte, Pffeferminze in Dosen, Sattelschutz | | OEA@bfdi.bund.de | X |
-| Bundestag | Postkarten und Poster von ihrer Liste | Kein Bezug von anderem Material möglich, hab evt. die Frau verärgert mit Nachrfagen ^^' |infomaterial@bundestag.de | X|
-| BvD | Webcam Sticker | Haben leider sonst kein Material für Studis | ak-schule-assistenz@bvdnet.de | X|
-| Bundesministerium für Familie, Kinder und Sozials | Webcam Sticker STOP GEHEIM ||| X|
-| IAESTE | Flyer, Bierdeckel | | tobias.meik@iaeste-darmstadt.de, info@iaeste-darmstadt.de | X |
-| KLAZMO Getränkepulver | Energiedrink Pulver | Einfach geschickt ohne zu antworten, aber gutes Zeug ^^' | Kontakt über Webseite | X |
-| DART Racing | Flyer | Sehr interessiert an mehr Zusammenarbeit | stefan.niebuer@dart-racing.de | hängt wahrscheinlich noch in Karo 5 Poststelle fest|
-| AKAMU | Flyer, Kullies | | niklas.fix@akamu.de, antonia.wuest@akamu.de | x |
-| Filmkreis | Programmhefte | | info@filmkreis.de, lschulzefalck@filmkreis.tu-darmstadt.de | Kommt Ende März|
-|TUDSaT | Sticker, Flyer || vorstand@tudsat.space ||
-| Konaktiva | Flyer, Kullis, Blöcke, etc. | | info@konaktiva.de, agriesser@konaktiva.tu-darmstadt.de |x|
-|1. eSport Verein Darmstadt | Flyer || vorstand@esport-darmstadt.de |x|
-| ULB | Flyer, ggf. Stifte | Hat aktiv bei der Leitung nach wg. Unterstützung angefragt | infokompetenz@ulb.tu-darmstadt.de | |
-| GI - Gesellschaft für Informatik | Flyer, Sticker, Bleistifte und ein Plakat | Möchte auch im WS was senden. | ludger.porada@gi.de| x |
-| NoteBuddys | Unbekanntes Material | Bestätigung ausstehend |zoheb@notebuddys.de||
-| TEGUT Marktplatz (Ayhan Vural) | Gummibärchen | Muss abgeholt werden. Jacques meldet sich bei 0173/6497079 || x |
-| Heise | Zeitschrifte und Goodies | Sehr verspätet gemeldet, Anfrage ob dieses Semster oder dann erst nächstes läuft. | Isabel.Lieshoff@heise.de ||
-|Sicher-Im-Netz |  DsiN Passwortkarten | sehr spät dran... | stud.mitarbeit@sicher-im-netz.de ||
+| **Bundestag** | Postkarten und Poster von ihrer Liste | Kein Bezug von anderem Material möglich, hab evt. die Frau verärgert mit Nachrfagen ^^' |infomaterial@bundestag.de | X|
+| **BvD** | Webcam Sticker | Haben leider sonst kein Material für Studis | ak-schule-assistenz@bvdnet.de | X|
+| **Bundesministerium für Familie, Kinder und Sozials** | Webcam Sticker STOP GEHEIM ||| X|
+| **IAESTE** | Flyer, Bierdeckel | | tobias.meik@iaeste-darmstadt.de, info@iaeste-darmstadt.de | X |
+| **KLAZMO Getränkepulver** | Energiedrink Pulver | Einfach geschickt ohne zu antworten, aber gutes Zeug ^^' | Kontakt über Webseite | X |
+| **DART Racing** | Flyer | Sehr interessiert an mehr Zusammenarbeit | stefan.niebuer@dart-racing.de | hängt wahrscheinlich noch in Karo 5 Poststelle fest|
+| **AKAMU** | Flyer, Kullies | | niklas.fix@akamu.de, antonia.wuest@akamu.de | x |
+| **Filmkreis** | Programmhefte | | info@filmkreis.de, lschulzefalck@filmkreis.tu-darmstadt.de | Kommt Ende März|
+| **TUDSaT** | Sticker, Flyer || vorstand@tudsat.space ||
+| **Konaktiva** | Flyer, Kullis, Blöcke, etc. | | info@konaktiva.de, agriesser@konaktiva.tu-darmstadt.de |x|
+|**1. eSport Verein Darmstadt** | Flyer || vorstand@esport-darmstadt.de |x|
+| **ULB** | Flyer, ggf. Stifte | Hat aktiv bei der Leitung nach wg. Unterstützung angefragt | infokompetenz@ulb.tu-darmstadt.de | |
+| **GI - Gesellschaft für Informatik** | Flyer, Sticker, Bleistifte und ein Plakat | Möchte auch im WS was senden. | ludger.porada@gi.de| x |
+| **NoteBuddys** | Unbekanntes Material | Bestätigung ausstehend |zoheb@notebuddys.de||
+| **Heise** | Zeitschrifte und Goodies | Sehr verspätet gemeldet, Anfrage ob dieses Semster oder dann erst nächstes läuft. | Isabel.Lieshoff@heise.de ||
+|**Sicher-Im-Netz** |  DsiN Passwortkarten | sehr spät dran... | stud.mitarbeit@sicher-im-netz.de ||
+| **TEGUT Marktplatz (Ayhan Vural)** | Gummibärchen | Muss abgeholt werden. Jacques meldet sich bei 0173/6497079 || x |
+
 
 
 
@@ -73,8 +74,24 @@
 | Reese's Deutschland | Über Instagram | ignoriert|
 | KoRo | service@korodrogerie.de |ignoriert|
 
+## Email Vorlage
+Hallo liebes Team von ---, 
+Wir, die Fachschaft Informatik der TU Darmstadt, stellen aktuell die Begrüßungstüten für die Erstsemesterverstanstaltung des nächsten Winter-Semesters zusammen und hätten Interesse, auch dieses Semester wieder --- beizulegen. 
+Wir rechnen dieses Semester mit einer Menge von etwa 700 Tüten.
 
+Wir würden uns über eine Antwort von euch freuen! 
+Mit freundlichen Grüßen -- 
+Jan Rüßing 
 
+Fachschaft Informatik 
+Technische Universität Darmstadt 
+Er/Ihm; 
+He/Him 
+Gebäude S2|02 Raum D120 
+Hochschulstraße 10 
+64289 Darmstadt 
+Telefon: +49 6151 16-25522 
+Web: [https://www.fachschaft.informatik.tu-darmstadt.de/](https://www.fachschaft.informatik.tu-darmstadt.de/ "https://www.fachschaft.informatik.tu-darmstadt.de/")
 
 
 ## Sonstige Anmerkungen

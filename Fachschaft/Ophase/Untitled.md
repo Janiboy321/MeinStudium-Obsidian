@@ -2,13 +2,13 @@
 
 | Organisation    |      Material      |  Notizen |       Mail-Adresse    | Angekommen |
 |:----------------|:------------------:|:---------|:----------------------|:----------:|
-| ZEIT |  Zeit Campus | Bezug über Kultur.nah  | mail@kulturnah.com | X |
-| Fraunhofer IGD |    Verschiedenes und Flyer   |   | anahit.roth@igd.fraunhofer.de, info@igd.fraunhofer.de | X |
-| Fraunhofer SIT | Einkaufschips aus Metall, Webcamcover und Fraunhoferlinge (!) |   | sandra.wittrin@sit.fraunhofer.de| X |
+| **ZEIT** |  Zeit Campus | Bezug über Kultur.nah  | mail@kulturnah.com | X |
+| **Fraunhofer IGD** |    Verschiedenes und Flyer   |   | anahit.roth@igd.fraunhofer.de, info@igd.fraunhofer.de | X |
+| **Fraunhofer SIT** | Einkaufschips aus Metall, Webcamcover und Fraunhoferlinge (!) |   | sandra.wittrin@sit.fraunhofer.de| X |
 | IG Metall | Tüten, Gummibären, Flyer | Untersützen auch gerne im WS23 wieder mit Tüten, bieten dafür dann auch Workshop an! | Joshua.Seger@igmetall.de | X |
-| Software AG | Kappies und VR Brillen | | Birgit.Polenz@softwareag.com | (x) VR Brillen fehlen noch|
-| Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF) | Flyer und Aufkleber | | fiff@fiff.de | X |
-| Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit | Flyer von ihrer List, Edle Stifte, Pffeferminze in Dosen, Sattelschutz | | OEA@bfdi.bund.de | X |
+| **Software AG** | Kappies und VR Brillen | | Birgit.Polenz@softwareag.com | (x) VR Brillen fehlen noch|
+| **Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF)** | Flyer und Aufkleber | | fiff@fiff.de | X |
+| **Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit** | Flyer von ihrer List, Edle Stifte, Pffeferminze in Dosen, Sattelschutz | | OEA@bfdi.bund.de | X |
 | Bundestag | Postkarten und Poster von ihrer Liste | Kein Bezug von anderem Material möglich, hab evt. die Frau verärgert mit Nachrfagen ^^' |infomaterial@bundestag.de | X|
 | BvD | Webcam Sticker | Haben leider sonst kein Material für Studis | ak-schule-assistenz@bvdnet.de | X|
 | Bundesministerium für Familie, Kinder und Sozials | Webcam Sticker STOP GEHEIM ||| X|

@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71d8ff9e7cff6568",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -93,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathe II/Anki Karten für Mathe II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathe II/Anki Karten für Mathe II.md"
+              }
             }
           },
           {
@@ -179,10 +193,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "a1e1786402f72c18",
   "lastOpenFiles": [
-    "Mathe II/Anki Karten für Mathe II.md",
+    "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md",
     "Excalidraw/Drawing 2023-05-30 11.09.49.excalidraw.md",
+    "Mathe II/Anki Karten für Mathe II.md",
     "Excalidraw",
     "Pasted image 20230527135720.png",
     "_Misc/Pictures",
@@ -226,7 +241,6 @@
     "Hausuebung_1.pdf",
     "1. Hausübung.pdf",
     "Mathe II/Konvergenz.md",
-    "AUD/Gruppenübungen/Gruppenübung 2.md",
     "AUD/Untitled.canvas"
   ]
 }

@@ -77,6 +77,7 @@
 ## Email Vorlage
 Hallo liebes Team von ---, 
 Wir, die Fachschaft Informatik der TU Darmstadt, stellen aktuell die Begrüßungstüten für die Erstsemesterverstanstaltung des nächsten Winter-Semesters zusammen und hätten Interesse, auch dieses Semester wieder --- beizulegen. 
+
 Wir rechnen dieses Semester mit einer Menge von etwa 700 Tüten.
 
 Wir würden uns über eine Antwort von euch freuen! 

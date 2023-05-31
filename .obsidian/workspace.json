@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+                "file": "Fachschaft/Sommerfest 2023/Zu klären.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+                "file": "Fachschaft/Sommerfest 2023/Zu klären.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md"
+                "file": "Fachschaft/Sommerfest 2023/Zu klären.md"
               }
             }
           },
@@ -196,10 +197,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a1e1786402f72c18",
+  "active": "f85f4a17bbb08875",
   "lastOpenFiles": [
-    "Fachschaft/Sommerfest 2023/Zu klären.md",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+    "Fachschaft/Sommerfest 2023/Zu klären.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",

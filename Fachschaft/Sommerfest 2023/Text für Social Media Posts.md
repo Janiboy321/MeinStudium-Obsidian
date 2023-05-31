@@ -10,7 +10,7 @@ Am 22.06 um 14 Uhr beginnt das diesjährige Sommerfest der Fachschaft Informatik
 
 Kommt vorbei und weiht mit uns den neuen Innenhof des Piloty ein!
 
-Dieses Jahr verkaufen wir Getränke und Cocktails (ab 14 Uhr), Hotdogs (ab 16 Uhr) und Eis
+Dieses Jahr verkaufen wir Getränke (ab 14 Uhr), Cocktails und Hotdogs (ab 16 Uhr)
 
 Außerdem findet zwischen 15:15 und 16:15 das Kolloqium des Fachbereiches statt, wo unter anderem ...
 

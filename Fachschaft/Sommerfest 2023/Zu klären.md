@@ -1,10 +1,10 @@
 - Wie locken wir Menschen zum Kolloquium?
 	- Bekommen diese Menschen Gutscheine?
-	--> Alles kostenlöos
 - Finanzen (Heute klären)
 	- Wie viel Geld haben wir bisher
 	- Wie viel Geld wollen Lea und Yannic für essen und trinken ausgeben?
 	- Was bekommen Helfende?
+		--> Alles kostenlos
 - Brandschutzplan
 	- Alles nötige beachtet?
 	- Alle zufrieden mit der Planung wie alles aufgestellt werden soll

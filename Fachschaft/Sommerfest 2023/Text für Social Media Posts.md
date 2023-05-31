@@ -30,5 +30,3 @@ In addition, the colloquium of the department will take place between 15:15 and 
 
 We are happy about every single person who wants to celebrate with us!
 
-Translated with www.DeepL.com/Translator (free version)
-

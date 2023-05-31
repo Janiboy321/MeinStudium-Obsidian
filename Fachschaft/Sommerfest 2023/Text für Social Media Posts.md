@@ -12,7 +12,7 @@ Kommt vorbei und weiht mit uns den neuen Innenhof des Piloty ein!
 
 Dieses Jahr verkaufen wir Getränke und Cocktails (ab 14 Uhr), Hotdogs (ab 16 Uhr) und Eis
 
-Außerdem findet zwischen __ und __ das Kolloqium des Fachbereiches statt, wo unter anderem ...
+Außerdem findet zwischen 15:15 und 16:15 das Kolloqium des Fachbereiches statt, wo unter anderem ...
 
 Wir freuen und über jeden einzelnen der Lust hat mit uns zu feiern!
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md"
+                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
               }
             }
           },
@@ -193,43 +194,44 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a1e1786402f72c18",
+  "active": "71d8ff9e7cff6568",
   "lastOpenFiles": [
+    "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
+    "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
+    "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
+    "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
+    "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
+    "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
+    "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md",
+    "AUD/Hausübungen/Hausübung 5.md",
+    "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+    "Mathe II/Anki Karten für Mathe II.md",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
     "Fachschaft/Ophase/Untitled.md",
     "Fachschaft/Sommerfest 2023",
     "Fachschaft/Untitled.md",
-    "Mathe II/Anki Karten für Mathe II.md",
     "Fachschaft/Ophase",
-    "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md",
     "Excalidraw/Drawing 2023-05-30 11.09.49.excalidraw.md",
     "Excalidraw",
     "Pasted image 20230527135720.png",
     "_Misc/Pictures",
     "_Misc",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
-    "AUD/Hausübungen/Hausübung 5.md",
     "_Misc/Pictures/Pasted image 20230526124524.png",
     "_Misc/Pictures/Pasted image 20230526124313.png",
     "_Misc/Pictures/Pasted image 20230526124044.png",
     "_Misc/Pictures/Pasted image 20230526123752.png",
     "_Misc/Pictures/Pasted image 20230526123631.png",
-    "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "_Misc/Pictures/Pasted image 20230523231752.png",
     "_Misc/Pictures/Pasted image 20230523231453.png",
     "_Misc/Pictures/Pasted image 20230523231300.png",
-    "_Misc/Pictures/Pasted image 20230523231136.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "AUD/02 Sorting.md",
     "AUD/Untitled.md",
     "AUD/Drwawings",
     "Mathe II/Reihen.md",
-    "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "_Misc/Excalidraw",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
@@ -239,7 +241,6 @@
     "Fachschaft/Emails.md",
     "InfMan/Untitled.md",
     "Fachschaft",
-    "Mathe I/Checkliste für die Prüfung.md",
     "InfMan/Screenshots",
     "AUD/Untitled.canvas"
   ]

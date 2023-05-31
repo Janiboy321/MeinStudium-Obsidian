@@ -30,4 +30,3 @@ In addition, between __ and __ the colloqium of the department will take place, 
 
 We are happy about every single person who wants to celebrate with us!
 
-Translated with www.DeepL.com/Translator (free version)

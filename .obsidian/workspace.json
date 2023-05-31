@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUD/Hausübungen/Hausübung 5.md",
+                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "71d8ff9e7cff6568",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
+                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md"
+                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md"
               }
             }
           },
@@ -194,8 +183,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "71d8ff9e7cff6568",
+  "active": "a1e1786402f72c18",
   "lastOpenFiles": [
+    "AUD/Hausübungen/Hausübung 5.md",
+    "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
@@ -203,8 +194,6 @@
     "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md",
-    "AUD/Hausübungen/Hausübung 5.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "Mathe II/Anki Karten für Mathe II.md",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
     "Fachschaft/Ophase/Untitled.md",
@@ -224,7 +213,6 @@
     "_Misc/Pictures/Pasted image 20230526123631.png",
     "_Misc/Pictures/Pasted image 20230523231752.png",
     "_Misc/Pictures/Pasted image 20230523231453.png",
-    "_Misc/Pictures/Pasted image 20230523231300.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",

@@ -361,7 +361,7 @@ Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
 3. $\text{Majorantenkriterium, Wurelkriterium und Qutotientenkriterium}$
 ^1685188652844
 
-#### Sei $(V, ||\cdot||_V)$ ein Banachraum, $M \subseteq V$ abgeschlossen und $f: M \rightarrow M$ eine Funktion. Weiter existiert ein $q \in (0,1)$ so dass $$||f(x) - f(y)||_{V} \leq ||x-y||_{V} \ \ \ \ \text{ für alle x, y} \in M$$gilt. Welche Aussagen gelten jetzt?
+#### Sei $(V, ||\cdot||_V)$ ein Banachraum, $M \subseteq V$ abgeschlossen und $f: M \rightarrow M$ eine Funktion. Weiter existiert ein $q \in (0,1)$ so dass $$||f(x) - f(y)||_{V} \leq ||x-y||_{V} \ \ \ \ \text{ für alle x, y} \in M$$gilt. Welche Aussagen gelten jetzt? #card 
 1. Es gibt genau ein $v \in M$ mit $f(v) = v$, f hat also genau einen Fixpunkt in M
 2. ![[Pasted image 20230527135720.png]]
 

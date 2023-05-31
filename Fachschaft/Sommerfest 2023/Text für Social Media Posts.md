@@ -6,13 +6,18 @@ Kommt herbei und feiert mit uns
 Und begrüßt den Sommer mit einem Doppelwumms
 
 Liebe Kommilitoninnen und Kommilitonen
-Am 22.06 um 14 Uhr beginnt das diesjährige Sommerfest der Fachschaft Informatik.
+
+Am 22.06 am 14 Uhr findet das diesjährige Sommerfest der Fachschaft Informatik statt.
 
 Kommt vorbei und weiht mit uns den neuen Innenhof des Piloty ein!
 
-Dieses Jahr verkaufen wir Getränke (ab 14 Uhr), Cocktails und Hotdogs (ab 16 Uhr)
+Dieses Jahr verkaufen wir Getränke, ab 14 Uhr und Cocktails und Hotdogs ab 16 Uhr.
 
-Außerdem findet zwischen 15:15 und 16:15 das Kolloqium des Fachbereiches statt, wo unter anderem ...
+Außerdem findet zwischen 15:15 und 16:15 das Kolloquium des Fachbereiches statt, bei welchem unter anderem Preise an  verlieheren 
+
+- Profs stellen ihr Gebiet vor
+- Neuer dekan stellt sich vor
+- Fachschaft verleiht den Feedbackpreis
 
 Wir freuen und über jeden einzelnen der Lust hat mit uns zu feiern!
 

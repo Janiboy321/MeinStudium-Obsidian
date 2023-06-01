@@ -30,3 +30,7 @@ In addition, the colloquium of the department will take place between 15:15 and 
 
 We are happy about every single person who wants to celebrate with us!
 
+### Zelt 
+Pelei: 01703568675
+Gruß von Frau Dung des Dezernates 5
+Können sie das Zelt an uns weiterliefern

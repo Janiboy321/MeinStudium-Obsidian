@@ -1,5 +1,2 @@
-1. Selektions-pushdown
-	![[Screenshot 2023-06-01 at 15.58.50.png]]
-
-	1. Aufbrechen von Konjunktionen im Selektionsprädikat
-	2. 
+![[Screenshot 2023-06-01 at 16.07.34.png]]![[Screenshot 2023-06-01 at 16.08.29.png]]![[Screenshot 2023-06-01 at 16.08.47.png]]
+	

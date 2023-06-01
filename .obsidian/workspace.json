@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+                "file": "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+                "file": "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+                "file": "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md"
+                "file": "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md"
               }
             }
           },
@@ -198,8 +197,11 @@
   },
   "active": "a1e1786402f72c18",
   "lastOpenFiles": [
-    "Fachschaft/Sommerfest 2023/Zu klären.md",
+    "_Misc/Pictures/Pasted image 20230527135720.png",
+    "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
+    "_Misc/Pictures/Screenshot 2023-06-01 at 15.58.50.png",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
+    "Fachschaft/Sommerfest 2023/Zu klären.md",
     "AUD/Hausübungen/Hausübung 5.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
@@ -216,7 +218,6 @@
     "Fachschaft/Ophase",
     "Excalidraw/Drawing 2023-05-30 11.09.49.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20230527135720.png",
     "_Misc/Pictures",
     "_Misc",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
@@ -226,7 +227,6 @@
     "_Misc/Pictures/Pasted image 20230526123752.png",
     "_Misc/Pictures/Pasted image 20230526123631.png",
     "_Misc/Pictures/Pasted image 20230523231752.png",
-    "_Misc/Pictures/Pasted image 20230523231453.png",
     "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
@@ -240,8 +240,6 @@
     "Dilara bestellung.md",
     "Mathe I/Notizen für die Prüfung.md",
     "InfMan/Übungen",
-    "Fachschaft/Emails.md",
-    "InfMan/Untitled.md",
     "Fachschaft",
     "InfMan/Screenshots",
     "AUD/Untitled.canvas"

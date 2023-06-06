@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "9a4035786103649f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "f85f4a17bbb08875",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a1e1786402f72c18",
+  "active": "9a4035786103649f",
   "lastOpenFiles": [
     "Screenshot 2023-06-01 at 16.08.47.png",
     "Screenshot 2023-06-01 at 16.08.29.png",

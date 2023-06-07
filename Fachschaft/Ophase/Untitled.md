@@ -91,7 +91,7 @@ Gebäude S2|02 Raum D120
 Hochschulstraße 10 
 64289 Darmstadt 
 Telefon: +49 6151 16-25522 
-Web: [https://www.fachschaft.informatik.tu-darmstadt.de/](https://www.fachschaft.informatik.tu-darmstadt.de/ "https://www.fachschaft.informatik.tu-darmstadt.de/")
+Web: https://www.fachschaft.informatik.tu-darmstadt.de
 
 
 ## Sonstige Anmerkungen

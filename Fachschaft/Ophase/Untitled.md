@@ -86,8 +86,7 @@ Jan Rüßing
 
 Fachschaft Informatik 
 Technische Universität Darmstadt 
-Er/Ihm; 
-He/Him 
+Er/Ihm; He/Him 
 Gebäude S2|02 Raum D120 
 Hochschulstraße 10 
 64289 Darmstadt 

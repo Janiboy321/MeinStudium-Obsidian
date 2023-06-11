@@ -31,4 +31,23 @@
 #### Script
 - Defines the "alphabet" (symbol set) $\Sigma$
 - Alphabetic scripts: Latin, Greek, Cyrillic, ...
-- 
+- writing direction: Left-to-right, right to left, top-to-bottom, ...
+
+#### Language
+- Determines the vocabulary and grammar
+- Examples: German, English...
+
+#### Properties of text
+- Text type / genre: Textbook, scientific article, news item, social media post...
+- Register: language variety used (e.g., dialect, jargon, formal...)
+- Style: how a text is written (funny, polite, scientific style, ...)
+- Domain/topic: biology, education, building spacecrafts, fantasy
+- Time of writing: language changes over time
+
+#### Text structure
+1. Chapter/section
+2. Paragraph
+3. Sentence
+4. Phrase
+5. Word
+6. Letter / Character

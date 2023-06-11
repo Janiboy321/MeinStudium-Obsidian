@@ -51,3 +51,14 @@
 4. Phrase
 5. Word
 6. Letter / Character
+
+#### Character Encoding
+DBs can only save sequences of 0 and 1
+- Character encoding function $enc: \Sigma^{*} \rightarrow {0,1}^*$
+- Character decoding function $dec: {0, 1}^* \rightarrow \Sigma^*$
+
+- Typically: map each character separately based on a character set $\psi : \Sigma \rightarrow {0, 1}^*$ 
+- A given text $T = c_{1}c_{2}...c_{n} \in \Sigma^{*}$ will be encodes as $enc(T) = \psi(c_{1})\psi(c_2)...\psi(c_{n})$ 
+
+Example: encode $T = hallo$ in ASCII
+- $enc(T) =$ 01101000 01100001 01101100 01101100 01101111 

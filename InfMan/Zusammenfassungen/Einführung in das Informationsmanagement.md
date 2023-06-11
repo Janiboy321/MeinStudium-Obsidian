@@ -18,3 +18,17 @@
 			- Example: Let high school students write persuasive essays with and without the help of the system and compare their results
 
 # Natural language text
+### Text
+- Script $\Sigma$ = {A, B, C, ..., a, b, c, ..., 0, 1, ...}
+- Symbol or Character $s' \in \Sigma$
+- String s = $s_{1}s_{2}...s_{n}$
+- Message: String that follows a grammar
+- Data: exchanged messages
+- Text: written (or quasi-written) coherent data of a language
+- Coherence: what makes a text semantically meaningful, connects the ideas arranges in a text
+
+### Script and Language
+#### Script
+- Defines the "alphabet" (symbol set) $\Sigma$
+- Alphabetic scripts: Latin, Greek, Cyrillic, ...
+- 

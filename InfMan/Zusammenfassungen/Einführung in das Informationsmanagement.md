@@ -62,3 +62,13 @@ DBs can only save sequences of 0 and 1
 
 Example: encode $T = hallo$ in ASCII
 - $enc(T) =$ 01101000 01100001 01101100 01101100 01101111 
+
+#### Types of encodings
+- single byte
+	- each character corresponds to a single byte
+- multi byte
+	- each character corresponds to a fixed number of bytes
+- Variable length
+	- bit length may change depending on character and predefined rules
+- Escape-code-based
+	- switch between different character sets using escape codes

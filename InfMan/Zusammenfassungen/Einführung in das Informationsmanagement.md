@@ -2,4 +2,9 @@
 	- Find a subset $R \subseteq D$ which is maximally relevant to $Q$ where $D$ is a collection of documents and $Q$ is a query
 - Information extraction
 	- Extract structured knowledge out of a document collection (such as entities, events, relationships, fact...)
+- Ambiguity (= Mehrdeutigkeit)
+	- Homograph (= written equally)
+		- "The howling wind" vs "Wind your watch!"
+	- Homophone (= Sounds equally)
+		- "Late at night" vs "Medieval knight"
 - 

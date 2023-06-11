@@ -1,0 +1,5 @@
+- Information retrieval
+	- Find a subset $R \subseteq D$ which is maximally relevant to $Q$ where $D$ is a collection of documents and $Q$ is a query
+- Information extraction
+	- Extract structured knowledge out of a document collection (such as entities, events, relationships, fact...)
+- 

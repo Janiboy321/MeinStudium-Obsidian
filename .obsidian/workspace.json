@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mein Leben/Geburstag.md"
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md"
               }
             }
           },
@@ -207,8 +208,9 @@
   },
   "active": "a1e1786402f72c18",
   "lastOpenFiles": [
-    "_Misc/Pictures/Screenshot 2023-06-01 at 16.07.34.png",
     "_Mein Leben/Geburstag.md",
+    "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
+    "_Misc/Pictures/Screenshot 2023-06-01 at 16.07.34.png",
     "_Mein Leben",
     "Fachschaft/Ophase/Untitled.md",
     "Fachschaft/Sommerfest 2023/Zu klären.md",

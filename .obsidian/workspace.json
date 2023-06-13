@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
+                "file": "InfMan/Übungen/Übung 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md"
+                "file": "InfMan/Übungen/Übung 3.md"
               }
             }
           },
@@ -208,8 +207,9 @@
   },
   "active": "a1e1786402f72c18",
   "lastOpenFiles": [
-    "_Mein Leben/Geburstag.md",
+    "InfMan/Übungen/Übung 2.md",
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
+    "_Mein Leben/Geburstag.md",
     "_Misc/Pictures/Screenshot 2023-06-01 at 16.07.34.png",
     "_Mein Leben",
     "Fachschaft/Ophase/Untitled.md",
@@ -249,7 +249,6 @@
     "AUD/Drwawings",
     "Mathe II/Reihen.md",
     "_Misc/Excalidraw",
-    "InfMan/Übungen/Übung 2.md",
     "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",
     "InfMan/Übungen",

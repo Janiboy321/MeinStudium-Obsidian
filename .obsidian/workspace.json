@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InfMan/Übungen/Übung 3.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Übungen/Übung 3.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Übungen/Übung 3.md",
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Übungen/Übung 3.md"
+                "file": "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "a1e1786402f72c18",
   "lastOpenFiles": [
+    "InfMan/Übungen/Übung 3.md",
     "InfMan/Übungen/Übung 2.md",
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
     "_Mein Leben/Geburstag.md",
@@ -249,7 +250,6 @@
     "AUD/Drwawings",
     "Mathe II/Reihen.md",
     "_Misc/Excalidraw",
-    "InfMan/Übungen/Übung 3.md",
     "Dilara bestellung.md",
     "InfMan/Übungen",
     "Fachschaft",

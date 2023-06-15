@@ -13,3 +13,14 @@ Für die Anreise würde ich euch die Straßenbahn empfehlen. Da es ein Sonntag i
 Zu guter letzt, würde ich mich freuen, wenn ihr in Gruppen anreisen würdet, weil es sehr wahrscheinlich ist, dass ihr den Weg nicht unbedingt easy finden werdet und ich keine Lust haben werde 15 mal jemanden von der Straßenbahnstation abzuholen.
 Ich freue mich mit euch allen meinen 21. Geburtstag zu feiern!
 Solltet ihr keine Zeit haben oder keine Lust, sagt mir bitte bescheid, damit ich weiß, mit wie vielen Menschen ich rechnen kann 😇
+
+### Einkaufsliste
+- 2 Cola-Mix-Kästen
+- 1 Kasten Wasser
+- Soßen (Ketchup, Kräuterbutter, Knoblauchsoße, sonstiges)
+- Grillstuff for Me, Tim und André
+- Kohle
+- Aluschalen --> Vllt Woolworth
+- Grillzange, Grillbürste --> Woolworth
+- Spiele --> Woolworth
+- Sonnencreme

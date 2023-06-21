@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mein Leben/Geburstag.md",
+                "file": "AUD/Hausübungen/Hausübung 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mein Leben/Geburstag.md"
+                "file": "AUD/Hausübungen/Hausübung 5.md"
               }
             }
           },
@@ -197,6 +197,8 @@
   },
   "active": "9a4035786103649f",
   "lastOpenFiles": [
+    "AUD/Hausübungen/1. Hausübung.md",
+    "_Mein Leben/Geburstag.md",
     "Fachschaft/Ophase/Untitled.md",
     "Fachschaft/Ophase/Untitled 1.md",
     "Fachschaft/Sommerfest 2023/Zu klären.md",
@@ -204,7 +206,6 @@
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
     "InfMan/Übungen/Übung 3.md",
     "InfMan/Übungen/Übung 2.md",
-    "_Mein Leben/Geburstag.md",
     "_Misc/Pictures/Screenshot 2023-06-01 at 16.07.34.png",
     "_Mein Leben",
     "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
@@ -233,7 +234,6 @@
     "_Misc/Pictures/Pasted image 20230526124524.png",
     "_Misc/Pictures/Pasted image 20230526124313.png",
     "_Misc/Pictures/Pasted image 20230526124044.png",
-    "AUD/Hausübungen/1. Hausübung.md",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
     "AUD/02 Sorting.md",

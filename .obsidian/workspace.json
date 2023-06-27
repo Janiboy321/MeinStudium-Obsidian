@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Vorlesung 27.06.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,6 +28,22 @@
                 "file": "Fachschaft/Sommerfest 2023/Zu klären.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "93437de3da21f8fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec0663fc89da7d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AUD/06GraphAlgorithms-1.pdf"
               }
             }
           }
@@ -89,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -105,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Vorlesung 27.06.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "AUD/Vorlesung 27.06.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "AUD/Vorlesung 27.06.23.md"
               }
             }
           },
@@ -197,6 +214,9 @@
   },
   "active": "9a4035786103649f",
   "lastOpenFiles": [
+    "AUD/06GraphAlgorithms-1.pdf",
+    "AUD/Vorlesung 27.06.23.md",
+    "Mathe II/Anki Karten für Mathe II.md",
     "InfMan/Zusammenfassungen/28.04.2023.md",
     "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
     "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
@@ -224,7 +244,6 @@
     "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-30 11.11.45.excalidraw.md",
-    "Mathe II/Anki Karten für Mathe II.md",
     "Fachschaft/Sommerfest 2023",
     "Fachschaft/Untitled.md",
     "Fachschaft/Ophase",
@@ -237,8 +256,6 @@
     "_Misc/Pictures/Pasted image 20230526124044.png",
     "AUD/Notizen/Trees.md",
     "AUD/Notizen/Rekursion.md",
-    "AUD/02 Sorting.md",
-    "AUD/Untitled.md",
     "AUD/Drwawings",
     "_Misc/Excalidraw",
     "InfMan/Übungen",

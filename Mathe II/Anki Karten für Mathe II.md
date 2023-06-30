@@ -394,4 +394,8 @@ $$\lim_{x \to x_{0}} f(x) = \infty \text{ (bzw. }  \lim_{x \to x_{0}} f(x) = -\i
 #### Seien $D \subseteq \mathbb{R}$ nicht nach oben (bzw. unten) beschränkt und $f: D \to \mathbb{R}$ eine Funktion und $y \in \mathbb{R} \cup \{ \infty, -\infty \}$. Was sagen wir dann, wenn für jede Folge $(a_{n})$ in D, die bestimmt gegen $\infty$ (bzw. $-\infty$) divergiert, $\lim_{n \to \infty} f(a_{n}) = y$ gilt? #card 
 $$\lim_{x \to \infty}f(x) = y \ \ \ \ (\text{bzw.} \lim_{x \to -\infty}f(x) = y)$$
 
-#### Wann heißt eine Funktion $f: D \to \mathbb{R}$ stetig in $x_{0}$
+#### Es sei $D \subseteq \mathbb{R}$ und $x_{0} \in D$. Wann heißt eine Funktion $f: D \to \mathbb{R}$ stetig in $x_{0}$? #card 
+Falls für jede Folge $(a_{n})$ in D, die gegen $x_{0}$ konvergiert, auch die Folge $(f(a_{n}))$ konvergiert und $\lim_{n \to \infty} f(a_{n}) = f(x_{0})$ 
+
+#### Es sei $D \subseteq \mathbb{R}$ und $x_{0} \in D$ wann heißt eine Funktion $f:D\to \mathbb{R}$ stetig auf $D$?
+Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.

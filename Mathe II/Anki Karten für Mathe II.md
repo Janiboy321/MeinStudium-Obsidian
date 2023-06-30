@@ -397,5 +397,8 @@ $$\lim_{x \to \infty}f(x) = y \ \ \ \ (\text{bzw.} \lim_{x \to -\infty}f(x) = y
 #### Es sei $D \subseteq \mathbb{R}$ und $x_{0} \in D$. Wann heißt eine Funktion $f: D \to \mathbb{R}$ stetig in $x_{0}$? #card 
 Falls für jede Folge $(a_{n})$ in D, die gegen $x_{0}$ konvergiert, auch die Folge $(f(a_{n}))$ konvergiert und $\lim_{n \to \infty} f(a_{n}) = f(x_{0})$ 
 
-#### Es sei $D \subseteq \mathbb{R}$ und $x_{0} \in D$ wann heißt eine Funktion $f:D\to \mathbb{R}$ stetig auf $D$?
+#### Es sei $D \subseteq \mathbb{R}$ und $x_{0} \in D$ wann heißt eine Funktion $f:D\to \mathbb{R}$ stetig auf $D$? #card 
 Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
+
+#### Sei $D \subseteq \mathbb{R}$ und $f:D \to \mathbb{R}$ eine Funktion. Wenn $x_{0}\in D$ ein Häufungspunkt von D ist, wann ist $f$ in $x_{0}$ stetig? #card 
+Genau dann wenn $\lim_{x \to x_{0}} f(x) = f(x_{0})$ gilt.

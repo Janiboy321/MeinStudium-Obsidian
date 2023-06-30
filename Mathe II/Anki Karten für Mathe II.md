@@ -368,6 +368,11 @@ Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
 #### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, wann nennen wir $x_{0}$ einen Häufungspunkt in $D$? #card 
 Falls es eine Folge $(a_{n})$ in $D$ mit $a_{n} ≠ x_{0}$ für alle $n \in \mathbb{N}$ gibt, , die gegen $x_{0}$ konvergiert
 
-#### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, was gilt, wenn $x_{0}$ ein Häufungspunkt von D ist? #card 
-Wenn für jede Folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert und für die $a_{n} ≠ x_0$ für alle $n \in \mathbb{N}$ gilt, die Folgen $f(a_{n})$ gegen y kovergiert. Wir schreiben dafür $\lim_{x \to x_{0}}$  
+#### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, was gilt, wenn $x_{0}$ ein Häufungspunkt von $D$ ist? #card 
+Wenn für jede Folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert und für die $a_{n} ≠ x_0$ für alle $n \in \mathbb{N}$ gilt, die Folgen $f(a_{n})$ gegen y konvergiert. Wir schreiben dafür $\lim_{x \to x_{0}} f(x) = y$ 
 
+#### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, was gilt, wenn $x_{0}$ ein Häufungspunkt von $D_{+} := \{x \in D: x > x_{0}\}$ ist? #card 
+$f$ hat für $x$ gegen $x_0$ den **rechtsseitigen** Grenzwert $y$, wenn für jede Folge $(a_{n})$ in $D_{+}$, die gegen $x_0$ konvergiert, die Folge $f(a_{n})$ gegen $y$ konvergiert. Wir schreiben $\lim_{x \to x_{0}+} f(x) = y$  
+
+#### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, was gilt, wenn $x_{0}$ ein Häufungspunkt von $D_{-} := \{x \in D: x > x_{0}\}$ ist? #card 
+$f$ hat für $x$ gegen $x_0$ den **linksseitigen** Grenzwert $y$, wenn für *jede Folge* $(a_{n})$ in $D_{-}$, die gegen $x_0$ konvergiert, die Folge $f(a_{n})$ gegen $y$ konvergiert. Wir schreiben $\lim_{x \to x_{0}-} f(x) = y$  

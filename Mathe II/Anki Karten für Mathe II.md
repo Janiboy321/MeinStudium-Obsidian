@@ -378,3 +378,10 @@ $f$ hat für $x$ gegen $x_0$ den **rechtsseitigen** Grenzwert $y$, wenn für jed
 $f$ hat für $x$ gegen $x_0$ den **linksseitigen** Grenzwert $y$, wenn für *jede Folge* $(a_{n})$ in $D_{-}$, die gegen $x_0$ konvergiert, die Folge $(f(a_{n}))$ gegen $y$ konvergiert. Wir schreiben $\lim_{x \to x_{0}-} f(x) = y$  
 *Bemerkung:* Existieren $\lim_{x \to x_{0}-} f(x)$ und $\lim_{x \to x_{0}+} f(x)$ und sind beide Werte gleich, so existiert auch $\lim_{x \to x_{0}} f(x)$ und es gilt $$\lim_{x \to x_{0}-} f(x) = \lim_{x \to x_{0}+} f(x) = \lim_{x \to x_{0}} f(x)$$
 #### Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein Häufungspunkt von $D$. Desweiteren seien drei Funktionen $f, g, h:D \to \mathbb{R}$ gegeben, sodass die Grenzwerte $\lim_{x \to x_{0}} f(x)$ und $\lim_{x \to x_{0}} g(x)$ existieren. Dann gilt:
+a) Die Grenzwerte für x gegen $x_{0}$ von $f+g$, $fg$ und $|f|$ existieren und es gilt $$
+\begin{align}
+&\lim_{x \to x_{0}}(f(x)+g(x)) = \lim_{x \to x_{0}} f(x) + \lim_{x \to x_{0}} g(x) \\
+&\lim_{x \to x_{0}} (f(x)g(x)) = \lim_{x \to x_{0}} f(x) \cdot \lim_{x \to x_{0}} g(x) \text{ und} \\
+&\lim_{x \to x}
+\end{align}
+$$ $$$$

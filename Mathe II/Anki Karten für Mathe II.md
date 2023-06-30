@@ -365,4 +365,6 @@ Wenn die Norm $||\cdot||_{V}$ durch ein Skalarprodukt auf V indiziert wird
 1. Es gibt genau ein $v \in M$ mit $f(v) = v$, f hat also genau einen Fixpunkt in M
 2. ![[Pasted image 20230527135720.png]]
 
+#### Sei $D \subseteq$
+
 

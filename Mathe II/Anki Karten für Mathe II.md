@@ -402,3 +402,4 @@ Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
 
 #### Sei $D \subseteq \mathbb{R}$ und $f:D \to \mathbb{R}$ eine Funktion. Wenn $x_{0}\in D$ ein Häufungspunkt von D ist, wann ist $f$ in $x_{0}$ stetig? #card 
 Genau dann wenn $\lim_{x \to x_{0}} f(x) = f(x_{0})$ gilt.
+*Bemerkung:* Stetigkeit ist wie folgt am einprägsamsten: Damit $f$ in $x_{0}$ stetig ist, muss folgendes gelten $$\lim_{x \to x_{0}}f(x) = f(x_{0})= f(\lim_{x \to x_{0}}x)$$ Stetigkeit bedeutet also, dass man den Grenzübergang mit der Funktionsauswertung vertauschen kann

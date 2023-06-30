@@ -377,7 +377,7 @@ $f$ hat für $x$ gegen $x_0$ den **rechtsseitigen** Grenzwert $y$, wenn für jed
 #### Sei $D \subseteq \mathbb{R}$ ein Menge, $f: D \rightarrow \mathbb{R}$ eine Funktion und $x_{0} \in \mathbb{R}$, was gilt, wenn $x_{0}$ ein Häufungspunkt von $D_{-} := \{x \in D: x > x_{0}\}$ ist? #card 
 $f$ hat für $x$ gegen $x_0$ den **linksseitigen** Grenzwert $y$, wenn für *jede Folge* $(a_{n})$ in $D_{-}$, die gegen $x_0$ konvergiert, die Folge $(f(a_{n}))$ gegen $y$ konvergiert. Wir schreiben $\lim_{x \to x_{0}-} f(x) = y$  
 *Bemerkung:* Existieren $\lim_{x \to x_{0}-} f(x)$ und $\lim_{x \to x_{0}+} f(x)$ und sind beide Werte gleich, so existiert auch $\lim_{x \to x_{0}} f(x)$ und es gilt $$\lim_{x \to x_{0}-} f(x) = \lim_{x \to x_{0}+} f(x) = \lim_{x \to x_{0}} f(x)$$
-#### Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein Häufungspunkt von $D$. Desweiteren seien drei Funktionen $f, g, h:D \to \mathbb{R}$ gegeben, sodass die Grenzwerte $\lim_{x \to x_{0}} f(x)$ und $\lim_{x \to x_{0}} g(x)$ existieren. Dann gilt:
+#### Es sei $D \subseteq \mathbb{R}$ und $x_{0}$ ein Häufungspunkt von $D$. Desweiteren seien drei Funktionen $f, g, h:D \to \mathbb{R}$ gegeben, sodass die Grenzwerte $\lim_{x \to x_{0}} f(x)$ und $\lim_{x \to x_{0}} g(x)$ existieren. Dann gilt: #card 
 1) Die Grenzwerte für x gegen $x_{0}$ von $f+g$, $fg$ und $|f|$ existieren und es gilt $$
 \begin{align}
 &\lim_{x \to x_{0}}(f(x)+g(x)) = \lim_{x \to x_{0}} f(x) + \lim_{x \to x_{0}} g(x) \\
@@ -389,4 +389,6 @@ $$
 3) Ist $\lim_{x \to x_{0}} f(x) = \lim_{x \to x_{0}} g(x)$ und gilt $$f(x) \leq h(x) \leq g(x) \ \ \ \text{für alle } x \in D \ \backslash \{x_0\}$$ so gilt auch $\lim_{x \to x_{0}} h(x) = \lim_{x \to x_{0}} f(x) = \lim_{x \to x_{0}} g(x)$.
 4) Ist $y := \lim_{x \to x_{0}} g(x) ≠ 0$, so existiert ein $\delta > 0$, so dass $|g(x)| \geq |y|/2$ für alle $x \in (D \cap (x_{0}- \delta, x_{0}+\delta)) \backslash \{x_{0}\}$ ist. Wir können also die Funktion $$\frac{f}{g}: (D \cap (x_{0}- \delta, x_{0}+\delta)) \backslash \{x_{0}\} \to \mathbb{R} \text{ mit } \frac{f}{g}(x):= \frac{f(x)}{g(x)}$$ definieren. Für diese existiert dann der Limes für $x$ gegen $x_{0}$ mit $\lim_{x \to x_{0}} \frac{f(x)}{g(x)} = \frac{\lim_{x \to x_{0}}f(x)} {\lim_{x \to x_{0}}g(x)}$
 
-#### 
+#### Seien $D \subseteq \mathbb{R}, f: D \to \mathbb{R}$ eine Funktion und $x_0$ ein Häufungspunkt von D. Was schreiben wir, wenn für jede folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert und für alle $n \in \mathbb{N}$ gilt, dass die Folge $(f(a_{n}))$ bestimmt gegen $\infty$ (bzw. $-\infty$) divergiert? #card 
+$$\lim_{x \to x_{0}} f(x) = \infty \text{ (bzw. }  \lim_{x \to x_{0}} f(x) = -\infty)$$
+#### Seien $D \subseteq \mathbb{R}$ nicht nach oben (bzw. unten) beschränkt, 

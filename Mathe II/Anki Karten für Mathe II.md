@@ -388,3 +388,5 @@ $$
 2) Gilt $f(x) \leq g(x)$ für alle $x \in D \ \backslash  \{x_0\}$, so ist $\lim_{x \to x_{0}} f(x) \leq \lim_{x \to x_{0}} g(x)$
 3) Ist $\lim_{x \to x_{0}} f(x) = \lim_{x \to x_{0}} g(x)$ und gilt $$f(x) \leq h(x) \leq g(x) \ \ \ \text{für alle } x \in D \ \backslash \{x_0\}$$ so gilt auch $\lim_{x \to x_{0}} h(x) = \lim_{x \to x_{0}} f(x) = \lim_{x \to x_{0}} g(x)$.
 4) Ist $y := \lim_{x \to x_{0}} g(x) ≠ 0$, so existiert ein $\delta > 0$, so dass $|g(x)| \geq |y|/2$ für alle $x \in (D \cap (x_{0}- \delta, x_{0}+\delta)) \backslash \{x_{0}\}$ ist. Wir können also die Funktion $$\frac{f}{g}: (D \cap (x_{0}- \delta, x_{0}+\delta)) \backslash \{x_{0}\} \to \mathbb{R} \text{ mit } \frac{f}{g}(x):= \frac{f(x)}{g(x)}$$ definieren. Für diese existiert dann der Limes für $x$ gegen $x_{0}$ mit $\lim_{x \to x_{0}} \frac{f(x)}{g(x)} = \frac{\lim_{x \to x_{0}}f(x)} {\lim_{x \to x_{0}}g(x)}$
+
+#### 

@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -196,7 +195,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "9a4035786103649f",
   "lastOpenFiles": [
     "AUD/Vorlesung 27.06.23.md",
     "AUD/06GraphAlgorithms-1.pdf",

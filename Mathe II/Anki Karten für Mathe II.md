@@ -462,4 +462,5 @@ Wenn für jede Folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert, auch die F
 #### Seien $V$ und $W$ normierte $\mathbb{R}$-Vektorräume, $D \subseteq V$ und $x_{0} \in D$. Wann heißt eine Funktion $f:D \to W$  stetig in $D$ #card 
 Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
 
-#### Wie ist $C(D;W) := \{f: D \to W:f$ stetig auf $D\}$ 
+#### Wie ist $C(D;W)$ definiert? #card  
+$C(D;W) := \{f: D \to W:f$ stetig auf $D\}$

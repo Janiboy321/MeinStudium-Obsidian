@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "tag:#vorlesung1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",

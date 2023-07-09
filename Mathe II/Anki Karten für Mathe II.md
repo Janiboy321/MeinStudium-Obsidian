@@ -405,4 +405,5 @@ Genau dann wenn $\lim_{x \to x_{0}} f(x) = f(x_{0})$ gilt.
 *Bemerkung:* Stetigkeit ist wie folgt am einprägsamsten: Damit $f$ in $x_{0}$ stetig ist, muss folgendes gelten $$\lim_{x \to x_{0}}f(x) = f(x_{0})= f(\lim_{x \to x_{0}}x)$$ Stetigkeit bedeutet also, dass man den Grenzübergang mit der Funktionsauswertung vertauschen kann
 
 #### Sei $D \in \mathbb{R}$ und $f, g:D \to \mathbb{R}$ seien stetig in $x_{0} \in D$. Was gilt dann? #card
-Die Funktionen $f+g, fg$ und
+Die Funktionen $f+g$, $fg$ und $|f|$ sind stetig in $x_{0}$
+Ist $x_{0} \in D^* := \{x \in D:g(x) ≠ 0\}$, so ist die Funktion $\frac{f}{g}: D^{*} \to \mathbb{R}$ stetig in x_0 

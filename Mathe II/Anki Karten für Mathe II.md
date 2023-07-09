@@ -431,5 +431,10 @@ Wenn sie (streng) monoton wachsend oder (streng) monoton fallend ist
 - $f(I)$ ist ein Intervall
 - $f^{-1}:f(I) \to I$ ist stetig auf $f(I)$ und streng monoton
 
-#### Wann ist eine Funktion $f:D \to \mathbb{R}$, laut der $\varepsilon$-$\delta$-Regel, in $x_{0}$ stetig?
-Wenn es für jedes $\varepsilon > 0$ ein $\delta > 0$ gibt, so dass $|f(x) - f(x_{0})|$ 
+#### Wann ist eine Funktion $f:D \to \mathbb{R}$, laut der $\varepsilon$-$\delta$-Regel, in $x_{0}$ stetig? #card 
+Wenn es für jedes $\varepsilon > 0$ ein $\delta > 0$ gibt, so dass $$|f(x) - f(x_{0})| < \varepsilon \ \ \ \ \ \text{für alle } x \in D \text{ mit } |x - x_{0}| < \delta$$ gilt
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f : D \to \mathbb{R}$ Lipschitzstetig? #card 
+Falls es ein $L > 0$ gibt, mit $|f(x)-f(y)| \leq L|x - y|$ für alle $x, y \in D$
+*Bemerkung:* Diese Aussage ist nicht Umkehrbar
+

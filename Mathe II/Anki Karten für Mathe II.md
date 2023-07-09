@@ -446,4 +446,6 @@ Seien $a, b \in \mathbb{R}$ mit $a < b$ gegeben und $f \in C([a, b])$. Ist $y_{0
 #### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \rightarrow \mathbb{R}$ beschränkt? #card 
 Wenn die Menge $f(D)$ beschränkt ist, das heißt falls ein $C \geq 0$ existiert, so dass $|f(x)| \leq C$ für alle $x \in D$ gilt.
 
-#### Sei $K \subseteq \mathbb{R}$ kompakt und nicht-leer, sowie $f \in C(K)$.
+#### Wie lauter der fundamentale Satz, welcher das Verhalten stetiger Funktionen auf kompakten Mengen beschreibt? #card 
+Sei $K \subseteq \mathbb{R}$ kompakt und nicht-leer, sowie $f \in C(K)$. Dann gibt es $x_{*}, x^{*} \in K$, so dass $f(x_{*}) \leq f(x) \leq f(x^{*})$ für alle $x \in K$ gilt. Insbesondere ist f beschränkt.
+*Bemerkung:* Damit existieren insbesondere $max \ f(K) = f(x^{*})$ und $min \ f(K) = f(x_)$  

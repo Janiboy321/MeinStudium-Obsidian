@@ -448,4 +448,7 @@ Wenn die Menge $f(D)$ beschränkt ist, das heißt falls ein $C \geq 0$ existiert
 
 #### Wie lauter der fundamentale Satz, welcher das Verhalten stetiger Funktionen auf kompakten Mengen beschreibt? #card 
 Sei $K \subseteq \mathbb{R}$ kompakt und nicht-leer, sowie $f \in C(K)$. Dann gibt es $x_{*}, x^{*} \in K$, so dass $f(x_{*}) \leq f(x) \leq f(x^{*})$ für alle $x \in K$ gilt. Insbesondere ist f beschränkt.
-*Bemerkung:* Damit existieren insbesondere $max \ f(K) = f(x^{*})$ und $min \ f(K) = f(x_)$  
+**Bemerkung:** Damit existieren insbesondere $max \ f(K) = f(x^{*})$ und $min \ f(K) = f(x_{*})$. In Worte gefasst lautet dieser Satz damit: *"Eine stetige Funktion auf einem Kompaktum nimmt ihr Maximum und ihr Minimum auf dem Kompaktum an"*  
+
+#### Seien $V$ und $W$ normierte $\mathbb{R}$-Vektorräume, $D \subseteq V$ und $f:D \to W$ eine Funktion. Wann nennen wir $x_{0} \in D$ einen Häufungspunkt?
+Falls es eine Folge $(a_{n})$ in D mit $a_{n} ≠ x_{0}$ für alle $n \in \mathbb{N}$ 

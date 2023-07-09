@@ -442,3 +442,8 @@ Falls es ein $L > 0$ gibt, mit $|f(x)-f(y)| \leq L|x - y|$ für alle $x, y \in D
 Seien $a, b \in \mathbb{R}$ mit $a < b$ gegeben und $f \in C([a, b])$. Ist $y_{0}$ eine reele Zahl zwischen $f(a)$ und $f(b)$, so gibt es ein $x_{0} \in [a, b]$ mit $f(x_{0}) = y_{0}$  
 *Folgerung:* Seien $a, b \in \mathbb{R}$ mit $a<b$ und $f \in C([a, b])$ erfülle $f(a)f(b) < 0$. Dann gibt es ein $x_{0} \in (a, b)$ mit $f(x_{0}) = 0$
 **$\rightarrow$ Garantiert die Existenz von Nullstellen**
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \rightarrow \mathbb{R}$ beschränkt? #card 
+Wenn die Menge $f(D)$ beschränkt ist, das heißt falls ein $C \geq 0$ existiert, so dass $|f(x)| \leq C$ für alle $x \in D$ gilt.
+
+#### Sei $K \subseteq \mathbb{R}$ kompakt und nicht-leer, sowie $f \in C(K)$.

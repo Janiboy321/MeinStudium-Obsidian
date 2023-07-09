@@ -455,4 +455,11 @@ Falls es eine Folge $(a_{n})$ in D mit $a_{n} ≠ x_{0}$ für alle $n \in \mathb
 
 #### Sei $x_{0}$ ein Häufungspunkt von D, wann gilt dann, dass $\lim_{x \to x_{0}} f(x) = y$ ist? #card 
 Falls für jede Folge $(a_{n})$ in D, die gegen $x_{0}$ konvergiert *und* $a_{n} ≠ x_{0}$ für alle $n \in \mathbb{N}$, die Folge $(f(a_{n}))$ gegen y konvergiert.
- 
+
+#### Seien $V$ und $W$ normierte $\mathbb{R}$-Vektorräume, $D \subseteq V$ und $x_{0} \in D$. Wann heißt eine Funktion $f:D \to W$  stetig in $x_{0}$ #card 
+Wenn für jede Folge $(a_{n})$ in $D$, die gegen $x_{0}$ konvergiert, auch die Folge $(f(a_{n}))$ konvergiert und $\lim_{n \to \infty} f(a_{n}) = f(x_{0})$ gilt.
+
+#### Seien $V$ und $W$ normierte $\mathbb{R}$-Vektorräume, $D \subseteq V$ und $x_{0} \in D$. Wann heißt eine Funktion $f:D \to W$  stetig in $D$ #card 
+Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
+
+#### Wie ist $C(D;W) := \{f: D \to W:f$ stetig auf $D\}$ 

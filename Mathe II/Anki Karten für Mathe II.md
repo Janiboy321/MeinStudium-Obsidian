@@ -407,3 +407,15 @@ Genau dann wenn $\lim_{x \to x_{0}} f(x) = f(x_{0})$ gilt.
 #### Sei $D \in \mathbb{R}$ und $f, g:D \to \mathbb{R}$ seien stetig in $x_{0} \in D$. Was gilt dann? #card
 Die Funktionen $f+g$, $fg$ und $|f|$ sind stetig in $x_{0}$
 Ist $x_{0} \in D^* := \{x \in D:g(x) ≠ 0\}$, so ist die Funktion $\frac{f}{g}: D^{*} \to \mathbb{R}$ stetig in x_0 
+
+#### Seien $D, E \in \mathbb{R}$ und $f:D \to E$, sowie $g:E\to \mathbb{R}$ Funktionen. Was gilt, wenn $f$ stetig in $x_{0}\in D$ und $g$ stetig in $f(x_{0})$ ist? #card 
+Dann ist die Verkettung $g \circ f:D \to \mathbb{R}$ auch stetig
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ monoton wachsend? #card 
+Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \leq f(y)$
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ monoton fallend? #card 
+Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \geq f(y)$
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ streng monoton wachsend? #card 
+Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \leq f(y)$

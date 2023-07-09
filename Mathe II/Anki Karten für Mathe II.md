@@ -418,4 +418,18 @@ Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \leq f(y)$
 Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \geq f(y)$
 
 #### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ streng monoton wachsend? #card 
-Wenn für alle $x, y \in D$ gilt $x \leq y \Rightarrow f(x) \leq f(y)$
+Wenn für alle $x, y \in D$ gilt $x < y \Rightarrow f(x) < f(y)$
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ streng monoton fallend? #card 
+Wenn für alle $x, y \in D$ gilt $x > y \Rightarrow f(x) > f(y)$
+
+#### Sei $D \subseteq \mathbb{R}$. Wann heißt eine Funktion $f:D \to \mathbb{R}$ (streng) monoton? #card
+Wenn sie (streng) monoton wachsend oder (streng) monoton fallend ist
+
+#### Was gilt, wenn $I \subseteq \mathbb{R}$ ein Intervall und $f \in C(I)$ streng monoton ist? #card 
+- $f:I \to f(I)$ ist bijektiv
+- $f(I)$ ist ein Intervall
+- $f^{-1}:f(I) \to I$ ist stetig auf $f(I)$ und streng monoton
+
+#### Wann ist eine Funktion $f:D \to \mathbb{R}$, laut der $\varepsilon$-$\delta$-Regel, in $x_{0}$ stetig?
+Wenn es für jedes $\varepsilon > 0$ ein $\delta > 0$ gibt, so dass $|f(x) - f(x_{0})|$ 

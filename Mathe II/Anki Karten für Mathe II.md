@@ -451,4 +451,6 @@ Sei $K \subseteq \mathbb{R}$ kompakt und nicht-leer, sowie $f \in C(K)$. Dann gi
 **Bemerkung:** Damit existieren insbesondere $max \ f(K) = f(x^{*})$ und $min \ f(K) = f(x_{*})$. In Worte gefasst lautet dieser Satz damit: *"Eine stetige Funktion auf einem Kompaktum nimmt ihr Maximum und ihr Minimum auf dem Kompaktum an"*  
 
 #### Seien $V$ und $W$ normierte $\mathbb{R}$-Vektorräume, $D \subseteq V$ und $f:D \to W$ eine Funktion. Wann nennen wir $x_{0} \in D$ einen Häufungspunkt?
-Falls es eine Folge $(a_{n})$ in D mit $a_{n} ≠ x_{0}$ für alle $n \in \mathbb{N}$ 
+Falls es eine Folge $(a_{n})$ in D mit $a_{n} ≠ x_{0}$ für alle $n \in \mathbb{N}$ gibt, die gegen $x_{0}$ konvergiert.
+
+#### Sei $x_{0}$

@@ -499,7 +499,10 @@ Sei $(a_{n})$ eine Folge in $\mathbb{K}$, $n_{0} \in \mathbb{N}$ und $x_{0} \in 
 Konvergenzradius bestimmen und Ränder abchecken
 *Ein Beispiel dazu gibt es im Skript (5.9.8)*
 
-#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$, so dass $\sigma := \lim_{n\to \infty}|\frac{a_{n+1}}{a_{n}}|$ existiert. Was gilt dann für den 
+#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$, so dass $\sigma := \lim_{n\to \infty}|\frac{a_{n+1}}{a_{n}}|$ existiert. Was gilt dann für den Konvergenzradius $r$ von $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$? #card 
+$$r:=\begin{cases}\frac{1}{\sigma},&\text{falls } \sigma \in (0, \infty)\\\infty,&\text{falls } \sigma = 0\end{cases}$$
+
+#### Sei $\sum\limits_{n=0}^{\infty}$ 
 
 
 

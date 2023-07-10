@@ -491,7 +491,8 @@ Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. 
 3. Ist $\varrho \in (0, \infty)$, so ist die Potenzreihe für alle $x \in \mathbb{K}$ mit $|x| < 1/ \varrho$ absolut konvergent und für alle $x \in \mathbb{K}$ mit $|x| > 1/\varrho$ divergent
 Sei außerdem $\sum\limits_{n=0}^{\infty}a_{n}x^{n}$ eine Potenzreihe die obige vorraussetzungen erfüllt, dann heißt die Zahl $$r:=\begin{cases}0,&\text{falls 1. gilt}\\\infty,&\text{falls 2. gilt}\\\frac{1}{\varrho},&\text{falls 3. gilt}\end{cases}$$ der Konvergenzradius der Potenzreihe *Also der Radius des Kreises, in welchem die Potenzreihe Konvergiert*
 
-
+#### Was ist eine Potenzreihe? #card 
+Sei $(a_{n})$ eine Folge in $\mathbb{K}$, $n_{0} \in \mathbb{N}$ und $x_{0} \in \mathbb{K}$ 
 
 
 

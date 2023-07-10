@@ -492,7 +492,12 @@ Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. 
 Sei außerdem $\sum\limits_{n=0}^{\infty}a_{n}x^{n}$ eine Potenzreihe die obige vorraussetzungen erfüllt, dann heißt die Zahl $$r:=\begin{cases}0,&\text{falls 1. gilt}\\\infty,&\text{falls 2. gilt}\\\frac{1}{\varrho},&\text{falls 3. gilt}\end{cases}$$ der Konvergenzradius der Potenzreihe *Also der Radius des Kreises, in welchem die Potenzreihe Konvergiert*
 
 #### Was ist eine Potenzreihe? #card 
-Sei $(a_{n})$ eine Folge in $\mathbb{K}$, $n_{0} \in \mathbb{N}$ und $x_{0} \in \mathbb{K}$ 
+Sei $(a_{n})$ eine Folge in $\mathbb{K}$, $n_{0} \in \mathbb{N}$ und $x_{0} \in \mathbb{K}$. Dann nennt man eine Reihe der Form $\sum\limits_{n=n_{0}}^{\infty}a_{n}(x-x_{0})^n$ Potenzreihe. Der Punkt $x_{0}$ wird Entwicklungspunkt der Potenzreihe genannt.
+*Anmerkung:* "Im Prinzip verschieben wir den Ursprung, also den 0-Punkt des Koordinatensystems um $x_0$"
+
+#### Wie berechnet man alle $x$ für die $(a_{n})$ konvergiert? #card 
+Konvergenzradius bestimmen und Ränder abchecken
+*Ein Beispiel dazu gibt es im Skript (5.9.8)*
 
 
 

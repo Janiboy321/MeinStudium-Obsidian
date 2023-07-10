@@ -479,7 +479,10 @@ Genau dann wenn alle *Koordinatenfunktionen* $f_{1}, f_{2}, ..., f_{p}:D \to \ma
 Dann gibt es Konstanten $0 < c < C$, so dass $c||x|| \leq |||x||| \leq C||x||$ gilt
 
 #### Was gilt, wenn eine Folge $(a_{n})$ in $\mathbb{R^d}$ bezüglich einer Norm konvergieren? #card 
-Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. (Genauso wie Konvergenz von Reihen und stetigkeit von Funktionen)
+Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. (Genauso wie Konvergenz von Reihen und Stetigkeit von Funktionen)
+
+#### Welche bekannten Potenzreihen gibt es und wie sehen diese aus? #card
+- Exponentialreihe: $e^{z}= \sum\limits_{n=0}^{\infty} \frac{z^{n}}{n!} = 1 + z + \frac{1}{2}z^{2} + \frac{1}{6}z^{3} + ...$, $z \in \$  
 
 
 

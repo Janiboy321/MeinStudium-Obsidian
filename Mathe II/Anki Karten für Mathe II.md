@@ -499,6 +499,8 @@ Sei $(a_{n})$ eine Folge in $\mathbb{K}$, $n_{0} \in \mathbb{N}$ und $x_{0} \in 
 Konvergenzradius bestimmen und Ränder abchecken
 *Ein Beispiel dazu gibt es im Skript (5.9.8)*
 
+#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$, so dass $\sigma := \lim_{n\to \infty}|\frac{a_{n+1}}{a_{n}}|$ existiert. Was gilt dann für den 
+
 
 
 

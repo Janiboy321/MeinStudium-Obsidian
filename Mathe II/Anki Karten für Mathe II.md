@@ -502,7 +502,9 @@ Konvergenzradius bestimmen und Ränder abchecken
 #### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ mit $a_{n} ≠ 0$ für alle $n \in \mathbb{N}$, so dass $\sigma := \lim_{n\to \infty}|\frac{a_{n+1}}{a_{n}}|$ existiert. Was gilt dann für den Konvergenzradius $r$ von $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$? #card 
 $$r:=\begin{cases}\frac{1}{\sigma},&\text{falls } \sigma \in (0, \infty)\\\infty,&\text{falls } \sigma = 0\end{cases}$$
 
-#### Seien $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$ und $\sum\limits_{n=0}^{\infty} b_{n}x^{n}$
+#### Seien $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$ und $\sum\limits_{n=0}^{\infty} b_{n}x^{n}$ Potenzreihen in $\mathbb{K}$ mit Konvergenzradien $r_{1},r_{2} <0$. Was gilt nun für die Potenzreihe $a=\sum\limits_{n=0}^{\infty} \sum\limits_{k=0}^{n} a_{k}b_{n-k}x^{n}$ und für alle $x \in \mathbb{K}$ mit $|x| < r$? #card 
+Die Potenzreihe $a$ hat mindestens den den Konvergenzradius $r:=min\{r1, r2\}$ und es gilt für alle $x \in \mathbb{K}$ mit $|x| < r$
+
 
 #### Sei $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$ eine Potenzreihe in $\mathbb{K}$ mit Konvergenzradius $r>0$. Was gilt nun? #card 
 Die dadurch gegebene Funktion $f:\{x \in \mathbb{K} :{|x|}< r\} \to \mathbb{K}$ mit $f(x) = \sum\limits_{n=0}^{\infty}a_{n}x^{n}$ ist stetig auf $\{x \in \mathbb{K}:|x| < r\}$-

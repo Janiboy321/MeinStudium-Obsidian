@@ -464,3 +464,5 @@ Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
 
 #### Wie ist $C(D;W)$ definiert? #card  
 $C(D;W) := \{f: D \to W:f$ stetig auf $D\}$
+
+#### Was ist eine Koordinatenfunktion? #card 

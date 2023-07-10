@@ -485,9 +485,12 @@ Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. 
 - Exponentialreihe: $e^{z}= \sum\limits_{n=0}^{\infty} \frac{z^{n}}{n!} = 1 + z + \frac{1}{2}z^{2} + \frac{1}{6}z^{3} + ...$, $z \in \mathbb{C}$.
 - Geometrische Reihe: $\sum\limits_{n=0}^{\infty} = \frac{1}{1-x}$ 
 
-#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ (also in den reelen oder in den komplexen Zahlen), so dass der Grenzwert $\varrho := \lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ existiert oder die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt ist. Welche Konvergenzaussagen gelten dann für die Potenzreihe $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$?
+#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ (also in den reelen oder in den komplexen Zahlen), so dass der Grenzwert $\varrho := \lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ existiert oder die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt ist. Welche Konvergenzaussagen gelten dann für die Potenzreihe $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$? #card 
 1. Ist die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt, so konvergiert die Potenzreihe nur für $x=0$
-2. Ist $\varrho = 0$, soko
+2. Ist $\varrho = 0$, so konvergiert die Potenzreihe für alle $x \in K$ absolut
+3. Ist $\varrho \in (0, \infty)$, so ist die Potenzreihe für alle $x \in \mathbb{K}$ mit $|x| < 1/ \varrho$ absolut konvergent und für alle $x \in \mathbb{K}$ mit $|x| > 1/\varrho$ divergent
+
+
 
 
 

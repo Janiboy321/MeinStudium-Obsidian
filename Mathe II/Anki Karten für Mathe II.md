@@ -466,3 +466,10 @@ Wenn $f$ in jedem Punkt $x_{0} \in D$ stetig ist.
 $C(D;W) := \{f: D \to W:f$ stetig auf $D\}$
 
 #### Was ist eine Koordinatenfunktion? #card 
+Eine Funktion mehrerer Funktionen hat $d$ reele Eingabewerte. Man nimmt in der Analysis an, dass die Funktion von $d$ reelen Eingangsparametern abhängt und schreibt nicht ganz korrekt $f(x_{1}, x_{2}, ..., x_{d})$ statt $f((x_{1}, x_{2}, ..., x_{d})^T)$. Der Wert $f(x)$ ist für jedess $x \in D$ ein Vektor $\mathbb{R}^p$. Man hat also $$f(x)=
+\begin{pmatrix} f(x)_1 \\ f(x)_2 \\ \vdots \\ f(x)_p 
+\end{pmatrix} =
+\begin{pmatrix} f_1(x) \\ f_2(x) \\ \vdots \\ f_p(x)
+\end{pmatrix}$$ mit den $p$ sogenannten *Koordinatenfunktionen* $f_{1}, f_{2},...,f_{p}: D \to R$ 
+
+#### Sei $D \subseteq$

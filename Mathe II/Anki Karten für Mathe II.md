@@ -482,7 +482,12 @@ Dann gibt es Konstanten $0 < c < C$, so dass $c||x|| \leq |||x||| \leq C||x||$ g
 Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. (Genauso wie Konvergenz von Reihen und Stetigkeit von Funktionen)
 
 #### Welche bekannten Potenzreihen gibt es und wie sehen diese aus? #card
-- Exponentialreihe: $e^{z}= \sum\limits_{n=0}^{\infty} \frac{z^{n}}{n!} = 1 + z + \frac{1}{2}z^{2} + \frac{1}{6}z^{3} + ...$, $z \in \$  
+- Exponentialreihe: $e^{z}= \sum\limits_{n=0}^{\infty} \frac{z^{n}}{n!} = 1 + z + \frac{1}{2}z^{2} + \frac{1}{6}z^{3} + ...$, $z \in \mathbb{C}$.
+- Geometrische Reihe: $\sum\limits_{n=0}^{\infty} = \frac{1}{1-x}$ 
+
+#### Sei $(a_{n})$ eine Folge in $\mathbb{K}$ (also in den reelen oder in den komplexen Zahlen), so dass der Grenzwert $\varrho := \lim_{n \to \infty} \sqrt[n]{|a_{n}|}$ existiert oder die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt ist. Welche Konvergenzaussagen gelten dann für die Potenzreihe $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$?
+1. Ist die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt, so konvergiert die Potenzreihe nur für $x=0$
+2. Ist $\varrho = 0$, soko
 
 
 

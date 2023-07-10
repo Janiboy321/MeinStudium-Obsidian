@@ -489,8 +489,7 @@ Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. 
 1. Ist die Folge $(\sqrt[n]{|a_{n}|})$ unbeschränkt, so konvergiert die Potenzreihe nur für $x=0$
 2. Ist $\varrho = 0$, so konvergiert die Potenzreihe für alle $x \in K$ absolut
 3. Ist $\varrho \in (0, \infty)$, so ist die Potenzreihe für alle $x \in \mathbb{K}$ mit $|x| < 1/ \varrho$ absolut konvergent und für alle $x \in \mathbb{K}$ mit $|x| > 1/\varrho$ divergent
-
-
+Sei außerdem $\sum\limits_{n=0}^{\infty}$
 
 
 

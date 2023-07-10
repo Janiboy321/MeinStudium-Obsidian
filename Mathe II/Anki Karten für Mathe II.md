@@ -472,5 +472,15 @@ Eine Funktion mehrerer Funktionen hat $d$ reele Eingabewerte. Man nimmt in der A
 \begin{pmatrix} f_1(x) \\ f_2(x) \\ \vdots \\ f_p(x)
 \end{pmatrix}$$ mit den $p$ sogenannten *Koordinatenfunktionen* $f_{1}, f_{2},...,f_{p}: D \to R$ 
 
-#### Sei $D \subseteq \mathbb{R}$ und $x_{0}\in D$. Wann ist $f:D\to \mathbb{R}^p$ in $x_{0}$ stetig?
-Genau dann wenn alle *Koordinaten*
+#### Sei $D \subseteq \mathbb{R}$ und $x_{0}\in D$. Wann ist $f:D\to \mathbb{R}^p$ in $x_{0}$ stetig? #card 
+Genau dann wenn alle *Koordinatenfunktionen* $f_{1}, f_{2}, ..., f_{p}:D \to \mathbb{R}^p$ in $x_{0}$ stetig sind
+
+#### Was gilt, wenn $||\cdot||$ und $|||\cdot|||$ zwei normen auf $\mathbb{R}^{d}$ sind? #card 
+Dann gibt es Konstanten $0 < c < C$, so dass $c||x|| \leq |||x||| \leq C||x||$ gilt
+
+#### Was gilt, wenn eine Folge $(a_{n})$ in $\mathbb{R^d}$ bezüglich einer Norm konvergieren? #card 
+Sie konvergieren bezüglich jeder anderen Norm und der Grenzwert ist der Selbe. (Genauso wie Konvergenz von Reihen und stetigkeit von Funktionen)
+
+
+
+

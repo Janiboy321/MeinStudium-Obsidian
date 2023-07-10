@@ -472,4 +472,5 @@ Eine Funktion mehrerer Funktionen hat $d$ reele Eingabewerte. Man nimmt in der A
 \begin{pmatrix} f_1(x) \\ f_2(x) \\ \vdots \\ f_p(x)
 \end{pmatrix}$$ mit den $p$ sogenannten *Koordinatenfunktionen* $f_{1}, f_{2},...,f_{p}: D \to R$ 
 
-#### Sei $D \subseteq$
+#### Sei $D \subseteq \mathbb{R}$ und $x_{0}\in D$. Wann ist $f:D\to \mathbb{R}^p$ in $x_{0}$ stetig?
+Genau dann wenn alle *Koordinaten*

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "Fachschaft/Ophase/Lerngruppen-Speeddating.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "Fachschaft/Ophase/Lerngruppen-Speeddating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "Fachschaft/Ophase/Lerngruppen-Speeddating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "Fachschaft/Ophase/Lerngruppen-Speeddating.md"
               }
             }
           },
@@ -187,8 +185,9 @@
   },
   "active": "9a4035786103649f",
   "lastOpenFiles": [
-    "Fachschaft/Sommerfest 2023/Zu klären.md",
     "Mathe II/Anki Karten für Mathe II.md",
+    "Fachschaft/Ophase/Lerngruppen-Speeddating.md",
+    "Fachschaft/Sommerfest 2023/Zu klären.md",
     "AUD/Vorlesung 27.06.23.md",
     "AUD/06GraphAlgorithms-1.pdf",
     "InfMan/Zusammenfassungen/28.04.2023.md",
@@ -197,7 +196,6 @@
     "AUD/Hausübungen/Hausübung 5.md",
     "AUD/Hausübungen/1. Hausübung.md",
     "_Mein Leben/Geburstag.md",
-    "Fachschaft/Ophase/Untitled.md",
     "Fachschaft/Ophase/Untitled 1.md",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",

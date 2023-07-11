@@ -2,5 +2,4 @@
 ### Raum: S202|C301
 
 # To-Do
-- DaChor anschreiben, fragen ob verschiebbar oder ausfallen lassen können
-- 
+- DaChor anschreiben, fragen ob verschiebbar oder ausfallen lassen können [Done]

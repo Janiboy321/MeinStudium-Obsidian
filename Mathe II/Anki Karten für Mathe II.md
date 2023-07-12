@@ -507,7 +507,10 @@ Die Potenzreihe $a$ hat mindestens den den Konvergenzradius $r:=min\{r1, r2\}$ u
 
 
 #### Sei $\sum\limits_{n=0}^{\infty} a_{n}x^{n}$ eine Potenzreihe in $\mathbb{K}$ mit Konvergenzradius $r>0$. Was gilt nun? #card 
-Die dadurch gegebene Funktion $f:\{x \in \mathbb{K} :{|x|}< r\} \to \mathbb{K}$ mit $f(x) = \sum\limits_{n=0}^{\infty}a_{n}x^{n}$ ist stetig auf $\{x \in \mathbb{K}:|x| < r\}$-
+Die dadurch gegebene Funktion $f:\{x \in \mathbb{K} :{|x|}< r\} \to \mathbb{K}$ mit $f(x) = \sum\limits_{n=0}^{\infty}a_{n}x^{n}$ ist stetig auf $\{x \in \mathbb{K}:|x| < r\}$
+
+#### Umkehrfunktion von der Exponentialfunktion $E: \mathbb{R} \to (0, \infty)$ #card-reverse
+
 
 
 

@@ -4,5 +4,3 @@
 # Plan
 
 # To-Do
-- DaChor anschreiben, fragen ob verschiebbar oder ausfallen lassen können
-	- Done $\to$ Warte auf Antwort

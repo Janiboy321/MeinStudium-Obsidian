@@ -537,9 +537,7 @@ $\sin(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n+1)!} z^{2n+1}$, $z \in
 $\cos(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n)!} z^{2n}$, $z \in \mathbb{C}$
 
 #### Wie lauten die wichtigen Werte von Sinus und Cosinus an den Winkeln?
-|     | 0°/0 | 30°/$\frac{\pi}{6}$ | 45°/$\frac{\pi}{4}$ | 60°/$\frac{\pi}{3}$ | 90°/$\frac{\pi}{2}$ |
-| --- | ---- | --- | --- | --- | --- |
-|     |      |     |     |     |     |
+
 
 
 

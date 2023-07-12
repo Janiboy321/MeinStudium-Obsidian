@@ -558,7 +558,11 @@ $|sin(x)| \leq 1$ und $|cos(x)| \leq 1$
 5. $\cos(x+\pi) = -\cos(x)$
 6. $\cos(x+2\pi) = cos(x)$
 
-#### Wie lautet die Beschreibung der Nullstellen von Sinus und Cosinus?
-- $\sin(z) = 0 \Leftrightarrow z= k\pi für ein  
+#### Wie lautet die Beschreibung der Nullstellen von Sinus und Cosinus? #card 
+- $\sin(z) = 0 \Leftrightarrow z= k\pi$ für ein $k \in \mathbb{Z}$
+- $\cos(z) = 0 \Leftrightarrow z= \frac{\pi}{2}+k\pi$ für ein $k \in \mathbb{Z}$
+
+#### Wie lautet die Tangens Funktion $\tan(z)$? #card 
+$\tan(z) = \frac{\sin(z)}{\cos(z)}$
 
 

@@ -518,8 +518,12 @@ Umkehrfunktion vom natürlichen Logarithmus $ln:=E^{-1}:(0,\infty) \to \mathbb{R
 3. $\lim_{x\to \infty} \ln(x) = \infty$ und $\lim_{x \to 0+} \ln(x) = -\infty$ 
 4. Für alle $x, y \in (0, \infty)$ und $q \in \mathbb{Q}$ gilt:
 	1. $\ln(xy) = \ln(x)+\ln(y)$
-	2. $\ln(\frac{x}{y})$
- 
+	2. $\ln(\frac{x}{y})$ = $\ln(x) - \ln(y)$
+	3. $\ln(x^{q})= q \ln(x)$
+
+#### Wie lautet die allgemeine Potenzfunktion? #card 
+Für alle $a \in (0, \infty)$ und alle $x \in \mathbb{R}$ definieren wir die allgemeine Potenz durch $a^{x}:=e^{x \cdot \ln(a)}$
+
 
 
 

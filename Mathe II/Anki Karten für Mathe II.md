@@ -574,4 +574,7 @@ Die Polarkoordinaten von $z$ bestehen aus dem Betrag von $z$: $r:=\sqrt{x^{2}+y^
 - $z/w$ hat die Polarkoordinaten $(r/s,\varphi - \psi)$
 
 #### Welche Hyperbolischen Funktionen gibt es und wie sind diese Definiert? #card 
-- $\sinh(z) := \frac{}{}$
+- Sinus hyperbolicus: $\sinh(z) := \frac{e^{z}-e^{-z}}{2}$, $z \in \mathbb{C}$
+- Cosinus hyperbolicus: $\cosh(z) := \frac{e^{z}+e^{-z}}{2}$, $z \in \mathbb{C}$
+- Tangens hyperbolicus: $\tanh(z) = \frac{\sinh(z)}{cosh(z)}$, $z \in \mathbb{C} \backslash \{\left( k\pi + \frac{\pi}{2} \right)i : k \in \mathbb{Z}\}$  
+

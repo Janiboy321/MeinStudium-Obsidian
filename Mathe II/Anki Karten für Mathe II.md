@@ -567,5 +567,11 @@ $\tan(z) = \frac{\sin(z)}{\cos(z)}$
 
 #### Sei $z = x + yi \in \mathbb{C} \ \{0\}$ mit $x, y \in \mathbb{R}$. Was sind die Polarkoordinaten von $z$? #card 
 Die Polarkoordinaten von $z$ bestehen aus dem Betrag von $z$: $r:=\sqrt{x^{2}+y^{2}}$ und dem Argument von $z$, also der Winkel $\varphi$ der zwischen $z$ und der positiven reelen Achse eingeschlossen wird. Beide Werte $(r, \varphi)$ zusammen sind die Polarkoordinaten von $z$ 
-*Anmerkung: Ist das Argument von $z$ auf den Bereich $(-\pi, \pi]$ festgelegt, so gelten die folgenden Umrechungsformeln zwischen den Darstellungen für eine komplexe Zahl $z = x + yi$ mit Polarkoordinaten $(r, \varphi)$:* ![[SCR-20230712-nxxg.png]]
-*Desweiteren gilt für jede komplexe Zahl $z$ auf dem Einheitskreis, also $|z| = 1$, dass $\cos(\varphi) + \sin(\varphi)i$ mit einem geeingeten $\varphi \in (-\pi, pi]$.* Tatsächlich gilt für jedes $z = \frac{|z|z}{|z|}$
+*Anmerkung: Ist das Argument von $z$ auf den Bereich $(-\pi, \pi]$ festgelegt, so gelten die folgenden Umrechungsformeln zwischen den Darstellungen für eine komplexe Zahl $z = x + yi$ mit Polarkoordinaten $(r, \varphi)$:* ![[SCR-20230712-nxxg.png]]*Desweiteren gilt für jede komplexe Zahl $z$ auf dem Einheitskreis, also $|z| = 1$, dass $\cos(\varphi) + \sin(\varphi)i$ mit einem geeingeten $\varphi \in (-\pi, pi]$. Tatsächlich gilt für jedes $z = |z|\frac{z}{|z|} = r(\cos(\varphi) + \sin(\varphi)i) = re^{i\varphi}$.** 
+
+#### Seien $z = re^{i\varphi}$, $w=se^{i\psi} \in \mathbb{C} \backslash \{0\}$ mit Polarkoordinaten $(r, \varphi)$, bzw. $(s, \psi)$ gegeben. Welche Polarkoordinaten haben dann $z \cdot w$ und $z/w$? #card 
+- $z \cdot w$ hat die Polarkoordinaten $(rs, \varphi + \psi)$
+- $z/w$ hat die Polarkoordinaten $(r/s,\varphi - \psi)$
+
+#### Welche Hyperbolischen Funktionen gibt es und wie sind diese Definiert? #card 
+- $\sinh(z) := \frac{}{}$

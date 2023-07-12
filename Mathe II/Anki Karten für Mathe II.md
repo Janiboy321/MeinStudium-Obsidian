@@ -565,6 +565,7 @@ $|sin(x)| \leq 1$ und $|cos(x)| \leq 1$
 #### Wie lautet die Tangens Funktion $\tan(z)$? #card 
 $\tan(z) = \frac{\sin(z)}{\cos(z)}$
 
-
 #### Sei $z = x + yi \in \mathbb{C} \ \{0\}$ mit $x, y \in \mathbb{R}$. Was sind die Polarkoordinaten von $z$? #card 
-Die Polarkoordinaten von $z$ bestehen aus dem Betrag von $z$: $r:=\sqrt{x^{2}+y^{2}}$ 
+Die Polarkoordinaten von $z$ bestehen aus dem Betrag von $z$: $r:=\sqrt{x^{2}+y^{2}}$ und dem Argument von $z$, also der Winkel $\varphi$ der zwischen $z$ und der positiven reelen Achse eingeschlossen wird. Beide Werte $(r, \varphi)$ zusammen sind die Polarkoordinaten von $z$ 
+*Anmerkung: Ist das Argument von $z$ auf den Bereich $(-\pi, \pi]$ festgelegt, so gelten die folgenden Umrechungsformeln zwischen den Darstellungen für eine komplexe Zahl $z = x + yi$ mit Polarkoordinaten $(r, \varphi)$:* ![[SCR-20230712-nxxg.png]]
+*Desweiteren gilt für jede komplexe Zahl $z$ auf dem Einheitskreis, also $|z| = 1$, dass $\cos(\varphi) + \sin(\varphi)i$ mit einem geeingeten $\varphi \in (-\pi, pi]$.* Tatsächlich gilt für jedes $z = \frac{|z|z}{|z|}$

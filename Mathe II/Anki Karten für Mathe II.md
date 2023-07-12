@@ -539,6 +539,21 @@ $\cos(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n)!} z^{2n}$, $z \in \mat
 #### Wie lauten die wichtigen Werte von Sinus und Cosinus an den Winkeln? #card 
 ![[SCR-20230712-naen.png]]
 
-#### Wie lautet die Eulersche Formel?
+#### Wie lautet die Eulersche Formel? #card 
+$e^{iz} = \cos(z) + sin(z)i$
+Damit gilt für alle $x \in \mathbb{R}$ $Re(e^{ix}) = cos(x)$ und $Im(e^{ix}) = sin(x)$
+
+#### Was gilt für die Beträge der Sinus und Cosinus Funktionen? #card 
+$|sin(x)| \leq 1$ und $|cos(x)| \leq 1$
+
+#### Wie lauten die Additionstheoreme der Sinus und Cosinus Funktionen? #card 
+- $\sin(x+y) = \sin(x)\cos(y)+ \sin(y)\cos(x)$ 
+- $\cos(x+y)=\cos(x)\cos(y)-\sin(x)\sin(y)$
+
+#### Welche Rechenregeln gelten für verschobene Sinus und Cosinus Funktionen? #card 
+1. $\sin\left(x + \frac{\pi}{2}\right) = \cos(x)$
+2. $\sin(x + \pi) = -\sin(x)$
+3. $\sin(x+2\pi) = \sin(x)$
+4. $\cos(x)$
 
 

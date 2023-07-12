@@ -530,5 +530,17 @@ Die Funktion ist stetig und es gelten folgende Potenzregeln:
 2. $a^{-1} = \frac{1}{a}$
 3. $(a^{x})^{y}=a^{xy}$ 
 
+#### Wie ist die Sinus-Funktion $\sin(z)$ definiert? #card 
+$\sin(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n+1)!} z^{2n+1}$, $z \in \mathbb{C}$ 
+
+#### Wie ist die Cosinus-Funktion $\cos(z)$ definiert? #card 
+$\cos(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n)!} z^{2n}$, $z \in \mathbb{C}$
+
+#### Wie lauten die wichtigen Werte von Sinus und Cosinus an den Winkeln?
+|     | 0°/0 | 30°/$\frac{\pi}{6}$ | 45°/$\frac{\pi}{4}$ | 60°/$\frac{\pi}{3}$ | 90°/$\frac{\pi}{2}$ |
+| --- | ---- | --- | --- | --- | --- |
+|     |      |     |     |     |     |
+
+
 
 

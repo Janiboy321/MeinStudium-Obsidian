@@ -531,14 +531,14 @@ Die Funktion ist stetig und es gelten folgende Potenzregeln:
 3. $(a^{x})^{y}=a^{xy}$ 
 
 #### Wie ist die Sinus-Funktion $\sin(z)$ definiert? #card 
-$\sin(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n+1)!} z^{2n+1}$, $z \in \mathbb{C}$ 
+$\sin(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n+1)!} z^{2n+1}$, $z \in \mathbb{C}$ (Der Sinus ist gerade)
 
 #### Wie ist die Cosinus-Funktion $\cos(z)$ definiert? #card 
-$\cos(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n)!} z^{2n}$, $z \in \mathbb{C}$
+$\cos(z):=\sum\limits_{n=0}^{\infty} \frac{(-1)^{n}}{(2n)!} z^{2n}$, $z \in \mathbb{C}$ (Der Cosinus ist ungerade)
 
-#### Wie lauten die wichtigen Werte von Sinus und Cosinus an den Winkeln?
+#### Wie lauten die wichtigen Werte von Sinus und Cosinus an den Winkeln? #card 
+![[SCR-20230712-naen.png]]
 
-
-
+#### Wie lautet die Eulersche Formel?
 
 

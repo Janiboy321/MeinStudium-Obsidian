@@ -522,9 +522,13 @@ Umkehrfunktion vom natürlichen Logarithmus $ln:=E^{-1}:(0,\infty) \to \mathbb{R
 	3. $\ln(x^{q})= q \ln(x)$
 
 #### Wie lautet die allgemeine Potenzfunktion? #card 
-Für alle $a \in (0, \infty)$ und alle $x \in \mathbb{R}$ definieren wir die allgemeine Potenz durch $a^{x}:=e^{x \cdot \ln(a)}$
+Für alle $a \in (0, \infty)$ und alle $x \in \mathbb{R}$ definieren wir die allgemeine Potenz durch *$a^{x}:=e^{x \cdot \ln(a)}$*
 
-
+#### Sei $a \in (0, \infty)$, was gilt dann für die Potenzfunktion $x \longmapsto a^{x}$ (Stetigkeit und Potenzregeln) #card 
+Die Funktion ist stetig und es gelten folgende Potenzregeln:
+1. $a^{x+y}=a^{x}a^{y}$
+2. $a^{-1} = \frac{1}{a}$
+3. $(a^{x})^{y}=a^{xy}$ 
 
 
 

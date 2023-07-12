@@ -510,7 +510,11 @@ Die Potenzreihe $a$ hat mindestens den den Konvergenzradius $r:=min\{r1, r2\}$ u
 Die dadurch gegebene Funktion $f:\{x \in \mathbb{K} :{|x|}< r\} \to \mathbb{K}$ mit $f(x) = \sum\limits_{n=0}^{\infty}a_{n}x^{n}$ ist stetig auf $\{x \in \mathbb{K}:|x| < r\}$
 
 #### Umkehrfunktion von der Exponentialfunktion $E: \mathbb{R} \to (0, \infty)$ #card-reverse
+Umkehrfunktion vom natürlichen Logarithmus $ln:=E^{-1}:(0,\infty) \to \mathbb{R}$ 
 
+#### Welche Eigenschaften hat der Logarithmus? #card 
+1. Die Funktion $ln$ ist auf $(0,\infty)$ stetig und wächst streng monoton
+2. Es gil
 
 
 

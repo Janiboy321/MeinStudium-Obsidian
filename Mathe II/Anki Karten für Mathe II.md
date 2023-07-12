@@ -554,6 +554,11 @@ $|sin(x)| \leq 1$ und $|cos(x)| \leq 1$
 1. $\sin\left(x + \frac{\pi}{2}\right) = \cos(x)$
 2. $\sin(x + \pi) = -\sin(x)$
 3. $\sin(x+2\pi) = \sin(x)$
-4. $\cos(x)$
+4. $\cos\left(x+ \frac{\pi}{2}\right) = -\sin(x)$
+5. $\cos(x+\pi) = -\cos(x)$
+6. $\cos(x+2\pi) = cos(x)$
+
+#### Wie lautet die Beschreibung der Nullstellen von Sinus und Cosinus?
+- $\sin(z) = 0 \Leftrightarrow z= k\pi für ein  
 
 

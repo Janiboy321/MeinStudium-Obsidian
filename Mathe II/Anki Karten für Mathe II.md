@@ -566,3 +566,5 @@ $|sin(x)| \leq 1$ und $|cos(x)| \leq 1$
 $\tan(z) = \frac{\sin(z)}{\cos(z)}$
 
 
+#### Sei $z = x + yi \in \mathbb{C} \ \{0\}$ mit $x, y \in \mathbb{R}$. Was sind die Polarkoordinaten von $z$? #card 
+Die Polarkoordinaten von $z$ bestehen aus dem Betrag von $z$: $r:=\sqrt{x^{2}+y^{2}}$ 

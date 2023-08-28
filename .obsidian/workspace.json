@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "APL/Was muss ich mir noch angucken?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "APL/Was muss ich mir noch angucken?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md",
+                "file": "APL/Was muss ich mir noch angucken?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe II/Anki Karten für Mathe II.md"
+                "file": "APL/Was muss ich mir noch angucken?.md"
               }
             }
           },
@@ -185,10 +185,11 @@
   },
   "active": "9a4035786103649f",
   "lastOpenFiles": [
+    "Mathe II/Anki Karten für Mathe II.md",
+    "APL/Was muss ich mir noch angucken?.md",
     "SCR-20230712-nxxg.png",
     "SCR-20230712-naen.png",
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
-    "Mathe II/Anki Karten für Mathe II.md",
     "Mathe II/Reihen.md",
     "Mathe II/Konvergenz.md",
     "AUD/Hausübungen/Hausübung 5.md",
@@ -227,7 +228,6 @@
     "_Misc/Pictures",
     "_Misc",
     "_Misc/Pictures/Pasted image 20230526124524.png",
-    "_Misc/Pictures/Pasted image 20230526124313.png",
     "AUD/Drwawings",
     "_Misc/Excalidraw",
     "InfMan/Übungen",

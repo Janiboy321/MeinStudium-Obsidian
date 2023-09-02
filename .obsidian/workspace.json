@@ -11,9 +11,11 @@
             "id": "9a4035786103649f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SCR-20230712-nxxg.png"
+                "file": "InfMan/Prüfungsvorbereitung/Übungen/1. Übung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCR-20230712-nxxg.png",
+                "file": "InfMan/Prüfungsvorbereitung/Übungen/1. Übung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCR-20230712-nxxg.png",
+                "file": "InfMan/Prüfungsvorbereitung/Übungen/1. Übung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCR-20230712-nxxg.png"
+                "file": "InfMan/Prüfungsvorbereitung/Übungen/1. Übung.md"
               }
             }
           },
@@ -181,10 +184,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9a4035786103649f",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
-    "InfMan/Untitled.md",
     "SCR-20230712-nxxg.png",
+    "InfMan/Prüfungsvorbereitung/Übungen/1. Übung.md",
+    "InfMan/Prüfungsvorbereitung/Übungen",
+    "InfMan/Prüfungsvorbereitung",
+    "InfMan/Untitled.md",
     "SCR-20230712-naen.png",
     "APL/Was muss ich mir noch angucken?.md",
     "Mathe II/Anki Karten für Mathe II.md",
@@ -218,7 +224,6 @@
     "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
     "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.md",
     "Fachschaft/Sommerfest 2023",
     "Fachschaft/Ophase",
     "Excalidraw",
@@ -226,8 +231,6 @@
     "_Misc",
     "_Misc/Pictures/Pasted image 20230526124524.png",
     "AUD/Drwawings",
-    "_Misc/Excalidraw",
-    "InfMan/Übungen",
     "AUD/Untitled.canvas"
   ]
 }

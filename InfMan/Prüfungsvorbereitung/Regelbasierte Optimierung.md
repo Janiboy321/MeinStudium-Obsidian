@@ -12,7 +12,7 @@ $\sigma_{c}(R \times S) \equiv R \bowtie_{c}S$ (Geht nur wenn c von der Form R.t
 
 #### 4. Projektions-Pushdown
 Mittels folgender Regeln, werden Projektionen im Baum soweit runter wie möglich gedrückt
-*(3)* Falls $L_{1} \subseteq L_{2} \subseteq ... \subseteq L_{n} \rightarrow \pi_{L_{1}}(\pi)$   
-*(4)*
+*(3)* $\pi$-Kaskaden auflösen: Falls $L_{1} \subseteq L_{2} \subseteq ... \subseteq L_{n} \rightarrow \pi_{L_{1}}(\pi_{L_{2}}(...(\pi_{L_{n}}(R))...)) \equiv \pi_{L_{1}}(R)$
+*(4)* Vertauschen von $\sigma$ und $\pi$ $\Rightarrow$ $\pi_{A_{1},...,A_{n}}(\sigma_{C}(R)) \equiv \sigma_{C}(\pi_{A_{1},...,A_{n}}(R))$
 *(7)*
 *(10)*

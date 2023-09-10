@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
+                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
+                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
+                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md"
+                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md"
               }
             }
           },
@@ -186,8 +185,10 @@
   },
   "active": "9a4035786103649f",
   "lastOpenFiles": [
-    "SCR-20230712-nxxg.png",
+    "Untitled.md",
+    "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
     "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
+    "SCR-20230712-nxxg.png",
     "InfMan/Prüfungsvorbereitung/Übungen",
     "InfMan/Prüfungsvorbereitung",
     "InfMan/Untitled.md",
@@ -223,7 +224,6 @@
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
-    "_Misc/Excalidraw/Drawing 2023-05-21 12.55.07.excalidraw.md",
     "Fachschaft/Sommerfest 2023",
     "Fachschaft/Ophase",
     "Excalidraw",

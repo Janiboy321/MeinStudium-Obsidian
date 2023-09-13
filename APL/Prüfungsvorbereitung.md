@@ -141,12 +141,21 @@ $F = (x \lor p (y \land x)); \ G=(a \lor p(b \land a))$
 $S = \{x \Rightarrow s, y \Rightarrow t , a \Rightarrow s, b \Rightarrow t\}$
 $S(F)= (s \lor p(t \land s)) = S(G)$
 
-*Mit Variablen und Konstanten;*
+*Mit Variablen und Konstanten:*
 $F = (x \lor p (y \land x)); \ G=(C \lor p(b \land a))$
 $S = \{x \Rightarrow C, y \Rightarrow t , a \Rightarrow C, b \Rightarrow t\}$
 $S(F)= (C \lor p(t \land C)) = S(G)$
 
-Mit Variablen, Konstanten und Formeln
+*Mit Variablen, Konstanten und Formeln:*
 $F = (x \lor p (q(y) \land x)); \ G=(C \lor p(b \land a))$
 $S = \{x \Rightarrow C, y \Rightarrow t , a \Rightarrow C, b \Rightarrow q(t)\}$
-$S(F)= (C \lor p(t \land C)) = S(G)$
+$S(F)= (C \lor p(q(t) \land C)) = S(G)$
+
+*Beispiel für **nicht** Unifizierbar:**
+$F = q(s) \to q(t); \ G = t \to s$
+$S = \{t \Rightarrow q(s), \ s \Rightarrow q(t) \}$
+$S(G) = q(s) \to q(t)$
+$S(F) = q(q(t)) \to q(q(s))$
+$\Rightarrow$ Resultiert in einer Infinity Loop
+
+

@@ -104,3 +104,17 @@ $F' = \forall z \forall x \exists a \exists y ((x \lor (p(q(a), y))\lor z))$
 		- $F'' = \forall z \forall x((x \lor (p(q(h(x)), i(x)))\lor z))$
 
 3. Teil nach den Quantoren in KNF bringen
+	- $(p(q(h(x)), i(x)))$ ist quasi ein Fuktionswert, weshalb da nichts mehr verändert werden muss
+	- $F''' = \forall z \forall x(x \lor p(q(h(x)), i(x))\lor z)$
+
+##### Wie substituiert man?
+Wichtig: man substituiert nur freie Variablen, welche an keine Quantoren gebunden sind.
+
+Nur freie Variablen:
+$S = \{ x \Rightarrow s, y \Rightarrow t\}$
+$F = x \lor y$ 
+$S(F) = s \lor t$ 
+
+Weiteres Beispiel:
+$S = \{ x \Rightarrow s, y \Rightarrow t\}$
+$F = \forall x (x \lor y)$

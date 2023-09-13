@@ -93,9 +93,14 @@ Tipps:
 ##### Wie bringt man eine Formel in die Skolem Normalform?
 Wichtig: Man kann Formeln nur in Skolem Normalform bringen, wenn die Formel in der Pränex Normalform ist
 
-$F = \forall x \exists a \exists y ((x \lor (p(q(a) \land y))\lor z))$
+$F = \forall x \exists a \exists y ((x \lor (p(q(a), y))\lor z))$
 
 1. Allabschluss über alle Freien Variablen
-$F'= F = \forall z \forall x \exists a \exists y ((x \lor (p(q(a) \land y))\lor z))$
+$F' = \forall z \forall x \exists a \exists y ((x \lor (p(q(a), y))\lor z))$
 
 2. Skolemisieren
+	- Für alle Existensquantifizierten Variablen führen wir ein neues K-Stelliges Funktionssymbol ein welches Abhängig von allen Variablen ist, die Allquantifiziert sind und links davon stehen
+		- Neue Funktionssymbole: h für $\exists a$; i für $\exists y$
+		- $F'' = \forall z \forall x((x \lor (p(q(h(x)), i(x)))\lor z))$
+
+3. Teil nach den Quantoren in KNF bringen

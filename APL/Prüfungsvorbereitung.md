@@ -28,4 +28,17 @@ KNF: $(\lnot A \land \lnot B \land \lnot C) \lor (\lnot A \land B \land \lnot C)
 
 $A \to B = \lnot A \lor B$
 
-##### Junktor $$
+##### Junktor $\leftrightarrow$ verstehen und Auflösen
+
+| A   | B   | A $\leftrightarrow$ B |
+| --- | --- | --------------------- |
+| 0   | 0   | 1                     |
+| 0   | 1   | 0                    |
+| 1   | 0   | 0                     |
+| 1   | 1   | 1                     |
+
+$A \leftrightarrow B = (A \to B) \land (B \to A) = (A \land B) \lor (\lnot A \land \lnot B)$
+
+##### Formeln in DNF oder KNF umformen
+
+1. 

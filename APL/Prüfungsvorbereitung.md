@@ -135,3 +135,18 @@ $(S \circ T)(F)$ = S(T(F))
 
 
 ##### Wie Unifiziert man?
+
+*Mit only Variablen:*
+$F = (x \lor p (y \land x)); \ G=(a \lor p(b \land a))$
+$S = \{x \Rightarrow s, y \Rightarrow t , a \Rightarrow s, b \Rightarrow t\}$
+$S(F)= (s \lor p(t \land s)) = S(G)$
+
+*Mit Variablen und Konstanten;*
+$F = (x \lor p (y \land x)); \ G=(C \lor p(b \land a))$
+$S = \{x \Rightarrow C, y \Rightarrow t , a \Rightarrow C, b \Rightarrow t\}$
+$S(F)= (C \lor p(t \land C)) = S(G)$
+
+Mit Variablen, Konstanten und Formeln
+$F = (x \lor p (q(y) \land x)); \ G=(C \lor p(b \land a))$
+$S = \{x \Rightarrow C, y \Rightarrow t , a \Rightarrow C, b \Rightarrow q(t)\}$
+$S(F)= (C \lor p(t \land C)) = S(G)$

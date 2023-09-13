@@ -60,7 +60,7 @@ Tipps:
 
 ### Prädikatenlogik
 
-###### Terminologie:
+##### Terminologie:
 - Was sind Terme?
 	- Namen von Objekten im Beobachtungsbereich. Das können sowohl Objekte als auch Subjekte sein
 	
@@ -73,7 +73,13 @@ Tipps:
 - Quantoren
 	- Quantoren erlauben Aussagen über Mengen von Objekten, für die das Prädikat gilt
 
-Wie stellt man eine Formel in Prädikatenlogik auf?
-	- Es regnet in Berlin: $A(x) \equiv$ Es regnet in $x$
-	- Es regnet heut in Berlin: $A(x, y) \equiv$ Es regnet zu der Zeit $y$ ind $x$
-	- Es regnet in allen Städten: $\$  
+##### Wie stellt man eine Formel in Prädikatenlogik auf?
+-  Es regnet in Berlin: $A(x) \equiv$ Es regnet in $x$
+- Es regnet heut in Berlin: $A(x, y) \equiv$ Es regnet zu der Zeit $y$ ind $x$
+
+##### Wie negiert man Quantoren?
+- $\lnot \forall x \ P(x) \Leftrightarrow \exists x \ \lnot P(x)$
+- $\forall x \ \lnot P(x) \Leftrightarrow \lnot \exists x \ P(x)$
+- $\forall x \ P(x) \Leftrightarrow \lnot \exists x \ \lnot P(x)$
+-  $\forall x \ P(x) \Leftrightarrow \lnot \exists x \ \lnot P(x)$
+

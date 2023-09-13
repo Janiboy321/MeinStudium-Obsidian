@@ -81,5 +81,5 @@ Tipps:
 - $\lnot \forall x \ P(x) \Leftrightarrow \exists x \ \lnot P(x)$
 - $\forall x \ \lnot P(x) \Leftrightarrow \lnot \exists x \ P(x)$
 - $\forall x \ P(x) \Leftrightarrow \lnot \exists x \ \lnot P(x)$
--  $\forall x \ P(x) \Leftrightarrow \lnot \exists x \ \lnot P(x)$
+-  $\lnot \forall x \ \lnot P(x) \Leftrightarrow \exists x \ P(x)$
 

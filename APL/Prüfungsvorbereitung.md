@@ -83,3 +83,5 @@ Tipps:
 - $\forall x \ P(x) \Leftrightarrow \lnot \exists x \ \lnot P(x)$
 -  $\lnot \forall x \ \lnot P(x) \Leftrightarrow \exists x \ P(x)$
 
+##### Was ist die Pränexe Normalform?
+- Alle Quantoren einer Formel stehen am Anfang

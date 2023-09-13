@@ -90,5 +90,12 @@ Tipps:
 1. Meistens kann man die Quantoren einfach rausziehen (Wenn man es in der richtigen Reihenfolge macht)
 	- $( \forall x(x \lor \exists a \exists y (p(q(a) \land y) ) \lor \exists z z)) \equiv \exists z \forall x \exists a \exists y  (x \lor p(q(a) \land y) \lor z)$ 
 
-##### Was ist die Skolem Normalform?
- 
+##### Wie bringt man eine Formel in die Skolem Normalform?
+Wichtig: Man kann Formeln nur in Skolem Normalform bringen, wenn die Formel in der Pränex Normalform ist
+
+$F = \forall x \exists a \exists y ((x \lor (p(q(a) \land y))\lor z))$
+
+1. Allabschluss über alle Freien Variablen
+$F'= F = \forall z \forall x \exists a \exists y ((x \lor (p(q(a) \land y))\lor z))$
+
+2. Skolemisieren

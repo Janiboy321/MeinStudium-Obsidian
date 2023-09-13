@@ -132,3 +132,6 @@ $S(F) =  \forall x (x \lor p(t \land x)) \lor s$
 
 Komposition:
 $(S \circ T)(F)$ = S(T(F))
+
+
+##### Wie Unifiziert man?

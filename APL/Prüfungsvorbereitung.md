@@ -41,4 +41,13 @@ $A \leftrightarrow B = (A \to B) \land (B \to A) = (A \land B) \lor (\lnot A \la
 
 ##### Formeln in DNF oder KNF umformen
 
-1. 
+1. $\to$ und $\leftrightarrow$ Auflösen
+2. $\lnot$ vor Klammern mit De Morgan auflösen
+	1. $\lnot(A \lor B) = (\lnot A \land \lnot B)$
+	2. $\lnot(A \land B) = (\lnot A \lor \lnot B)$
+3. Distributiv Gesetz anwenden
+	1. $(A \land (B \lor C)) = (A \land B) \lor (A \land C)$
+
+##### Eine Formel in KNF als Klauselmenge schreiben
+
+

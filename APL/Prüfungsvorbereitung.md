@@ -115,6 +115,20 @@ $S = \{ x \Rightarrow s, y \Rightarrow t\}$
 $F = x \lor y$ 
 $S(F) = s \lor t$ 
 
-Weiteres Beispiel:
+Gebundene Variablen:
 $S = \{ x \Rightarrow s, y \Rightarrow t\}$
 $F = \forall x (x \lor y)$
+$S(F)= \forall x (x \lor t)$
+
+Mit Prädikatensymbol oder Funktionssymbol:
+$S = \{ x \Rightarrow s, y \Rightarrow t\}$
+$F = \forall x (x \lor p(y \land x))$
+$S(F) =  \forall x (x \lor p(t \land x))$ 
+
+Mit Gebundener Variable, aber in anderem Scope:
+$S = \{ x \Rightarrow s, y \Rightarrow t\}$
+$F = \forall x (x \lor p(y \land x)) \lor x$
+$S(F) =  \forall x (x \lor p(t \land x)) \lor s$ 
+
+Komposition:
+$(S \circ T)(F)$ = S(T(F))

@@ -50,7 +50,12 @@ $A \leftrightarrow B = (A \to B) \land (B \to A) = (A \land B) \lor (\lnot A \la
 
 ##### Eine Formel in KNF als Klauselmenge schreiben
 
-
 $(\lnot A \lor \lnot B \lor C) \land (\lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
-$\Leftarrow \{\lnot A, \lnot B,  C \}, \lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
+$\Rightarrow \{\{\ \lnot A , \lnot B , C\} ,  \{\lnot A , B , C\} ,  \{A , \lnot B , C\} ,  \{A , B , C\}\}$
 
+##### Formeln selbst aufstellen
+Tipps:
+- Steht in dem Text ein nur, wird $\to$ umgedreht
+	- Der Hund frisst (H) nur, wenn die Katze (K)  nicht Frisst $\Rightarrow (\lnot K \to H)$
+
+### Prädikatenlogik

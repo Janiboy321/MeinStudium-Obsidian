@@ -14,8 +14,8 @@
 | 1   | 1   | 0   | 1   |
 | 1   | 1   | 1   | 0   | 
 
-DNF: $(\lnot A \lor \lnot B \lor C) \land (\lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
-KNF: $(\lnot A \land \lnot B \land \lnot C) \lor (\lnot A \land B \land \lnot C) \lor (A \land \lnot B \land \lnot C) \lor (A \land B \land\lnot C)$
+KNF: $(\lnot A \lor \lnot B \lor C) \land (\lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
+DNF: $(\lnot A \land \lnot B \land \lnot C) \lor (\lnot A \land B \land \lnot C) \lor (A \land \lnot B \land \lnot C) \lor (A \land B \land\lnot C)$
 
 ##### Junktor $\to$ verstehen und auflösen können
 
@@ -50,4 +50,7 @@ $A \leftrightarrow B = (A \to B) \land (B \to A) = (A \land B) \lor (\lnot A \la
 
 ##### Eine Formel in KNF als Klauselmenge schreiben
 
+
+$(\lnot A \lor \lnot B \lor C) \land (\lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
+$\Leftarrow \{\lnot A, \lnot B,  C \}, \lnot A \lor B \lor C) \land (A \lor \lnot B \lor C) \land (A \lor B \lor C)$
 

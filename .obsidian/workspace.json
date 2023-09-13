@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
+                "file": "APL/Prüfungsvorbereitung.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
+                "file": "APL/Prüfungsvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
+                "file": "APL/Prüfungsvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md"
+                "file": "APL/Prüfungsvorbereitung.md"
               }
             }
           },
@@ -184,17 +184,18 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "9a4035786103649f",
+  "active": "340a84965ce8d39b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "APL/Was muss ich mir noch angucken?.md",
+    "APL/Prüfungsvorbereitung.md",
     "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
+    "Untitled.md",
     "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
     "SCR-20230712-nxxg.png",
     "InfMan/Prüfungsvorbereitung/Übungen",
     "InfMan/Prüfungsvorbereitung",
     "InfMan/Untitled.md",
     "SCR-20230712-naen.png",
-    "APL/Was muss ich mir noch angucken?.md",
     "Mathe II/Anki Karten für Mathe II.md",
     "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
     "Mathe II/Reihen.md",
@@ -223,7 +224,6 @@
     "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 09.52.42.excalidraw.md",
     "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
     "Fachschaft/Sommerfest 2023",
     "Fachschaft/Ophase",

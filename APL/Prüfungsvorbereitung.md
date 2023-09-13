@@ -59,3 +59,4 @@ Tipps:
 	- Der Hund frisst (H) nur, wenn die Katze (K)  nicht Frisst $\Rightarrow (\lnot K \to H)$
 
 ### Prädikatenlogik
+

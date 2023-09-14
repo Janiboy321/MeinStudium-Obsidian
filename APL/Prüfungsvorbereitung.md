@@ -158,4 +158,18 @@ $S(G) = q(s) \to q(t)$
 $S(F) = q(q(t)) \to q(q(s))$
 $\Rightarrow$ Resultiert in einer Infinity Loop
 
+##### Wofür benötigt man die Herbrand-Struktur?
+Mithilfe der Herbrand Struktur kann man die Erfüllbarkeit einer Formel in Skolemform nachweisen
 
+##### Hebrand Struktur:
+$H(F) :=$ Alle Funktionssymbole in Grundinstanz:
+
+Nur Variablen:
+$F = \forall x P(x, y, z); \ H(F) = \{c\}$
+
+$F= \forall x P(x, a, b, c)$; \ H(F) = \{c, a, b, c\}:
+
+
+
+
+Sei $c$ die Herbrand Konstante, dann gilt für $f(x, y)$, dass $H(f) = f(c, c)$

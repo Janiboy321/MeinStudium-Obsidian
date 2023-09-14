@@ -213,4 +213,14 @@ Nutzt die Semantik der Formel, Hier argumentiert man über die Belegung der Form
 Ein Formaler Beweis ist eine syntaktische Zeichenkette, die bestimmten Regeln gehorchen. In der Vorlesung auch als Herleitung oder Ableitung bezeichnet, die wir mithilfe eines Logikkalküls erstellen. Dazu gehören Resolution, Sequenzenkalkül, etc.
 
 ##### Beweisen, dass eine Sequenzenkalkülregel gilt:
-1.
+Terminologie: $\frac{Prämisse}{Konklusion}$
+
+1. $M \models$ linke seite Konklusion (mit $\land$)
+2. Zu zeigen ist dann: $M \models$ rechte Seite$_1$ Konklusion ODER rechte Seite$_2$ Konklusion
+3. Wenn $\Delta$, also allgemeine Formelmenge $\to$ Fallunterscheidung:
+
+*Beispiel: Beweise, dass gilt: $\frac{\Gamma, \varphi \ \ \vdash  \ \ \Delta, \psi \ \ \ \ \ \ \Gamma, \phi \ \ \vdash \ \ \Delta, \eta}{\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi}$* 
+Sei $\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi$ allgemeingültig und sei $M$ ein Model von $\Gamma, \lnot \eta$, also $M \models \Gamma, \lnot \eta$
+
+1. Fall: $M \models \Delta \Rightarrow$ Fertig
+2. Fall: $\not\models$ 

@@ -194,4 +194,13 @@ Unbekannte Funktion: $f(k(x)) \Rightarrow f(c_{H})$
 Unbekanntes Funktionssymbol: $k(f(f(c_{H}))) \Rightarrow c_{H}$
 
 ##### Herbrand-Expansion
-$E(F) = {P(c_{H}) \lor \lnot P(c)}$
+$$
+\begin{align}
+E(F) = &\{P(c_{H}) \lor \lnot P(c_{H}), &&&&& c_{H}\\
+& P(f(c_{H})) \lor \lnot P(c_{H}) &&&&& f(\cdot) \\
+& P(f(f(c_{H}))) \lor \lnot P(f(c_{H})) \\
+& P(f(f(c_{H}))) \lor \lnot P(c_{H}) \\
+& ... \}
+\end{align}
+$$
+Gleich im ersten Fall haben wir eine Tautologie mit $P(c_{H})\lor \lnot P(c_h)$, daher ist die Formel erfüllbar

@@ -211,3 +211,6 @@ $\varphi \models \psi$
 Nutzt die Semantik der Formel, Hier argumentiert man über die Belegung der Formeln. In der Aussagenlogik benutzt man dafür Wahrheitstafeln, in der PL Modelle und Interpretationen
 ##### Was ist ein Syntaktischer Beweis?
 Ein Formaler Beweis ist eine syntaktische Zeichenkette, die bestimmten Regeln gehorchen. In der Vorlesung auch als Herleitung oder Ableitung bezeichnet, die wir mithilfe eines Logikkalküls erstellen. Dazu gehören Resolution, Sequenzenkalkül, etc.
+
+##### Beweisen, dass eine Sequenzenkalkülregel gilt:
+1.

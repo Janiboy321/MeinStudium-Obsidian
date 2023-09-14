@@ -99,9 +99,10 @@ $F = \forall x \exists a \exists y ((x \lor (p(q(a), y))\lor z))$
 $F' = \forall z \forall x \exists a \exists y ((x \lor (p(q(a), y))\lor z))$
 
 2. Skolemisieren
-	- Für alle Existensquantifizierten Variablen führen wir ein neues K-Stelliges Funktionssymbol ein welches Abhängig von allen Variablen ist, die Allquantifiziert sind und links davon stehen
+	- Für alle Existensquantifizierten Variablen führen wir ein neues K-Stelliges (K = Anzahl der Allquantoren vor dem Existenzquantor) Funktionssymbol ein welches Abhängig von allen Variablen ist, die Allquantifiziert sind und links davon stehen
 		- Neue Funktionssymbole: h für $\exists a$; i für $\exists y$
 		- $F'' = \forall z \forall x((x \lor (p(q(h(x)), i(x)))\lor z))$
+	- Steht links von von der Existensquantifizierten Variable kein Allquantor, wird die Variable durch eine Konstante und nicht durch ein K-Stelliges Funktionssymbol ersetzt
 
 3. Teil nach den Quantoren in KNF bringen
 	- $(p(q(h(x)), i(x)))$ ist quasi ein Fuktionswert, weshalb da nichts mehr verändert werden muss

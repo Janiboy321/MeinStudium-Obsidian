@@ -160,16 +160,25 @@ $\Rightarrow$ Resultiert in einer Infinity Loop
 
 ##### Wofür benötigt man die Herbrand-Struktur?
 Mithilfe der Herbrand Struktur kann man die Erfüllbarkeit einer Formel in Skolemform nachweisen
+##### Hebrand Universum:
 
-##### Hebrand Struktur:
+$c_{H}$ ist die Herbrand Konstante
 $H(F) :=$ Alle Funktionssymbole in Grundinstanz:
 
-Nur Variablen:
-$F = \forall x P(x, y, z); \ H(F) = \{c\}$
+*Nur Variablen:*
+$F = \forall x P(x, y, z)$
+$H(F) = \{c_H\}$
 
-$F= \forall x P(x, a, b, c)$; \ H(F) = \{c, a, b, c\}:
+*Nur Konstanten:*
+$F= \forall x P(x, a, b, c)$
+$ \ H(F) = \{c_{H}, a, b, c\}$
+
+*Unendlich:*
+$F = \forall x P(f(x)); \ H(F) = \{ c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_{h}))), ... \}$
+
+*Beispiel:*
+$F = \forall x \forall y (p(f(x)) \lor \lnot P(y))$
+$H(F)=\{c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_H)))\}$
 
 
-
-
-Sei $c$ die Herbrand Konstante, dann gilt für $f(x, y)$, dass $H(f) = f(c, c)$
+##### Herbrand Interpretation

@@ -171,14 +171,27 @@ $H(F) = \{c_H\}$
 
 *Nur Konstanten:*
 $F= \forall x P(x, a, b, c)$
-$ \ H(F) = \{c_{H}, a, b, c\}$
+$H(F) = \{c_{H}, a, b, c\}$
 
 *Unendlich:*
-$F = \forall x P(f(x)); \ H(F) = \{ c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_{h}))), ... \}$
+$F = \forall x P(f(x))$
+$H(F) = \{ c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_{h}))), ... \}$
 
 *Beispiel:*
 $F = \forall x \forall y (p(f(x)) \lor \lnot P(y))$
 $H(F)=\{c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_H)))\}$
 
-
 ##### Herbrand Interpretation
+$I = (H(f), \cdot ')$
+
+$F = \forall x \forall y (p(f(x)) \lor \lnot P(y))$
+$H(F)=\{c_{H}, f(c_{H}), f(f(c_{H})), f(f(f(c_H)))\}$
+
+Variablen: $x, y \Rightarrow c_{H}, c_{H}$
+Konstanten: $a, b \Rightarrow a, b$
+Funktionssymbole: $f(x) \Rightarrow f(c_{H})$
+Unbekannte Funktion: $f(k(x)) \Rightarrow f(c_{H})$
+Unbekanntes Funktionssymbol: $k(f(f(c_{H}))) \Rightarrow c_{H}$
+
+##### Herbrand-Expansion
+$E(F) = {P(c_{H}) \lor \lnot P(c)}$

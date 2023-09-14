@@ -227,3 +227,10 @@ Sei $\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi$ allgemeingült
    $\to$ $M \not\models \Delta, M \models \Gamma, M \models \lnot \eta$
    Damit $\Gamma, \psi \ \ \vdash \ \ \Delta, \eta$ allgemeingültig ist, muss gelten $\lnot \psi$ 
    Da $\psi \to \varphi \equiv \lnot \psi \lor \varphi$, gilt $\lnot \psi$ somit gilt $M \models \psi \to \varphi$ und wir haben gezeigt, dass die Regel gilt.
+
+##### Was sind Modelle?
+Modell $M$ für Formelmenge F ist eine Belegung der Variablen 
+
+Interpretation $I = \{x = 1, y = 0, z = 0\}$
+$A = x \lor ( \lnot y \land z)$
+

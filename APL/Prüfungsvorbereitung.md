@@ -85,7 +85,7 @@ Tipps:
 
 ##### Was ist die Pränexe Normalform?
 - Alle Quantoren einer Formel stehen am Anfang
-
+- Die 
 ##### Wie bringt man eine Formel in die Pränexe Normalform
 1. Meistens kann man die Quantoren einfach rausziehen (Wenn man es in der richtigen Reihenfolge macht)
 	- $( \forall x(x \lor \exists a \exists y (p(q(a) \land y) ) \lor \exists z z)) \equiv \exists z \forall x \exists a \exists y  (x \lor p(q(a) \land y) \lor z)$ 
@@ -233,4 +233,6 @@ Modell $M$ für Formelmenge F ist eine Belegung der Variablen
 
 Interpretation $I = \{x = 1, y = 0, z = 0\}$
 $A = x \lor ( \lnot y \land z)$
+
+$val(I, A) = 1 \lor (1 \land 0) = 1$
 

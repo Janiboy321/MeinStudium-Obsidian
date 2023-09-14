@@ -205,3 +205,9 @@ E(F) = &\{P(c_{H}) \lor \lnot P(c_{H}), &&&&& c_{H}\\
 \end{align}
 $$
 Gleich im ersten Fall haben wir eine Tautologie mit $P(c_{H})\lor \lnot P(c_h)$, daher ist die Formel erfüllbar
+
+##### Was ist ein Semantischer Beweis?
+$\varphi \models \psi$
+Nutzt die Semantik der Formel, Hier argumentiert man über die Belegung der Formeln. In der Aussagenlogik benutzt man dafür Wahrheitstafeln, in der PL Modelle und Interpretationen
+##### Was ist ein Syntaktischer Beweis?
+Ein Formaler Beweis ist eine syntaktische Zeichenkette, die bestimmten Regeln gehorchen. In der Vorlesung auch als Herleitung 

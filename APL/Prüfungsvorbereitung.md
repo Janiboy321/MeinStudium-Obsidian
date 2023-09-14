@@ -219,8 +219,11 @@ Terminologie: $\frac{Prämisse}{Konklusion}$
 2. Zu zeigen ist dann: $M \models$ rechte Seite$_1$ Konklusion ODER rechte Seite$_2$ Konklusion
 3. Wenn $\Delta$, also allgemeine Formelmenge $\to$ Fallunterscheidung:
 
-*Beispiel: Beweise, dass gilt: $\frac{\Gamma, \varphi \ \ \vdash  \ \ \Delta, \psi \ \ \ \ \ \ \Gamma, \phi \ \ \vdash \ \ \Delta, \eta}{\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi}$* 
+*Beispiel: Beweise, dass gilt: $\frac{\Gamma, \varphi \ \ \vdash  \ \ \Delta, \psi \ \ \ \ \ \ \Gamma, \psi \ \ \vdash \ \ \Delta, \eta}{\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi}$* 
 Sei $\Gamma, \lnot \eta \ \  \vdash \ \ \Delta, \psi \to \varphi$ allgemeingültig und sei $M$ ein Model von $\Gamma, \lnot \eta$, also $M \models \Gamma, \lnot \eta$
 
 1. Fall: $M \models \Delta \Rightarrow$ Fertig
-2. Fall: $\not\models$ 
+2. Fall: $M \not\models \Delta$, also muss $M \models \psi \to \varphi$ erfüllen.
+   $\to$ $M \not\models \Delta, M \models \Gamma, M \models \lnot \eta$
+   Damit $\Gamma, \psi \ \ \vdash \ \ \Delta, \eta$ allgemeingültig ist, muss gelten $\lnot \psi$ 
+   Da $\psi \to \varphi \equiv \lnot \psi \lor \varphi$, gilt $\lnot \psi$ somit gilt $M \models \psi \to \varphi$ und wir haben gezeigt, dass die Regel gilt.

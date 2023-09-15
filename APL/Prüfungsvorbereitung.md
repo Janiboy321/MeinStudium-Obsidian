@@ -85,7 +85,7 @@ Tipps:
 
 ##### Was ist die Pränexe Normalform?
 - Alle Quantoren einer Formel stehen am Anfang
-- Die Formel nach den Quantoren muss eine DNF sein
+- 
 ##### Wie bringt man eine Formel in die Pränexe Normalform
 1. Meistens kann man die Quantoren einfach rausziehen (Wenn man es in der richtigen Reihenfolge macht)
 	- $( \forall x(x \lor \exists a \exists y (p(q(a) \land y) ) \lor \exists z z)) \equiv \exists z \forall x \exists a \exists y  (x \lor p(q(a) \land y) \lor z)$ 

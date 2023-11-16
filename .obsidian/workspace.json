@@ -4,33 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "944667637750840e",
+        "id": "5062776e502cb516",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4035786103649f",
+            "id": "3a5c4537621eba16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APL/Prüfungsvorbereitung.md",
+                "file": "_Mein Leben/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a890bd605c5c2921",
+            "id": "ac80a3f0a40ef4a5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "5. Semester/MOSES/Übungen/Übung 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b07c81b2ff43914f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Volagen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APL/Prüfungsvorbereitung.md",
+                "file": "_Mein Leben/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APL/Prüfungsvorbereitung.md",
+                "file": "_Mein Leben/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APL/Prüfungsvorbereitung.md"
+                "file": "_Mein Leben/Python.md"
               }
             }
           },
@@ -205,54 +218,54 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a890bd605c5c2921",
+  "active": "28bdd7763c406a0e",
   "lastOpenFiles": [
-    "APL/Was muss ich mir noch angucken?.md",
-    "APL/Prüfungsvorbereitung.md",
-    "InfMan/Prüfungsvorbereitung/Regelbasierte Optimierung.md",
-    "Untitled.md",
-    "InfMan/Prüfungsvorbereitung/Übungen/3. Übung.md",
-    "SCR-20230712-nxxg.png",
-    "InfMan/Prüfungsvorbereitung/Übungen",
-    "InfMan/Prüfungsvorbereitung",
-    "InfMan/Untitled.md",
-    "SCR-20230712-naen.png",
-    "Mathe II/Anki Karten für Mathe II.md",
-    "InfMan/Zusammenfassungen/Einführung in das Informationsmanagement.md",
-    "Mathe II/Reihen.md",
-    "Mathe II/Konvergenz.md",
-    "AUD/Hausübungen/Hausübung 5.md",
-    "AUD/Hausübungen/1. Hausübung.md",
-    "AfE/Endliche Automaten.md",
-    "Fachschaft/Ophase/Lerngruppen-Speeddating.md",
-    "Fachschaft/Sommerfest 2023/Zu klären.md",
-    "AUD/Vorlesung 27.06.23.md",
-    "AUD/06GraphAlgorithms-1.pdf",
-    "InfMan/Zusammenfassungen/28.04.2023.md",
-    "InfMan/Zusammenfassungen/Relationale Entwurfstheorie.md",
-    "InfMan/Zusammenfassungen/Regel-basierte Opitimierung.md",
-    "_Mein Leben/Geburstag.md",
-    "Fachschaft/Ophase/Untitled 1.md",
+    "5. Semester/EiCb/4. Vorlesung.md",
+    "Volagen.md",
+    "5. Semester/MOSES/Übungen/Übung 2.md",
+    "5. Semester/MOSES/Modul 2.md",
+    "5. Semester/EiCb/3. Vorlesung.md",
+    "3. Semester/SE/Use Case.md",
+    "_Mein Leben/Python.md",
+    "5. Semester/MOSES/Modul 0.md",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.09.21.png",
+    "3. Semester/SE/Anforderungsanalyse.md",
+    "3. Semester/SE/Design Prinzipien.md",
+    "3. Semester/SE/Design Techniken.md",
+    "3. Semester/SE/Design Patterns.md",
+    "5. Semester/EiCb/2. Vorlesung.md",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.08.44.png",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.08.18.png",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.08.03.png",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.07.47.png",
+    "Bilder/Bildschirmfoto 2023-11-07 um 16.07.27.png",
+    "Bilder/Bildschirmfoto 2023-11-06 um 19.53.28.png",
+    "Bilder/Bildschirmfoto 2023-11-06 um 19.53.06.png",
+    "Bilder/Bildschirmfoto 2023-11-06 um 19.23.20.png",
+    "Bilder/Bildschirmfoto 2023-11-06 um 19.22.29.png",
+    "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
+    "5. Semester/CSS/Symmetrische Kryptographie.md",
+    "5. Semester/EiCb/Übungen",
+    "Dokumente/Symmetrische Kryptographie - Komplett 2.pdf",
+    "5. Semester/CSS/Einführung in die Kryptographie.md",
+    "Symmetrische Kryptographie - Komplett 1.pdf",
+    "Symmetrische Kryptographie - Komplett.pdf",
+    "5. Semester/MOSES/Übungen/1. Übung.md",
+    "Dokumente/02-lexparse-slides.pdf",
+    "5. Semester/CSS/Übungen/1. Übung.md",
+    "Dokumente/CSS_exercise_1_final.pdf",
+    "5. Semester/CSS/Einführung.md",
+    "5. Semester/CSS/Übungen",
+    "5. Semester/MOSES/Übungen/0. Übung.md",
+    "Dokumente/03_SymmetricCrypto-Teil1.pdf",
+    "5. Semester/MOSES/Übungen",
+    "Dokumente/01-intro-slides.pdf",
+    "Fachschaft/Karaoke Set-Up.md",
+    "4. Semester/APL/Prüfungsvorbereitung.md",
+    "Fachschaft/Ophase/Fachschaftsvortrag.md",
+    "Fachschaft/Lerngruppen Speed-dating.md",
     "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
-    "InfMan/Übungen/Übung 3.md",
-    "InfMan/Übungen/Übung 2.md",
-    "_Misc/Pictures/Screenshot 2023-06-01 at 16.07.34.png",
-    "_Mein Leben",
-    "_Misc/Pictures/Screenshot 2023-06-01 at 16.08.47.png",
-    "_Misc/Pictures/Screenshot 2023-06-01 at 16.08.29.png",
-    "_Misc/Pictures/Pasted image 20230527135720.png",
-    "_Misc/Pictures/Screenshot 2023-06-01 at 15.58.50.png",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.33.57.excalidraw.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 21.35.26.excalidraw.png",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.md",
-    "_Misc/Excalidraw/Drawing 2023-05-23 10.17.22.excalidraw.svg",
-    "Fachschaft/Sommerfest 2023",
-    "Fachschaft/Ophase",
-    "Excalidraw",
-    "_Misc/Pictures",
-    "_Misc",
-    "_Misc/Pictures/Pasted image 20230526124524.png",
-    "AUD/Drwawings",
+    "4. Semester/APL/Was muss ich mir noch angucken?.md",
     "AUD/Untitled.canvas"
   ]
 }

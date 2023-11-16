@@ -8,7 +8,7 @@
 	- sind oft deklarativ 
 	- Perspektive der Auftraggebenden
 - Use Cases
-	- identiefizieren vorraussichtliche interaktions Sequenzen
+	- identifizieren vorraussichtliche interaktions Sequenzen
 	- sind statisch einsetzfähig
 	- Perspektive der Anwendenden
 

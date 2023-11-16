@@ -1,0 +1,42 @@
+#### Was bedeutet Sicherheit?
+- Safety - Betriebssicherheit
+	- Schutz gegen Unfälle
+	- Fehler meist unabsichtlich verursacht
+- *Security* - Angriffsicherheit
+	- Schutz gegen worst-case Angreifende
+	- Meist Schadabsicht
+
+-> Sicherheit kann hat viele bedeutungen:
+	- Vertraulichkeit (von Daten/Nachrichten)
+	- Anonymität (von BenutzerInnen)
+	- Integrität (von Daten / Berechnungen)
+	- Authentizität (von Dateien)
+	- Verfügbarkeit (von Diensten)
+
+#### Sicherheitsprinzipien
+- Kenne die Angreifenden (Beeinflusst Auswahl an Gegenmaßnahmen)
+- Berücksichtige menschliches Verhalten (Einschränkung der Sicherheit durch menschliches Verhalten möglich Bsp.: Nutzung eines nicht Privaten Netzwerkes)
+	- NutzerInnen: Finden Wege um Sicherheitsmechanismen zu umgehen, falls Nutzung dadurch einfacher
+	- ProgrammiererInnen: Nutzen Tools die erlauben Fehler zu machen (Bsp.: Sprachen ohne Typsicherheit)
+	- AngreiferInnen: NutzenVertrauen oder Leichtgläubigkeit aus
+- Sicherheit ist eine wirtschaftliche Abschätzung
+	- Angriffsziele von organisierter Cyberkriminalität:
+		- Geld oder schaden eines feindlichen Gegenspielers
+	- Aus sicht der Angreifenden
+		- Angriff teurer als Belohnung -> kein Angriffsversuch
+	- Aus sicht der Verteidigenden
+		- Viel Sicherheit kostet viel Geld
+		- Abwägung zwischen Kosten und Nutzen
+- Detektieren falls nicht verhinderbar
+	- Gehe von einem Angriff aus
+	- Entwickle Plan um in Arbeitsmodus zurückzukommen
+	- Beispiele
+		- Erbeben -> Vorräte für ein bis zwei Wochen lagern
+		- Ransomware: Backups an entferntem Ort lagern
+- Defense in Depth
+	- Verschiedene/Mehrere Sicherheitsmaßnahmen implementieren
+- Fail-Safe Standards
+	- Bestimme "sicheren" Zustand im falle eines Fehlers/Angriffs
+		- Beispiele
+			- Mechanisches Zugsignal welches auf halt fällt falls ein Kabel reißt
+			- Elektronisches Türschloss: Bei Stromausfall offen oder geschlossen? -> Situationsabhängig

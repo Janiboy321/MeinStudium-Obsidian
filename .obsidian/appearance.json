@@ -1,9 +1,9 @@
 {
-  "accentColor": "#ffb400",
-  "cssTheme": "Things",
+  "accentColor": "#5dcb8d",
+  "cssTheme": "Feather",
   "interfaceFontFamily": "Consolas",
   "textFontFamily": "Consolas",
   "monospaceFontFamily": "Consolas",
-  "baseFontSize": 22,
-  "theme": "moonstone"
+  "baseFontSize": 20,
+  "theme": "obsidian"
 }

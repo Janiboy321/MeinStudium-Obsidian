@@ -162,4 +162,5 @@ Verschlüsselung:
 $c = (PubKeyEnc(pk,k), SymEnc(k, m))$
 
 Entschlüsselung:
-1. Entschlüssle kurzen Schlüssel $k$ mit asymmetrischem Verfahren 
+1. Entschlüssle kurzen Schlüssel $k$ mit asymmetrischem Verfahren unter $pk$
+2. Entschlüssle lange Nachricht $m$ mit symmetrischen Verfahren $pk$

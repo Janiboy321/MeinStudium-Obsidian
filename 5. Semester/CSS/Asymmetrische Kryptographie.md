@@ -28,4 +28,10 @@ $$\to Dec(sk, Enc(pk, m)) = m \text{ für alle Nachrichten } m \text{ und Schlü
 - Angreifermodell: Was kann der Angreifer tun und sehen?
 	- Öffentlicher Schlüssel ist auch für Angreifende sichtbar und dies genügt, um Chiffretext zu erstellen
 		$\to$ Angreifende können beliebige Klartexte selber verschlüsseln
-	- Stärkeres Modell: Angreifer wählt zusätzlich Chiffretext und erhält zugehörige Klartexte, z.B. Angreifer hat zugriff
+	- Stärkeres Modell: Angreifer wählt zusätzlich Chiffretext und erhält zugehörige Klartexte, z.B. Angreifer hat zugriff auf Smart Card, die für den Angreifer entschlüsseln kann
+
+$\to$ Wie können wir das Formalisieren
+![[Bildschirmfoto 2023-11-16 um 17.05.24.png]]
+Sicherheit: Asymmetrische Chiffre ist **IND-CPA** sicher, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx \frac{1}{2}$ gewinnen können
+
+### RSA

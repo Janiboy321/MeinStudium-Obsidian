@@ -35,3 +35,12 @@ $\to$ Wie können wir das Formalisieren
 Sicherheit: Asymmetrische Chiffre ist **IND-CPA** sicher, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx \frac{1}{2}$ gewinnen können
 
 ### RSA
+- Parameterwahl GenRSA($n$): Bei Eingabe eines Sicherheitsparameters $n$:
+	- Wähle zwei n-bit Primzahlen $p, q$ mit $p \neq q$ 
+	- Berechne $N = pq$
+	- Wähle $e > 1$ so dass $ggT(e, \varphi(N)) = 1$ (mit $\varphi(N) = (p1)(q-1)$) und berechne $d=e^{-1}\mod \varphi(N)$
+	- Ausgabe: (N, e, d)
+- Berechnung: $y = x^{e} \mod N$
+- Invertierung: $x = y^{d}\mod N$
+- Korrektheit: $(x^{e})^{d} \mod N = x \mod N$ da:![[Bildschirmfoto 2023-11-16 um 17.22.41.png]]
+#### Annahme

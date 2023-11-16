@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Mein Leben/TelegramBOT.md",
+                "file": "_Mein Leben/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mein Leben/TelegramBOT.md",
+                "file": "_Mein Leben/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mein Leben/TelegramBOT.md",
+                "file": "_Mein Leben/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mein Leben/TelegramBOT.md"
+                "file": "_Mein Leben/Python.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "3a5c4537621eba16",
   "lastOpenFiles": [
-    "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "_Mein Leben/TelegramBOT.md",
+    "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "Bildschirmfoto 2023-11-16 um 18.02.59.png",
     "Bildschirmfoto 2023-11-16 um 18.00.34.png",
     "Bildschirmfoto 2023-11-16 um 17.55.58.png",

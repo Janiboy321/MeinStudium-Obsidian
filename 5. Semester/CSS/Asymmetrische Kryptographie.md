@@ -54,3 +54,26 @@ Möglicher Angriff auf RSA Annahme:
 - Faktorisiere $N = p \cdot q$
 - Berechne $d = e^{-1} \mod \varphi(N)$
 $\to$ Schwierigkeit der Faktorisierung ist notwendige Annahme für Sicherheit des RSA Verfahrens
+
+#### Wahl der RSA Parameter
+BSI Empfehlung: 
+- Faktorisierungsmodulus: 3000 Bits
+- Weitere Anforderungen an $p, q, e, d$
+
+#### Textbuch RSA
+**Schlüsselerzeugung** (Sicherheitsparameter $n$)
+- Berechne $(N, e, d) := GenRSA(n)$
+- Ausgabe: $pk = (N, e), sk = (N, d)$
+
+**Verschlüsselung** (Nachricht $m \in Z^{*}_N$)
+- $c= m^{e}\mod N$
+
+**Entschlüsselung** (Chiffretext $c \in Z^{*}_N$)
+- $m = c^{d} \mod N$
+
+###### Sicherheit des Textbuch RSAs
+Nicht IND-CPA sicher:
+- Grund: Die Verschlüsselung ist deterministisch
+	- Wie kann ein Angreifer das CPA-Spiel gewinnen?
+		1. Er wählt zwei Nachrichten $m_{0}, m_{1}$
+		2. Er berechnet $c_{0} = Enc(pk, m_{0})$ mit Hilfe des öffe 

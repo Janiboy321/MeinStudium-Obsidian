@@ -128,3 +128,38 @@ Lösung: Schlüsselaustauschprotokoll basierend auf asymmetrischer Kryptographie
 Öffentlich: Gruppe $\mathbb{G}$ der Ordnung $q$ mit Generator $g$
 ![[Bildschirmfoto 2023-11-16 um 18.02.59.png]]
 
+##### Sicherheit des Schlüsselaustauschs
+Diskrete Logarithmus Annahme muss hart sein in $\mathbb{G}$!
+
+Angreifer sieht $X, Y$
+- Löse diskreten Logarithmus $x = \log_{g}{X}$ 
+- Berechne Schlüssel: $K = Y^{x} = (g^y)^{x}=g^{xy}$
+
+Diffie-Hellman Schlüsselaustausch ist sicher unter der DDH Annahme
+
+### Hybride Verschlüsselung
+#### Vor- und Nachteile (a)symmetrischer Verschlüsselung
+- symmetrische Verschlüsselung
+	- Vorteile
+		- sehr effizient
+		- Verschlüsselung langer Nachrichten möglich
+	- Nachteile
+		- benötigt gemeinsamen Schlüssel
+- asymmetrische Verschlüsselung
+	- Vorteile
+		- Protokol für Schlüsselaustausch
+	- Nachteile
+		- Erlauben zunächst nur Verschlüsselung kurzer Nachrichten (z.B. < 3000 Bits für RSA)
+		- ineffizienter
+
+Schlüsselaustausch mittels asymmetrischer Verschlüsselungen + Effiziente symmetrische Verschlüsselung der Daten = Hybride Verschlüsselung
+
+#### Ver- und Entschlüsselung
+Verschlüsselung:
+1. Wähle **kurzen** Schlüssel $k$ für symmetrisches Verfahren
+2. Verschlüssle $k$ mit **asymmetrischem** Verfahren unter $pk$
+3. Verschlüssle **lange Nachricht** $m$ mit **symmetrischen** Verfahren unter $k$
+$c = (PubKeyEnc(pk,k), SymEnc(k, m))$
+
+Entschlüsselung:
+1. Entschlüssle kurzen Schlüssel $k$ mit asymmetrischem Verfahren 

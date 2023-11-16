@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/CSS/Asymmetrische Kryptographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/CSS/Asymmetrische Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/CSS/Asymmetrische Kryptographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mein Leben/Python.md"
+                "file": "5. Semester/CSS/Asymmetrische Kryptographie.md"
               }
             }
           },
@@ -218,15 +218,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "28bdd7763c406a0e",
+  "active": "3a5c4537621eba16",
   "lastOpenFiles": [
-    "5. Semester/EiCb/4. Vorlesung.md",
-    "Volagen.md",
+    "Bildschirmfoto 2023-11-16 um 15.37.34.png",
     "5. Semester/MOSES/Übungen/Übung 2.md",
+    "Volagen.md",
+    "5. Semester/CSS/Asymmetrische Kryptographie.md",
+    "_Mein Leben/Python.md",
+    "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/MOSES/Modul 2.md",
     "5. Semester/EiCb/3. Vorlesung.md",
     "3. Semester/SE/Use Case.md",
-    "_Mein Leben/Python.md",
     "5. Semester/MOSES/Modul 0.md",
     "Bilder/Bildschirmfoto 2023-11-07 um 16.09.21.png",
     "3. Semester/SE/Anforderungsanalyse.md",
@@ -264,8 +266,6 @@
     "4. Semester/APL/Prüfungsvorbereitung.md",
     "Fachschaft/Ophase/Fachschaftsvortrag.md",
     "Fachschaft/Lerngruppen Speed-dating.md",
-    "Fachschaft/Sommerfest 2023/Text für Social Media Posts.md",
-    "4. Semester/APL/Was muss ich mir noch angucken?.md",
     "AUD/Untitled.canvas"
   ]
 }

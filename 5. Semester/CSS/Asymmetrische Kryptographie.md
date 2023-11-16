@@ -15,6 +15,17 @@ Bob erstell ein Schlüsselpaar und veröffentlicht ok, dadurch ist kein Schlüss
 	- Bei n Parteien: n Schlüsselpaare
 
 ### Asymmetrische Chiffren
-##### Definition
+##### Funktionale Definition
 ![[Bildschirmfoto 2023-11-16 um 16.52.39.png]]
-Algorithmen: (Gen, Enc, Dec)
+
+Korrektheit: Die Entschlüsselung eines gültigen Chiffretexts resultiert in die original verschlüsselte Nachricht
+$$\to Dec(sk, Enc(pk, m)) = m \text{ für alle Nachrichten } m \text{ und Schlüsselpaare } (pk, sk) \leftarrow Gen$$
+
+##### Sicherheitsdefinitionen
+- Was bedeutet sicher?
+	- Angreifer lernt "nichts neues" über Nachricht $m$
+
+- Angreifermodell: Was kann der Angreifer tun und sehen?
+	- Öffentlicher Schlüssel ist auch für Angreifende sichtbar und dies genügt, um Chiffretext zu erstellen
+		$\to$ Angreifende können beliebige Klartexte selber verschlüsseln
+	- Stärkeres Modell: Angreifer wählt zusätzlich Chiffretext und erhält zugehörige Klartexte, z.B. Angreifer hat zugriff

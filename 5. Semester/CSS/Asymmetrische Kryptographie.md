@@ -35,6 +35,7 @@ $\to$ Wie können wir das Formalisieren
 Sicherheit: Asymmetrische Chiffre ist **IND-CPA** sicher, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx \frac{1}{2}$ gewinnen können
 
 ### RSA
+#### RSA Funktion
 - Parameterwahl GenRSA($n$): Bei Eingabe eines Sicherheitsparameters $n$:
 	- Wähle zwei n-bit Primzahlen $p, q$ mit $p \neq q$ 
 	- Berechne $N = pq$
@@ -43,4 +44,13 @@ Sicherheit: Asymmetrische Chiffre ist **IND-CPA** sicher, falls alle "effiziente
 - Berechnung: $y = x^{e} \mod N$
 - Invertierung: $x = y^{d}\mod N$
 - Korrektheit: $(x^{e})^{d} \mod N = x \mod N$ da:![[Bildschirmfoto 2023-11-16 um 17.22.41.png]]
-#### Annahme
+#### RSA Annahme
+Ohne Kenntnis von $d = e^{-1} \mod \varphi(N)$, ist die Invertierung der RSA Funktion schwer
+- Seien $(N, e, d) = GenRSA(n)$
+- Wähle $y$ zufällig in $Z^{*}_{N}$
+- Gegeben $(N, e, y)$ ist es schwer $x$ zu berechnen, so dass: $x^{e}= y \mod N$
+
+Möglicher Angriff auf RSA Annahme:
+- Faktorisiere $N = p \cdot q$
+- Berechne $d = e^{-1} \mod \varphi(N)$
+$\to$ Schwierigkeit der Faktorisierung ist notwendige Annahme für Sicherheit des RSA Verfahrens

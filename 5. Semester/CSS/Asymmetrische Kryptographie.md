@@ -101,5 +101,30 @@ Weiter wichtige Varianten: Computational Diffie Hellman (CDH), Decisional Diffi 
 - Berechne $pk = g^{x} \in \mathbb{G}$
 
 **Verschlüsselung:**
-- Wähle zufällig
+- Wähle zufällig $r \xleftarrow{\$} \mathbb{Z}_q$
+- Berechne $c_{0} = g^{r}$ und $c_{1}=m \cdot pk^{r}$
+- Ausgabe $c = (c_{0}, c_{1})$
+
+**Entschlüsselung:**
+- $m = c_{1} \cdot c_{0}^{-x}$
+
+Korrektheit:![[Bildschirmfoto 2023-11-16 um 17.55.58.png]]
+
+#### Sicherheit von Elgamal
+Ist die ElGamal Verschlüsselung deterministisch? Nein! $c_{0}=g^{r}$ ist zufällig in $\mathbb{G}$
+
+Für geeignete Parameterwahl ist ElGamal IND-CPA sicher unter der DDH Annahme
+
+**Einsatz in der Praxis:** eher selten, da wir stärkere Sicherheitseigenschaften benötigen
+
+### Schlüsselaustausch
+##### Wiederholung: Schlüssel in symm. Kryptographie
+Symmetrische Kryptographie: Parteien kennen identischen Schlüssel
+- Wie kommen Parteien zu diesem Schlüssel
+Lösung: Schlüsselaustauschprotokoll basierend auf asymmetrischer Kryptographie
+![[Bildschirmfoto 2023-11-16 um 18.00.34.png]]
+
+#### Diffie-Hellman Schlüsselaustausch
+Öffentlich: Gruppe $\mathbb{G}$ der Ordnung $q$ mit Generator $g$
+![[Bildschirmfoto 2023-11-16 um 18.02.59.png]]
 

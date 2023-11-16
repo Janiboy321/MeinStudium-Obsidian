@@ -76,4 +76,30 @@ Nicht IND-CPA sicher:
 - Grund: Die Verschlüsselung ist deterministisch
 	- Wie kann ein Angreifer das CPA-Spiel gewinnen?
 		1. Er wählt zwei Nachrichten $m_{0}, m_{1}$
-		2. Er berechnet $c_{0} = Enc(pk, m_{0})$ mit Hilfe des öffe 
+		2. Er berechnet $c_{0} = Enc(pk, m_{0})$ mit Hilfe des öffentlichen Schlüssels
+		3. Er vergleicht den Challenge Chiffretext $c^{*}$ mit $c_{0}$
+
+Weitere Probleme mit Textbuch RSA: 
+Das Verschlüsselungsverfahren ist homomorph
+- $Enc(pk, m_{0}) \cdot Enc(pk, m_{1}) = Enc(pk, m_{0} \cdot m_{1})$
+$\to$ Hauptsächlich Problem für Chosen Ciphertext Sicherheit
+
+### Alternative: Elgamal Verfahren
+#### Diskrete Logarithmus Annahme
+- Setup: zyklische Gruppe $\mathbb{G}$ der Ordnung $q$ mit Generator $g$ und $q$ prim
+- Gegeben: zufälliges $h \in \mathbb{G}$
+- Suche: $x$, sodass $g^{x}= h$
+- Annahme: Diskreten Logarithmus zu finden ist hart für geeignete Gruppe $\mathbb{G}$
+
+Weiter wichtige Varianten: Computational Diffie Hellman (CDH), Decisional Diffi Hellman (DDH)
+
+#### Elgamal Verschlüsselung
+**Öffentliche Parameter**: Gruppe $\mathbb{G}$ der Ordnung $q$ mit Generator $g$
+
+**Schlüsselerzeugung:**
+- Wähle zufällig $sk = x \xleftarrow{\$} \mathbb{Z}_q$
+- Berechne $pk = g^{x} \in \mathbb{G}$
+
+**Verschlüsselung:**
+- Wähle zufällig
+

@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -219,6 +220,7 @@
   },
   "active": "3a5c4537621eba16",
   "lastOpenFiles": [
+    "03-contextanalysis-slides.pdf",
     "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/EiCb/Übungen/6. Vorlesung.md",
     "_Mein Leben/Python.md",
@@ -264,7 +266,6 @@
     "Dokumente/01-intro-slides.pdf",
     "Fachschaft/Karaoke Set-Up.md",
     "4. Semester/APL/Prüfungsvorbereitung.md",
-    "Fachschaft/Ophase/Fachschaftsvortrag.md",
     "AUD/Untitled.canvas"
   ]
 }

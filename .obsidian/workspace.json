@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fachschaft/Neues Karaoke Setup.md",
+                "file": "5. Semester/EiCb/6. Vorlesung.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fachschaft/Neues Karaoke Setup.md",
+                "file": "5. Semester/EiCb/6. Vorlesung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fachschaft/Neues Karaoke Setup.md",
+                "file": "5. Semester/EiCb/6. Vorlesung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fachschaft/Neues Karaoke Setup.md"
+                "file": "5. Semester/EiCb/6. Vorlesung.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "3a5c4537621eba16",
   "lastOpenFiles": [
-    "5. Semester/EiCb/Übungen/6. Vorlesung.md",
     "Fachschaft/Neues Karaoke Setup.md",
+    "5. Semester/EiCb/6. Vorlesung.md",
     "03-contextanalysis-slides.pdf",
     "5. Semester/EiCb/4. Vorlesung.md",
     "_Mein Leben/Python.md",

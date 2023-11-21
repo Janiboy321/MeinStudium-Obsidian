@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
+                "file": "Fachschaft/Neues Karaoke Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
+                "file": "Fachschaft/Neues Karaoke Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
+                "file": "Fachschaft/Neues Karaoke Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md"
+                "file": "Fachschaft/Neues Karaoke Setup.md"
               }
             }
           },
@@ -196,9 +196,10 @@
   },
   "active": "3a5c4537621eba16",
   "lastOpenFiles": [
+    "5. Semester/EiCb/Übungen/6. Vorlesung.md",
+    "Fachschaft/Neues Karaoke Setup.md",
     "03-contextanalysis-slides.pdf",
     "5. Semester/EiCb/4. Vorlesung.md",
-    "5. Semester/EiCb/Übungen/6. Vorlesung.md",
     "_Mein Leben/Python.md",
     "_Mein Leben/TelegramBOT.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
@@ -239,7 +240,6 @@
     "5. Semester/MOSES/Übungen/0. Übung.md",
     "Dokumente/03_SymmetricCrypto-Teil1.pdf",
     "5. Semester/MOSES/Übungen",
-    "Dokumente/01-intro-slides.pdf",
     "Fachschaft/Karaoke Set-Up.md",
     "4. Semester/APL/Prüfungsvorbereitung.md",
     "AUD/Untitled.canvas"

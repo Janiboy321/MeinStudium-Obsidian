@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Mein Leben/Python.md",
+                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Mein Leben/Python.md"
+                "file": "5. Semester/EiCb/Übungen/6. Vorlesung.md"
               }
             }
           },
@@ -219,6 +219,9 @@
   },
   "active": "3a5c4537621eba16",
   "lastOpenFiles": [
+    "5. Semester/EiCb/4. Vorlesung.md",
+    "5. Semester/EiCb/Übungen/6. Vorlesung.md",
+    "_Mein Leben/Python.md",
     "_Mein Leben/TelegramBOT.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "Bildschirmfoto 2023-11-16 um 18.02.59.png",
@@ -232,8 +235,6 @@
     "Bildschirmfoto 2023-11-16 um 15.37.34.png",
     "5. Semester/MOSES/Übungen/Übung 2.md",
     "Volagen.md",
-    "_Mein Leben/Python.md",
-    "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/MOSES/Modul 2.md",
     "5. Semester/EiCb/3. Vorlesung.md",
     "3. Semester/SE/Use Case.md",
@@ -264,7 +265,6 @@
     "Fachschaft/Karaoke Set-Up.md",
     "4. Semester/APL/Prüfungsvorbereitung.md",
     "Fachschaft/Ophase/Fachschaftsvortrag.md",
-    "Fachschaft/Lerngruppen Speed-dating.md",
     "AUD/Untitled.canvas"
   ]
 }

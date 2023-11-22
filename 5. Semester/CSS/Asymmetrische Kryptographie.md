@@ -264,3 +264,11 @@ Funktional korrekt, da für korrekte Signatur $s = Encode(H(m))^{d} \mod N$ gilt
 - Welcher Algorithmus wurde zum Signieren verwendet?
 - **Signaturwert**
 	- CA unterschreibt Inhalt des Zertifikats mit digitaler Signatur
+
+#### Zertifizierungshierachie
+##### Zertifikatskette
+"Root-CA" $\xrightarrow{\text{Zertifiziert mittels Signatur}}$ übergeordnete CA
+$\xrightarrow{\text{Zertifiziert mittels Signatur}}$ CA $\xrightarrow{\text{Zertifiziert mittels Signatur}}$ Schlüsselinhaber
+wobei "Root-CA" Als vertrauenswürdig betrachtet
+![[Bildschirmfoto 2023-11-22 um 17.32.25.png]]
+"Teufelskreis" wird aufgebrochen, indem einem öffentlichen Schlüssel einer Zertifizierunginstanz vertraut wird

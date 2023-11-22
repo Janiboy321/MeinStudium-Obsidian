@@ -196,5 +196,16 @@ Der Angreifer gewinnt das Sicherheitsspiel wenn:
 1. $m^{*}$ neu ist, d.h. $m^{*} \neq m$ für alle Anfragen $m$ in der ersten Phase des Sicherheitsspiels
 2. Signatur $(m^{*}, s^{*})$ ist korrekt, d.h. $Ver(pk, m^{*}(m^{*}, s^{*})) = 1$
 
-***Sicherheit***
-Signaturverfahren ist **EU-CMA sicher**, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx 0$ gewinnen können
+**Sicherheit:**
+Signaturverfahren ist **EU-CMA sicher**, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx 0$ gewinnen können.
+
+Im gegensatz zu **IND-CPA Sicherheit** ist die Erfolgswahrscheinlichkeit des Angreifers $\approx 0$
+- Angreifer kann kein gültiges Nachricht/Signatur-Paar $(m^{*}, s^{*})$ raten
+- Tivialer Angriff: Wähle $s^{*} \in \{0,1\}^{\ell}$ zufällig
+	$\to$ erfolgreich mit Wahrscheinlichkeit $2^{- \ell}$
+
+#### MACs vs. Signaturen
+##### MACs
+Wenn eine Person signiert und *eine* zweite Person verifiziert
+#### Signaturen
+Wenn eine Person signiert und *viele* Personen verifizieren

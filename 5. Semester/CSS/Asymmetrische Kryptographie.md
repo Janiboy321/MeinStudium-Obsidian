@@ -164,3 +164,7 @@ $c = (PubKeyEnc(pk,k), SymEnc(k, m))$
 Entschlüsselung:
 1. Entschlüssle kurzen Schlüssel $k$ mit asymmetrischem Verfahren unter $pk$
 2. Entschlüssle lange Nachricht $m$ mit symmetrischen Verfahren $pk$
+
+### Signaturen (Motivation und Definition)
+#### Physikalische Signaturen
+- Lassen sich leicht fälschen

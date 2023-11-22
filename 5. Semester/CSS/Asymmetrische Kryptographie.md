@@ -271,4 +271,14 @@ Funktional korrekt, da für korrekte Signatur $s = Encode(H(m))^{d} \mod N$ gilt
 $\xrightarrow{\text{Zertifiziert mittels Signatur}}$ CA $\xrightarrow{\text{Zertifiziert mittels Signatur}}$ Schlüsselinhaber
 wobei "Root-CA" Als vertrauenswürdig betrachtet
 ![[Bildschirmfoto 2023-11-22 um 17.32.25.png]]
-"Teufelskreis" wird aufgebrochen, indem einem öffentlichen Schlüssel einer Zertifizierunginstanz vertraut wird
+"Teufelskreis" wird aufgebrochen, indem einem öffentlichen Schlüssel einer Zertifizierungsinstanz vertraut wird
+
+#### Zertifikate Revozieren
+Was passiert, wenn ein Zertifikat nicht mehr gültig ist?
+- Variante 1 (Certificate Revocation Lists (CRLs))
+	- Unterschriebene Liste aller gesperrter Zertifikate
+- Variante 2 (Online Certificate Status Protocol (OCSP))
+	- Benutzer fragt Gültigkeit eines bestimmten Zertifikates ab
+**Vorteile:**
+- Echtzeitzabfrage
+- Kürzer & effizienter

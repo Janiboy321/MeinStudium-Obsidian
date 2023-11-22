@@ -229,3 +229,38 @@ Privater Schlüssel: $sk = (N, d)$
 $s = Encode(H(m))^{d} \mod N$
 
 ##### Verifizieren
+Öffentlicher Schlüssel: $pk = (N, e)$
+1. *Hash* Nachricht $m$ auf $H(m)$
+2. *Kodiere* "kurzen" Hashwert auf RSA-Länge
+	- Sichere Optionen für Kodierungen gibt z.B. das BSI an
+3. Vergleiche Signatur $s^{e}\mod N$ mit $Endcode(H(m))$
+Funktional korrekt, da für korrekte Signatur $s = Encode(H(m))^{d} \mod N$ gilt: $s^{e}=(Encode(H(m))^{d})^{e} = Encode(H(m)) \mod N$
+
+### Zertifikate
+#### Nachrichtenursprung
+![[Bildschirmfoto 2023-11-22 um 16.05.18.png]]
+
+#### Public Key Infrastruktur
+![[Bildschirmfoto 2023-11-22 um 16.06.55.png]]
+
+#### Zertifikatsinhalt
+- Inhaber:
+	- common name (CN)
+	- organisation (O)
+	- country (C)
+	- ...
+- Aussteller 
+	- wie Inhaber
+- Gültigkeitsdauer
+	- Gültig von bis
+- Details
+- **Informationen zum $pk$ des Inhabers**
+	- Algorithmus
+	- öffentlicher Schlüssel
+- RSA-Modulus $N$ mit 4069 Bit
+- **Zertifikatshierarchie**
+	- Zum Prüfen eines Zertifikats, wird $pk$ von CA benötigt
+	- Wie kann ich diesem $pk$ vertrauen?
+- Welcher Algorithmus wurde zum Signieren verwendet?
+- **Signaturwert**
+	- CA unterschreibt Inhalt des Zertifikats mit digitaler Signatur

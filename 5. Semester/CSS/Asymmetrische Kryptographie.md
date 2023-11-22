@@ -209,3 +209,23 @@ Im gegensatz zu **IND-CPA Sicherheit** ist die Erfolgswahrscheinlichkeit des Ang
 Wenn eine Person signiert und *eine* zweite Person verifiziert
 #### Signaturen
 Wenn eine Person signiert und *viele* Personen verifizieren
+
+### Signaturen: Konkrete Verfahren
+#### Signaturverfahren
+- RSA-basierte Signaturen (z.B. RSA-FDH)
+- Diskreter-Logarithmus-basiert (z.B. DSA, Schnorr, ...)
+> Beide Verfahren folden dem sogenannten "Hash-and-Sign"-Prinzip
+
+#### Hash-and-Sign-Prinzip
+- Ermöglicht das Signieren von beliebig langen Nachrichten
+- Hashfunktion trägt zur Sicherheit des Verfahren bei![[Bildschirmfoto 2023-11-22 um 15.55.17.png]]
+#### RSA Signieren und Verifizieren
+##### Signieren
+Privater Schlüssel: $sk = (N, d)$
+1. *Hash* Nachricht $m$ auf $H(m)$
+2. *Kodiere* "kurzen" Hashwert auf RSA-Länge
+	- Sichere Optionen für Kodierungen gibt z.B. das BSI an
+3. *"Kern"-Signaturverfahren:* wende RSA-Schlüssel $(\cdot)^{d} \mod N$ an
+$s = Encode(H(m))^{d} \mod N$
+
+##### Verifizieren

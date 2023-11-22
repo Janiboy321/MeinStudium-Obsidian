@@ -180,3 +180,21 @@ Entschlüsselung:
 - Software nur installieren, falls Signatur gültig
 
 ### Mehrfachauthentifizierung
+![[Bildschirmfoto 2023-11-22 um 15.31.44.png]]
+
+##### funktionale Definition
+- Algorithmen: (Gen, Sig, Ver)![[Bildschirmfoto 2023-11-22 um 15.32.31.png]]
+- Korrektheit: Die Verifikation einer gültigen Signatur ist erfolgreich:
+	$\to$ $Var(pk, m, Sig(sk, m)) = 1$ für alle Nachrichten m und Schlüsselpaare $(pk, sk) \leftarrow Gen$
+
+##### Sicherheit (Informal)
+> Angreifer kann keine Signaturen auf neue Nachricht fälschen
+
+Einfache Folgerung: Digitale Signatur hängt stark von Nachricht ab! Sonst: ![[Bildschirmfoto 2023-11-22 um 15.36.19.png]]
+##### Folgerung aus Sicherheitspiel:
+Der Angreifer gewinnt das Sicherheitsspiel wenn:
+1. $m^{*}$ neu ist, d.h. $m^{*} \neq m$ für alle Anfragen $m$ in der ersten Phase des Sicherheitsspiels
+2. Signatur $(m^{*}, s^{*})$ ist korrekt, d.h. $Ver(pk, m^{*}(m^{*}, s^{*})) = 1$
+
+***Sicherheit***
+Signaturverfahren ist **EU-CMA sicher**, falls alle "effizienten" Angreifer das Sicherheitsspiel maximal mit Wahrscheinlichkeit $\approx 0$ gewinnen können

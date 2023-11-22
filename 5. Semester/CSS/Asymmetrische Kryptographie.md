@@ -167,4 +167,16 @@ Entschlüsselung:
 
 ### Signaturen (Motivation und Definition)
 #### Physikalische Signaturen
+> Unterschrift auf physikalischem Dokument
 - Lassen sich leicht fälschen
+- Digitale Welt: Fälschung noch leichter
+#### Digitale Signaturen
+> Digitale Version von physikalischen Signaturen (hängt stark vom Dokument ab)
+![[Bildschirmfoto 2023-11-22 um 15.26.05.png]]
+
+### Anwendung für Softwareupdates
+- Softwarehersteller signiert Codeupdate
+- Benutzer haben Zugriff auf den pk des Softwareherstellers
+- Software nur installieren, falls Signatur gültig
+
+### Mehrfachauthentifizierung

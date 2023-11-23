@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/EiCb/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/4. Vorlesung.md"
+                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md"
               }
             }
           },
@@ -195,6 +195,9 @@
   },
   "active": "f1c91cbfff53c2d1",
   "lastOpenFiles": [
+    "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
+    "5. Semester/EiCb/Übungen/Praxistestat 1.md",
+    "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "Bildschirmfoto 2023-11-22 um 17.32.25.png",
     "Bildschirmfoto 2023-11-22 um 16.06.55.png",
@@ -207,7 +210,6 @@
     "5. Semester/EiCb/6. Vorlesung.md",
     "Fachschaft/Neues Karaoke Setup.md",
     "03-contextanalysis-slides.pdf",
-    "5. Semester/EiCb/4. Vorlesung.md",
     "_Mein Leben/Python.md",
     "_Mein Leben/TelegramBOT.md",
     "Bildschirmfoto 2023-11-16 um 18.02.59.png",
@@ -223,7 +225,6 @@
     "3. Semester/SE/Design Techniken.md",
     "3. Semester/SE/Design Patterns.md",
     "5. Semester/EiCb/2. Vorlesung.md",
-    "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
     "5. Semester/CSS/Symmetrische Kryptographie.md",
     "5. Semester/EiCb/Übungen",
     "Dokumente/Symmetrische Kryptographie - Komplett 2.pdf",

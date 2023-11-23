@@ -1,0 +1,25 @@
+# EiCb Praxistestat 1
+- [x] 1. 1 ✅ 2023-11-23
+  - [x] parseValueDef() ✅ 2023-11-23
+  - [x] parseVarDecl() ✅ 2023-11-23
+  - [x] parseAssign(...) ✅ 2023-11-23
+- [ ] 1.2
+  - [ ] parseAddSub() 
+  - [ ] parseMulDiv()
+  - [ ] parseExponentiation()
+  - [ ] parseCompare()
+- [ ] 1.3
+  - [ ] parseElementSelect()
+- [ ] 1.4
+  - [ ] parseFor()
+- [ ] 1.5
+  - [ ] parseForEach()
+  - [ ] parseiteratorDeclaration()
+- [ ] 1.6
+  - [ ] parseCall(...)
+  - [ ] parseReturn()
+  - [ ] parseAssignOrCall()
+- [ ] 1.7
+  - [ ] parseSwitch()
+  - [ ] parseCase()
+  - [ ] parseDefault()

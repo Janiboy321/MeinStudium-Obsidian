@@ -4,10 +4,11 @@
   - [x] parseVarDecl() ✅ 2023-11-23
   - [x] parseAssign(...) ✅ 2023-11-23
 - [ ] 1.2
-  - [ ] parseAddSub() 
-  - [ ] parseMulDiv()
+  - [x] parseAddSub() ✅ 2023-11-23
+  - [x] parseMulDiv() ✅ 2023-11-23
   - [ ] parseExponentiation()
   - [ ] parseCompare()
+  - [ ] Unary
 - [ ] 1.3
   - [ ] parseElementSelect()
 - [ ] 1.4

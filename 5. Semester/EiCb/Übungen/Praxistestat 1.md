@@ -6,9 +6,9 @@
 - [ ] 1.2
   - [x] parseAddSub() ✅ 2023-11-23
   - [x] parseMulDiv() ✅ 2023-11-23
-  - [ ] parseExponentiation()
+  - [x] parseExponentiation() ✅ 2023-11-23
   - [ ] parseCompare()
-  - [ ] Unary
+  - [ ] UnaryMinus
 - [ ] 1.3
   - [ ] parseElementSelect()
 - [ ] 1.4

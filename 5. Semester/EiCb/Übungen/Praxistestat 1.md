@@ -11,8 +11,8 @@
   - [x] UnaryMinus, not, transpose ✅ 2023-11-23
 - [x] 1.3 ✅ 2023-11-23
   - [x] parseElementSelect() ✅ 2023-11-23
-- [ ] 1.4
-  - [ ] parseFor()
+- [x] 1.4 ✅ 2023-11-24
+  - [x] parseFor() ✅ 2023-11-24
 - [ ] 1.5
   - [ ] parseForEach()
   - [ ] parseiteratorDeclaration()

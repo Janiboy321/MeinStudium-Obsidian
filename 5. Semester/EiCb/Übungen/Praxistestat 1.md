@@ -13,9 +13,9 @@
   - [x] parseElementSelect() ✅ 2023-11-23
 - [x] 1.4 ✅ 2023-11-24
   - [x] parseFor() ✅ 2023-11-24
-- [ ] 1.5
-  - [ ] parseForEach()
-  - [ ] parseiteratorDeclaration()
+- [x] 1.5 ✅ 2023-11-24
+  - [x] parseForEach() ✅ 2023-11-24
+  - [x] parseiteratorDeclaration() ✅ 2023-11-24
 - [ ] 1.6
   - [ ] parseCall(...)
   - [ ] parseReturn()

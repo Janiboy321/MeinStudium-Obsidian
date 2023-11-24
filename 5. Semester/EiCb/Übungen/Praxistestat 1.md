@@ -3,7 +3,7 @@
   - [x] parseValueDef() ✅ 2023-11-23
   - [x] parseVarDecl() ✅ 2023-11-23
   - [x] parseAssign(...) ✅ 2023-11-23
-- [ ] 1.2
+- [x] 1.2 ✅ 2023-11-23
   - [x] parseAddSub() ✅ 2023-11-23
   - [x] parseMulDiv() ✅ 2023-11-23
   - [x] parseExponentiation() ✅ 2023-11-23
@@ -20,7 +20,7 @@
   - [x] parseCall(...) ✅ 2023-11-24
   - [x] parseReturn() ✅ 2023-11-24
   - [x] parseAssignOrCall() ✅ 2023-11-24
-- [ ] 1.7
-  - [ ] parseSwitch()
-  - [ ] parseCase()
-  - [ ] parseDefault()
+- [x] 1.7 ✅ 2023-11-24
+  - [x] parseSwitch() ✅ 2023-11-24
+  - [x] parseCase() ✅ 2023-11-24
+  - [x] parseDefault() ✅ 2023-11-24

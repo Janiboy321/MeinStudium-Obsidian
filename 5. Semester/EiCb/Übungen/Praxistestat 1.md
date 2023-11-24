@@ -16,9 +16,9 @@
 - [x] 1.5 ✅ 2023-11-24
   - [x] parseForEach() ✅ 2023-11-24
   - [x] parseiteratorDeclaration() ✅ 2023-11-24
-- [ ] 1.6
-  - [ ] parseCall(...)
-  - [ ] parseReturn()
+- [x] 1.6 ✅ 2023-11-24
+  - [x] parseCall(...) ✅ 2023-11-24
+  - [x] parseReturn() ✅ 2023-11-24
   - [ ] parseAssignOrCall()
 - [ ] 1.7
   - [ ] parseSwitch()

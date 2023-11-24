@@ -19,7 +19,7 @@
 - [x] 1.6 ✅ 2023-11-24
   - [x] parseCall(...) ✅ 2023-11-24
   - [x] parseReturn() ✅ 2023-11-24
-  - [ ] parseAssignOrCall()
+  - [x] parseAssignOrCall() ✅ 2023-11-24
 - [ ] 1.7
   - [ ] parseSwitch()
   - [ ] parseCase()

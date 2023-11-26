@@ -24,3 +24,4 @@
   - [x] parseSwitch() ✅ 2023-11-24
   - [x] parseCase() ✅ 2023-11-24
   - [x] parseDefault() ✅ 2023-11-24
+$\land$ 

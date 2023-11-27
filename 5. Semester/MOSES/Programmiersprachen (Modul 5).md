@@ -258,5 +258,17 @@ $$\begin{flalign}
 - Beachte den unterschied zu syntaktischer Gleichheit!
 ##### Definition
 Zwei *boolesche Ausdrücke $b_{1}, b_{2}\in BExp$, die keine Metavariablen enthalten, sind zueinander semantisch äquivalent* wenn für alle Zustände $\sigma \in \Sigma$ die folgenden beiden Bedingungen gelten:
-- $\langle b_{1},\ \sigma \rangle\ \Downarrow \ true$ ist herleitbar genau dann wenn $\langle b_{2},\ \sigma \rangle\ \Downarrow \ true$ herleitbar ist
-- 
+- $\langle b_{1},\ \sigma \rangle\ \Downarrow \ true$ ist herleitbar genau dann, wenn $\langle b_{2},\ \sigma \rangle\ \Downarrow \ true$ herleitbar ist.
+- $\langle b_{1},\ \sigma \rangle\ \Downarrow \ false$ ist herleitbar genau dann, wenn $\langle b_{2},\ \sigma \rangle\ \Downarrow \ false$ herleitbar ist.
+##### Können ungleiche Ausdrücke Äquivalent sein?
+###### Ja, Beispiel:
+- Die beiden booleschen Ausdrücke $(false,\ true)$ und $(false\ and\ true)$ sind nicht syntaktisch gleich.
+- Aber:
+	- Für alle Zustände $\sigma \in \Sigma$ ist nur das Urteil $\langle (false\ and\ true), \sigma \rangle \ \Downarrow false$ herleitbar
+	- Für alle Zustände $\sigma \in \Sigma$ ist nur das Urteil $\langle (false\ and\ false), \sigma \rangle \ \Downarrow false$ herleitbar
+- Also: Für alle Zustände $\sigma \in \Sigma$ und boolesche Werte $t \in Bool$ ist das Urteil $\langle (false\ and\ true), \sigma \rangle \ \Downarrow\ t$ herleitbar genau dann, wenn das Urteil $\langle (false\ and\ false), \sigma \rangle \ \Downarrow\ t$ herleitbar ist
+- Das heißt, die beiden Ausdrücke sind semantisch äquivalent
+
+> Die semantische Äquivalenz berücksichtigt nur die Bedeutung von Ausdrücken, unabhängig von ihrer Syntax.
+
+##### Wann sind Ausdrücke mit Metavariablen sm

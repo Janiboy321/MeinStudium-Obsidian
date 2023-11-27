@@ -232,5 +232,20 @@ $$\begin{flalign}
 &\begin{matrix} \text{...} & \frac{}{} \end{matrix}&
 \end{flalign}$$
 $$\begin{flalign}
-&\begin{matrix} \text{rsk} & \frac{}{\langle s} \end{matrix}&
+&\begin{matrix} \text{rsk} & \frac{}{\langle skip, \sigma \rangle \to \sigma} \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{r:=} & \frac{\langle a, \sigma \rangle\ \Downarrow\ n}{\langle X\ :=\ a, \sigma \rangle \to \sigma^{'}} &&& \sigma^{'} = \sigma[X \backslash n]\end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{r;} & \frac{\langle c_{1}, \sigma \rangle \to \sigma^{''}\ \ \ \langle c_{2}, \sigma^{''} \rangle \to \sigma^{'}}{\langle c_{1}; c_{2},\ \sigma \rangle \to \sigma^{'}} \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{rift} & \frac{\langle b, \sigma\rangle\ \Downarrow\ true \ \ \ \ {\langle c_{1}, \sigma \rangle \to \sigma^{'}}}{\langle if\ b\ then\ c_{1}\ else\ c_{2} \ fi,\ \sigma\rangle \to \sigma^{'}} \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{riff} & \frac{\langle b, \sigma\rangle\ \Downarrow\ false \ \ \ \ {\langle c_{2}, \sigma \rangle \to \sigma^{'}}}{\langle if\ b\ then\ c_{1}\ else\ c_{2} \ fi,\ \sigma\rangle \to \sigma^{'}} \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{...} & \frac{}{} \end{matrix}&
 \end{flalign}$$

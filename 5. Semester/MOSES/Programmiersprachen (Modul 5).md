@@ -104,4 +104,9 @@ zu, d.h. eine ganze Zahl
 ###### Definition
 Sei $\sigma \in \Sigma$ ein Zustand. Dann ist $\sigma[X \backslash n]$ der Zustand, der der Programmiervariablen $X$ den Wert $n$ und jeder anderen Programmvariablen $Y$ den Wert $\sigma(y)$ zuordnet
 
-### Sub
+### Substitution
+Eine *Substitution* ist eine Funktion, die eine endliche Menge von Metavariablen als Definitionsbereich hat und jedem Element aus dieser Menge einen Ausdruck zuordnet.
+Eine *Grundsubstitution* ist eine Substitution, deren Bildbereich nur Ausdrücke ohne Metavariablen enthält.
+Wir verwenden die Notation $[X_{1} \to t_{1}, ..., X_{n} \to t_{n}]$ für die Substitution mit Definitionsbereich $\{X_{1}, \ldots, X_{n}\}$, die $X_{1}$ den Ausdruck $t_{1}, ...$   und $X_{n}$ den Ausdruck $t_{n}$ 
+###### Definition
+Die *Anwendung einer Substitution $\eta$ auf einen Ausdruck $\alpha$* (geschrieben $\alpha \eta$) 

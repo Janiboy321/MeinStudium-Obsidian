@@ -138,4 +138,11 @@ Wir führen das Urteil $\langle \alpha, \sigma \rangle \Downarrow n$ ein, um aus
 - ein arithmetischer Ausdruck $a \in AExp$ 
 - in einem Zustand $\sigma \in \Sigma$
 - zu einem Wert $n \in Num$ auswertet.
-Der Kalkül enthält Regeln $rNum$, $rVar$, $r \oplus$, $r \ominus$ und $r\odot$, die auf den folgenden Folien definiert werden
+Der Kalkül enthält Regeln $rNum$, $rVar$, $r \oplus$, $r \ominus$ und $r\odot$, die wie folgt Definiert sind
+##### Kalkülregeln
+- $r\oplus$ $\ \frac{\langle a_{1} , \sigma \rangle \Downarrow n_{1}\ \ \langle a_{2}, \sigma \rangle \Downarrow n_{2}}{\langle ( a_{1}\oplus a_{2}), \sigma \rangle \Downarrow n}$ $n$ ist die Summe von $n_{1}$ und $n_{2}$
+- $r\ominus$ $\ \frac{\langle a_{1} , \sigma \rangle \Downarrow n_{1}\ \ \langle a_{2}, \sigma \rangle \Downarrow n_{2}}{\langle ( a_{1}\ominus a_{2}), \sigma \rangle \Downarrow n}$ $n$ ist die Differenz von $n_{1}$ und $n_{2}$
+- $r\odot$ $\ \frac{\langle a_{1} , \sigma \rangle \Downarrow n_{1}\ \ \langle a_{2}, \sigma \rangle \Downarrow n_{2}}{\langle ( a_{1}\odot a_{2}), \sigma \rangle \Downarrow n}$ $n$ ist das Produkt von $n_{1}$ und $n_{2}$
+- $rVar$ $\ \frac{}{\langle X, \sigma \rangle \Downarrow n}$ $n = \sigma(X)$
+- $rNum$ $\ \frac{}{\langle n, \sigma \rangle \Downarrow n}$ (Eine Regel ohne Prämissen und Seitenbedingungen)
+##### Instanziierung von Kalkülregeln

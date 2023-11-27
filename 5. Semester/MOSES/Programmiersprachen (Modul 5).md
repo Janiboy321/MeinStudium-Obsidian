@@ -280,4 +280,13 @@ Seien $X und Y$ Programmvariablen, dann sind die beiden booleschen Ausdrücke $(
 
 ##### Definition
 Zwei *arithmetische Ausdrücke $a_{1}, a_{2} \in AExp$ sind zueinander semantisch äquivalent* wenn für alle Grundsubstitutionen $\eta$, deren Definitionsbereich alle Metavariablen in $a_{1}$ und $a_{2}$ einschließt, und für alle Zustände $\sigma \in \Sigma$ und für alle ganzen Zahlen $n$ fie folgende Bedingung gilt:
-- $\langle a_{1}\eta \rangle\ \Downarrow\ n$ ist herleitbar genau dann wenn $\langle a_{2}$
+- $\langle a_{1}\eta \rangle\ \Downarrow\ n$ ist herleitbar genau dann wenn $\langle a_{2}\eta, \sigma\rangle \ \Downarrow\ n$ herleitbar ist
+##### Definition
+Zwei *Kommandos $c_{1}, c_{2} \in Com$ sind zueinander semantisch äquivalent* wenn für alle Grundsubstitutionen $\eta$, deren Definitionsbereich alle Metavariablen in $c_{1}$ und $c_{2}$ einschließt, und für alle Zustände $\sigma, \sigma^{'} \in \Sigma$ die folgende Bedingung gilt:
+- $\langle c_{1} \eta, \sigma\rangle \to \sigma^{'}$ ist herleitbar genau dann, wenn $\langle c_{2} \eta, \sigma\rangle \to \sigma^{'}$ herleitbar ist
+##### Können ungleiche Programme äquivalent sein?
+###### Ja, Beispiel:
+- Die Programme $if\ b\ then\ c_{1}\ else\ c_{2} fi$ und $if\ not\ b\ then \ c_{2}\ else\ c_{1}\ fi$ sind nicht syntaktisch gleich
+- Aber:
+	- Für alle Zustande $\sigma, \sigma^{'} \in \Sigma$ und Grundsubstitutionen $\eta$ ist das Urteil $\langle (if\ b\ then\ c_{1}\ else\ c_{2}\ fi)\eta, \sigma\rangle \to \sigma^{'}$ herleitbar genau dann wenn das Urteil $\langle (if\ not\ b\ then\ c_{2}\ else\ c_{1}\ fi)\eta, \sigma\rangle \to \sigma^{'}$ herleitbar ist.
+- Das heißt, die Pro

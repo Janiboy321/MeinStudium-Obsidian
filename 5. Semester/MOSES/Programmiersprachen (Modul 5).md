@@ -247,5 +247,16 @@ $$\begin{flalign}
 &\begin{matrix} \text{riff} & \frac{\langle b, \sigma\rangle\ \Downarrow\ false \ \ \ \ {\langle c_{2}, \sigma \rangle \to \sigma^{'}}}{\langle if\ b\ then\ c_{1}\ else\ c_{2} \ fi,\ \sigma\rangle \to \sigma^{'}} \end{matrix}&
 \end{flalign}$$
 $$\begin{flalign}
-&\begin{matrix} \text{...} & \frac{}{} \end{matrix}&
+&\begin{matrix} \text{rwht} & \frac{\langle b,\ \sigma\rangle\ \Downarrow\ true \ \langle c, \sigma \rangle \to \sigma^{''} \ \langle while\ b\ do\ c\ od,\ \sigma^{''}\rangle \to \sigma^{'}}{\langle while\ b\ do\ c\ od,\ \sigma\rangle \to \sigma} \end{matrix}&
 \end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{rwhf} & \frac{\langle b,\ \sigma\rangle\ \Downarrow\ false }{\langle while\ b\ do\ c\ od,\ \sigma\rangle \to \sigma} \end{matrix}&
+\end{flalign}$$
+### Semantische Äquivalenz
+##### Wann sind zwei Ausdrücke semantisch äquivalent?
+- Die Auswertungssemantik induziert auf natürliche Weise einen semantischen Äquivalenzbegriff
+- Beachte den unterschied zu syntaktischer Gleichheit!
+##### Definition
+Zwei *boolesche Ausdrücke $b_{1}, b_{2}\in BExp$, die keine Metavariablen enthalten, sind zueinander semantisch äquivalent* wenn für alle Zustände $\sigma \in \Sigma$ die folgenden beiden Bedingungen gelten:
+- $\langle b_{1},\ \sigma \rangle\ \Downarrow \ true$ ist herleitbar genau dann wenn $\langle b_{2},\ \sigma \rangle\ \Downarrow \ true$ herleitbar ist
+- 

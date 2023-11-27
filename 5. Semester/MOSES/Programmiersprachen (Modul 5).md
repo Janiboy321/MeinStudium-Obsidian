@@ -124,3 +124,18 @@ Ein *Kalkül* ist eine Menge von *Kalkülregeln*
 Durch Angabe eines Kalküls wird definiert, welche Instanzen eines Urteils *herleitbar* sind.
 ##### Intuition
 Ist eine Grundinstanz des Urteils herleitbar, dann sollte der durch diese ausgedrückte Sachverhalt auch zutreffen. (Angemessenheit)
+
+### Semantik für $AExp$
+##### Informelle Beschreibung der Auswertung eines Ausdrucks
+Die Auswertung eines arithmetischen Ausdrucks z.B. der Form $(a_{1} \oplus a_{2})$ in einem Zustand $\sigma$ lässt sich wie folgt beschreiben:
+- Werte den Ausdruck $a_{1}$ aus, um eine Zahl $n_{1}$ zu erhalten
+- Werte den Ausdruck $a_{2}$ aus, um eine Zahl $n_{2}$ zu erhalten
+- Der Wert des Ausdrucks $(a_{1} \oplus a_{2})$ ist dann das Resultat der Addition $n_{1}+ n_{2}$
+##### Unterscheidung zwischen Syntax und Semantik
+- Man beachte, dass das syntaktische Symbol $\oplus$ nicht mit dem Bezeichner $+$ der Addition übereinstimmt
+##### Urteil
+Wir führen das Urteil $\langle \alpha, \sigma \rangle \Downarrow n$ ein, um auszudrücken, dass
+- ein arithmetischer Ausdruck $a \in AExp$ 
+- in einem Zustand $\sigma \in \Sigma$
+- zu einem Wert $n \in Num$ auswertet.
+Der Kalkül enthält Regeln $rNum$, $rVar$, $r \oplus$, $r \ominus$ und $r\odot$, die auf den folgenden Folien definiert werden

@@ -289,4 +289,4 @@ Zwei *Kommandos $c_{1}, c_{2} \in Com$ sind zueinander semantisch äquivalent* w
 - Die Programme $if\ b\ then\ c_{1}\ else\ c_{2} fi$ und $if\ not\ b\ then \ c_{2}\ else\ c_{1}\ fi$ sind nicht syntaktisch gleich
 - Aber:
 	- Für alle Zustande $\sigma, \sigma^{'} \in \Sigma$ und Grundsubstitutionen $\eta$ ist das Urteil $\langle (if\ b\ then\ c_{1}\ else\ c_{2}\ fi)\eta, \sigma\rangle \to \sigma^{'}$ herleitbar genau dann wenn das Urteil $\langle (if\ not\ b\ then\ c_{2}\ else\ c_{1}\ fi)\eta, \sigma\rangle \to \sigma^{'}$ herleitbar ist.
-- Das heißt, die Pro
+- Das heißt, die beiden Programme sind semantisch äquivalent.

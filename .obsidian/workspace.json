@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
+                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
+                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md",
+                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Praxistestat 1.md"
+                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "f1c91cbfff53c2d1",
   "lastOpenFiles": [
-    "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
     "5. Semester/EiCb/Übungen/Praxistestat 1.md",
+    "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
+    "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
     "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "Bildschirmfoto 2023-11-22 um 17.32.25.png",
@@ -240,7 +241,6 @@
     "5. Semester/MOSES/Übungen/0. Übung.md",
     "Dokumente/03_SymmetricCrypto-Teil1.pdf",
     "5. Semester/MOSES/Übungen",
-    "Fachschaft/Karaoke Set-Up.md",
     "AUD/Untitled.canvas"
   ]
 }

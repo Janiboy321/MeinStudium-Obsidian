@@ -209,5 +209,14 @@ $$\begin{flalign}
 &\begin{matrix} \text{rnott} & \frac{\langle b, \sigma \rangle\ \Downarrow\ false}{\langle not\ b, \sigma\rangle\ \Downarrow\  true} &&& \text{rnotf} & \frac{\langle b, \sigma \rangle\ \Downarrow\ true}{\langle not\ b, \sigma\rangle\ \Downarrow\  false}\\ \end{matrix}&
 \end{flalign}$$
 $$\begin{flalign}
-&\begin{matrix}\text{randt} & \frac{\langle b_{1}, \sigma\rangle \Downarrow true}{}\end{matrix}&
+&\begin{matrix}\text{randt} & \frac{\langle b_{1}, \sigma\rangle\ \Downarrow\ true \ \ \ \langle b_{2}, \sigma \rangle\ \Downarrow\ true}{\langle(b_{1}\ and \ b_{2}), \sigma\rangle\ \Downarrow\ true}\end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{randf1} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ false}{\langle (b_{1}\ and\ b_{2}), \sigma\rangle\ \Downarrow\  false} &&& \text{radnf2} & \frac{\langle b_{2}, \sigma \rangle\ \Downarrow\ false}{\langle (b_{1}\ and\ b_{2}), \sigma\rangle\ \Downarrow\  false}\\ \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{rort1} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ true}{\langle (b_{1}\ or\ b_{2}), \sigma\rangle\ \Downarrow\  true} &&& \text{rort2} & \frac{\langle b_{2}, \sigma \rangle\ \Downarrow\ true}{\langle (b_{1}\ or\ b_{2}), \sigma\rangle\ \Downarrow\  true}\\ \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{rorf} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ false \ \ \ }{}\end{matrix}&
 \end{flalign}$$

@@ -36,3 +36,34 @@
 ###### Backus-Naur Form
 - eine kompakte Schreibweise für Produktionsregeln
 - kurz: BNF
+
+###### BNF und Grammatiken
+- BNF spezifiziert die Produktionsregeln einer Grammatik $(\Sigma, V, X_{0}, P)$ 
+- Sind $\Sigma, V$ und $X_0$ aus dem Kontext klar, dann verwendet man nur die BNF, um Grammatiken zu spezifizieren
+###### Beispiel:
+Folgende BNF:
+$u ::= v_{1} | v_{2} | ... | v_{n}$
+ist eine kompakte Schreibweise für folgende Mengen von Regeln:
+$u \to v_{1}$
+...
+$u \to v_{n}$
+### Syntax
+###### IMP
+- eine einfache imperative Programmiersprache
+- sequentielle Sprache mit bedingter Verzweigung und Schleifen
+
+###### Übersicht der relevanten Wertebereiche
+- $Num$ - die ganzen Zahlen
+	- Defintion: $Num = \{0\} \cup \{n | n \in \mathbb{N}\} \cup \{-n | n \in \mathbb{N}\}$
+	- Intuition: Symbole die ganze Zahlen repräsentieren
+- $Bool$ - die Wahrheitswerte
+	- Definition: $Bool = \{true, false\}$
+	- Intuition: Symbole, die Wahrheitswerte repräsentieren
+- $Var$ - die Programmvariablen
+	- Wertebereich $Var$ bleibt undefiniert
+	- Intuition: Programmvariablen
+- $AExp$ - die arithmetischen Ausdrücke
+- $BExp$ - die booleschen Ausdrücke
+- $Com$ - die Kommandos
+
+**

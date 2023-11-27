@@ -101,6 +101,7 @@ Ein **Zustand** ist eine Funktion $\sigma:\ Var \to Num$. Die **Menge aller Zust
 ###### Intuition
 Ein Zustand ordnet jeder Programmvariablen aus $Var$ einem Wert aus $Num$
 zu, d.h. eine ganze Zahl
-
 ###### Definition
+Sei $\sigma \in \Sigma$ ein Zustand. Dann ist $\sigma[X \backslash n]$ der Zustand, der der Programmiervariablen $X$ den Wert $n$ und jeder anderen Programmvariablen $Y$ den Wert $\sigma(y)$ zuordnet
 
+### Sub

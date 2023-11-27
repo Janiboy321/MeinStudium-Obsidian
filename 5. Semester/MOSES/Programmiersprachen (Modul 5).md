@@ -157,4 +157,12 @@ Die Instanz $\xi$ eines Urteils ist in einem Kalkül *herleitbar* genau dann wen
 - Es gibt eine Kalkülregel der Form $$\text{r-name} \ \ \frac{}{\zeta}\ \ \upphi_{1},... \upphi_{m}$$ und eine Substitution $\eta$, so dass
 	- $\zeta \eta = \xi$ und
 	- die Instanzen $\upphi_{1}\eta, ...$ und $\upphi_{m}\eta$ der Seitenbedingungen erfüllt sind.
-- Es gibt eine Kalkülregel der Form $$\text{r-name}\ \ \frac{\xi}{}$$
+- Es gibt eine Kalkülregel der Form $$\text{r-name} \ \ \ \frac{\zeta_{1}, \zeta_{2}, ..., \zeta_{n}}{\zeta} \ \ \upphi_{1}, ..., \upphi_{m}$$ und eine Substitution $\eta$, so dass
+	- $\zeta \eta = \xi;$
+	- die Instanzen $\upphi_{1}\eta, ...$ und $\upphi_{m}\eta$ der Seitenbedingungen erfüllt sind 
+	- und jede der Instanzen $\zeta_{1}\eta, ...$ und $\zeta_{n}\eta$ der Prämissen herleitbar ist
+##### Beispiel (textueller herleitung)
+Der Zustand $\sigma$ ordnet der Programmvariablen $X$ den Wert 5 zu. Dan ist $\langle (1 \oplus X), \sigma \rangle \Downarrow 6$ herleitbar, weil
+- $\langle 1, \sigma \rangle \Downarrow 1$ durch eine Anwendung der Regeln $rNum$ hergeleitet werden kann
+- $\langle X, \sigma \rangle \Downarrow 5$ durch eine Anwendung der Regeln $rVar$ hergeleitet werden kann
+	- Die Instanz $\sigma(X) = 5$ der Nebenbedingung von $rVar$

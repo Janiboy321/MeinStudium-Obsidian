@@ -218,5 +218,19 @@ $$\begin{flalign}
 &\begin{matrix} \text{rort1} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ true}{\langle (b_{1}\ or\ b_{2}), \sigma\rangle\ \Downarrow\  true} &&& \text{rort2} & \frac{\langle b_{2}, \sigma \rangle\ \Downarrow\ true}{\langle (b_{1}\ or\ b_{2}), \sigma\rangle\ \Downarrow\  true}\\ \end{matrix}&
 \end{flalign}$$
 $$\begin{flalign}
-&\begin{matrix}\text{rorf} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ false \ \ \ }{}\end{matrix}&
+&\begin{matrix}\text{rorf} & \frac{\langle b_{1}, \sigma \rangle\ \Downarrow\ false \ \ \ \langle b_{2}, \sigma \rangle\ \Downarrow\ false}{\langle(b_{1} \ or\ b_{2}), \sigma \rangle\ \Downarrow\ false}\end{matrix}&
+\end{flalign}$$
+### Semantik für Com
+##### Urteil 
+Wir führen das Urteil $\langle c, \sigma\rangle \to \sigma^{'}$ ein, um auszudrücken, dass
+- ein Kommando $c \in Com$
+- in einem Zustand $\sigma \in \Sigma$ 
+- zu einem Zustand $\sigma^{'} \in \Sigma$ auswertet.
+Der Kalkül enthält die Regeln rsk, r:=, r;, rift, riff, rwht und rwhf, die wie folgt definiert sind:
+##### Kalkülregeln
+$$\begin{flalign}
+&\begin{matrix} \text{...} & \frac{}{} \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{rsk} & \frac{}{\langle s} \end{matrix}&
 \end{flalign}$$

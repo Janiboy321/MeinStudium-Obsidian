@@ -115,4 +115,12 @@ Die *Anwendung einer Substitution $\eta$ auf einen Ausdruck $\alpha$* (geschrieb
 $$(( 2 \oplus 1) \odot (Y \ominus X))[X \to (1 \oplus 2)] = ((2 \oplus 1) \odot (Y \ominus (1 \oplus Z)))$$
 ### Auswertungssemantik
 Ein *Urteil* ist ein Schema für Ausdrücke, also ein Ausdruck, der Metavariablen als atomare Ausdrücke enthalten kann. Ein Urteil soll eine gegebene Intuition über ein Sachverhalt formalisieren.
-Ein Ausdruck $\xi$ ist eine *Instanz* eines Urteils $\zeta$, wenn $\xi$ und $\zeta$ gleich sind, oder man $\xi$ durch Ersetzen einer oder mehrerer Metavariablen in $\zet$
+Ein Ausdruck $\xi$ ist eine *Instanz* eines Urteils $\zeta$, wenn $\xi$ und $\zeta$ gleich sind, oder man $\xi$ durch Ersetzen einer oder mehrerer Metavariablen in $\zeta$ durch geeignete Ausdrücke konstruieren kann.
+$\xi$ ist eine *Grundinstanz eines Urteils* $\zeta$, wenn $\xi$ eine Instanz des Urteils $\zeta$ ist und $\xi$ keine Metavariablen enthält.
+### Notation für Kalkülregeln
+![[Bildschirmfoto 2023-11-27 um 17.30.38.png]]
+Ein *Kalkül* ist eine Menge von *Kalkülregeln*
+##### Herleitbarkeit von Urteilen
+Durch Angabe eines Kalküls wird definiert, welche Instanzen eines Urteils *herleitbar* sind.
+##### Intuition
+Ist eine Grundinstanz des Urteils herleitbar, dann sollte der durch diese ausgedrückte Sachverhalt auch zutreffen. (Angemessenheit)

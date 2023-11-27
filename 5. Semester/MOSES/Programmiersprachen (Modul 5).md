@@ -146,3 +146,6 @@ Der Kalkül enthält Regeln $rNum$, $rVar$, $r \oplus$, $r \ominus$ und $r\odot$
 - $rVar$ $\ \frac{}{\langle X, \sigma \rangle \Downarrow n}$ $n = \sigma(X)$
 - $rNum$ $\ \frac{}{\langle n, \sigma \rangle \Downarrow n}$ (Eine Regel ohne Prämissen und Seitenbedingungen)
 ##### Instanziierung von Kalkülregeln
+Eine Regel $$\text{r-name} \ \ \ \frac{\xi_{1}, \xi_{2}, ..., \xi_{n}}{\xi}$$
+ist die *Instanz (bzw. Grundinstanz) einer Kalkülregel* $$\text{r-name} \ \ \ \frac{\zeta_{1}, \zeta_{2}, ..., \zeta_{n}}{\zeta} \ \ \upphi_{1}, ..., \upphi_{m}$$
+wenn es eine Substitution (bzw. Grundsubstitution) $\eta$ gibt, so dass $\xi = \zeta \eta,\ \xi_{1} = \zeta_{1} \eta \ , ...$ und $\xi_{n} = \zeta_{n} \eta$ und die Instanzen $\upphi, \eta$

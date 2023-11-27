@@ -148,4 +148,13 @@ Der Kalkül enthält Regeln $rNum$, $rVar$, $r \oplus$, $r \ominus$ und $r\odot$
 ##### Instanziierung von Kalkülregeln
 Eine Regel $$\text{r-name} \ \ \ \frac{\xi_{1}, \xi_{2}, ..., \xi_{n}}{\xi}$$
 ist die *Instanz (bzw. Grundinstanz) einer Kalkülregel* $$\text{r-name} \ \ \ \frac{\zeta_{1}, \zeta_{2}, ..., \zeta_{n}}{\zeta} \ \ \upphi_{1}, ..., \upphi_{m}$$
-wenn es eine Substitution (bzw. Grundsubstitution) $\eta$ gibt, so dass $\xi = \zeta \eta,\ \xi_{1} = \zeta_{1} \eta \ , ...$ und $\xi_{n} = \zeta_{n} \eta$ und die Instanzen $\upphi, \eta$
+wenn es eine Substitution (bzw. Grundsubstitution) $\eta$ gibt, so dass $\xi = \zeta \eta,\ \xi_{1} = \zeta_{1} \eta \ , ...$ und $\xi_{n} = \zeta_{n} \eta$ und die Instanzen $\upphi, \eta, ...$ und $\upphi_{m}\eta$ der Seitenbedinungen erfüllt sind
+###### Beispiel:
+- Der Zustand $\sigma \in \Sigma$ ordnet allen Programmvariablen den Wert 0 zu. Beide folgenden Regeln sind dann Instanzen der kalkülregeln $r\oplus$!
+![[Bildschirmfoto 2023-11-27 um 18.10.50.png]]
+### Herleitbarkeit von Urteilen
+Die Instanz $\xi$ eines Urteils ist in einem Kalkül *herleitbar* genau dann wenn eine der folgenden beiden Bedingungen erfüllt ist:
+- Es gibt eine Kalkülregel der Form $$\text{r-name} \ \ \frac{}{\zeta}\ \ \upphi_{1},... \upphi_{m}$$ und eine Substitution $\eta$, so dass
+	- $\zeta \eta = \xi$ und
+	- die Instanzen $\upphi_{1}\eta, ...$ und $\upphi_{m}\eta$ der Seitenbedingungen erfüllt sind.
+- Es gibt eine Kalkülregel der Form $$\text{r-name}\ \ \frac{\xi}{}$$

@@ -32,6 +32,7 @@
 - Ein *Parser* übersetzt von konkreter in abstrakter Syntax
 - *Interpreter* und *Compiler* verarbeiten ein Programm gemäß einer formal definierten Semantik (bzw. definieren die Semantik falls keine andere Definition der Semantik existiert)
 
+## Syntax der Programmiersprache IMP
 ### Backus-Naur Form
 ###### Backus-Naur Form
 - eine kompakte Schreibweise für Produktionsregeln
@@ -79,3 +80,25 @@ $u \to v_{n}$
 - $X, Y$ - bezeichnet beliebige Elemente aus $Var$
 
 ### Syntaktische Korrektheit
+Ein Wort $c$ ist ein **syntaktisch korrektes Programm** genau dann wenn es in der Grammatik, die $Com$ spezifiziert, ableitbar ist.
+Beispiel:
+![[Bildschirmfoto 2023-11-27 um 16.01.43.png]]
+
+### Syntaktische Gleichheit
+###### Wann sind zwei Ausdrücke / Programme syntaktisch gleich?
+- Sind die Ausdrücke $(3 \oplus 5)$ und $(5 \oplus 3)$ syntaktisch gleich?
+	- Nein, die sind syntaktisch unterschiedlich, da sich ihre Ableitungen unterscheiden
+- Sind die Ausdrücke $(5 \oplus 3)$ und $(5 \oplus 3)$ syntaktisch gleich?
+	- Ja, da sie auf gleiche Weise abgeleitet werden
+
+> Ob zwei Ausdrücke/Programme syntaktisch gleich sind, hängt nur davon ab, ob sie die gleichen Ableitungen haben.
+> Für syntaktische Gleichheit spielt die intuitive Bedeutung von Ausdrücken/Programmen keine Rolle
+
+
+## Semantik einer imperativen Programmiersprache
+### Zustände
+Ein **Zustand** ist eine Funktion $\sigma:\ Var \to Num$. Die **Menge aller Zustände** wird mit $\Sigma$ bezeichnet.
+###### Intuition
+Ein Zustand ordnet jeder Programmvariablen aus $Var$ einem Wert aus $Num$
+zu, d.h. eine ganze Zahl
+

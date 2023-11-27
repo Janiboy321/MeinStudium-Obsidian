@@ -63,7 +63,19 @@ $u \to v_{n}$
 	- Wertebereich $Var$ bleibt undefiniert
 	- Intuition: Programmvariablen
 - $AExp$ - die arithmetischen Ausdrücke
+	- Definition: $a::=\ n\ |\ X\ |\ (a \oplus a)\ |\ (a \ominus a)\ |\ (a \odot a)$
+	- Intuition: arithmetische Ausdrücke
 - $BExp$ - die booleschen Ausdrücke
+	- Definition: $b ::=\ true\ |\ false\ |\ (a\ eq\ a)\ |\ (a\ leq\ a)\ |\ not\ b\ |\ (b\ and\ b)\ |\ (b\ or\ b)$
+	- Intuition: boolesche Ausdrücke
 - $Com$ - die Kommandos
+	- Definition: $c::=\ skip\ |\ X:=a |\ c;c\ |\ if\ b\ then\ c\ else\ c\ fi\ |\ while\ b\ do c\ od$
+	- Intuition: Kommandos einer imperativen Programmiersprache
+	- Kovention: "Programm" wird als Synonym für "Kommando" verwendet
 
-**
+**Konventionen für Metavariablen**
+- $m, n$ - bezeichnet beliebige Elemente aus $Num$
+- $t$ - bezeichnet ein beliebiges Element aus $Bool$
+- $X, Y$ - bezeichnet beliebige Elemente aus $Var$
+
+### Syntaktische Korrektheit

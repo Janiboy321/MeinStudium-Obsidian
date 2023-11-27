@@ -190,9 +190,24 @@ Wie führen das Urteil $\langle b, \sigma \rangle \Downarrow t$ ein, um auszudr
 - zu einem Wert $t \in Bool$ auswertet
 Der Kalkül enthält die Regeln rtrue, fralse, reqt, reqf, rleqt, rleqf, rnott, rnotf, randt, randf1, randf2, rort1, rort2 und rorf, die wie folgt definiert sind:
 ##### Kalkülregeln
- $$\begin{flalign}
+$$\begin{flalign}
 &\begin{matrix} \text{rtrue} & \frac{}{\langle true, \sigma\rangle\ \Downarrow\  true} &&& \text{rfalse} & \frac{}{\langle false, \sigma\rangle\ \Downarrow\  false}\\ \end{matrix}&
 \end{flalign}$$
 $$\begin{flalign}
-&\begin{matrix}\text{reqf} & \frac{\langle a_{1}, \sigma\rangle \Downarrow n_{1}\ \ \ \langle a_{2}, \sigma\rangle \DownarrowN}{}\end{matrix} &
+&\begin{matrix}\text{reqt} & \frac{\langle a_{1}, \sigma\rangle\ \Downarrow\ n_{1}\ \ \ \langle a_{2}, \sigma\rangle\ \Downarrow\ n_{2}}{\langle(a_{1}\ eq \ a_{2}), \sigma\rangle\ \Downarrow\ true}& n_{1}\text{ und } n_{2} \text{ sind gleich}\end{matrix} &
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{reqf} & \frac{\langle a_{1}, \sigma\rangle\ \Downarrow\ n_{1}\ \ \ \langle a_{2}, \sigma\rangle\ \Downarrow\ n_{2}}{\langle(a_{1}\ eq \ a_{2}), \sigma\rangle\ \Downarrow\ false} & n_{1}\text{ und } n_{2} \text{ sind nicht gleich}\end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{rleqt} & \frac{\langle a_{1}, \sigma\rangle\ \Downarrow\ n_{1}\ \ \ \langle a_{2}, \sigma\rangle\ \Downarrow\ n_{2}}{\langle(a_{1}\ leq \ a_{2}), \sigma\rangle\ \Downarrow\ true} & n_{1}\text{ ist kleiner oder gleich } n_{2}\end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{rleqf} & \frac{\langle a_{1}, \sigma\rangle\ \Downarrow\ n_{1}\ \ \ \langle a_{2}, \sigma\rangle\ \Downarrow\ n_{2}}{\langle(a_{1}\ leq \ a_{2}), \sigma\rangle\ \Downarrow\ false} & n_{1}\text{ ist größer als } n_{2}\end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix} \text{rnott} & \frac{\langle b, \sigma \rangle\ \Downarrow\ false}{\langle not\ b, \sigma\rangle\ \Downarrow\  true} &&& \text{rnotf} & \frac{\langle b, \sigma \rangle\ \Downarrow\ true}{\langle not\ b, \sigma\rangle\ \Downarrow\  false}\\ \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{randt} & \frac{\langle b_{1}, \sigma\rangle \Downarrow true}{}\end{matrix}&
 \end{flalign}$$

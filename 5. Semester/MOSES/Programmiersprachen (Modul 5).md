@@ -161,8 +161,31 @@ Die Instanz $\xi$ eines Urteils ist in einem Kalkül *herleitbar* genau dann wen
 	- $\zeta \eta = \xi;$
 	- die Instanzen $\upphi_{1}\eta, ...$ und $\upphi_{m}\eta$ der Seitenbedingungen erfüllt sind 
 	- und jede der Instanzen $\zeta_{1}\eta, ...$ und $\zeta_{n}\eta$ der Prämissen herleitbar ist
-##### Beispiel (textueller herleitung)
-Der Zustand $\sigma$ ordnet der Programmvariablen $X$ den Wert 5 zu. Dan ist $\langle (1 \oplus X), \sigma \rangle \Downarrow 6$ herleitbar, weil
+##### Beispiel (textuelle Herleitung)
+Der Zustand $\sigma$ ordnet der Programmvariablen $X$ den Wert 5 zu. Dann ist $\langle (1 \oplus X), \sigma \rangle \Downarrow 6$ herleitbar, weil
 - $\langle 1, \sigma \rangle \Downarrow 1$ durch eine Anwendung der Regeln $rNum$ hergeleitet werden kann
 - $\langle X, \sigma \rangle \Downarrow 5$ durch eine Anwendung der Regeln $rVar$ hergeleitet werden kann
-	- Die Instanz $\sigma(X) = 5$ der Nebenbedingung von $rVar$
+	- Die Instanz $\sigma(X) = 5$ der Nebenbedingung von $rVar$ ist gültig.
+- $\langle (1 \oplus X), \sigma \rangle \Downarrow 6$ aus $\langle 1, \sigma \rangle \Downarrow 1$ und $\langle X, \sigma \rangle \Downarrow 5$ durch eine Anwendung der Regeln $r\oplus$ hergeleitet werden kann.
+	- Die Instanz $1 + 5 = 6$ der Nebenbedingung von $r\oplus$ ist gültig.
+
+> Eine Herleitung muss detailliert angegeben werden.
+> Insbesondere sollten
+> - die Namen der Verwendeten Regeln angegeben werden,
+> - alle Prämissen einer Regel hergeleitet werden und
+> - die Gültigkeit aller Nebenbedingungen gezeigt werden
+##### Beispiel (graphische Herleitung)
+![[Bildschirmfoto 2023-11-27 um 18.33.15.png]]
+> Eine graphische Herleitung muss detailliert angegeben werden.
+> Insbesondere sollten (genau wie bei einer textuellen Herleitung)
+> - die Namen der Verwendeten Regeln angegeben werden,
+> - alle Prämissen einer Regel hergeleitet werden und
+> - die Gültigkeit aller Nebenbedingungen gezeigt werden
+
+### Semantik für $BExp$
+##### Urteil
+Wie führen das Urteil $\langle b, \sigma \rangle \Downarrow t$ ein, um auszudrücken, dass
+- ein boolescher Ausdruck $b \in BExp$
+- in einem Zustand $\sigma \in \Sigma$
+- zu einem Wert $t \in Bool$ auswertet
+Der Kalkül enthält die Regeln $rtrue$, $rfalse$, $reqt$, $reqf$, $rleqt$

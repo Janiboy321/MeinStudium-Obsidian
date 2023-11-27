@@ -271,4 +271,13 @@ Zwei *boolesche Ausdrücke $b_{1}, b_{2}\in BExp$, die keine Metavariablen entha
 
 > Die semantische Äquivalenz berücksichtigt nur die Bedeutung von Ausdrücken, unabhängig von ihrer Syntax.
 
-##### Wann sind Ausdrücke mit Metavariablen sm
+##### Wann sind Ausdrücke mit Metavariablen semantisch äquivalent?
+Zwei boolesche Ausdrücke $b_{1}, b_{2} \in BExp$ (die Metavariablen enthalten dürfen) sind zueinander semantisch äquivalent, wenn für alle Grundsubstitutionen $\eta$, deren Definitionsbereich alle Metavariablen in $b_{1}$ und $b_{2}$ einschließt, und für alle Zustände $\sigma \in \Sigma$ die folgenden beiden Bedingungen gelten:
+- $\langle b_{1}\eta, \sigma \rangle\ \Downarrow\ true$ ist herleitbar genau dann, wenn $\langle b_{2}\eta, \sigma \rangle\ \Downarrow\ true$ herleitbar ist,
+- $\langle b_{1}\eta, \sigma \rangle\ \Downarrow\ false$ ist herleitbar genau dann, wenn $\langle b_{2}\eta, \sigma \rangle\ \Downarrow\ false$ herleitbar ist
+###### Beispiel
+Seien $X und Y$ Programmvariablen, dann sind die beiden booleschen Ausdrücke $((X\ eq\ 5)\ and\ (Y\ eq\ X))$ und $((X\ eq\ Y)\ and\ (Y\ eq\ (3 \oplus 2)))$ semantisch äquivalent:
+
+##### Definition
+Zwei *arithmetische Ausdrücke $a_{1}, a_{2} \in AExp$ sind zueinander semantisch äquivalent* wenn für alle Grundsubstitutionen $\eta$, deren Definitionsbereich alle Metavariablen in $a_{1}$ und $a_{2}$ einschließt, und für alle Zustände $\sigma \in \Sigma$ und für alle ganzen Zahlen $n$ fie folgende Bedingung gilt:
+- $\langle a_{1}\eta \rangle\ \Downarrow\ n$ ist herleitbar genau dann wenn $\langle a_{2}$

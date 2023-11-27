@@ -188,4 +188,11 @@ Wie führen das Urteil $\langle b, \sigma \rangle \Downarrow t$ ein, um auszudr
 - ein boolescher Ausdruck $b \in BExp$
 - in einem Zustand $\sigma \in \Sigma$
 - zu einem Wert $t \in Bool$ auswertet
-Der Kalkül enthält die Regeln $rtrue$, $rfalse$, $reqt$, $reqf$, $rleqt$
+Der Kalkül enthält die Regeln rtrue, fralse, reqt, reqf, rleqt, rleqf, rnott, rnotf, randt, randf1, randf2, rort1, rort2 und rorf, die wie folgt definiert sind:
+##### Kalkülregeln
+ $$\begin{flalign}
+&\begin{matrix} \text{rtrue} & \frac{}{\langle true, \sigma\rangle\ \Downarrow\  true} &&& \text{rfalse} & \frac{}{\langle false, \sigma\rangle\ \Downarrow\  false}\\ \end{matrix}&
+\end{flalign}$$
+$$\begin{flalign}
+&\begin{matrix}\text{reqf} & \frac{\langle a_{1}, \sigma\rangle \Downarrow n_{1}\ \ \ \langle a_{2}, \sigma\rangle \DownarrowN}{}\end{matrix} &
+\end{flalign}$$

@@ -102,3 +102,5 @@ Ein **Zustand** ist eine Funktion $\sigma:\ Var \to Num$. Die **Menge aller Zust
 Ein Zustand ordnet jeder Programmvariablen aus $Var$ einem Wert aus $Num$
 zu, d.h. eine ganze Zahl
 
+###### Definition
+

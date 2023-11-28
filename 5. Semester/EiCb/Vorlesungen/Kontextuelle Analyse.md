@@ -22,9 +22,9 @@
 
 ### Zerlegung von Namen zu Attributen
 - Bezeichner sind zunächst Zeichenketten
-- Bekommen Bedeutung durch Kontext
+- Bekommen Bedeutung durch *Kontext*
 	- Variablen, Konstanten, Funktion, ...
-- Bei jeder Benutzung nach Namen suchen viel zulangsam
+- Bei jeder Benutzung nach Namen suchen viel zu *langsam*
 - Besser: Weitgehende Vermeidung von String-Operatoren
 	- Nehme Zuordnung durch direktes Nachschlagen in Tabelle vor
 	- Genannt: Symboltabelle, Identifizierungstabelle, ...
@@ -34,7 +34,29 @@
 	- *Sichtbarkeit*: Public, private, protected
 	- *Anderes*: synchronized, static, volatile
 - Typische Operatoren
-	- Eintragen einer neuen Zuordnung Namen-Attribute
-	- Abrufen der Attribute zu einem Namen
+	- *Eintragen* einer neuen Zuordnung Namen-Attribute
+	- *Abrufen* der Attribute zu einem Namen
 - Hierarchische Blockorganisation
-- Geltungsbereich von Zuordnungen von Namen zu Attributen innerhalb des Programmes
+- *Geltungsbereich* von Zuordnungen von Namen zu Attributen innerhalb des Programmes
+- *Block* Konstrukt im Programmtext zur Beschreibung von Geltungsbereichen
+	- In Java:
+		- Geltungsbereiche durch {, } gekennzeichnet
+- Unterschiedliche Handhabungsmöglichkeiten von Geltungsbereichen
+
+### Blockstrukturen
+##### Monolithische Blockstruktur
+![[Bildschirmfoto 2023-11-28 um 20.02.58.png]]
+- Charakteristika
+	- Nur *ein* Block
+	- Alle Deklarationen gelten global
+- Regeln für Geltungsbereiche
+	- Bezeichner darf nur genau einmal deklariert werden
+	- Jeder benutzte Bezeichner muß deklariert sein
+- Symboltabelle
+	- Für jeden Bezeichner genau ein Eintrag in der Symboltabelle
+	- Abruf von Daten muss schnell gehen (binärer Suchbaum, Hash-Tabelle)
+- Beispiele: BASIC, COBOL, Skriptsprachen
+
+##### Flache Blockstruktur
+![[Bildschirmfoto 2023-11-28 um 20.06.28.png]]
+

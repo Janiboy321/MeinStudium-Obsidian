@@ -96,5 +96,36 @@
 	- Aber auf unterschiedlichen Ebenen
 	- Abgerufen wird immer der am tiefsten gelegene
 
-#### Effizientere Impleme
+#### Effizientere Implementierung
+```java 
+public final class IdentificationTable{
+	private Map<String, Stack<Attribute>> idents;
+	private Stack<List<String>> scopes;
+	...
+}
+```
+###### idents
+- Bildet von Strings auf Attribute-Objekte ab
+- Bezeichnernamen dienen als Schlüssel
+- Wert ist ein Stack aus Attributen, obenauf liegt die Deklaration mit der tiefsten Verschachtelungsebene
+###### scopes
+- Stack bestehend aus Listen von Strings
+- Bei Öffnen eines neuen Geltungsbereichs:
+	- Lege leere Liste auf Scopes
+	- Jeder in diesem Bereich gefundene Bezeichner wird in einer Liste eingetragen
+- Bei schließen des aktuellen Geltungsbereiches
+	- Gehe Liste oben auf scopes durch
+	- Lösche alle diese Bezeichner aus idents (entferne jeweils oberstes Stapelelement)
+	- Entferne dann oberstes Element von scopes
 
+### Attribute
+- Welche Informationen konkret zu einem Bezeichner speichern?
+- Wofür werden Attribute gebraucht?
+- Mindestens für
+	- Überprüfung der Regeln für Geltungsbereiche von Deklarationen
+		- Bei geeigneter Implementierung der Symboltabelle: Einfaches Abrufen reicht
+		- Alle Regeln bereits in Datenstruktur realisiert
+	- Überprüfung der Typregeln
+		- Erfordert Abspeicherung von Typinformationen
+	- (Code-Erzeugung)
+		- Benötigt später z.B. Andresse der Variable im Speicher

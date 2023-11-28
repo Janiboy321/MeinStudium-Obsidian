@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -207,6 +208,7 @@
   },
   "active": "f1c91cbfff53c2d1",
   "lastOpenFiles": [
+    "Bildschirmfoto 2023-11-28 um 18.05.58.png",
     "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
     "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
     "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
@@ -249,7 +251,6 @@
     "Symmetrische Kryptographie - Komplett.pdf",
     "5. Semester/MOSES/Übungen/1. Übung.md",
     "Dokumente/02-lexparse-slides.pdf",
-    "5. Semester/CSS/Übungen/1. Übung.md",
     "Dokumente/CSS_exercise_1_final.pdf",
     "5. Semester/CSS/Übungen",
     "Dokumente/03_SymmetricCrypto-Teil1.pdf",

@@ -187,3 +187,24 @@ $\to$ Typprüfung
 - Typen der internen Knoten herleitbar aus
 	- Typen der Kinder
 	- Typregel für die Art der Verknüpfung im Ausdruck
+
+#### Typüberprüfung einer Funktionsdefinition
+`func f (x : ParamType) : ResultType ~Expression`
+- Typprüfung des Körpers Expression
+- Stelle sicher, dass Ergebnis von ResultType ist
+- Dann Herleitung: `f: ParamType ` $\to$ `ResultType`
+
+Idee: Vereinheitliche Typüberprüfung von Funktionen und Operatoren
+- $+ : \text{Interger } \times \text{ Integer } \to \text{ Integer}$
+- $< :\text{Integer } \times \text{ Integer } \to \text{ Boolean}$
+
+### Algorithmus für Kontextanalyse
+- Kombiniere Identifikation und Typprüfung in einem Pass
+- Funktioniert, solange Bindung immer vor Verwendung
+	- In (mini-)Triangle der Fall
+- Mögliche Vorgehensweise
+	- Tiefensuche von links nach rechts durch AST
+	- Dabei sowohl Identifikation und Typüberprüfung
+	- Speichere Ergebnisse durch Dekorieren des ASTs
+		- Hinzufügen weiterer Informationen
+![[Bildschirmfoto 2023-11-28 um 21.05.54.png]]

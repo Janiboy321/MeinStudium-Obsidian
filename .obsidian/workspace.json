@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
+                "file": "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55f29781c5f5eada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
+                "file": "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
+                "file": "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/MOSES/Programmiersprachen (Modul 5).md"
+                "file": "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md"
               }
             }
           },
@@ -196,24 +207,26 @@
   },
   "active": "f1c91cbfff53c2d1",
   "lastOpenFiles": [
+    "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
+    "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
+    "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
+    "5. Semester/EiCb/Vorlesungen",
     "Bildschirmfoto 2023-11-27 um 18.33.15.png",
     "Bildschirmfoto 2023-11-27 um 18.32.59.png",
     "Bildschirmfoto 2023-11-27 um 18.10.50.png",
     "Bildschirmfoto 2023-11-27 um 17.30.38.png",
     "Untitled.md",
-    "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
     "Bildschirmfoto 2023-11-27 um 16.01.43.png",
     "Bildschirmfoto 2023-11-27 um 15.32.11.png",
     "Bildschirmfoto 2023-11-27 um 15.31.54.png",
     "5. Semester/EiCb/Übungen/Praxistestat 1.md",
     "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
-    "5. Semester/EiCb/4. Vorlesung.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
     "Bildschirmfoto 2023-11-22 um 17.32.25.png",
     "Bildschirmfoto 2023-11-22 um 16.06.55.png",
     "Bildschirmfoto 2023-11-22 um 16.05.18.png",
-    "Bildschirmfoto 2023-11-22 um 15.55.17.png",
-    "5. Semester/EiCb/6. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/6. Vorlesung.md",
     "Fachschaft/Neues Karaoke Setup.md",
     "03-contextanalysis-slides.pdf",
     "_Mein Leben/Python.md",
@@ -221,14 +234,13 @@
     "5. Semester/MOSES/Übungen/Übung 2.md",
     "Volagen.md",
     "5. Semester/MOSES/Modul 2.md",
-    "5. Semester/EiCb/3. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
     "3. Semester/SE/Use Case.md",
     "5. Semester/MOSES/Modul 0.md",
     "3. Semester/SE/Anforderungsanalyse.md",
     "3. Semester/SE/Design Prinzipien.md",
     "3. Semester/SE/Design Techniken.md",
     "3. Semester/SE/Design Patterns.md",
-    "5. Semester/EiCb/2. Vorlesung.md",
     "5. Semester/CSS/Symmetrische Kryptographie.md",
     "5. Semester/EiCb/Übungen",
     "Dokumente/Symmetrische Kryptographie - Komplett 2.pdf",
@@ -241,7 +253,6 @@
     "Dokumente/CSS_exercise_1_final.pdf",
     "5. Semester/CSS/Übungen",
     "Dokumente/03_SymmetricCrypto-Teil1.pdf",
-    "5. Semester/MOSES/Übungen",
     "AUD/Untitled.canvas"
   ]
 }

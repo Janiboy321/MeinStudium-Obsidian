@@ -172,4 +172,18 @@ $\to$ Typprüfung
 - Bei statischer Typisierung ist jeder Ausdruck *E* entweder
 	- Misstypisiert, oder
 	- Hat einen statischen Typ *T*, der ohne Evaluation von *E* bestimmt werden kann
-- *E* wird bei d
+- *E* wird bei jeder (fehlerfreien) Evaluation den statischen Typ T haben
+- Viele moderne Programmiersprachen bauen auf statische Typüberprüfung
+	- OO-Sprachen haben aber auch dynamische Typprüfungen zur Laufzeit (Polymorphismus)
+###### Generelles Vorgehen
+1. Berechne oder leite Typen von Ausdrücken her
+	1. Aus den Typen der Teilausdrücke und der Art der Verknüpfung
+2. Überprüfe, das Typen der Ausdrücke Anforderungen aus dem Kontext genügen
+	1. Beispiel: Bedingungen in if/then muss einen Boolean liefern
+###### Genauer: Bottom-Up Verfahren für statisch typisierte Programmiersprache
+- Typen an den Blättern des AST sind bekannt
+	- Literale - Direkt aus Knoten (true/false, 23, 42, 'a')
+	- Variablen - Aus Symboltabelle
+- Typen der internen Knoten herleitbar aus
+	- Typen der Kinder
+	- Typregel für die Art der Verknüpfung im Ausdruck

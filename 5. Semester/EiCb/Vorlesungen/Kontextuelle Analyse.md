@@ -145,4 +145,31 @@ public final class IdentificationTable{
 - Als Attribute einfach Verweise auf ursprüngliche Definition eintragen
 	- Dabei Geltungsbereiche beachten!
 
-### AST-
+### AST-basierte Attribute
+![[Bildschirmfoto 2023-11-28 um 20.37.19.png]]
+
+## Identifikation
+##### Identifikation
+- Erster Schritt der Kontextanalyse
+- Beinhaltet Aufbau einer geeigneten Symboltabelle
+- Aufgabe: Ordne Verwendungen von Bezeichnern ihren Definitionen zu
+- Durch Pass über den AST realisierbar ...
+
+- aber besser: Kombinieren mit nächstem Schritt
+$\to$ Typprüfung
+##### Typen
+- Was ist ein Typ?
+	- "Eine Einschränkung der möglichen Interpretationen eines Speicherbereiches oder eines anderen Programmkonstrukts."
+	- Eine Menge von Werten
+- Warum Typen benutzen?
+	- Fehlervermeidung: Verhindere eine Art von Programmierfehlern ("eckiger Kreis")
+	- Laufzeitoptimierung: Bindung zur Compile-Zeit erspart Entscheidungen zur Laufzeit
+- Muss man immer Typen verwenden?
+	- Nein , viele Sprachen kommen ohne aus
+		- Assembler, Skriptsprachen, LISP, ...
+
+### Typüberprüfung
+- Bei statischer Typisierung ist jeder Ausdruck *E* entweder
+	- Misstypisiert, oder
+	- Hat einen statischen Typ *T*, der ohne Evaluation von *E* bestimmt werden kann
+- *E* wird bei d

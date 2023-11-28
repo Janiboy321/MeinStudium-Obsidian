@@ -58,5 +58,43 @@
 - Beispiele: BASIC, COBOL, Skriptsprachen
 
 ##### Flache Blockstruktur
-![[Bildschirmfoto 2023-11-28 um 20.06.28.png]]
+![[Bildschirmfoto 2023-11-28 um 20.07.43.png]]
+- Charakteristika
+	- Mehrere überlappungsfreie Blöcke
+	- Zwei Geltungsbereiche: Global und Lokal
+- Regeln für Geltungsbereiche
+	- Global/lokal deklarierte Bezeichner dürfen nicht global/im selben Block redeklariert werden
+	- Jeder benutzte Bezeichner muss global oder lokal zu seiner Verwendungsstelle deklariert sein
+- Symboltabelle
+	- Bis zu zwei Einträge pro Bezeichner (global und lokal)
+	- Nach Bearbeiten eines Blocks müssen lokale Deklarationen verworfen werden
+	- Beispiel: FORTRAN
+
+##### Verschachtelte Struktur
+![[Bildschirmfoto 2023-11-28 um 20.10.56.png]]
+- Charaktristika
+	- Blöcke ineinander verschachtelt
+	- Beliebige Schachtelungstiefe der Blöcke
+- Regeln für Geltungsbereiche
+	- Kein Bezeichner darf mehr als einmal innerhalb eines Blocks deklariert werden
+	- Kein Bezeichner darf verwendet werden, ohne Deklaration im lokalen oder umschließenden Block
+- Symboltabelle
+	- Mehrere Einträge je bezeichner möglich
+	- Aber maximal ein Paar (Tiefe, Bezeichner)
+	- Schneller Abruf des Eintrags mit der größten Verschachtelungstiefe
+- Beispiele: Pascal, Modula, Ada, Java, ...
+
+### Implementierung der Symboltabelle
+- Verschiedene Varianten
+	- Verkettete Liste und lineare Suche
+		- Einfach aber langsam
+		- Ursprünglich in Triangle verwendet (natürlich ...)
+	- Hier: Bessere Möglichkeiten mit Hash-Tabelle (effizienter)
+	- Hash-Tabelle, die Stacks enthält
+- Design-Kriterium
+	- Gleiche Bezeichner tauchen häufiger in Tabelle auf
+	- Aber auf unterschiedlichen Ebenen
+	- Abgerufen wird immer der am tiefsten gelegene
+
+#### Effizientere Impleme
 

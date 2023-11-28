@@ -56,3 +56,10 @@ Systematische Konstruktion von Scannern
 ![[Bildschirmfoto 2023-11-28 um 18.44.55.png]]
 ![[Bildschirmfoto 2023-11-28 um 18.46.50.png]]
 ![[Bildschirmfoto 2023-11-28 um 18.47.05.png]]![[Bildschirmfoto 2023-11-28 um 18.47.22.png]]![[Bildschirmfoto 2023-11-28 um 18.49.54.png]]
+#### Automatisierbarkeit
+- Sehr mechanischer Ablauf
+- Gut automatisierbar
+- Beispiele
+	- JLex/JFlex: Scanner basiert auf endlichem Automaten
+	- Eingebaute Scanner in Parser-Generatoren ANTLR/JavaCC
+- 

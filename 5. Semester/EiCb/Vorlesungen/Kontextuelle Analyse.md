@@ -21,3 +21,20 @@
 - ...
 
 ### Zerlegung von Namen zu Attributen
+- Bezeichner sind zunächst Zeichenketten
+- Bekommen Bedeutung durch Kontext
+	- Variablen, Konstanten, Funktion, ...
+- Bei jeder Benutzung nach Namen suchen viel zulangsam
+- Besser: Weitgehende Vermeidung von String-Operatoren
+	- Nehme Zuordnung durch direktes Nachschlagen in Tabelle vor
+	- Genannt: Symboltabelle, Identifizierungstabelle, ...
+- Beispiel für zugeordnete Attribute
+	- *Typ*: int, char, boolean, record, array pointer, ...
+	- *Art*: Konstante, Variable, Funktion, Prozedur, Wert-Parameter, ...
+	- *Sichtbarkeit*: Public, private, protected
+	- *Anderes*: synchronized, static, volatile
+- Typische Operatoren
+	- Eintragen einer neuen Zuordnung Namen-Attribute
+	- Abrufen der Attribute zu einem Namen
+- Hierarchische Blockorganisation
+- Geltungsbereich von Zuordnungen von Namen zu Attributen innerhalb des Programmes

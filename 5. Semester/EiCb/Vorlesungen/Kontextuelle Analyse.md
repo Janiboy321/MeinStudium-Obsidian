@@ -129,3 +129,20 @@ public final class IdentificationTable{
 		- Erfordert Abspeicherung von Typinformationen
 	- (Code-Erzeugung)
 		- Benötigt später z.B. Andresse der Variable im Speicher
+
+### Speicherung von Attributen 1
+###### Imperativer Ansatz (explizite Speicherung) ![[Bildschirmfoto 2023-11-28 um 20.28.50.png]]
+###### Objektorientierter Ansatz (explizite Speicherung)
+![[Bildschirmfoto 2023-11-28 um 20.30.09.png]]
+###### Beobachtungen
+- Schon bloße Aufzählungen in Form von Klassen langatmig
+- Noch nicht berücksichtigt: Kombinationen
+	- `array [1:10] of record int x; char y end`
+- Explizite Strukturen können leicht sehr komplex werden
+
+- *Idee*: Im AST stehen bereits alle Daten
+	- Deklarations-Unterbaum
+- Als Attribute einfach Verweise auf ursprüngliche Definition eintragen
+	- Dabei Geltungsbereiche beachten!
+
+### AST-

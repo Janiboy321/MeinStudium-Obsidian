@@ -252,3 +252,36 @@ public class Identifier extends Token{
 ```
 
 ## Implementierung
+### 1. Versuch: Dekoration mit OO-Ansatz
+- Erweitere jede AST-Subklasse um Methoden für
+	- Typprüfung, Code-Erzeugung, Pretty-Printing, ...
+- In jeder Methode: Durchlauf über Kinder
+```java
+public abstract AST(){
+	public abstract Object check(Object arg);
+	public abstract Object encode(Object arg);
+	public abstract Object PrettyPrint(Object arg);
+	// Der Rückgabewert propagiert Daten aufwärts im AST
+	// Extra arg propagiert Daten abwährts im AST
+}
+...
+Programm programm;
+program.check(null);
+```
+- Vorteil
+	- OO-Vorgehen leicht verständlich und implementierbar
+- Nachteil
+	- Verhalten (Prüfung, Erzeugung, ...) ist verteilt über alle AST-Klassen, nicht sonderlich modular
+##### Beispiel einer möglichem Implementierung
+![[Bildschirmfoto 2023-11-29 um 16.04.38.png]]
+
+### 2. Versuch: "Funktionaler" Ansatz
+*Besser(?):* Hier alles Verhalten zusammen in einer Methode
+```java
+Type check(Expr e){
+	if(e instanceof InitLitExpr)
+		return representation of type int
+	else if(e instanceof BoolLotExpr)
+		return representation of type bool
+}
+```

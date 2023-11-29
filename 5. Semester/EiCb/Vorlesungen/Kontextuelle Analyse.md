@@ -233,6 +233,22 @@ public class UnaryExpr extends Expressions{
 ![[Bildschirmfoto 2023-11-29 um 15.37.25.png]]
 **Gewünschtes Ergebnis:**
 ![[Bildschirmfoto 2023-11-29 um 15.39.06.png]]
-Unterphasen:
-- *Regeln für Geltungsbereiche* geprüft in Identifikationsphase
-- *Typregeln* geprüft in Typüberprüfungsphase
+![[Bildschirmfoto 2023-11-29 um 15.42.39.jpg]]
+
+#### Dekorierung des AST: Datenstruktur
+Benötigt Erweiterung einiger AST Knoten um zusätzliche Instanzvariablen.
+```java
+public abstract class Expression extends AST{
+	// Every expression has a type
+	public Type type;
+	...
+}
+
+public class Identifier extends Token{
+	// Binding occurrence of this identifier
+	public Declaration decl;
+	...
+}
+```
+
+## Implementierung

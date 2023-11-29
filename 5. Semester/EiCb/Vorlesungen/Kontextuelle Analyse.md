@@ -208,3 +208,26 @@ Idee: Vereinheitliche Typüberprüfung von Funktionen und Operatoren
 	- Speichere Ergebnisse durch Dekorieren des ASTs
 		- Hinzufügen weiterer Informationen
 ![[Bildschirmfoto 2023-11-28 um 21.05.54.png]]
+![[Bildschirmfoto 2023-11-29 um 15.29.38.png]]
+##### Klassendefintionen für AST
+$$\begin{align*}
+\text{Epression } ::=  &\text{ Integer-Literal} &&&&\text{IntegerExps}\\
+& | \text{ V-Name} &&&&\text{VnameExpr}\\
+& | \text{ Operator-Expression} &&&&\text{UnaryExpr}\\
+& | \text{ Expression Operator Expression} &&&&\text{BinaryExpr}\\
+\end{align*}$$
+```java
+public class BinaryExpr extends Expression{
+	public Expression E1, E2;
+	public Operator O;
+}
+
+public class UnaryExpr extends Expressions{
+	public Expression E;
+	public Operator O;
+}
+...
+```
+
+**Klassenstruktur für AST:**
+![[Bildschirmfoto 2023-11-29 um 15.37.25.png]]

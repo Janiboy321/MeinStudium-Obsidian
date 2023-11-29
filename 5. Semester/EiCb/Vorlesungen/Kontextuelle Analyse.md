@@ -338,4 +338,9 @@ public interface Visitor<RetTy, ArgTy>{
 }
 ```
 - Allgemeines Schema: Visitor-Interface definiert visitXYZ für alle Subklassen XYZ von AST `public RetTy visitXYZ(XYZ x, ArgTy arg)`;
-- `visitXYZ` wird von visit-Methode aufegrufen, die jede Klasse XYZ überschreibt
+- `visitXYZ` wird von visit-Methode aufegrufen, die jede Klasse XYZ überschreibt:
+```java 
+public class XYZ extends ... {
+	public <R, A> R visit
+}
+```

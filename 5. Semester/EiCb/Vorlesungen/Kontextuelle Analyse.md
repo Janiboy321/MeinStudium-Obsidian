@@ -363,6 +363,7 @@ public class Checker implements Visitor<AST, AST>{
 ```
 
 - Problem (vorweg): Im AST werden unterschiedliche Informationen durch die Rückgabewerte und Argumente propagiert
+- Durch AST als Typparameter hat man nicht viel gewonnen
 ### Kontextanalyse mit mehr Typsicherheit (bei der Implementierung)
 ```java
 	public class Checker {
@@ -380,5 +381,8 @@ public class Checker implements Visitor<AST, AST>{
 	private class ExpressionChecker extends VisitorBase<TypeDenoter, Void> {...}
 	
 	private commandChecker commandChecker = new CommandChecker();
-	private ExpressionChecker exprChecker = new ExpressionChe
+	private ExpressionChecker exprChecker = new ExpressionChecker();
+	...
+	private ProgramChecker programChecker = new ProgramChecker();
 ```
+

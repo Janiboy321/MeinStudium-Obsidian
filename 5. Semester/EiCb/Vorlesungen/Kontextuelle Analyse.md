@@ -231,3 +231,8 @@ public class UnaryExpr extends Expressions{
 
 **Klassenstruktur für AST:**
 ![[Bildschirmfoto 2023-11-29 um 15.37.25.png]]
+**Gewünschtes Ergebnis:**
+![[Bildschirmfoto 2023-11-29 um 15.39.06.png]]
+Unterphasen:
+- *Regeln für Geltungsbereiche* geprüft in Identifikationsphase
+- *Typregeln* geprüft in Typüberprüfungsphase

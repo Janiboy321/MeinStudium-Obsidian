@@ -341,6 +341,25 @@ public interface Visitor<RetTy, ArgTy>{
 - `visitXYZ` wird von visit-Methode aufegrufen, die jede Klasse XYZ überschreibt:
 ```java 
 public class XYZ extends ... {
-	public <R, A> R visit
+	public <R, A> R visit(Visitor<R, A> v, A arg){
+		return v.visitXYZ(this, arg);
+	}
 }
 ```
+
+### Kontextanalyse als Visitor
+- Erster Ansatz
+```java
+public class Checker implements Visitor<AST, AST>{
+	private IdentificationTable idTab;
+
+	public void check(Program prog){
+		idTab = new IdentificatonTable();
+		prog.visit(this, null);
+	}
+
+	... // Implementierung der Visitor-Methoden
+}
+```
+
+- Problem (vorweg): Im AST werden unterschiedliche Informationen durch die Rückgabewerte und Argumente propagiert

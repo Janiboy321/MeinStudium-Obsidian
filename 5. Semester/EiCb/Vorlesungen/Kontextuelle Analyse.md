@@ -331,6 +331,11 @@ public class AssignCommand extends Command(){
 public interface Visitor<RetTy, ArgTy>{
 	RetTy visitProgram (Program prog, ArgTy arg);
 	RetTy visitAssignCommand (AssignCommand cmd, ArgTy arg);
-	RetTy visitSequential
+	RetTy visitSequentialCommand (SequentialCommand cmd, ArgTy arg);
+	...
+	RetTy visitVnameExpression (VnameExpression expr, ArgTy arg);
+	RetTy visitBinaryExpression (BinaryExpression expr, ArgTy arg);
 }
 ```
+- Allgemeines Schema: Visitor-Interface definiert visitXYZ für alle Subklassen XYZ von AST `public RetTy visitXYZ(XYZ x, ArgTy arg)`;
+- `visitXYZ` wird von visit-Methode aufegrufen, die jede Klasse XYZ überschreibt

@@ -309,3 +309,28 @@ Nicht sonderlich OO, ignoriert eingebauten Dispatcher
 - Parameter und Return-Typen müssen in allen Visitors gleich sein
 - Hängt stark von Klassenstrukturen ab
 - ... Visitor problematisch, wenn die Struktur sich noch ändert
+
+##### Benutzung von Visitors 1
+- Definiere Visitor-Schnittstelle für Besuch von AST-Knoten
+- Füge zu jeder AST-Subklasse XYZ eine einzelne visit-Methode hinzu
+	- In der Literatur auch accept genannt, hier missverständlich mit Parser
+- Rufe dort Methode visitXYZ der Visitor-Klasse auf
+```java 
+public abstract class AST {
+	public abstract <RetTy, ArgTy> RetTy visit(Visitor<RetTy, ArgTy>) v, ArgTy arg);
+}
+
+public class AssignCommand extends Command(){
+	public <RetTy, ArgTy> RetTy visit(Visitor<RetTy, ArgTy> v, ArgTy arg){
+		return v.visitAssignCommand(this, arg);
+	}
+	// Unterschiedliche Implementierungen der Methode realisieren die geforderte Funktionalität (Typüberprüfung, Code-Erzeugung, ...)
+}
+```
+```java
+public interface Visitor<RetTy, ArgTy>{
+	RetTy visitProgram (Program prog, ArgTy arg);
+	RetTy visitAssignCommand (AssignCommand cmd, ArgTy arg);
+	RetTy visitSequential
+}
+```

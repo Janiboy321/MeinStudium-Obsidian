@@ -283,5 +283,29 @@ Type check(Expr e){
 		return representation of type int
 	else if(e instanceof BoolLotExpr)
 		return representation of type bool
+	else if(e instanceof EqExpr){
+		Type t = check(((EqExpr)e).left);
+		Type u = check(((EqExpr)e).right);
+		if(t == representation of type int && u == representation of type int)
+			return representation of type bool
+	}
 }
 ```
+Nicht sonderlich OO, ignoriert eingebauten Dispatcher
+
+#### Alternative: Entwurfsmuster "Besucher"
+- Neue Operationen auf Teilelementen (part-of) eines Objekts (z.B. AST)
+- ... ohne Änderungen der Klassen der Objekte
+- Besonders nütlzich wenn
+	- viele unterschiedliche und
+	- unzusammenhängende Operationen
+- ... ausgeführt werden müssen
+- ohne die Klassen der Teilelemente aufzublähen
+
+##### Eigenschaftes des Visitor-Pattern
+- Operationen können mit dem Visitor-Pattern leicht hinzugefügt werden
+- Visitor sammelt zusammengehörige Operationen und trennt sie von unverwandten
+- Visitor durchbricht Kapselung
+- Parameter und Return-Typen müssen in allen Visitors gleich sein
+- Hängt stark von Klassenstrukturen ab
+- ... Visitor problematisch, wenn die Struktur sich noch ändert

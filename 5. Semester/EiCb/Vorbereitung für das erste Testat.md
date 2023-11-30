@@ -13,3 +13,14 @@ class Token {
 }
 ```
 
+###### Übersetzen von Grammatiken in Code
+1. $A \to aB*C$
+```java
+private A parseA(){
+	var loc = currentToken.sourceLocation;
+	accept("a")
+	while(currentToken.type != C){
+		parseB;
+	}
+}
+```

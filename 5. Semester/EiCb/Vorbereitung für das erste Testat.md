@@ -18,9 +18,32 @@ class Token {
 ```java
 private A parseA(){
 	var loc = currentToken.sourceLocation;
-	accept("a")
+	var a = accept("a")
+	var b = null;
 	while(currentToken.type != C){
 		parseB;
 	}
+	parseC;
+}
+```
+
+2. $B \to b (B|X)$
+```java
+private B parseB(){
+	var loc = currentToken.sourceLocation;
+	accept(b);
+	switch(currentToke.type){
+		case B:
+			parseB;
+		case X:
+			parseX;
+	}
+}
+```
+
+3. $C \to c\ c?$
+```java
+private C parseC{
+
 }
 ```

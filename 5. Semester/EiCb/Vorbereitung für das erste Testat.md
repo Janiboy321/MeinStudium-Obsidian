@@ -1,5 +1,3 @@
-###### Abstrakte Syntax
-
 ###### Was ist ein Token?
 - Atomares Symbol des Progamms
 - Verwendung zwischen Scanner und Parser
@@ -14,3 +12,4 @@ class Token {
 	SourcsPosition position; Z // Zeilennummer, Spalte
 }
 ```
+

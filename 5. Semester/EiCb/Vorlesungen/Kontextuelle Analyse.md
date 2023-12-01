@@ -197,6 +197,17 @@ $\to$ Typprüfung
 Idee: Vereinheitliche Typüberprüfung von Funktionen und Operatoren
 - $+ : \text{Interger } \times \text{ Integer } \to \text{ Integer}$
 - $< :\text{Integer } \times \text{ Integer } \to \text{ Boolean}$
+##### Beispiel: Typherleitung für Ausdrücke
+![[Bildschirmfoto 2023-12-01 um 18.42.49.png]]
+- Typregeln für Binären Ausdruck:
+	- Wenn op Operation vom Typ $T_{1} \times T_{2}\to R$ ist, dann ist $E_{1}\ op\ E_{2}$ typkorrekt und vom Typ R wenn $E_{1}\ and\ E_{2}$ typkorrekt und typkompatibel zu $T_1$ bzw. $T_2$ sind.
+##### Beispiel: Typherleitung für Anweisungen
+Typregel für ifCommand:
+	`if E then C1 else C2`
+ist typkorrekt genau dann, wenn
+	- E vom Typ Boolean ist und
+	- C1 und C2 selbst typkorrekt sind
+##### Beispiel: Typherleitung für Funktionsaufruf
 
 ### Algorithmus für Kontextanalyse
 - Kombiniere Identifikation und Typprüfung in einem Pass

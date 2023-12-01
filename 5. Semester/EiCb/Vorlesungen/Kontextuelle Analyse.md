@@ -457,3 +457,24 @@ private class ExpressionChecker extends VisitorBase<TypeDenoter, Void>{
 ##### Zusammenfassung aller visitXYZ-Methoden
 ![[Bildschirmfoto 2023-12-01 um 19.39.18.png]]
 
+#### Vordefinierte Bezeichner
+- Wo kommen Definitionen her z.B. von
+	- Integer, Char, Boolean
+	- true, false
+	- putint, getint
+	- +, -, $*$
+- Müssen vorliegen, damit Algorithmus funktionieren kann.
+$\to$ Vorher definieren
+
+#### Standardumgebung
+- Handhabung von Standartumgebung aus Quelltext
+	- Ada, Haskell, VHDL, ...
+- Direkt im Compiler implementiert
+	- Pascal, teilweise C, Java, ...
+	- (mini-)Triangle
+- In beiden Fällen
+	- Primitive Operationen nicht weiter in Eingabesprache beschreibbar
+		$\to$ "black boxes", nur Deklaration sichtbar
+- Geltungsbereich der Standardumgebung
+	- Ebene 0: Um gesamtes Programm herum oder
+	- Ebene 1: Auf Ebene der globalen Deklarationen im programm

@@ -520,4 +520,22 @@ private ConstDeclaration declareStdConst(String id, TypeDenoter constType){
 }
 ```
 #### Typäquivalenz
-Mini-Triangle: Nur primiti
+Mini-Triangle: Nur primitive Typen
+Einfach:
+- Beispiel: $if\ E1 = E2\ then...$
+- Typen von E1 und E2 müssen identisch sein
+- $e1.type == e2.type$
+
+Triangle komplizierter:
+- Arrays, Records, benutzerdefinierte Typen
+![[Bildschirmfoto 2023-12-01 um 20.12.26.png]]
+#### 1. Möglichkeit: Strukturelle Typäquivalenz
+Typen sind genau dann äquivalent, wenn ihre Struktur äquivalent ist.
+- Primitive Typen: Müssen identisch sein
+- Arrays: Äquivakenter Typ für Elemente, gleiche Anzahl
+- Records: Gleiche Namen für Elemente, äquivalenter Typ für Elemente, gleiche Reihenfolge der Elemente
+
+#### 2. Möglichkeit: Typäquivalenz über Namen
+Jedes Vorkommen eines nicht-primitiven Typs (selbstdefiniert, Array, Record) beschreibt einen neuen und einzigartigen Typ, der nur zu sich selbst äquivalent ist.
+
+#### Handhabung ko

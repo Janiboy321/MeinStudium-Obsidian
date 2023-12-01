@@ -433,7 +433,27 @@ private class CommandChecker extends VisitorBase<Void, Void>{
 private class CommandChecker extends VisitorBase<Void, Void>{
 	public void visitIfCommand(IfCommand ast, void __){
 		TypeDenoter eType = ast.E.visit(expressionChecker, null);
-			rep
+		if(!eType. equals(StdEnvironment.booleanType))
+			reporter.reportError("Boolean expression exprected here", "", ast.E.position);
+	ast.C1.visit(commandChecker, null);
+	ast.C2.visit(commandChecker, null);
+	return null;
 	}
+	...
 }
 ```
+##### Beispiel: IntegerExpression
+```java
+private class ExpressionChecker extends VisitorBase<TypeDenoter, Void>{
+	...
+	public TypeDenoter visitIntegerExpression(IntegerExpression ast, void __){
+		ast.type = ast.IL.visit(literalChecker, null); // Dekoriere den IntegerExpression-
+													   // Knoten im ast
+		return ast.type;
+	}
+	...
+}
+```
+##### Zusammenfassung aller visitXYZ-Methoden
+![[Bildschirmfoto 2023-12-01 um 19.39.18.png]]
+

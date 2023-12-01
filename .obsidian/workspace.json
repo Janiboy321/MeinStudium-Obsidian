@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
+                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
+                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md"
+                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md"
               }
             }
           },
@@ -205,11 +206,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "55f29781c5f5eada",
+  "active": "ff59d8ae7964eb20",
   "lastOpenFiles": [
-    "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
     "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
     "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
     "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
     "5. Semester/EiCb/Vorlesungen/6. Vorlesung.md",
     "Visitor Pattern.md",
@@ -238,7 +240,6 @@
     "5. Semester/MOSES/Übungen/Übung 2.md",
     "Volagen.md",
     "5. Semester/MOSES/Modul 2.md",
-    "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
     "3. Semester/SE/Use Case.md",
     "5. Semester/MOSES/Modul 0.md",
     "3. Semester/SE/Anforderungsanalyse.md",

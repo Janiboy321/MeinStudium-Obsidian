@@ -398,3 +398,42 @@ public class Checker implements Visitor<AST, AST>{
 	private ProgramChecker programChecker = new ProgramChecker();
 ```
 
+##### Beispiel: AssignCommand
+```java 
+private class CommandChecker extends VisitorBase<Void, Void>{
+	public void visitAssignCommand(AssignCommand ast, void __){
+		TypeDenoter vType = ast.V.visit(vnameChecker, null);
+		TypeDenoter eType = ast.E.visit(expressionChecker, null);
+		if(!ast.V.variable){
+			reporter.reportError("LHS of assignment is not a variable", "", ast.V.position);
+		}
+		if(!eType.equals(vType)){
+			reporter.reportError("assignment incompatibility", "", ast.position);
+		}
+		return null
+	}
+}
+```
+##### Beispiel: LetCommand
+```java
+private class CommandChecker extends VisitorBase<Void, Void>{
+	...
+	public void visitLetCommand(LetCommand ast, void __){
+		idTable.openScope();
+		ast.D.visit(declarationChecker, null);
+		ast.C.visit(commandChecker, null);
+		idTable.closeScope();
+		return null;
+	}
+	...
+}
+```
+##### Beispiel: IfCommand
+```java
+private class CommandChecker extends VisitorBase<Void, Void>{
+	public void visitIfCommand(IfCommand ast, void __){
+		TypeDenoter eType = ast.E.visit(expressionChecker, null);
+			rep
+	}
+}
+```

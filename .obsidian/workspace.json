@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
+                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visitor Pattern.md",
+                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65f310e8216e85e2",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
+                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
+                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md"
+                "file": "5. Semester/EiCb/Übungen/Theorieblatt 2.md"
               }
             }
           },
@@ -208,12 +207,16 @@
   },
   "active": "55f29781c5f5eada",
   "lastOpenFiles": [
+    "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
+    "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
+    "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+    "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
+    "5. Semester/EiCb/Vorlesungen/6. Vorlesung.md",
+    "Visitor Pattern.md",
     "Bildschirmfoto 2023-12-01 um 20.12.26.png",
     "Bildschirmfoto 2023-12-01 um 19.55.06.png",
     "Bildschirmfoto 2023-12-01 um 19.54.51.png",
     "Bildschirmfoto 2023-12-01 um 19.39.18.png",
-    "Visitor Pattern.md",
-    "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",
     "Bildschirmfoto 2023-12-01 um 18.50.22.png",
     "Bildschirmfoto 2023-12-01 um 18.42.49.png",
     "5. Semester/EiCb/Vorlesungen/Syntaktische Analyse.md",
@@ -222,16 +225,12 @@
     "Bildschirmfoto 2023-11-29 um 15.42.39.jpg",
     "Bildschirmfoto 2023-11-29 um 15.39.06.png",
     "Bildschirmfoto 2023-11-29 um 15.37.25.png",
-    "Bildschirmfoto 2023-11-29 um 15.29.38.png",
-    "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
-    "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
     "5. Semester/MOSES/Programmiersprachen (Modul 5).md",
     "5. Semester/EiCb/Vorlesungen",
     "Untitled.md",
     "5. Semester/EiCb/Übungen/Praxistestat 1.md",
     "5. Semester/EiCb/Übungen/Theorieblatt 1.md",
     "5. Semester/CSS/Asymmetrische Kryptographie.md",
-    "5. Semester/EiCb/Vorlesungen/6. Vorlesung.md",
     "Fachschaft/Neues Karaoke Setup.md",
     "03-contextanalysis-slides.pdf",
     "_Mein Leben/Python.md",

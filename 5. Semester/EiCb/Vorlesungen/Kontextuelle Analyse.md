@@ -538,4 +538,16 @@ Typen sind genau dann äquivalent, wenn ihre Struktur äquivalent ist.
 #### 2. Möglichkeit: Typäquivalenz über Namen
 Jedes Vorkommen eines nicht-primitiven Typs (selbstdefiniert, Array, Record) beschreibt einen neuen und einzigartigen Typ, der nur zu sich selbst äquivalent ist.
 
-#### Handhabung ko
+#### Handhabung komplexer Typen
+- Einfache Klasse Type riecht nicht mehr aus
+- Kann beliebig kompliziert werden
+- Idee: Verweis auf Typbeschreibung im AST
+- Abstrakte Klasse TypeDenoter, Unterklassen
+	- IntegerTypeDenoter
+	- ArrayTypeDenoter
+	- RecordTypeDenoter
+	- ...
+
+Vorgehen:
+1. Ersetze in Kontextanalyse alle Typenbezeichner durch Verweise auf Sub-ASTs der Typdeklaration
+2. Führe Typprüfung durch strukturellen Vergleich der Sub-ASTs der Deklarationen durch

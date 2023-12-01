@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+                "file": "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md"
+                "file": "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md"
               }
             }
           },
@@ -208,8 +208,8 @@
   },
   "active": "ff59d8ae7964eb20",
   "lastOpenFiles": [
-    "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
     "5. Semester/EiCb/Vorlesungen/4. Vorlesung.md",
+    "5. Semester/EiCb/Übungen/Theorieblatt 2.md",
     "5. Semester/EiCb/Vorlesungen/3. Vorlesung.md",
     "5. Semester/EiCb/Vorlesungen/2. Vorlesung.md",
     "5. Semester/EiCb/Vorlesungen/Kontextuelle Analyse.md",

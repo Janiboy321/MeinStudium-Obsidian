@@ -12,3 +12,6 @@ $follows[[Y]] = \{d\}$
 $follows[[Z]] = \{a\}$
 
 c)
+Für zwei unterschiedliche Produktionen A $\to \alpha$ und A $\to \beta$ gilt:
+1. starter($\alpha$) und starter($\beta$) sind disjunkt
+2. Wenn $\lambda \in starter(\alpha)$ gilt, dann sind starter($\alpha$) und follow(A) disjunkt. Wenn $\lambda \in starter(\beta)$ gilt, dann sind starter($\alpha$) und follow(A) disjunkt

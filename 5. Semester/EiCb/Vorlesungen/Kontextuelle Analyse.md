@@ -208,7 +208,8 @@ ist typkorrekt genau dann, wenn
 	- E vom Typ Boolean ist und
 	- C1 und C2 selbst typkorrekt sind
 ##### Beispiel: Typherleitung für Funktionsaufruf
-
+![[Bildschirmfoto 2023-12-01 um 18.50.22.png]]
+Aus Symboltabelle: idOdd: int $\to$ bool
 ### Algorithmus für Kontextanalyse
 - Kombiniere Identifikation und Typprüfung in einem Pass
 - Funktioniert, solange Bindung immer vor Verwendung

@@ -497,6 +497,27 @@ StdEnvironment.anyType = new AnyTypeDenoter(dummyPos);
 StdEnvironment.errorType = new ErrorTypeDenoter(dummyPos);
 
 StdEnvironment.booleanDecl = declareStdType("Boolean", StdEnvironment.booleanType);
-StdEnvironment.falseDecl = declareStdConst
+StdEnvironment.falseDecl = declareStdConst("false", StrEnvironment.booleanType);
+StdEnvironment.trueDecl = declareStdConst("true", StrEnvironment.booleanType);
+StdEnvironment.notDecl = declareStdUnaryOp("\\", StrEnvironment.booleanType, StdEnvironment.booleanType);
 }
 ```
+###### Anlegen einer vorbelegten Konstante
+```java
+//Creates a small AST to represent the "declaration" of a standard
+//type, and enters it in the identification table.
+
+private ConstDeclaration declareStdConst(String id, TypeDenoter constType){
+	IntegerExpression constExpr;
+	constDeclaration binding;
+
+	// constExpr used only as a placeholder for constType
+	constExpr = new IntegerExpression(null, dummyPos);
+	constExpr.type = constType;
+	binding = new ConstDeclaration(new Identifier(id, dummypos), constExpr, dummypos);
+	idTable.enter(id, binding);
+	return bining;
+}
+```
+#### Typäquivalenz
+Mini-Triangle: Nur primiti

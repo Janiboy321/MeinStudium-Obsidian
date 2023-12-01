@@ -477,4 +477,26 @@ $\to$ Vorher definieren
 		$\to$ "black boxes", nur Deklaration sichtbar
 - Geltungsbereich der Standardumgebung
 	- Ebene 0: Um gesamtes Programm herum oder
-	- Ebene 1: Auf Ebene der globalen Deklarationen im programm
+	- Ebene 1: Auf Ebene der globalen Deklarationen im Program
+
+## Triangle
+##### Standardumgebung: Realisierung in Triangle
+- Idee: Trage Deklaration vorher direkt in AST ein
+- Wohlgemerkt: Ohne konkrete Realisierung
+	- Behandlung als Sonderfälle während Optimierung und Code-Erzeugung
+- Deklarationen als Sub-ASTs ohne Definition
+![[Bildschirmfoto 2023-12-01 um 19.54.51.png]]![[Bildschirmfoto 2023-12-01 um 19.55.06.png]]
+###### Eintragen der Umgebung am Anfang der syntaktischen Analyse
+```java
+private void establishStdEnvironment(){
+// idTable.startIdentification
+StdEnvironment.booleanType = new BoolTypeDenoter(dummyPos);
+StdEnvironment.integerType = new IntTypeDenoter(dummyPos);
+StdEnvironment.charType = new CharTypeDenoter(dummyPos);
+StdEnvironment.anyType = new AnyTypeDenoter(dummyPos);
+StdEnvironment.errorType = new ErrorTypeDenoter(dummyPos);
+
+StdEnvironment.booleanDecl = declareStdType("Boolean", StdEnvironment.booleanType);
+StdEnvironment.falseDecl = declareStdConst
+}
+```
